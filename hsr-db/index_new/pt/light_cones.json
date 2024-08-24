@@ -559,6 +559,126 @@
         "preview": "image/light_cone_preview/21034.png",
         "portrait": "image/light_cone_portrait/21034.png"
     },
+    "21035": {
+        "id": "21035",
+        "name": "O Que É Real?",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"Se todos os relógios estejam mostrando a hora errada...\"\n\"Se aqueles vinculados a promessas realizassem seus votos através da traição...\"\n\"Se aqueles que mergulham no reino dos sonhos nunca dormem realmente...\"\n\"Se os mortos voltam à vida apenas para descobrir que seus nomes foram despojados...\"\n\"Se... Se...\"\nEle sopra a chama, e na escuridão, há apenas o som eterno do relógio.",
+        "icon": "icon/light_cone/21035.png",
+        "preview": "image/light_cone_preview/21035.png",
+        "portrait": "image/light_cone_portrait/21035.png"
+    },
+    "21036": {
+        "id": "21036",
+        "name": "Aventura de Sonhópolis",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "\"Olá, queridos telespectadores! O Relogin e seus amigos vieram ver vocês novamente!\"\n\"No episódio anterior, o Chefe Pedreira descobriu que Sonhópolis estava em cima de uma gama de recursos naturais, e seguiu adiante para tomar o controle da cidade. Em resposta, Relogin juntou suas forças com o Irmão Hanu e Pássaro de Origami, e juntos, colocaram o Chefe Pedreira e seus capangas para correr de Sonhópolis.\"\n\"Mas o Chefe Pedreira não vai ser derrotado assim tão fácil, e dessa vez, ele juntou uma legião de capangas para cumprir sua promessa de transformar Sonhópolis em uma cratera. Nesse episódio, Relogin pode estar diante da maior ameaça que ele já enfrentou!\"\n\"Quais esquemas Relogin usará para escapar dessa crise? E que novos amigos se juntarão à sua equipe? Fique ligado no último episódio da 'Aventura de Sonhópolis'!\"",
+        "icon": "icon/light_cone/21036.png",
+        "preview": "image/light_cone_preview/21036.png",
+        "portrait": "image/light_cone_portrait/21036.png"
+    },
+    "21037": {
+        "id": "21037",
+        "name": "O Último Vencedor",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "\"Não acredita em mim?\"\nEle olhou de forma intimidadora para o homem diante dele puxando um revólver, esvaziando o cilindro e deixando um único tiro na câmara.\n\"Parece que terei que te atualizar sobre como faço as coisas se quisermos que nossa cooperação continue amigável.\"\nEle deu a arma para seu oponente, girou o cilindro, e ajudou ele a alinhar o cano com seu peito.\nEle apertou o gatilho repetidamente, mostrando um pouco mais que um sorriso depois de uma série de cliques vazios.\n\"A vida é uma grande aposta, e eu sou sempre o último vencedor.\"",
+        "icon": "icon/light_cone/21037.png",
+        "preview": "image/light_cone_preview/21037.png",
+        "portrait": "image/light_cone_portrait/21037.png"
+    },
+    "21038": {
+        "id": "21038",
+        "name": "Chamas Distantes",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "\"Pacote seguro. Confio em você para cobrir nossa retirada.\"\nA voz do companheiro dele soou pelo comunicador.\nEle olha em volta, assistindo conforme os restos devastados de seus inimigos continuam a passar pela arquitetura complexa dentro da vasta estrutura abandonada. Eles estão se aproximando cada vez mais.\n\"Por favor, espere.\"\nDepois de uma pausa de quietude, uma série de explosões apocalípticas soaram aos céus. Ondas de ar deslocado criaram nuvens de poeira através do campo de batalha, e a fumaça se espalha em todas as direções, com a luz branca se estendendo até onde a vista alcança, dividindo a escuridão da noite.\n\"Você sabe que eles colocaram toda aquela pólvora ali de propósito, certo?\"\nCom um movimento brusco, ele abriu a capa como se tivesse acabado de dar um passeio.\n\"Mas é claro.\"\n\"Então, vamos acendê-la. Tudo o que eu preciso fazer é cumprir o meu papel na partida.\"",
+        "icon": "icon/light_cone/21038.png",
+        "preview": "image/light_cone_preview/21038.png",
+        "portrait": "image/light_cone_portrait/21038.png"
+    },
+    "21039": {
+        "id": "21039",
+        "name": "Fios Forjados do Destino",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "O destino sempre leva as massas adiante sem motivo, e ela espreita na escuridão, esperando para registrar o mais crucial dos instantes.\nOrdenando, combinando, embaralhando, tirando... Ela simula a mão do destino em como ele manipula todas as variáveis para as massas, procurando a trajetória da verdade debaixo da pele da desordem.\nFinalmente, quando todos os personagens estão em seus lugares, ela passa as mãos na face das cartas, e reúne verdades profundas e insondáveis.\n\"Ainda falta uma carta... Então eu adicionarei uma.\"",
+        "icon": "icon/light_cone/21039.png",
+        "preview": "image/light_cone_preview/21039.png",
+        "portrait": "image/light_cone_portrait/21039.png"
+    },
+    "21040": {
+        "id": "21040",
+        "name": "O Dia em que o Cosmos Caiu",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "\"Torta de Queijo Derretido! Você está encarregado de desarmar os vigias do planeta com seu charme!\"\n\"Pasta de Feijão Fradinho! Você estará encarregada de romper a linha de defesa do planeta!\"\n\"Ameixa Salgada! Nos traga a cabeça do líder do planeta!\"\n\"Meu lorde, o que você vai fazer!?\"\n\"Eu fingirei ser um gatinho adorável para confundir esses humanos estúpidos!\"\nNaquele dia, as civilizações cósmicas finalmente lembraram do terror de serem controladas por eles.",
+        "icon": "icon/light_cone/21040.png",
+        "preview": "image/light_cone_preview/21040.png",
+        "portrait": "image/light_cone_portrait/21040.png"
+    },
+    "21041": {
+        "id": "21041",
+        "name": "É Hora do Show",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "— Quem presenciou a sua morte?\n— Eu! Eu vi com meus dois olhinhos!\n— Quem pegou o sangue dele?\n— Eu! Eu usei o meu pires pequenininho!\n— Quem cavou a cova dele?\n— Eu! Usando meu cinzel e pá!\nOs inteligentes usam todas as técnicas em seu arsenal, os soberanos acalmam seu coração com poder, o herói se vê como justo, e o Tolo ri sem parar...\n\"Agora, vamos dar as boas-vindas à Srta. Sparkle que nos traz a apresentação do ano: Noite Aterrorizante de Penacony!\"",
+        "icon": "icon/light_cone/21041.png",
+        "preview": "image/light_cone_preview/21041.png",
+        "portrait": "image/light_cone_portrait/21041.png"
+    },
+    "21042": {
+        "id": "21042",
+        "name": "Promessa Indelével",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "O passado desgastado. O dever de proteger a casa de alguém. O sonho de abrir caminho pelo mundo...\nEstes foram confiados aos jovens não mundanos por um par de mãos ásperas e calejadas.\n\"Em breve, poderemos ir para um mundo maior.\"\nO menino alegremente aceitou sua herança. Resguardado pela inocência, ele não conseguia sentir ainda o peso da significância do objeto.\n\"É claro que, antes desse momento chegar, você precisa proteger bem este lugar, Misha.\"\nEle gravou essa promessa fundo em seu coração, se agarrando nisso para todo sempre.",
+        "icon": "icon/light_cone/21042.png",
+        "preview": "image/light_cone_preview/21042.png",
+        "portrait": "image/light_cone_portrait/21042.png"
+    },
+    "21043": {
+        "id": "21043",
+        "name": "Concerto para Dois",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "\"Irmãozão, o quê é isso...?\"\n\"Já faz muito tempo desde que você cantou com alegria... Eu montei um palco para você. Só é... meio simples\".\n\"Mas a professora acha que eu não combino com...\"\n\"Não, eu acho que você soa muito bem! No futuro, seus sonhos com certeza vão se realizar, e você vai se apresentar num palco muito maior...\"\n...\nMuitos anos depois, ela subiu em um palco deslumbrante, olhando para a onda de fãs abaixo, mas se perdeu por um momento...\nNa longa jornada de perseguir seus sonhos, ela sempre se lembrava daquele olhar confiante e do seu primeiro \"show\".\nNenhuma luz glamourosa, nenhuma maquiagem elaborada, só uma criança construindo um palco para encorajar outra criança a perseguir seus sonhos.\n\"Agora, nossos sonhos se realizaram. Mas... eles ainda são 'nossos' sonhos?\"\nEla segurou o microfone. Antes da próxima canção começar, ela não teve sequer tempo de se sentir triste.",
+        "icon": "icon/light_cone/21043.png",
+        "preview": "image/light_cone_preview/21043.png",
+        "portrait": "image/light_cone_portrait/21043.png"
+    },
+    "21044": {
+        "id": "21044",
+        "name": "Dança Ilimitada",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "O baile desliza graciosamente, sombras e luzes trocando de lugar silenciosamente. Ela pega a mão da outra pessoa, com um sorriso iluminando aqueles olhos indiferentes.\n\"Bela Vigia... Bem-vinda ao palco da Recordação. Nesta proximidade... você é muito mais encantadora do que se pode perceber.\"\nO ambiente escurece, um feixe de luz cai do domo acima, traçando seus passos em evolução.\n\"No entanto, alguns deveriam dançar conosco, mas ainda não chegaram...\"\nEm um momento de giro, ela se aproxima daquele rosto inexpressivo, agarra aquela mão fria e pergunta suavemente:\n\"Me diga. O que você fez?\"\nÀ medida que seus passos de dança se aceleram, fragmentos do passado invadem sua mente através das pontas dos dedos unidos.\nEm um passado que se estende cada vez mais, ela ouve o som da chuva e os lamentos justo antes do fim da vida. Então, ela vê seu parceiro de dança segurando um guarda-chuva de papel vermelho-sangue sob a chuva fina. Finalmente, até onde seus olhos podem ver...\nUm campo de cadáveres afogados balançando no dilúvio.\nAterrorizada, ela tenta retirar sua mão, caindo para trás.\nO ambiente se ilumina novamente, o clamor do banquete ressurgindo. Seu parceiro de dança a apoia gentilmente pela cintura, como se estivesse alheio ao tormento que acabou de se desdobrar.\n\"Que dança adorável foi essa, Guardiã da Memória. Vamos tentar mais uma vez?\"",
+        "icon": "icon/light_cone/21044.png",
+        "preview": "image/light_cone_preview/21044.png",
+        "portrait": "image/light_cone_portrait/21044.png"
+    },
+    "21045": {
+        "id": "21045",
+        "name": "Depois que a Harmonia se Dissipa",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "O sonho eterno pelo qual ele ansiava desapareceu em um instante. Enquanto caía em direção à terra, ele não sentia tristeza, mas apenas um desejo de fechar os olhos.\nO antigo caminho trilhado se encontra em ruínas, e a jornada adiante permanece envolta em névoa.\n\"Depois do despertar, o mundo continua o seu Ciclo de Dor. Como sempre, não há escapatória.\"\nEle carrega o passado, dá as costas à sua terra natal e continua avançando em direção a um paraíso que ainda não existe.\nEntão, por que as pessoas dormem? E por que elas acordam?\nÀ medida que os planetas passam pela janela, essa resposta exige agora receber um novo significado.\n\"Talvez... só talvez eu ainda possa...\"",
+        "icon": "icon/light_cone/21045.png",
+        "preview": "image/light_cone_preview/21045.png",
+        "portrait": "image/light_cone_portrait/21045.png"
+    },
+    "21046": {
+        "id": "21046",
+        "name": "Prestes a Florescer",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "A primeira luz do alvorecer sussurra. Na calmaria do bosque das flores, uma forma inconstante dança, assustando pássaros que alçam voo um após o outro.\nSilenciosamente recitando técnicas de espada, ela se move com o fluxo, seus movimentos, que outrora eram desajeitados, agora adquirem delicadeza. Onde a espada corta, o ar se parte, pétalas caem como chuva, rodopiando caoticamente conforme descem. Sem que ela percebesse, a fria névoa umedeceu seu cabelo.\n\"Bela técnica de espada!\"\nAssustada, ela vira sua espada instintivamente...\nÀs suas costas, {F#uma jovem donzela}{M#um jovem rapaz} de cabelos cinzas abaixa a câmera em suas mãos.\n\"Belas memórias não desaparecerão com o vento.\"",
+        "icon": "icon/light_cone/21046.png",
+        "preview": "image/light_cone_preview/21046.png",
+        "portrait": "image/light_cone_portrait/21046.png"
+    },
     "22000": {
         "id": "22000",
         "name": "Antes do Início da Missão do Tutorial",
@@ -578,6 +698,16 @@
         "icon": "icon/light_cone/22001.png",
         "preview": "image/light_cone_preview/22001.png",
         "portrait": "image/light_cone_portrait/22001.png"
+    },
+    "22002": {
+        "id": "22002",
+        "name": "Pela Jornada do Amanhã",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "Os ponteiros da Bússola continuam girando até apontarem para o momento dos sonhos.\nO sistema Asdana, transbordando de memória, emite um brilho suave fora das janelas do trem. A Prisão da Fronteira dentro está atualmente envolvida nas chamas da guerra.\n\"Ei, pessoal, como vocês acham que seria o mundo dentro do sonho? Preciso mapeá-lo meticulosamente!\"\nA garota, guardando seus instrumentos de medição, olha com expectativa para o novo mundo ao alcance. \"Esse lugar é uma bagunça. Não saiam correndo quando chegarmos lá. Não vou deixar que vocês dois sejam sequestrados novamente...\"\nO homem vestido de caubói resmunga enquanto limpa sua arma, depois caminha até o sofá com uma bebida, sacudindo a cabeça com resignação. \"A Terra dos Sonhos promete possibilidades infinitas. Com certeza faremos nosso nome... Ei, condutor, se nos apaixonarmos por esse lugar e nunca mais voltarmos, você sentiria nossa falta?\"\nO Inominado vestido de cavalheiro pisca para Pom-Pom, sorrindo. \n\"'Você não pode fazer piada às custas do condutor assim!' É isso que você quer dizer, condutor?\"\nO sorriso travesso da garota se espalha por seu rosto.\n\"Vocês são! Tão! Maldosos!\"\nBolhas sobem e descem no copo enquanto o Expresso se enche com risadas alegres.\n...\nAs silhuetas juvenis desses Inominados são gradualmente engolidas pela memória.\n\"Tenha uma... boa... viagem... por favor...\"\nQuando o condutor vira a cabeça, o Expresso já está vazio.\nO condutor fica paralisado, a cena assustadoramente familiar, como se já vivida inúmeras vezes antes.",
+        "icon": "icon/light_cone/22002.png",
+        "preview": "image/light_cone_preview/22002.png",
+        "portrait": "image/light_cone_portrait/22002.png"
     },
     "23000": {
         "id": "23000",
@@ -784,17 +914,117 @@
         "name": "O Batismo de Pensamento Puro",
         "rarity": 5,
         "path": "Rogue",
-        "desc": "A luz vespertina brilha na medida certa, e a fragrância das flores enche o ar.\nAinda que ele tente manter seus pensamentos puros, a exaustão cognitiva inevitavelmente atrai partículas da mente, reunidas como grãos de poeira.\n\"Curar os pensamentos de alguém é tão importante quanto preservar a saúde de alguém.\"\nO clamor dos tolos desaparece junto com o cansaço enquanto ele afunda na água, permitindo que todos os pensamentos flutuem, deixando sua mente elucidada e organizada.\n\"A verdade escapa a todos os imundos, e apenas os de pesamento puro poderão se aproximar.\"",
+        "desc": "A luz vespertina brilha na medida certa, e a fragrância das flores enche o ar.\nAinda que ele tente manter seus pensamentos puros, a exaustão cognitiva inevitavelmente atrai partículas da mente, reunidas como grãos de poeira.\n\"Curar os pensamentos de alguém é tão importante quanto preservar a saúde de alguém.\"\nO clamor dos tolos desaparece junto com o cansaço enquanto ele afunda na água, permitindo que todos os pensamentos flutuem, deixando sua mente elucidada e organizada.\n\"A verdade escapa a todos os imundos, e apenas os de pensamento puro poderão se aproximar.\"",
         "icon": "icon/light_cone/23020.png",
         "preview": "image/light_cone_preview/23020.png",
         "portrait": "image/light_cone_portrait/23020.png"
+    },
+    "23021": {
+        "id": "23021",
+        "name": "Fuga Terrena",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "Assim como fogos de artifício podem piscar, ela também consegue mudar entre dez cores diferentes em um minuto.\nQuando o show de luzes está perto do fim, ela se senta no alto, e observa com tédio as massas agitadas abaixo de seus pés.\nPensamentos fluem e somem, e a malícia circula entre diversos olhos como um caleidoscópio dançante.\n\"Já me decidi. É assim que a gente vai se divertir hoje!\"\nSaltitando e pulando, ela plana pela multidão, com sua cauda vermelha dourada aparecendo e desaparecendo da visão.\n\"Não vai ficar pra trás! Os fogos de artifício mais brilhantes vão começar já, já!\"",
+        "icon": "icon/light_cone/23021.png",
+        "preview": "image/light_cone_preview/23021.png",
+        "portrait": "image/light_cone_portrait/23021.png"
+    },
+    "23022": {
+        "id": "23022",
+        "name": "Recordação Reforjada",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Acenda as velas, espalhe as cartas, respire a fragrância...\nEssas memórias quebradas se tornam rostos na luz dançante.\nAs aparições que emergem das chamas contam de passados recordados com carinho.\nO tempo é cisalhado. O momento é congelado. Ela torna esses instantes preciosos em cristalizações da eternidade.\n\"Muito foi perdido, e o pouco que resta... Nós nutrimos essas memórias contra a crueldade do tempo.\"",
+        "icon": "icon/light_cone/23022.png",
+        "preview": "image/light_cone_preview/23022.png",
+        "portrait": "image/light_cone_portrait/23022.png"
+    },
+    "23023": {
+        "id": "23023",
+        "name": "Destino Inerentemente Injusto",
+        "rarity": 5,
+        "path": "Knight",
+        "desc": "Com a última carta revelada, desânimo, raiva, aceitação e sangue-frio... Uma cascata de emoções cai na face de seus oponentes.\n\"Agora que estamos todos aqui, por que não deixamos as coisas mais interessantes?\"\nEle aposta todas suas fichas. Aqueles que querem diminuir suas perdas saem da mesa, amaldiçoando e esperando secretamente que ele perca.\nVitórias, reputação, sorte... Ele não liga para nenhuma dessas coisas. Ao invés disso, ele se cativa apenas por esses momentos que fazem sua vida estremecer.\nAfinal de contas, o inferno está a uma escolha do paraíso.\nAs fichas são lançadas, a tristeza preenche o ar e o senso ilusório de satisfação se dissipa em um instante quando a poeira finalmente abaixa.\n\"Tudo ou nada, eu não tenho o luxo de escolher...\"",
+        "icon": "icon/light_cone/23023.png",
+        "preview": "image/light_cone_preview/23023.png",
+        "portrait": "image/light_cone_portrait/23023.png"
+    },
+    "23024": {
+        "id": "23024",
+        "name": "Ao Longo da Margem Transitória",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Fluindo na fronteira estreita entra a \"existência\" e o \"nada\", as marés congelantes batem eternamente contra as margens e trazem todas as coisas ao seu fim.\nNeste lugar, os afogados pedem ajuda, lamentam com músicas, encontram suas felicidades, aproveitam doces momentos e sofrem uma grande agonia... Tudo isso está refletido na água. Ela não pode vivenciar essas coisas, mas ela pode senti-las.\nAinda existem muitos caminhos a caminhar, muitos sons a ouvir e muitas coisas para mudar antes dela chegar ao final.\nEla estende sua mão e salva aqueles que estão se afogando das tentações da Inexistência, e uma miragem após a outra explode atrás da imagem dela.\nEla continua caminhando neste mundo infinito, tudo por um final que não existe.\nE está sempre chovendo aqui.",
+        "icon": "icon/light_cone/23024.png",
+        "preview": "image/light_cone_preview/23024.png",
+        "portrait": "image/light_cone_portrait/23024.png"
+    },
+    "23025": {
+        "id": "23025",
+        "name": "Onde os Sonhos Deveriam Repousar",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Essa é a fronteira do sistema Asdana. O oceano de Memória ruge com ondas montanhosas e ela, como uma única e minúscula faísca, pode ser encharcada a qualquer momento na tempestade.\n\"Para alguém que não pode sonhar entrar na Sinestesia do Mundonírico, seria necessário pagar um preço comparável à morte.\"\nEla ainda pode ouvir as vozes preocupadas de seus companheiros em seus ouvidos. Ela respira fundo e mergulha na Zona da Memória.\nÀ medida que o veículo afunda silenciosamente nas profundezas da Zona da Memória, pequenas fagulhas de luzes de vaga-lumes se dissipam das rachaduras e são imediatamente engolidas pela escuridão sem fim.\n\"Por que corres em direção à morte?\"\nNo oceano de Memória que se aprofunda cada vez mais, a fraca luz emitida pelas criaturas da Zona da Memória são como olhos distantes que a observam com indiferença.\nOs sonhos permaneceram muito distantes para ela. Ela observa inutilmente a escuridão sem limites, seu corpo e alma há muito já atingiram o limiar do colapso sob a pressão da Memória. Ainda que ela entenda que sua consciência aos poucos se desvanece, apenas aquelas memórias remanescentes continuam a passar repetidamente pelo seu cérebro...\nO Enxame que cobria o céu rasgou as defesas da vanguarda à medida que ela avançava em direção ao Enxame envolta em fogo. As cinzas carbonizadas do Enxame desapareceram como neve, sob a qual jazem as carcaças negras dos cavaleiros.\nEla nem teve tempo de oferecer um buquê como agradecimento final aos cavaleiros, que pereciam um após o outro. Suas vidas floresciam em um piscar de olhos e se apagavam na mesma velocidade. Como uma linha de código genérico, eles nunca possuíam nomes, apenas números eram concedidos a eles.\n\"Por que vives?\"\nNo silêncio sepulcral, como chamas dissolvendo no mar, ela é reduzida a um único ponto de fogo, e avança em direção à luz interminavelmente...\nEla abre seus olhos depois do que pareceu uma eternidade. Ela vê o \"futuro\" parecendo uma pérola, irradiando uma luz suave e vaga. Lágrimas correm pelo seu rosto...\n\"Para encontrar... meu próprio 'sonho'...\"",
+        "icon": "icon/light_cone/23025.png",
+        "preview": "image/light_cone_preview/23025.png",
+        "portrait": "image/light_cone_portrait/23025.png"
+    },
+    "23026": {
+        "id": "23026",
+        "name": "Luzes Noturnas",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "O tempo flui através do espelho, metamorfoseando a outrora inexperiente garotinha numa experiente cantora.\nEla observa seu reflexo no espelho. O tempo alterou tudo, exceto seus olhos verdes, que permanecem tão serenos quanto um lago, como se narrassem uma fé inabalável.\n\"Você parece estar bem animada hoje.\"\n\"Sim... afinal, há uma 'apresentação' muito importante.\"\n\"Com certeza. O ensaio do Festival Carismonia está prestes a começar. Por favor, dirija-se à sala de preparação.\"\n...\nEla sai do camarim, deixando para trás as luzes brilhantes do teatro, desvanecendo-se ao longe.\n\"Meu palco não é aqui.\"\nEla fecha os olhos, permitindo que a noite engula sua silhueta.\n\"Desde o passado até o presente, minha canção sempre foi para...\"\n\"Para aqueles que perderam a esperança.\"",
+        "icon": "icon/light_cone/23026.png",
+        "preview": "image/light_cone_preview/23026.png",
+        "portrait": "image/light_cone_portrait/23026.png"
+    },
+    "23027": {
+        "id": "23027",
+        "name": "Velejando em Direção a uma Segunda Vida",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "Ele sentiu como se tivesse caído em um mar profundo. Tudo o havia abandonado, deixando apenas seus pensamentos vazios se contorcendo e lutando sozinhos.\nTerror, ansiedade, solidão, escuridão, raiva, esses sentimentos não se dissiparam com seu corpo físico, mas permaneceram na concha mecânica de uma maneira diferente, e eles se tornaram ainda mais pesados do que antes.\nEle ouviu o chamado dos mortos, sentiu o cheiro de algo sendo carbonizado, o turbilhão das máquinas zumbia em seus ouvidos, e o novo sangue azul voou em direção ao seu coração sedento... Algumas memórias cruéis ressurgiram conforme o ódio inesquecível se transformou em uma luz fraca na escuridão. Ele seguiu a luz para caminhar em direção ao fim de tudo, utilizando cada grama de sua força para se levantar uma vez mais na superfície.\nEle abriu seus olhos e um clarão de fogos de artifício passou voando antes que ele pudesse ouvir os parabéns da médica.\n\"Bem-vindo ao mundo, novamente.\"\nEle cerrou seus punhos com suas mãos que agora eram feitas de ferro frio...\nEle não viveria mais para si.",
+        "icon": "icon/light_cone/23027.png",
+        "preview": "image/light_cone_preview/23027.png",
+        "portrait": "image/light_cone_portrait/23027.png"
+    },
+    "23028": {
+        "id": "23028",
+        "name": "A Esperança é Inestimável",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "\"Dama Bonajade, se não fosse por seu fornecimento constante de suprimentos e doações, o orfanato já teria...\"\nEla acariciou gentilmente os cabelos das crianças, interrompendo as palavras do diretor.\n\"Enquanto eu estiver aqui, não há com o que se preocupar... E não precisa dizer essas coisas para as crianças, isso só faz com que elas se preocupem ainda mais.\"\nAs crianças olharam para cima, falando sem parar dos eventos recentes, seus medos e sonhos.\n\"Dama Bonajade, quando você vai vir de novo?\"\n\"Não trabalha demais, você tem que descansar bastante...\"\n\"Dama Bonajade, quando eu crescer, eu quero ser igual você!\"\nEla olhou para os olhos cristalinos da criança e parou por um segundo.\n\"Alguém como eu...\"\nA criança a entregou uma maça: \"Sim! Alguém que faz as pessoas terem esperança e luz na vida delas!\"\nPobreza, deméritos, sofrimento, miséria... ela vagava pelas galáxias, assumindo para si os clamores das pessoas e devolvendo-as todos os seus retornos em medidas equivalentes.\nA vida existe por conta do desejo, e morre por conta do desejo. Essa é uma lei inescapável, assim como uma invariabilidade da vida.\nUma filantropa com objetivos ocultos, uma vilã que barganha almas... ela já recebeu diversas conotações em diferentes mundos, mas somente ela compreende profundamente a moral por trás de suas ações.",
+        "icon": "icon/light_cone/23028.png",
+        "preview": "image/light_cone_preview/23028.png",
+        "portrait": "image/light_cone_portrait/23028.png"
+    },
+    "23029": {
+        "id": "23029",
+        "name": "Aquelas Incontáveis Primaveras",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Depois de algumas garoas repentinas, as marés da primavera se erguem e o crescimento verdejante se levantam.\n\"Quantas primaveras já passaram?\"\nEle se lembra daqueles jovens soldados se dirigindo ao campo de batalha pela primeira vez. Ano após ano, os rostos eram todos diferentes, mas ainda assim eles irradiavam exatamente o mesmo vigor e a mesma esperança.\nO salgueiro murcha conforme aguarda pelo retorno dele. Mas o que ele consegue trazer de volta para casa costuma ser... o gelo que nunca derrete.\nOs gorjeios dos pássaras permanecem no ar enquanto ele fecha seus olhos, permitindo que a luz do sol recaia sobre sua face através das frestas entre as folhas.\n-\"Infelizmente, aqueles que permanecem são os mais solitários de todos.\"",
+        "icon": "icon/light_cone/23029.png",
+        "preview": "image/light_cone_preview/23029.png",
+        "portrait": "image/light_cone_portrait/23029.png"
+    },
+    "23030": {
+        "id": "23030",
+        "name": "Dança ao Pôr do Sol",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "\"Uma figura ágil está correndo pelos telhados no crepúsculo resplandecente.\"\n\"Lili, Guoguo, vamos ver quem chega ao final primeiro!\"\nComo um pequeno e habilidoso animalzinho, a garota escala os beirais, esquiva dos guardas e se balança no vento enquanto persegue o último raio de sol do dia.\nA brisa vespertina levemente quente acaricia o rosto da garota e as moribundas luzes do dia tingem o gato com um caleidoscópio de cores.\n\"Você venceu!\"\nEla limpa o suor de sua testa e pega o gato no colo.\nAs estrelas surgem no céu e seu inocente e sorridente rosto surge entre elas, como camadas de nuvens radiantes de um pôr-do-sol fluindo pelo horizonte.",
+        "icon": "icon/light_cone/23030.png",
+        "preview": "image/light_cone_preview/23030.png",
+        "portrait": "image/light_cone_portrait/23030.png"
     },
     "24000": {
         "id": "24000",
         "name": "Na Queda de Um Aeon",
         "rarity": 5,
         "path": "Warrior",
-        "desc": "Começou com um flash de luz.\nUm por um, caíram enquanto a ameaça de um suspiro pairava.\nEles tiveram que parar de se autorreplicar e correram para se abraçar.\nTentando oferecer o direito de reprodução em troca da possibilidade de sobreviver.\nSeguraram as mãos numa demonstração inédita de união.\nMas os Caminhos chegaram a um fim abrupto e encontraram\na verdadeira morte.",
+        "desc": "Começou com um flash de luz.\nUm por um, caíram enquanto a ameaça de um suspiro pairava.\nELES tiveram que parar de se autorreplicar e correram para se abraçar.\nTentando oferecer o direito de reprodução em troca da possibilidade de sobreviver.\nSeguraram as mãos numa demonstração inédita de união.\nMas os Caminhos chegaram a um fim abrupto e encontraram\na verdadeira morte.",
         "icon": "icon/light_cone/24000.png",
         "preview": "image/light_cone_preview/24000.png",
         "portrait": "image/light_cone_portrait/24000.png"
@@ -804,7 +1034,7 @@
         "name": "Percorrendo o Mar Estelar",
         "rarity": 5,
         "path": "Rogue",
-        "desc": "Avançando pelo mar de estrelas,\neles navegam com a velocidade de um clarão cromático de um arco-íris.\nUma jornada de caça às abominações imortais, buscando curas e milagres, em uma jornada de libertação.\nSua jornada será semelhante a uma promessa mantida, ad infinitum.",
+        "desc": "Avançando pelo mar de estrelas,\nELES navegam com a velocidade de um clarão cromático de um arco-íris.\nUma jornada de caça às abominações imortais, buscando curas e milagres, em uma jornada de libertação.\nSUA jornada será semelhante a uma promessa mantida, ad infinitum.",
         "icon": "icon/light_cone/24001.png",
         "preview": "image/light_cone_preview/24001.png",
         "portrait": "image/light_cone_portrait/24001.png"
@@ -814,7 +1044,7 @@
         "name": "Textura de Memórias",
         "rarity": 5,
         "path": "Knight",
-        "desc": "O universo era como uma paisagem árida cheia de lixo.\nDe vez em quando, havia tesouros desconhecidos.\nOlhavam pelas frestas do passado, escolhendo sementes de memória.\nPara uma nova vida nascer, sua semente tem que estar morta.\nPedras preciosas cor-de-rosa, azul e branco foram encontradas,\nbrilhando gentilmente em sua sementeira, embora o universo\ntenha permanecido em enigmático silêncio.",
+        "desc": "O universo era como uma paisagem árida cheia de lixo.\nDe vez em quando, havia tesouros desconhecidos.\nOlhavam pelas frestas do passado, escolhendo sementes de memória.\nPara uma nova vida nascer, sua semente tem que estar morta.\nPedras preciosas cor-de-rosa, azul e branco foram encontradas,\nbrilhando gentilmente em SUA sementeira, embora o universo\ntenha permanecido em enigmático silêncio.",
         "icon": "icon/light_cone/24002.png",
         "preview": "image/light_cone_preview/24002.png",
         "portrait": "image/light_cone_portrait/24002.png"
@@ -828,5 +1058,15 @@
         "icon": "icon/light_cone/24003.png",
         "preview": "image/light_cone_preview/24003.png",
         "portrait": "image/light_cone_portrait/24003.png"
+    },
+    "24004": {
+        "id": "24004",
+        "name": "Cálculo Ininterrupto",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Eternamente suspenso no vazio,\nFluxos de dados brilhantes invadem SUA mente.\nTransformando todo o passado e futuro em símbolos,\na Divindade deduzirá o fim através do começo.\nConhecimento, respostas, verdades...\nEm meio à informação, uma luz brilhante surge,\nE tudo fica claro para a Divindade.",
+        "icon": "icon/light_cone/24004.png",
+        "preview": "image/light_cone_preview/24004.png",
+        "portrait": "image/light_cone_portrait/24004.png"
     }
 }

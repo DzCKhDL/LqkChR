@@ -479,6 +479,11 @@
         "name": "ヘルタピケ隊",
         "icon": "icon/avatar/GroupDefault.png"
     },
+    "106": {
+        "id": "106",
+        "name": "Dr.エドワード",
+        "icon": "icon/avatar/DreamStore.png"
+    },
     "107": {
         "id": "107",
         "name": "トパーズ、三月なのか、{NICKNAME}",
@@ -518,6 +523,216 @@
         "id": "114",
         "name": "こしあん単推し、ビルゲイヴァー、無免許飛行船運行",
         "icon": "icon/avatar/GroupDefault.png"
+    },
+    "115": {
+        "id": "115",
+        "name": "ピノコニー小隊",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "116": {
+        "id": "116",
+        "name": "スウィート・ドリーム新聞社",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "117": {
+        "id": "117",
+        "name": "レスリー・ディーンファン大集合！",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "118": {
+        "id": "118",
+        "name": "ウールシ",
+        "icon": "icon/avatar/Woolsey.png"
+    },
+    "119": {
+        "id": "119",
+        "name": "クロッ■■■",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "120": {
+        "id": "120",
+        "name": "クロックレストラン",
+        "icon": "icon/avatar/DelicayExpress.png"
+    },
+    "121": {
+        "id": "121",
+        "name": "ウーマ",
+        "icon": "icon/avatar/Uma.png"
+    },
+    "122": {
+        "id": "122",
+        "name": "ピノコニー高級品店",
+        "icon": "icon/avatar/LuxuryStore.png"
+    },
+    "123": {
+        "id": "123",
+        "name": "クリスタルグラス",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "124": {
+        "id": "124",
+        "name": "古い友人",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "125": {
+        "id": "125",
+        "name": "ゴミ箱",
+        "icon": "icon/avatar/202002.png"
+    },
+    "126": {
+        "id": "126",
+        "name": "灼熱のゴミ箱",
+        "icon": "icon/avatar/202002.png"
+    },
+    "127": {
+        "id": "127",
+        "name": "燃える情熱のゴミ箱",
+        "icon": "icon/avatar/202002.png"
+    },
+    "128": {
+        "id": "128",
+        "name": "心の張り裂けたゴミ箱",
+        "icon": "icon/avatar/202002.png"
+    },
+    "129": {
+        "id": "129",
+        "name": "？？？",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "130": {
+        "id": "130",
+        "name": "ドリームメイクパズル研究チーム",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "131": {
+        "id": "131",
+        "name": "スウィート・ドリーム新聞社",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "サー・アズール",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "133": {
+        "id": "133",
+        "name": "シヴォーン",
+        "icon": "icon/avatar/Sionbhan.png"
+    },
+    "134": {
+        "id": "134",
+        "name": "ティソク三世",
+        "icon": "icon/avatar/DesolaTheSecond.png"
+    },
+    "135": {
+        "id": "135",
+        "name": "？？？",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "136": {
+        "id": "136",
+        "name": "コマンダー",
+        "icon": "icon/avatar/3002030.png"
+    },
+    "137": {
+        "id": "137",
+        "name": "スペード",
+        "icon": "icon/avatar/3001010.png"
+    },
+    "138": {
+        "id": "138",
+        "name": "マダム",
+        "icon": "icon/avatar/3002010.png"
+    },
+    "139": {
+        "id": "139",
+        "name": "メランコリー",
+        "icon": "icon/avatar/3001020.png"
+    },
+    "140": {
+        "id": "140",
+        "name": "しまった！アホな連中に取り囲まれた！",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "141": {
+        "id": "141",
+        "name": "看板探偵",
+        "icon": "icon/avatar/AdvertBoard.png"
+    },
+    "142": {
+        "id": "142",
+        "name": "黄泉",
+        "icon": "icon/avatar/1308.png"
+    },
+    "143": {
+        "id": "143",
+        "name": "ああああああああああ",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "144": {
+        "id": "144",
+        "name": "花火はどこから見るべきか",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "145": {
+        "id": "145",
+        "name": "ハウンドの運営者",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "146": {
+        "id": "146",
+        "name": "クラークフィルムカスタマーサービス",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "147": {
+        "id": "147",
+        "name": "公輸先生",
+        "icon": "icon/avatar/MasterGongshu.png"
+    },
+    "148": {
+        "id": "148",
+        "name": "ジード",
+        "icon": "icon/avatar/Jetta.png"
+    },
+    "149": {
+        "id": "149",
+        "name": "公正公平",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "150": {
+        "id": "150",
+        "name": "エディオン",
+        "icon": "icon/avatar/Aideen.png"
+    },
+    "151": {
+        "id": "151",
+        "name": "配達員",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "152": {
+        "id": "152",
+        "name": "ベイビートリオ",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "153": {
+        "id": "153",
+        "name": "ダンシー",
+        "icon": "icon/avatar/Dennis.png"
+    },
+    "154": {
+        "id": "154",
+        "name": "ミカ",
+        "icon": "icon/avatar/Micah.png"
+    },
+    "155": {
+        "id": "155",
+        "name": "ティナ",
+        "icon": "icon/avatar/Tina.png"
+    },
+    "156": {
+        "id": "156",
+        "name": "「メッセージ」人形",
+        "icon": "icon/avatar/202017.png"
     },
     "1000": {
         "id": "1000",
@@ -704,6 +919,21 @@
         "name": "フォフォ",
         "icon": "icon/avatar/1217.png"
     },
+    "1218": {
+        "id": "1218",
+        "name": "椒丘",
+        "icon": "icon/avatar/1218.png"
+    },
+    "1221": {
+        "id": "1221",
+        "name": "雲璃",
+        "icon": "icon/avatar/1221.png"
+    },
+    "1301": {
+        "id": "1301",
+        "name": "ギャラガー",
+        "icon": "icon/avatar/1301.png"
+    },
     "1302": {
         "id": "1302",
         "name": "アルジェンティ",
@@ -714,20 +944,60 @@
         "name": "ルアン・メェイ",
         "icon": "icon/avatar/1303.png"
     },
+    "1304": {
+        "id": "1304",
+        "name": "アベンチュリン",
+        "icon": "icon/avatar/1304.png"
+    },
     "1305": {
         "id": "1305",
         "name": "Dr.レイシオ",
         "icon": "icon/avatar/1305.png"
     },
+    "1306": {
+        "id": "1306",
+        "name": "花火",
+        "icon": "icon/avatar/1306.png"
+    },
+    "1307": {
+        "id": "1307",
+        "name": "ブラックスワン",
+        "icon": "icon/avatar/1307.png"
+    },
+    "1308": {
+        "id": "1308",
+        "name": "黄泉",
+        "icon": "icon/avatar/1308.png"
+    },
+    "1309": {
+        "id": "1309",
+        "name": "ロビン",
+        "icon": "icon/avatar/1309.png"
+    },
+    "1310": {
+        "id": "1310",
+        "name": "ホタル",
+        "icon": "icon/avatar/1310.png"
+    },
+    "1312": {
+        "id": "1312",
+        "name": "ミーシャ",
+        "icon": "icon/avatar/1312.png"
+    },
+    "1314": {
+        "id": "1314",
+        "name": "ジェイド",
+        "icon": "icon/avatar/1314.png"
+    },
+    "1315": {
+        "id": "1315",
+        "name": "ブートヒル",
+        "icon": "icon/avatar/1315.png"
+    },
     "8000": {
         "id": "8000",
         "name": "{NICKNAME}",
         "icon": ""
-    },
-    "8001": {
-        "id": "8001",
-        "name": "{NICKNAME}",
-        "icon": "icon/avatar/8001.png"
     },
     "200001": {
         "id": "200001",
@@ -831,9 +1101,69 @@
         "rarity": 5,
         "icon": "icon/avatar/200116.png"
     },
+    "200117": {
+        "id": "200117",
+        "name": "花火・イリュージョン",
+        "rarity": 5,
+        "icon": "icon/avatar/200117.png"
+    },
+    "200118": {
+        "id": "200118",
+        "name": "サンポ・イリュージョン",
+        "rarity": 5,
+        "icon": "icon/avatar/200118.png"
+    },
+    "200119": {
+        "id": "200119",
+        "name": "トパーズ・命中",
+        "rarity": 5,
+        "icon": "icon/avatar/200119.png"
+    },
+    "200120": {
+        "id": "200120",
+        "name": "アベンチュリン・命中",
+        "rarity": 5,
+        "icon": "icon/avatar/200120.png"
+    },
+    "200121": {
+        "id": "200121",
+        "name": "黄泉・奇襲",
+        "rarity": 5,
+        "icon": "icon/avatar/200121.png"
+    },
+    "200122": {
+        "id": "200122",
+        "name": "ブートヒル・奇襲",
+        "rarity": 5,
+        "icon": "icon/avatar/200122.png"
+    },
+    "200123": {
+        "id": "200123",
+        "name": "ホタル・未来図",
+        "rarity": 5,
+        "icon": "icon/avatar/200123.png"
+    },
+    "200124": {
+        "id": "200124",
+        "name": "装甲「サム」・未来図",
+        "rarity": 5,
+        "icon": "icon/avatar/200124.png"
+    },
+    "200125": {
+        "id": "200125",
+        "name": "白露・仁医",
+        "rarity": 5,
+        "icon": "icon/avatar/200125.png"
+    },
+    "200126": {
+        "id": "200126",
+        "name": "椒丘・仁医",
+        "rarity": 5,
+        "icon": "icon/avatar/200126.png"
+    },
     "201001": {
         "id": "201001",
-        "name": "三月なのか",
+        "name": "三月なのか・存護",
         "icon": "icon/avatar/1001.png"
     },
     "201002": {
@@ -1016,6 +1346,26 @@
         "name": "フォフォ",
         "icon": "icon/avatar/1217.png"
     },
+    "201218": {
+        "id": "201218",
+        "name": "椒丘",
+        "icon": "icon/avatar/1218.png"
+    },
+    "201221": {
+        "id": "201221",
+        "name": "雲璃",
+        "icon": "icon/avatar/1221.png"
+    },
+    "201224": {
+        "id": "201224",
+        "name": "三月なのか・巡狩",
+        "icon": "icon/avatar/1224.png"
+    },
+    "201301": {
+        "id": "201301",
+        "name": "ギャラガー",
+        "icon": "icon/avatar/1301.png"
+    },
     "201302": {
         "id": "201302",
         "name": "アルジェンティ",
@@ -1026,10 +1376,55 @@
         "name": "ルアン・メェイ",
         "icon": "icon/avatar/1303.png"
     },
+    "201304": {
+        "id": "201304",
+        "name": "アベンチュリン",
+        "icon": "icon/avatar/1304.png"
+    },
     "201305": {
         "id": "201305",
         "name": "Dr.レイシオ",
         "icon": "icon/avatar/1305.png"
+    },
+    "201306": {
+        "id": "201306",
+        "name": "花火",
+        "icon": "icon/avatar/1306.png"
+    },
+    "201307": {
+        "id": "201307",
+        "name": "ブラックスワン",
+        "icon": "icon/avatar/1307.png"
+    },
+    "201308": {
+        "id": "201308",
+        "name": "黄泉",
+        "icon": "icon/avatar/1308.png"
+    },
+    "201309": {
+        "id": "201309",
+        "name": "ロビン",
+        "icon": "icon/avatar/1309.png"
+    },
+    "201310": {
+        "id": "201310",
+        "name": "ホタル",
+        "icon": "icon/avatar/1310.png"
+    },
+    "201312": {
+        "id": "201312",
+        "name": "ミーシャ",
+        "icon": "icon/avatar/1312.png"
+    },
+    "201314": {
+        "id": "201314",
+        "name": "ジェイド",
+        "icon": "icon/avatar/1314.png"
+    },
+    "201315": {
+        "id": "201315",
+        "name": "ブートヒル",
+        "icon": "icon/avatar/1315.png"
     },
     "202001": {
         "id": "202001",
@@ -1091,6 +1486,54 @@
         "rarity": 4,
         "icon": "icon/avatar/202010.png"
     },
+    "202011": {
+        "id": "202011",
+        "name": "クロックボーイ",
+        "rarity": 4,
+        "icon": "icon/avatar/202011.png"
+    },
+    "202012": {
+        "id": "202012",
+        "name": "ブラザーハヌ",
+        "rarity": 4,
+        "icon": "icon/avatar/202012.png"
+    },
+    "202013": {
+        "id": "202013",
+        "name": "折り紙の小鳥",
+        "rarity": 4,
+        "icon": "icon/avatar/202013.png"
+    },
+    "202014": {
+        "id": "202014",
+        "name": "カカワーシャ",
+        "rarity": 4,
+        "icon": "icon/avatar/202014.png"
+    },
+    "202015": {
+        "id": "202015",
+        "name": "ハムスターボールの騎士",
+        "rarity": 4,
+        "icon": "icon/avatar/202015.png"
+    },
+    "202016": {
+        "id": "202016",
+        "name": "一周年記念",
+        "rarity": 4,
+        "icon": "icon/avatar/202016.png"
+    },
+    "202017": {
+        "id": "202017",
+        "name": "花火の人形",
+        "rarity": 4,
+        "icon": "icon/avatar/202017.png"
+    },
+    "202018": {
+        "id": "202018",
+        "name": "「じゃあテストよろしく」",
+        "rarity": 4,
+        "icon": "icon/avatar/202018.png"
+    },
     "208001": {
         "id": "208001",
         "name": "{NICKNAME}・壊滅",
@@ -1110,5 +1553,15 @@
         "id": "208004",
         "name": "{NICKNAME}・存護",
         "icon": "icon/avatar/8004.png"
+    },
+    "208005": {
+        "id": "208005",
+        "name": "{NICKNAME}・調和",
+        "icon": "icon/avatar/8005.png"
+    },
+    "208006": {
+        "id": "208006",
+        "name": "{NICKNAME}・調和",
+        "icon": "icon/avatar/8006.png"
     }
 }

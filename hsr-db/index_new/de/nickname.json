@@ -111,14 +111,53 @@
         "1217": [
             "Huohuo"
         ],
+        "1218": [
+            "Jiaoqiu"
+        ],
+        "1221": [
+            "Yunli"
+        ],
+        "1224": [
+            "7. März"
+        ],
+        "1301": [
+            "Gallagher"
+        ],
         "1302": [
             "Argenti"
         ],
         "1303": [
             "Ruan Mei"
         ],
+        "1304": [
+            "Aventurin"
+        ],
         "1305": [
             "Dr. Wahrheit"
+        ],
+        "1306": [
+            "Sparkle"
+        ],
+        "1307": [
+            "Schwarzer Schwan"
+        ],
+        "1308": [
+            "Acheron"
+        ],
+        "1309": [
+            "Robin"
+        ],
+        "1310": [
+            "Glühwürmchen"
+        ],
+        "1312": [
+            "Misha"
+        ],
+        "1314": [
+            "Jade"
+        ],
+        "1315": [
+            "Boothill"
         ],
         "8001": [
             "{NICKNAME}"
@@ -130,6 +169,12 @@
             "{NICKNAME}"
         ],
         "8004": [
+            "{NICKNAME}"
+        ],
+        "8005": [
+            "{NICKNAME}"
+        ],
+        "8006": [
             "{NICKNAME}"
         ]
     },
@@ -302,11 +347,50 @@
         "21034": [
             "Heute ist wieder ein friedlicher Tag"
         ],
+        "21035": [
+            "Sache der Wahrheit"
+        ],
+        "21036": [
+            "Abenteuer in Traumstadt"
+        ],
+        "21037": [
+            "Endgültiger Sieger"
+        ],
+        "21038": [
+            "Feuer in der Ferne"
+        ],
+        "21039": [
+            "Schicksalsfaden"
+        ],
+        "21040": [
+            "Tag des kosmischen Kollapses"
+        ],
+        "21041": [
+            "Vorhang auf"
+        ],
+        "21042": [
+            "Verewigtes Versprechen"
+        ],
+        "21043": [
+            "Konzert für zwei"
+        ],
+        "21044": [
+            "Grenzenloser Tanz"
+        ],
+        "21045": [
+            "Nach dem Fall der Harmonie"
+        ],
+        "21046": [
+            "Jugend in Erwartung der Entflammung"
+        ],
         "22000": [
             "Bevor das Tutorial beginnt"
         ],
         "22001": [
             "Hey, ich bin hier"
+        ],
+        "22002": [
+            "Für die Reise von morgen"
         ],
         "23000": [
             "Nacht auf der Milchstraße"
@@ -371,6 +455,36 @@
         "23020": [
             "Taufe des reinen Denkens"
         ],
+        "23021": [
+            "Eskapade auf Erden"
+        ],
+        "23022": [
+            "Restaurierte Erinnerung"
+        ],
+        "23023": [
+            "Ungerechtes Schicksal"
+        ],
+        "23024": [
+            "Entlang am vorbeiziehenden Ufer"
+        ],
+        "23025": [
+            "Wohin sollen die Träume gehen"
+        ],
+        "23026": [
+            "Schillernde Nacht"
+        ],
+        "23027": [
+            "Auf zu einem zweiten Leben"
+        ],
+        "23028": [
+            "Doch Hoffnung ist unbezahlbar"
+        ],
+        "23029": [
+            "Jene unzähligen Frühlinge"
+        ],
+        "23030": [
+            "Tanz im Sonnenuntergang"
+        ],
         "24000": [
             "Der Niedergang eines Äons"
         ],
@@ -382,6 +496,9 @@
         ],
         "24003": [
             "Einzelne Heilung"
+        ],
+        "24004": [
+            "Unermüdliche Berechnung"
         ]
     },
     "relic_sets": {
@@ -433,6 +550,18 @@
         "116": [
             "Gefangene in tiefem Gewahrsam"
         ],
+        "117": [
+            "Pioniertaucherin toter Gewässer"
+        ],
+        "118": [
+            "Uhrmacher der maschinellen Traumspiele"
+        ],
+        "119": [
+            "Eiserne Kavallerie gegen die Plage"
+        ],
+        "120": [
+            "Tapferer Krieger des Winds"
+        ],
         "301": [
             "Raumstation für Versiegelung"
         ],
@@ -468,6 +597,18 @@
         ],
         "312": [
             "Penacony, Land der Träume"
+        ],
+        "313": [
+            "Verlassenes Sigonien"
+        ],
+        "314": [
+            "Izumo-Gensei und Takama-Himmelreich"
+        ],
+        "315": [
+            "Duran, Dynastie der rennenden Wölfe"
+        ],
+        "316": [
+            "Schmiede der Kalpagni-Laterne"
         ]
     }
 }

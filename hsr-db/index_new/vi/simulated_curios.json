@@ -416,7 +416,7 @@
         "id": "105",
         "name": "Huy Hiệu Kỷ Nguyên Vinh Quang",
         "desc": "Nhận ngay 1 Chúc Phúc 3 sao ngẫu nhiên, khi vào khu vực \"Sự Kiện\" trong lần kế tiếp sẽ không gặp bất kỳ sự kiện nào. Sau khi kích hoạt 1 lần hiệu ứng thì Vật Thể Lạ này sẽ bị phá hủy",
-        "bg_desc": "Sau khi Hổ Phách Kỷ và Máy Phát Liên Kết Trực Giác được quảng bá một trăm kỷ, thương mại vũ trụ liên tục phát triển, việc trao đổi tài nguyên trở thành vấn đề cấp bách. Một số hành tinh phát triển nhảy vọt thành cửa khẩu vũ trụ nóng bỏng, nền phồn vinh lần thứ hai đã đến, được lịch sử gọi là \"Kỷ Nguyên Vinh Quang\", kéo dài gần năm trăm Hổ Phách Kỷ. Kỷ Nguyên Vinh Quang vào thời kỳ cuối có xu thế đi xuống, nhưng dù là cuộc chiến tranh năng lượng được gọi là tai họa lớn cũng chưa thể tiêu hao hết thành quả huy hoàng của nền phồn vinh lần thứ hai. Cùng lúc đó, Nous \"Tri Thức\" đột ngột gián đoạn việc tính toán đối với bí ẩn của vũ trụ.",
+        "bg_desc": "Sau khi Hổ Phách Kỷ và Máy Phát Liên Kết Trực Giác được quảng bá một trăm kỷ, thương mại vũ trụ liên tục phát triển, việc trao đổi tài nguyên trở thành vấn đề cấp bách. Một số hành tinh phát triển nhảy vọt thành cửa khẩu vũ trụ nóng bỏng, nền phồn vinh lần thứ hai đã đến, được lịch sử gọi là \"Kỷ Nguyên Vinh Quang\", kéo dài gần năm trăm Hổ Phách Kỷ. Kỷ Nguyên Vinh Quang vào thời kỳ cuối có xu thế đi xuống, nhưng dù là cuộc chiến tranh năng lượng vũ trụ được gọi là thảm họa cũng không thể làm cạn kiệt thành quả huy hoàng của nền phồn vinh lần thứ hai. Cùng lúc đó, Nous \"Tri Thức\" đột ngột gián đoạn việc tính toán đối với bí ẩn của vũ trụ.",
         "icon": "icon/curio/1069.png"
     },
     "106": {
@@ -514,7 +514,7 @@
         "id": "119",
         "name": "Một Nhúm Thuốc Nổ Râu Ria",
         "desc": "Sau khi nhận Vật Thể Lạ này, sẽ nhận 1 lần cheat",
-        "bg_desc": "So với đá, gỗ, vàng, titan và tiền tệ, Thợ Mỏ Du Mục thích đào \"Aether\" hơn. Họ từng mê mẩn cảm giác dùng ngón tay đào ra lượng lớn \"Aether\" ở khu mỏ, nhưng loại trải nghiệm này từng mang đến bất hạnh: Một số thợ mỏ siêu khổng lồ cuối cùng đã bị nổ chết ở khu vực không rõ, trong đó chỉ có một thợ mỏ thân hình thấp bé may mắn sống sót, râu của thợ mỏ này từ đó về sau mãi mãi có một nhúm thuốc nổ.",
+        "bg_desc": "So với đá, gỗ, vàng, titan và tiền tệ, Thợ Mỏ Du Mục thích đào \"Aether\" hơn. Họ từng mê mẩn cảm giác dùng ngón tay đào ra lượng lớn \"Aether\" ở khu mỏ, nhưng loại trải nghiệm này từng mang đến bất hạnh: Một số thợ mỏ siêu khổng lồ cuối cùng đã bị nổ chết ở khu vực không rõ, trong đó chỉ có một thợ mỏ thân hình thấp bé may mắn sống sót, râu của thợ mỏ này từ đó về sau lúc nào cũng có một đốm lửa nhấp nháy.",
         "icon": "icon/curio/1066.png"
     },
     "120": {
@@ -654,14 +654,14 @@
         "id": "305",
         "name": "Chiếc Hộp Khó Hiểu",
         "desc": "Sau khi tạo lại Chúc Phúc, sẽ xuất hiện tối thiểu 1 Chúc Phúc vận mệnh hiện tại, sau khi kích hoạt hiệu ứng 3 lần, Vật Thể Lạ này sẽ bị hủy",
-        "bg_desc": "Một chiếc hộp có thể phán đoán suy nghĩ của người mở nó, khi mở nó, vật trong hộp sẽ biến thành thứ tưởng tượng trong đầu của bạn. Nó từng bị Herta đánh giá là một trong những Vật Thể Lạ khó đối phó nhất, cô đã dùng khá nhiều thời gian cho chiếc hộp bí ẩn này, nhưng mỗi lần đều không thể khống chế suy nghĩ trong đầu của bản thân khi mở hộp. Cuối cùng, Herta đã ném chiếc hộp qua một bên, không động tới nó nữa... Có lẽ Herta làm việc gì cũng được, chỉ mỗi việc không thể làm được đó là, để cho đầu óc thư thả.",
+        "bg_desc": "Một chiếc hộp có thể phán đoán suy nghĩ của người mở nó, khi mở nó, vật trong hộp sẽ biến thành thứ tưởng tượng trong đầu của bạn. Nó từng bị Herta đánh giá là một trong những Vật Thể Lạ khó đối phó nhất, cô đã dùng khá nhiều thời gian cho chiếc hộp không đoán được này, nhưng mỗi lần đều không thể khống chế suy nghĩ trong đầu của bản thân khi mở hộp. Cuối cùng, Herta đã ném chiếc hộp qua một bên, không động tới nó nữa... Có lẽ Herta làm việc gì cũng được, chỉ mỗi việc không thể làm được đó là, để cho đầu óc thư thả.",
         "icon": "icon/curio/1037.png"
     },
     "306": {
         "id": "306",
         "name": "Trái Cây Kỳ Dị Thối Rữa",
         "desc": "Nhân vật sẽ kháng tất cả hiệu ứng khiến bản thân rơi vào trạng thái Hiệu Ứng Xấu dạng Khống Chế. Mỗi lần kháng sẽ tiêu hao HP bằng 20% Giới Hạn HP của bản thân.",
-        "bg_desc": "Kẻ Cầu Trường Sinh đã tìm thấy một trái cây kỳ dị thối rữa: Bề ngoài của nó đã biến đổi một cách kỳ quái, từ màu vàng trong trẻo thành màu xanh lam nhạt. Để tìm hiểu về tính chất dược lý, cặp sinh đôi \"Kẻ Cầu Trường Sinh\" đã ăn lần lượt Trái Cây Kỳ Dị và Trái Cây Kỳ Dị Thối Rữa: Hai người họ một người trải qua sự biến đổi và một người chết tại chỗ - Tuy nhiên, do không có người thứ ba có mặt, không ai biết được người sống sót là người nào trong cặp sinh đôi và họ đã ăn trái cây nào.",
+        "bg_desc": "Kẻ Cầu Trường Sinh từng tìm được 1 Trái Cây Kỳ Dị đã thối rữa: Màu vỏ trở nên kỳ dị, nhạt dần từ vàng cam sang xanh hồng. Vì muốn hiểu dược lý, Kẻ Cầu Trường Sinh Sinh Đôi đã chia nhau ăn Trái Cây Kỳ Dị và Trái Cây Kỳ Dị Thối Rữa: Một người bắt đầu Biến Đổi, người kia bỏ mạng tại chỗ... Nhưng vì không có mặt người thứ 3 ở đó, nên không ai biết người nào trong cặp song sinh đó đã may mắn sống sót, và anh ta đã ăn loại trái nào.",
         "icon": "icon/curio/1073.png"
     },
     "307": {

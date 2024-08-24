@@ -762,6 +762,164 @@
             "guide/OriginMirror/light_cone/21034.png"
         ]
     },
+    "21035": {
+        "id": "21035",
+        "name": "何物为真",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "「倘若所有的钟表都在指示错误的时刻……」\n「倘若许下承诺的人以背誓完成诺言……」\n「倘若沉入幻梦之人从未真正睡着……」\n「倘若死者活着归来，发现姓名已被剥夺……」\n「倘若…倘若……」\n他吹灭火焰，黑暗中只余时钟永不停歇地滴答作响。",
+        "icon": "icon/light_cone/21035.png",
+        "preview": "image/light_cone_preview/21035.png",
+        "portrait": "image/light_cone_portrait/21035.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21035.png",
+            "guide/OriginMirror/light_cone/21035.png"
+        ]
+    },
+    "21036": {
+        "id": "21036",
+        "name": "美梦小镇大冒险",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "「亲爱的观众朋友们，钟表小子和他的伙伴们又要和大家见面啦！」\n「在上一集中，石头老板发现了美梦小镇藏有丰富的资源，开始抢夺美梦小镇的统治权。钟表小子联合哈努兄弟与折纸小鸟，将石头老板和他的可恶下属赶出了美梦小镇。」\n「石头老板心有不甘，聚集一帮打手誓要踏平美梦小镇。钟表小子将在这一集中面临史上最大危机！」\n「钟表小子会用怎样的计谋突出重围？又会有什么新伙伴加入他的队伍？敬请欣赏最新一集『美梦小镇历险记』！」",
+        "icon": "icon/light_cone/21036.png",
+        "preview": "image/light_cone_preview/21036.png",
+        "portrait": "image/light_cone_portrait/21036.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21036.png"
+        ]
+    },
+    "21037": {
+        "id": "21037",
+        "name": "最后的赢家",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "「你信不过我？」\n他挑衅地看着面前的男人，拿出一把手枪，清空子弹，只余一颗。\n「看来，要想合作愉快，还得向你解释一下我的做事风格。」\n他将手枪塞到对方手中，转动转轮，将枪口对准自己。\n他连续扣动扳机，三声空响之后笑容无异。\n「生命是一场盛大的豪赌，而我总是最后的赢家。」",
+        "icon": "icon/light_cone/21037.png",
+        "preview": "image/light_cone_preview/21037.png",
+        "portrait": "image/light_cone_portrait/21037.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21037.png"
+        ]
+    },
+    "21038": {
+        "id": "21038",
+        "name": "在火的远处",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "「东西到手了，交给你断后咯。」\n通讯器里传来同伴的声音。\n他看向周围，废弃的巨型建筑内，残存的敌人仍在复杂的结构中穿行，向他逼近。\n「稍等片刻。」\n一瞬寂静之后，宛如末日灾难的剧烈爆炸冲天而起。气浪吹起尘埃，烟云四散，致人目盲的强光令夜空亮如白昼。\n「你知道那里面都是他们故意设置的火药吧？」\n斗篷猎猎张开，他如同完成了一场悠闲散步。\n「当然。」\n「所以点燃他们，我只需当那根火柴就好。」",
+        "icon": "icon/light_cone/21038.png",
+        "preview": "image/light_cone_preview/21038.png",
+        "portrait": "image/light_cone_portrait/21038.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21038.png",
+            "guide/OriginMirror/light_cone/21038.png"
+        ]
+    },
+    "21039": {
+        "id": "21039",
+        "name": "织造命运之线",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "命运总是无端将众人牵引，而她隐于暗处铭刻最为关键的瞬间。\n排序，组合，洗牌，抽牌…她模拟命运之手操纵众人的种种可能，寻找纷乱表象之下的真实轨迹。\n终于，所有人物各安其位，她拂过凝固的牌面，拼凑出那幽邃的真相。\n「还缺了一张…那么，我来补上吧。」",
+        "icon": "icon/light_cone/21039.png",
+        "preview": "image/light_cone_preview/21039.png",
+        "portrait": "image/light_cone_portrait/21039.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21039.png",
+            "guide/OriginMirror/light_cone/21039.png"
+        ]
+    },
+    "21040": {
+        "id": "21040",
+        "name": "银河沦陷日",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "「芝士流心！你负责迷晕星球的守卫！」\n「豆沙灰灰！你负责攻陷星球的士兵！」\n「盐渍冬梅！你负责拿下星球的首脑！」\n「大王，您要去做什么！」\n「我负责扮演可爱猫猫迷惑这些蠢笨的人类！」\n那一天，银河众文明终于回想起了，被它们支配的恐惧……",
+        "icon": "icon/light_cone/21040.png",
+        "preview": "image/light_cone_preview/21040.png",
+        "portrait": "image/light_cone_portrait/21040.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21040.png",
+            "guide/OriginMirror/light_cone/21040.png"
+        ]
+    },
+    "21041": {
+        "id": "21041",
+        "name": "好戏开演",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "——是谁看见他死去？\n——是我，用我的小眼睛！\n——是谁取走他的血？\n——是我，用我的小碟子！\n——是谁为他挖坟墓？\n——是我，用我的凿子和铲子！\n看智者机关算尽，王者权欲熏心，英雄自以为是，而愚者欢笑不止——\n「现在，有请花火小姐给我们带来年度大戏——『匹诺康尼惊魂夜』！」",
+        "icon": "icon/light_cone/21041.png",
+        "preview": "image/light_cone_preview/21041.png",
+        "portrait": "image/light_cone_portrait/21041.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21041.png",
+            "guide/OriginMirror/light_cone/21041.png"
+        ]
+    },
+    "21042": {
+        "id": "21042",
+        "name": "铭记于心的约定",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "风尘仆仆的过去，守护家园的责任，开拓世界的梦想——\n一双粗糙的大手，将这些递给了不谙世事的少年。\n「不久之后，我们就能去往更广阔的世界了吧。」 \n男孩欣喜地接过传承的信物。年幼的他，尚未感受到那信物有多沉重。\n「一定会的。在那之前，米沙，守护好这里。」 \n他将那约定铭记于心，直到——直到永远。",
+        "icon": "icon/light_cone/21042.png",
+        "preview": "image/light_cone_preview/21042.png",
+        "portrait": "image/light_cone_portrait/21042.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21042.png",
+            "guide/OriginMirror/light_cone/21042.png"
+        ]
+    },
+    "21043": {
+        "id": "21043",
+        "name": "两个人的演唱会",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "「哥哥，这是……」 \n「好久没有快乐地唱过歌了吧…我为你搭了一座舞台，就是…有点简陋。」 \n「可老师觉得我不适合……」 \n「不，我觉得很好听！以后你一定会实现自己的梦想，站在更大的舞台上歌唱……」 \n……\n许多年之后，她站在璀璨的舞台上，望着底下汹涌的粉丝，却失神了片刻——\n在漫长的追梦路上，她总会想起那道信任的目光，和自己的第一场「演唱会」。\n没有绚丽的灯光，没有华美的妆造，有的只是一个孩子为了鼓励另一个孩子追求梦想而搭建起的舞台。\n「如今，我们的梦都实现了。但…那还是属于『我们』的梦吗……」 \n她握紧了话筒。在下一首歌开始之前，她甚至来不及感到悲伤。",
+        "icon": "icon/light_cone/21043.png",
+        "preview": "image/light_cone_preview/21043.png",
+        "portrait": "image/light_cone_portrait/21043.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21043.png"
+        ]
+    },
+    "21044": {
+        "id": "21044",
+        "name": "无边曼舞",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "舞步翩跹，光影悄然更迭。她牵着对方的手，含笑望向那双淡漠的眼睛。\n「美丽的游侠…欢迎来到『记忆』的舞台。在这个距离…你比看上去更迷人。」\n四周逐渐变得黑暗，一束光芒从穹顶倾泻而下，追随着两人不断变换的舞步。\n「不过，有些人本该与我们共舞，但他们却迟迟未到……」\n在旋转的瞬间，她凑近那副毫无表情的脸庞，握紧冰冷的手，轻轻问道——\n「可以告诉我，你做了什么？」\n在越来越急促的舞步中，支离破碎的过往片段顺着指尖涌入她的脑海。\n在越来越遥远的过去，她听见雨声，听见生命消逝之前发出的哀叹，然后她看到面前的舞者在微茫的雨中撑着血红的纸伞，而在她视线所及的地方——\n无数溺亡者的尸骸正在洪流中载沉载浮。\n她惊慌地试图抽出手，向后跌落。\n四周再次明亮起来，宴会的喧闹声重新涌现，对方轻轻托住了她的腰，仿佛浑然不知刚刚发生了什么。\n「忆者，多么优美的舞蹈，要再来一次么？」",
+        "icon": "icon/light_cone/21044.png",
+        "preview": "image/light_cone_preview/21044.png",
+        "portrait": "image/light_cone_portrait/21044.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/21044.png"
+        ]
+    },
+    "21045": {
+        "id": "21045",
+        "name": "谐乐静默之后",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "所愿的永恒美梦于一瞬消散。向大地坠落之时，他并不悲伤，只是想闭上双眼。\n踏上的旧路已然破碎，而前程依旧笼罩于一片迷雾之中。\n「清醒之后，世界依然在历经痛苦的循环，无物可逃，一如往常……」\n他肩负过往，背朝故土，继续朝那尚不存在的乐园挪动脚步。\n所以，人们为何入睡？人们为何醒来？\n——一颗又一颗星球在窗外掠过，这个答案如今需被赋予新的意义。\n「也许——也许我还能……」",
+        "icon": "icon/light_cone/21045.png",
+        "preview": "image/light_cone_preview/21045.png",
+        "portrait": "image/light_cone_portrait/21045.png",
+        "guide_overview": []
+    },
+    "21046": {
+        "id": "21046",
+        "name": "芳华待灼",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "晨光熹微，寂静的花林中，腾挪移转的身影惊起只只飞鸟。\n默念剑招，随势舞动，原本生涩的招式越发纯熟。剑气所至之处，落花如雨，纷乱空中。不知不觉间，清凉的云雾已湿了她的鬓发。\n 「好剑法！」 \n她惊觉，顺势转动手中的剑——\n背后，灰发的{F#少女}{M#少年}放下了手中的相机。\n 「美好的记忆可不会随风而逝。」",
+        "icon": "icon/light_cone/21046.png",
+        "preview": "image/light_cone_preview/21046.png",
+        "portrait": "image/light_cone_portrait/21046.png",
+        "guide_overview": []
+    },
     "22000": {
         "id": "22000",
         "name": "新手任务开始前",
@@ -788,6 +946,19 @@
         "guide_overview": [
             "guide/Nwflower/light_cone/22001.png",
             "guide/OriginMirror/light_cone/22001.png"
+        ]
+    },
+    "22002": {
+        "id": "22002",
+        "name": "为了明日的旅途",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "罗盘的指针不断旋转，最后指向了梦的时刻。\n车窗外，忆质充盈的阿斯德纳星系泛着迷蒙的光彩，坐落其间的边陲监狱战火绵延。\n「你们说，梦中的世界会是什么样的？我一定要仔仔细细地画下完整的地图！」 \n少女收起测绘仪器，满怀憧憬地看着触手可及的新世界。\n「那里乱得很，你们两个到了之后别乱跑。再像上次那样被别人绑架，我……」 \n牛仔打扮的男人擦拭完武器，端着一杯饮料走到沙发处，无奈地摇了摇头。 \n「梦想之地，有无限可能，我们一定会干出一番事业…列车长，要是我们爱上这地方不回来了，你会想我们吗？」 \n绅士打扮的无名客朝帕姆眨了眨眼，微笑道。 \n「不可以随便开列车长的玩笑帕！列车长，你是不是想说这句？」 少女露出狡黠的笑容。\n「可恶！你们！」 \n气泡在饮料里浮浮沉沉，车厢里充满了欢声笑语。 \n……\n无名客年轻的背影逐渐被忆质吞没。\n「一路平安…帕……」\n回头的时候，车厢变得空落落的。\n它愣住了…这样的场景，它似乎已经经历过无数次了。",
+        "icon": "icon/light_cone/22002.png",
+        "preview": "image/light_cone_preview/22002.png",
+        "portrait": "image/light_cone_portrait/22002.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/22002.png"
         ]
     },
     "23000": {
@@ -1079,6 +1250,136 @@
         "icon": "icon/light_cone/23020.png",
         "preview": "image/light_cone_preview/23020.png",
         "portrait": "image/light_cone_portrait/23020.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23020.png",
+            "guide/OriginMirror/light_cone/23020.png"
+        ]
+    },
+    "23021": {
+        "id": "23021",
+        "name": "游戏尘寰",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "如同瞬变的烟火，一分钟她也能变幻数十种颜色。\n烟花表演即将结束之时，她坐在高处，无聊地俯视着脚下熙熙攘攘的人群。\n一个个念头游动又消失，狡黠的光在万花筒般的眼眸中流转。\n「想好了，今天就这样玩！」\n她蹦蹦跳跳，在人群中穿梭，金红的尾摆忽隐忽现。\n 「别跟丢啦，最美的烟花，才刚刚开始！」",
+        "icon": "icon/light_cone/23021.png",
+        "preview": "image/light_cone_preview/23021.png",
+        "portrait": "image/light_cone_portrait/23021.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23021.png",
+            "guide/OriginMirror/light_cone/23021.png"
+        ]
+    },
+    "23022": {
+        "id": "23022",
+        "name": "重塑时光之忆",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "点燃蜡烛，摊开纸牌，嗅闻芬芳——\n那些残破的回忆，化作摇荡光影中的面容。\n从火中钻出的幽灵，向她诉说着令人留恋的过去。\n剪切时光，凝固片刻，她将最为珍贵的瞬间化为一个个水晶般的永恒。\n「失去的太多，留下的太少…我们培育记忆，以对抗残酷的时间。」",
+        "icon": "icon/light_cone/23022.png",
+        "preview": "image/light_cone_preview/23022.png",
+        "portrait": "image/light_cone_portrait/23022.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23022.png",
+            "guide/OriginMirror/light_cone/23022.png"
+        ]
+    },
+    "23023": {
+        "id": "23023",
+        "name": "命运从未公平",
+        "rarity": 5,
+        "path": "Knight",
+        "desc": "最后一张牌摊开，沮丧，愤怒，无奈，镇静，百千种情绪瞬间浮现于对手们的脸。\n「来都来了，何不再刺激一点？」 \n他押上所有筹码，自认倒霉者咒骂着退出，暗自期待他的大败。\n输赢、声名、运气…他并不在意，他只是痴迷于那令生命颤抖的时刻——\n在深渊与天堂之间，只有一个选择的距离。\n筹码掷下，哀叹声起，如这般虚幻的满足在尘埃落定后转瞬即逝。\n「所有，或一无所有，但我并无选择的自由……」",
+        "icon": "icon/light_cone/23023.png",
+        "preview": "image/light_cone_preview/23023.png",
+        "portrait": "image/light_cone_portrait/23023.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23023.png"
+        ]
+    },
+    "23024": {
+        "id": "23024",
+        "name": "行于流逝的岸",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "流淌于「有」与「无」的狭间，冰冷的潮水永世冲刷着两岸，将一切带向最终的归宿。\n溺水者于此间呼救，哀歌、欢乐、甜蜜、痛苦倒影其中…她无法经受，却可体会——\n在抵达尽头之前，仍有许多路要走，许多声音要倾听，许多事情可去改变。\n她伸出手，将溺水者从虚无的诱惑中救出，一个又一个幻影在她身后破碎。\n她继续行着，在这无垠的世间，为了一个不存在的终点。\n——而这里永远下着雨。",
+        "icon": "icon/light_cone/23024.png",
+        "preview": "image/light_cone_preview/23024.png",
+        "portrait": "image/light_cone_portrait/23024.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23024.png",
+            "guide/OriginMirror/light_cone/23024.png"
+        ]
+    },
+    "23025": {
+        "id": "23025",
+        "name": "梦应归于何处",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "阿斯德纳星系的边缘。忆海翻涌巨浪，她犹如一粒火星，随时可能在狂风中熄灭。\n 「一个无法做梦的人要进入联觉梦境，付出的可是堪比『死亡』的代价。」\n同伴担忧的声音仍在她耳边回响。她深吸了一口气，潜入忆域。\n随着载具静静地沉入忆域深处，星星点点的萤火从缝隙处逸散，旋即被无边的黑暗吞没。\n 「为何赴死？」\n在越来越深的忆海中，忆域生物发出的微光犹如遥远的眼睛，淡漠地瞥视着她。\n梦对她而言仍旧是太过遥远的事。她空望着无际的黑暗，身体和灵魂在忆质的重压之下早已到达崩溃的临界点。即使察觉到自己的意识逐渐远去，脑海中仍旧只有那些残存的记忆一遍遍重演——\n遮天蔽日的虫群冲破前线，她包裹在火焰中朝向虫群飞去，虫群的灰烬如雪般飘落，下面尽是骑士们漆黑的残骸。\n她还来不及手捧花束，为一位又一位牺牲的铁骑献上最后的纪念。他们的生命瞬息绽放，旋即熄灭，就像一串基因编码，只有数字，未曾拥有自己的姓名。\n 「为何活着？」\n死一般的寂静中，她犹如火焰消融在海水之中，仅存一粒微弱的火星不停朝向光明的地方前进，前进……\n不知过了多久，她睁开眼，似乎看见「未来」犹如一颗珍珠，散发着迷蒙的光芒，她的眼泪顺着脸庞滴落——\n 「为了找到…属于我自己的『梦』……」",
+        "icon": "icon/light_cone/23025.png",
+        "preview": "image/light_cone_preview/23025.png",
+        "portrait": "image/light_cone_portrait/23025.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23025.png"
+        ]
+    },
+    "23026": {
+        "id": "23026",
+        "name": "夜色流光溢彩",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "岁月从镜中流过，青涩的少女已蜕变为游刃有余的歌者。\n她打量着镜中的自己，时间改变了一切，唯有那绿色的眼睛依然如同湖泊般宁静，仿佛在诉说着不渝的信念。\n 「今天看起来兴致很高呢。」\n「是啊…毕竟有很重要的『演出』。」\n「嗯，谐乐大典的彩排就要开始了，请您移步准备室。」\n……\n她走出化妆室，和身后灯火辉煌的剧院渐行渐远。\n「我的舞台不在此处。」\n她闭上双眼，任凭夜色吞没她的影子。\n「从过去，到现在，我的歌声都只是为了……」\n「为了那些失去希望的人们。」",
+        "icon": "icon/light_cone/23026.png",
+        "preview": "image/light_cone_preview/23026.png",
+        "portrait": "image/light_cone_portrait/23026.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23026.png"
+        ]
+    },
+    "23027": {
+        "id": "23027",
+        "name": "驶向第二次生命",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "他仿佛落入深海，一切都离他而去，只余空洞的思维在跳跃与挣扎。\n恐惧、不安、孤独、黑暗、愤怒…那些感受没有随着肉身消散，反而以另一种方式保留在机械的躯壳之中，愈发沉重。\n他听到逝者的呼唤，闻到烧焦的气味，电机的嗡鸣在他的耳边盘旋，蓝色的血液流向他饥渴的心脏…一些残忍的记忆再次浮现，刻骨的仇恨化作黑暗中的微光，他循着光亮朝尽头走去，用尽力气浮出了水面。\n他睁开眼，一簇火花闪过，他听到来自医者的祝贺——\n「欢迎再次来到这个世界。」 \n他握紧双手，如今它们是钢铁的，冰冷的……\n他将不再为自己而活。",
+        "icon": "icon/light_cone/23027.png",
+        "preview": "image/light_cone_preview/23027.png",
+        "portrait": "image/light_cone_portrait/23027.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/23027.png"
+        ]
+    },
+    "23028": {
+        "id": "23028",
+        "name": "偏偏希望无价",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "「慈玉女士，要不是您一直送来物资和善款，福利院恐怕……」\n她轻轻抚摸着孩子们的头，制止了院长的话头。\n「只要我在，不用担心以后的日子…至于这些话，也不必说给孩子们听，增添他们的忧虑。」\n孩子们仰起头，叽叽喳喳与她谈着最近的趣事，烦恼和梦想。\n「慈玉女士，下次来是什么时候？」\n「平时工作不要太累了哦，要早点睡觉……」\n「慈玉女士，长大了我一定要成为和你一样的人！」\n她望着孩子们清澈的双眼，突然愣了一下。\n「和我一样的人……」\n孩子将苹果递给她，「嗯！给别人带来光和希望的人！」\n贫乏、过失、忧愁、苦难…她行走在银河之间，收取他人的抵押，给予等价的回报。\n生命因欲望而存在，因欲望而奔走，因欲望而死去——这是无可抵抗的规律，亦是生命的必然。\n表里不一的慈善家，抵押灵魂的恶商…她被世人赋予诸般身份，也只有她自己才明白这些举止背后的道义。",
+        "icon": "icon/light_cone/23028.png",
+        "preview": "image/light_cone_preview/23028.png",
+        "portrait": "image/light_cone_portrait/23028.png",
+        "guide_overview": []
+    },
+    "23029": {
+        "id": "23029",
+        "name": "那无数个春天",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "几场急雨过后，春潮初涨，碧草丛生。\n「这是第几个春天了？」 \n他想起那些初次奔赴战场的年轻战士。年年岁岁，不同的人，却都是一样的朝气蓬勃、充满希望。\n柳条折尽待君回，最后他们带回故土的…往往是再也无法融化的冰霜。\n鸟鸣悠然，他闭上双眼，任日光透过树叶缝隙扑于脸上。\n——「所以啊，还是留下来的人最寂寞。」",
+        "icon": "icon/light_cone/23029.png",
+        "preview": "image/light_cone_preview/23029.png",
+        "portrait": "image/light_cone_portrait/23029.png",
+        "guide_overview": []
+    },
+    "23030": {
+        "id": "23030",
+        "name": "落日时起舞",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "灿烂的暮色中，一个迅捷的身影在房顶上奔跑。\n「狸狸，果果，看我们谁先到终点！」\n攀上房檐，躲开守卫，随风晃荡，少女如同敏捷的小兽，追逐着最后一丝日光。\n微热的晚风拂过少女的脸，余晖将猫儿染得五彩斑斓。\n「你们赢了！」\n她擦掉额头的汗水，将猫儿抱在怀中。\n群星浮起，她卸下心防的纯真笑颜盛放其中，犹如天边浮动的层层晚霞。",
+        "icon": "icon/light_cone/23030.png",
+        "preview": "image/light_cone_preview/23030.png",
+        "portrait": "image/light_cone_portrait/23030.png",
         "guide_overview": []
     },
     "24000": {
@@ -1135,6 +1436,19 @@
         "guide_overview": [
             "guide/Nwflower/light_cone/24003.png",
             "guide/OriginMirror/light_cone/24003.png"
+        ]
+    },
+    "24004": {
+        "id": "24004",
+        "name": "不息的演算",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "永恒地悬停于虚空之中，\n闪耀的数据如洪流般涌入祂的脑海。\n将过去未来的万物化作符号，\n祂于初始之刻推演终末之时。\n知识，答案，真相……\n信息的迷雾中升腾起璀璨的光，\n于是一切对祂都已澄明。",
+        "icon": "icon/light_cone/24004.png",
+        "preview": "image/light_cone_preview/24004.png",
+        "portrait": "image/light_cone_portrait/24004.png",
+        "guide_overview": [
+            "guide/Nwflower/light_cone/24004.png"
         ]
     }
 }

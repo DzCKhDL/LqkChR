@@ -151,6 +151,14 @@
         "hide_desc": "",
         "hide": false
     },
+    "4013201": {
+        "id": "4013201",
+        "series_id": "1",
+        "title": "Nessun Dorma",
+        "desc": "Suivre la Voie de l'Harmonie",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -412,7 +420,7 @@
         "series_id": "3",
         "title": "Pas de ménage sans Plumeau",
         "desc": "Recueillir des histoires de fantômes avec la brigade de chasse aux fantômes",
-        "hide_desc": "※ Retrouvez Plumeau et emprisonnez les Héliobes en cavale qui sévissent à bord du Luofu...",
+        "hide_desc": "※ Retrouver Plumeau et emprisonner les Héliobes en cavale qui sévissent à bord du Luofu...",
         "hide": false
     },
     "4032802": {
@@ -420,7 +428,7 @@
         "series_id": "3",
         "title": "L'amour du risque",
         "desc": "Explorer les événements surnaturels du Jardin de vulpeflâne avec Guinaifen",
-        "hide_desc": "※ Emprisonnez la grande Cirrus, et résolvez la crise des Héliobes au Jardin de vulpeflâne.",
+        "hide_desc": "※ Emprisonner la grande Cirrus, et résoudre la crise des Héliobes au Jardin de vulpeflâne.",
         "hide": false
     },
     "4032901": {
@@ -428,7 +436,239 @@
         "series_id": "3",
         "title": "Génies et Indigents",
         "desc": "Mettre fin au chaos qui règne à bord de la Station spatiale Herta",
-        "hide_desc": "※ Terminez la continuité pionnière « Couronne du commun et du divin ».",
+        "hide_desc": "※ Terminer la continuité pionnière « Couronne du commun et du divin ».",
+        "hide": false
+    },
+    "4033001": {
+        "id": "4033001",
+        "series_id": "3",
+        "title": "Tu te souviens de moi ?",
+        "desc": "À l'aube de votre aventure, une personne inattendue se joint à vous...",
+        "hide_desc": "※ Rencontrer Achéron au cours d'un étrange rêve",
+        "hide": false
+    },
+    "4033002": {
+        "id": "4033002",
+        "series_id": "3",
+        "title": "{M#Un pionnier}{F#Une pionnière} au Pays des rêves",
+        "desc": "Vous êtes {M#arrivé}{F#arrivée} dans l'incroyable terre des rêves !",
+        "hide_desc": "※ Découvrir l'Heure dorée",
+        "hide": false
+    },
+    "4033003": {
+        "id": "4033003",
+        "series_id": "3",
+        "title": "Nocturne ou la Gentillesse",
+        "desc": "La traversée d'une étoile filante dans le ciel onirique.",
+        "hide_desc": "※ Découvrir les secrets de Luciole à la Frontière des rêves",
+        "hide": false
+    },
+    "4033004": {
+        "id": "4033004",
+        "series_id": "3",
+        "title": "En quête de douceur",
+        "desc": "Découvrir une joie inattendue au Pays des rêves.",
+        "hide_desc": "※ Échapper à l'ombre de la « Mort »",
+        "hide": false
+    },
+    "4033005": {
+        "id": "4033005",
+        "series_id": "3",
+        "title": "Anciens et nouveaux amis",
+        "desc": "Ressentir la chaleur enfouie dans les profondeurs des souvenirs...",
+        "hide_desc": "※ Combattre Sam, le Chasseur de Stellaron",
+        "hide": false
+    },
+    "4033006": {
+        "id": "4033006",
+        "series_id": "3",
+        "title": "If I Can Stop One Heart From Breaking",
+        "desc": "Penacony va s'embraser à cause de ça...",
+        "hide_desc": "※ Assister au second meurtre",
+        "hide": false
+    },
+    "4033007": {
+        "id": "4033007",
+        "series_id": "3",
+        "title": "Sibylle, que désires-tu donc ?",
+        "desc": "Où la chance mènera-t-elle les joueurs ?",
+        "hide_desc": "※ Découvrir la vie d'Akavasha",
+        "hide": false
+    },
+    "4033009": {
+        "id": "4033009",
+        "series_id": "3",
+        "title": "Une goutte d'alcool",
+        "desc": "Santé aux beaux rêves et aux rêveurs !",
+        "hide_desc": "※ Obtenir le cocktail spécial de Gallagher",
+        "hide": false
+    },
+    "4033010": {
+        "id": "4033010",
+        "series_id": "3",
+        "title": "« Je veux mourir », répondit-elle",
+        "desc": "Être aux premières loges pour assister au grand final",
+        "hide_desc": "※ Vaincre Aventurine des Dix cœurs de pierre",
+        "hide": false
+    },
+    "4033011": {
+        "id": "4033011",
+        "series_id": "3",
+        "title": "Pour Icare",
+        "desc": "Revivre le passé sur une terre lointaine",
+        "hide_desc": "※ Écouter la conversation entre Achéron et Welt",
+        "hide": false
+    },
+    "4033201": {
+        "id": "4033201",
+        "series_id": "3",
+        "title": "Le dernier magnat",
+        "desc": "Communier avec l'Horloger",
+        "hide_desc": "※ Rencontrer le premier Sans Nom de Penacony",
+        "hide": false
+    },
+    "4033202": {
+        "id": "4033202",
+        "series_id": "3",
+        "title": "Nous voulons être libres, comme l'étaient nos pères",
+        "desc": "Recevoir l'héritage de l'Horloger",
+        "hide_desc": "※ Continuer le voyage entrepris par le dernier Sans Nom de Penacony",
+        "hide": false
+    },
+    "4033203": {
+        "id": "4033203",
+        "series_id": "3",
+        "title": "Marche dans la lumière",
+        "desc": "Embarquer dans une nouvelle aventure pionnière",
+        "hide_desc": "※ Vaincre le Chœur de l'Harmonie, Dominicus...",
+        "hide": false
+    },
+    "4033204": {
+        "id": "4033204",
+        "series_id": "3",
+        "title": "Nous finîmes par nous réveiller de nos songes",
+        "desc": "Assister aux premières lueurs de l'aube à Penacony",
+        "hide_desc": "Vaincre Sunday « Embryon de la philosophie »",
+        "hide": false
+    },
+    "4033205": {
+        "id": "4033205",
+        "series_id": "3",
+        "title": "La sincérité est le plus puissant des ultimes",
+        "desc": "Faire la paix avec le justicier de Penacony",
+        "hide_desc": "※ Convaincre Argenti lors du Choc des superstars",
+        "hide": true
+    },
+    "4033206": {
+        "id": "4033206",
+        "series_id": "3",
+        "title": "L'ultime est la sincérité éternelle",
+        "desc": "Vaincre le justicier de Penacony",
+        "hide_desc": "※ Vaincre Argenti lors du Choc des superstars",
+        "hide": true
+    },
+    "4033301": {
+        "id": "4033301",
+        "series_id": "3",
+        "title": "Les Fleurs du mal",
+        "desc": "Levons nos verres aux défunts, à l'amertume de la réalité.",
+        "hide_desc": "※ Préparer la boisson spéciale « Rêves amers »",
+        "hide": true
+    },
+    "4033302": {
+        "id": "4033302",
+        "series_id": "3",
+        "title": "La vie est belle",
+        "desc": "Levons nos verres aux défunts, à la douceur du lendemain.",
+        "hide_desc": "※ Préparer la boisson spéciale« Douceur abyssale »",
+        "hide": true
+    },
+    "4033303": {
+        "id": "4033303",
+        "series_id": "3",
+        "title": "Chacun son chemin",
+        "desc": "Faire la rencontre inattendue de l'Astral Express",
+        "hide_desc": "※ En tant que Luciole, tomber sur l'équipage de l'Astral Express à bord du Feldspath radieux",
+        "hide": true
+    },
+    "4033304": {
+        "id": "4033304",
+        "series_id": "3",
+        "title": "Sur la route",
+        "desc": "Croiser l'Astral Express",
+        "hide_desc": "※ En tant que Luciole, chercher attentivement la Boutique Bonajade à bord du Feldspath radieux",
+        "hide": true
+    },
+    "4033305": {
+        "id": "4033305",
+        "series_id": "3",
+        "title": "Ship of Fools",
+        "desc": "Ajouter de nouvelles notes de bas de page à notre destin",
+        "hide_desc": "※ Parvenir à résoudre le problème de la « bombe » et profiter du grand feu d'artifice",
+        "hide": false
+    },
+    "4033306": {
+        "id": "4033306",
+        "series_id": "3",
+        "title": "Dis-moi, Muse",
+        "desc": "Décider du prochain arrêt à Penacony",
+        "hide_desc": "※ Direction Amphoreus, la terre éternelle !",
+        "hide": false
+    },
+    "4033401": {
+        "id": "4033401",
+        "series_id": "3",
+        "title": "Au cœur du combat",
+        "desc": "La rencontre de deux épées",
+        "hide_desc": "※ Assister au combat opposant Yanqing et Yunli",
+        "hide": false
+    },
+    "4033402": {
+        "id": "4033402",
+        "series_id": "3",
+        "title": "Éloquence libre",
+        "desc": "※ Convaincre le spécialiste de la CPI par votre éloquence",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4033403": {
+        "id": "4033403",
+        "series_id": "3",
+        "title": "Persuasion par la force",
+        "desc": "※ Utiliser la force pour « persuader » le Spécialiste de la CPI",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4033404": {
+        "id": "4033404",
+        "series_id": "3",
+        "title": "Conclusion à cercueil ouvert",
+        "desc": "Ouvrir le récipient comme on ouvrirait un cercueil...",
+        "hide_desc": "※ Vaincre Cercueil hurlant, la « dangereuse cargaison » de la CPI",
+        "hide": false
+    },
+    "4033405": {
+        "id": "4033405",
+        "series_id": "3",
+        "title": "Lames du lotus d'automne",
+        "desc": "Accepter les cadeaux de vos maîtres et le poids de leurs attentes",
+        "hide_desc": "※ Commencer l'apprentissage de l'art de l'épée de Xianzhou avec March 7th",
+        "hide": false
+    },
+    "4033406": {
+        "id": "4033406",
+        "series_id": "3",
+        "title": "Briseur de chaînes",
+        "desc": "Évidemment, les plus dangereux des prisonniers se sont évadés",
+        "hide_desc": "※ Rendre visite à Hoolay avec Jiaoqiu",
+        "hide": false
+    },
+    "4033407": {
+        "id": "4033407",
+        "series_id": "3",
+        "title": "L'heure de la chasse",
+        "desc": "Le jeu du prédateur et de la proie n'a pas encore commencé",
+        "hide_desc": "※ Les généraux... s'apprêtent à embarquer",
         "hide": false
     },
     "4040101": {
@@ -727,6 +967,518 @@
         "hide_desc": "",
         "hide": false
     },
+    "4043001": {
+        "id": "4043001",
+        "series_id": "4",
+        "title": "Un petit coin de paradis",
+        "desc": "Activer des ancres spatiales 15 fois à Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043002": {
+        "id": "4043002",
+        "series_id": "4",
+        "title": "Rêves sauce Penacony",
+        "desc": "Ouvrir 120 coffres au trésor à Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043003": {
+        "id": "4043003",
+        "series_id": "4",
+        "title": "Le cosmos à pied",
+        "desc": "Terminer la mission « Abattoir » et découvrir la vérité à l'Hôtel du Pays des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043004": {
+        "id": "4043004",
+        "series_id": "4",
+        "title": "Le poussin piou",
+        "desc": "Aider 1 oiseau en origami à retourner au Grand arbre",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043005": {
+        "id": "4043005",
+        "series_id": "4",
+        "title": "Veux-tu, veux-tu, au Grand arbre me trouver",
+        "desc": "Aider 60 oiseaux en origami à retourner au Grand arbre",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043006": {
+        "id": "4043006",
+        "series_id": "4",
+        "title": "Tout finit par se synchroniser avec le temps",
+        "desc": "Réparer 15 horloges des rêves",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043007": {
+        "id": "4043007",
+        "series_id": "4",
+        "title": "À qui appartient ce rêve ?",
+        "desc": "Être témoin d'étranges merveilles dans le Rêve d'enfant pour la première fois",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043008": {
+        "id": "4043008",
+        "series_id": "4",
+        "title": "On n'est pas aux pièces",
+        "desc": "Utiliser l'Œil du rêve pour créer un passage impossible et le traverser",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043009": {
+        "id": "4043009",
+        "series_id": "4",
+        "title": "Énigmologue",
+        "desc": "Récupérer des récompenses de puzzle onirique 10 fois",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043010": {
+        "id": "4043010",
+        "series_id": "4",
+        "title": "FlyMe2theBalloon",
+        "desc": "Éclater le ballon spécial de Boss Stone dans l'Heure dorée",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043011": {
+        "id": "4043011",
+        "series_id": "4",
+        "title": "Balloon Girl Z",
+        "desc": "Éclater le ballon spécial de Boss Stone à la Frontière des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043012": {
+        "id": "4043012",
+        "series_id": "4",
+        "title": "Balloon Impact 3rd",
+        "desc": "Éclater le ballon spécial de Boss Stone dans Rêve d'enfant",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043013": {
+        "id": "4043013",
+        "series_id": "4",
+        "title": "Balloon : Star Rail",
+        "desc": "Éclater le ballon spécial de Boss Stone à l'Hôtel Rêverie du Pays des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043014": {
+        "id": "4043014",
+        "series_id": "4",
+        "title": "PEGI 18",
+        "desc": "Entrer dans la Taverne Chocmar pour la première fois",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043015": {
+        "id": "4043015",
+        "series_id": "4",
+        "title": "C'est la fin",
+        "desc": "Accéder à la chambre d'hôtel secrète de l'Hôtel Rêverie de la réalité pour la première fois",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043016": {
+        "id": "4043016",
+        "series_id": "4",
+        "title": "Touche-à-tout",
+        "desc": "Utiliser la capacité Marche-rêve et marcher sur un pont de bulle pour la première fois",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043017": {
+        "id": "4043017",
+        "series_id": "4",
+        "title": "Danse avec les loups",
+        "desc": "Récupérer la collection complète des Aventures de Hanu (I)",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043018": {
+        "id": "4043018",
+        "series_id": "4",
+        "title": "Ne sous-estime jamais la rapacité de l'adversaire",
+        "desc": "Faire tomber des objets sans blesser d'ennemi lors des Aventures de Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043019": {
+        "id": "4043019",
+        "series_id": "4",
+        "title": "Évasion éclair",
+        "desc": "Se faire téléporter par une fusée pendant plus de #1 secondes dans les Aventures de Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043020": {
+        "id": "4043020",
+        "series_id": "4",
+        "title": "Alerte maximum",
+        "desc": "Frôler la mort dans les Aventures de Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043021": {
+        "id": "4043021",
+        "series_id": "4",
+        "title": "Apprendre dans son sommeil",
+        "desc": "Collecter 15 éléments de lecture à Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043022": {
+        "id": "4043022",
+        "series_id": "4",
+        "title": "Maman, j'ai raté l'avion",
+        "desc": "Vaincre 3 sbires de Boss Stone simultanément dans un niveau des Aventures de Hanu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043023": {
+        "id": "4043023",
+        "series_id": "4",
+        "title": "Anti-ballon",
+        "desc": "Éclater le ballon spécial de Boss Stone au Parc d'attractions des Studios Chrono",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043024": {
+        "id": "4043024",
+        "series_id": "4",
+        "title": "Contes de la cité des rêves",
+        "desc": "Éclater le ballon spécial de Boss Stone au Manoir de la rosée",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043025": {
+        "id": "4043025",
+        "series_id": "4",
+        "title": "Voiture de sécurité",
+        "desc": "Terminer un tournage sans une égratignure dans n'importe quel mode des séries dérivées de Chronou",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043026": {
+        "id": "4043026",
+        "series_id": "4",
+        "title": "Ligne de course peu conventionnelle",
+        "desc": "Rester sur la voie du milieu pendant #1 s dans n'importe quel mode des séries dérivées de Chronou",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043027": {
+        "id": "4043027",
+        "series_id": "4",
+        "title": "Pole position",
+        "desc": "Récupérer un maximum d'énergie pendant le Dragster hamster ou le Moment de Hanu dans n'importe quel mode des séries dérivées de Chronou",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043028": {
+        "id": "4043028",
+        "series_id": "4",
+        "title": "Le DRS fait toute la différence",
+        "desc": "Faire 10 Turbo accélérations d'affilée dans la série dérivée de Chronou « Fast & Fruits secs »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043029": {
+        "id": "4043029",
+        "series_id": "4",
+        "title": "Lente descente aux enfers",
+        "desc": "Vaincre tous les ennemis qui apparaissent dans la série dérivée de Chronou « La voie du loup »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043030": {
+        "id": "4043030",
+        "series_id": "4",
+        "title": "Une ville de rêve, le paradis des Vieux-Chênes !",
+        "desc": "Entrer pour la première fois dans la maquette du Manoir de la rosée",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043031": {
+        "id": "4043031",
+        "series_id": "4",
+        "title": "L'industrialisation Tisserêve",
+        "desc": "Terminer le défi Marche-rêve au Manoir de la rosée pour gagner des revenus complémentaires",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043032": {
+        "id": "4043032",
+        "series_id": "4",
+        "title": "Tirer les vers du nez",
+        "desc": "Se transformer en Hanu et utiliser le Bazook-Hanu pour vaincre les sbires de Boss Stone une première fois",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043033": {
+        "id": "4043033",
+        "series_id": "4",
+        "title": "Vivre avec un loup",
+        "desc": "Récupérer la collection complète des Aventures de Hanu (II)",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043034": {
+        "id": "4043034",
+        "series_id": "4",
+        "title": "Artillerie lourde",
+        "desc": "Obtenir le maximum de munitions pour le Bazook-Hanu dans les Aventures de Hanu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043035": {
+        "id": "4043035",
+        "series_id": "4",
+        "title": "Fête en cachette",
+        "desc": "Découvrir la zone secrète du Parc d'attractions des Studios Chrono à l'aide du Flipper à bulles",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043036": {
+        "id": "4043036",
+        "series_id": "4",
+        "title": "Pac-Man",
+        "desc": "Détruire tous les objets destructibles dans le labyrinthe du Parc d'attractions des Studios Chrono",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043201": {
+        "id": "4043201",
+        "series_id": "4",
+        "title": "Ballon élyséen",
+        "desc": "Éclater le ballon spécial de Boss Stone au Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043202": {
+        "id": "4043202",
+        "series_id": "4",
+        "title": "Deuxième éruption de ballon",
+        "desc": "Éclater le ballon spécial de Boss Stone à la Salle d'audition d'Écorchesable",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043203": {
+        "id": "4043203",
+        "series_id": "4",
+        "title": "Une odyssée post-ballon",
+        "desc": "Éclater le ballon spécial de Boss Stone au Grand théâtre de Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043205": {
+        "id": "4043205",
+        "series_id": "4",
+        "title": "Nouveaux rêves sauce Penacony",
+        "desc": "Ouvrir 300 coffres au trésor à Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043206": {
+        "id": "4043206",
+        "series_id": "4",
+        "title": "Hyperglycémie",
+        "desc": "Avaler tous les objets Félicitâme dans le défi Fast & Fruits secs de la Salle d'audition d'Écorchesable",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043207": {
+        "id": "4043207",
+        "series_id": "4",
+        "title": "Cui-cui... Impossible de bouger",
+        "desc": "Aider 100 oiseau en origami à retourner au Grand arbre",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043208": {
+        "id": "4043208",
+        "series_id": "4",
+        "title": "Merveille des auditions",
+        "desc": "Découvrir un défi caché depuis l'interface de l'Audition express",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043209": {
+        "id": "4043209",
+        "series_id": "4",
+        "title": "{M#Roi}{F#Reine} des auditions",
+        "desc": "Réussir à déclencher un total de #1 défis cachés de l'Audition express",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043210": {
+        "id": "4043210",
+        "series_id": "4",
+        "title": "{F#Disqualifiée}{M#Disqualifié} !",
+        "desc": "Éclater tous les ballons de Boss Stone à la Place des auditions",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043211": {
+        "id": "4043211",
+        "series_id": "4",
+        "title": "Première victime",
+        "desc": "Réussir le défi de Comb-Hanu une fois",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043212": {
+        "id": "4043212",
+        "series_id": "4",
+        "title": "Comme un loup",
+        "desc": "Faire rebondir toutes les pièces de Boss Stone dans un niveau de « La voie du loup (fin) »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043213": {
+        "id": "4043213",
+        "series_id": "4",
+        "title": "Retour d'un vieux loup dans sa tanière",
+        "desc": "Terminer tous les niveaux de « La voie du loup (fin) »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043214": {
+        "id": "4043214",
+        "series_id": "4",
+        "title": "À pas de loup",
+        "desc": "Vaincre Boss Stone dans un niveau de « La voie du loup (fin) » sans faire rebondir aucune pièce",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043215": {
+        "id": "4043215",
+        "series_id": "4",
+        "title": "15ème victime",
+        "desc": "Terminer tous les défis de Comb-Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043216": {
+        "id": "4043216",
+        "series_id": "4",
+        "title": "Une tuerie",
+        "desc": "Réussir à la perfection tous les défis de Comb-Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043217": {
+        "id": "4043217",
+        "series_id": "4",
+        "title": "Brochette",
+        "desc": "Toucher #1 cibles avec une seule munition dans Comb-Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043218": {
+        "id": "4043218",
+        "series_id": "4",
+        "title": "Ennemi des crocodiles",
+        "desc": "Vaincre le Méca-croco dans le dernier niveau des Aventures de Hanu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043219": {
+        "id": "4043219",
+        "series_id": "4",
+        "title": "Au revoir, Hanunu",
+        "desc": "Récupérer tous les livres d'histoire des Aventures de Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043220": {
+        "id": "4043220",
+        "series_id": "4",
+        "title": "Dernière victime",
+        "desc": "Toucher toutes les cibles pour la première fois dans Comb-Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043221": {
+        "id": "4043221",
+        "series_id": "4",
+        "title": "Héritage de Hanu",
+        "desc": "Trouver le trésor caché dans l'Épreuve de tir des Auditions du festival",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043222": {
+        "id": "4043222",
+        "series_id": "4",
+        "title": "Za Warudo !",
+        "desc": "Toucher #1 cibles en utilisant le Moment Chrono dans Comb-Hanu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043224": {
+        "id": "4043224",
+        "series_id": "4",
+        "title": "Bombardement de saturation",
+        "desc": "Vaincre #1 sbires de Boss Stone simultanément dans un niveau des Aventures de Hanu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043226": {
+        "id": "4043226",
+        "series_id": "4",
+        "title": "Au nom de la Famille",
+        "desc": "Aider les membres de la Famille à récupérer tous les biens volés",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043301": {
+        "id": "4043301",
+        "series_id": "4",
+        "title": "Là-haut",
+        "desc": "Éclater le ballon spécial de Boss Stone sur le {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043302": {
+        "id": "4043302",
+        "series_id": "4",
+        "title": "Pas de fanfare, dommage",
+        "desc": "Secourir l'Horloge en chef sur le {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043401": {
+        "id": "4043401",
+        "series_id": "4",
+        "title": "Vue aérienne",
+        "desc": "Utiliser la mécagrue pour ouvrir le passage secret souterrain",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043402": {
+        "id": "4043402",
+        "series_id": "4",
+        "title": "Coin caché",
+        "desc": "Utiliser la mécagrue pour entrer dans la chambre secrète",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043403": {
+        "id": "4043403",
+        "series_id": "8",
+        "title": "Dure est la porte",
+        "desc": "Fermer les portes de la Prison des enchaînés autour de votre tête",
+        "hide_desc": "",
+        "hide": true
+    },
     "4051001": {
         "id": "4051001",
         "series_id": "5",
@@ -843,7 +1595,7 @@
         "id": "4051110",
         "series_id": "5",
         "title": "Le cycle des objets logiciels",
-        "desc": "Choisir de ne pas formater Petit robot dans la mission « Rarement tendre (partie 2) »",
+        "desc": "Choisir de ne pas formater Petit robot dans la mission « Rarement tendre (II) »",
         "hide_desc": "",
         "hide": true
     },
@@ -1266,7 +2018,7 @@
     "4052406": {
         "id": "4052406",
         "series_id": "5",
-        "title": "{M#Le nouveau conservateur}{F#La nouvelle conservatrice} du musée !",
+        "title": "Sa place est dans un musée !",
         "desc": "Obtenir toutes les pièces d'exposition pour le Musée de l'histoire et de culture de Belobog",
         "hide_desc": "",
         "hide": true
@@ -1395,7 +2147,7 @@
         "id": "4052603",
         "series_id": "5",
         "title": "La paix en avant-première",
-        "desc": "Écouter l'intégralité de l'épisode 1 du programme de la Paix Interastrale",
+        "desc": "Écouter l'intégralité de l'épisode 1 du Programme de la Paix Interastrale",
         "hide_desc": "",
         "hide": false
     },
@@ -2119,6 +2871,1190 @@
         "hide_desc": "",
         "hide": true
     },
+    "4053001": {
+        "id": "4053001",
+        "series_id": "5",
+        "title": "Ne pas secouer avant ouverture",
+        "desc": "Utiliser le Flipper à bulles pour la première fois",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053002": {
+        "id": "4053002",
+        "series_id": "5",
+        "title": "Vers un avenir meilleur",
+        "desc": "Tenir bon face à l'adversité",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053003": {
+        "id": "4053003",
+        "series_id": "5",
+        "title": "Soleil d'été",
+        "desc": "Il est peut-être temps d'abandonner...",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053004": {
+        "id": "4053004",
+        "series_id": "5",
+        "title": "À l'est d'Éden",
+        "desc": "Découvrir l'histoire éphémère d'une superstar intergalactique",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053005": {
+        "id": "4053005",
+        "series_id": "5",
+        "title": "Crime et Châtiment",
+        "desc": "Découvrir l'histoire de « quelqu'un de bien »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053006": {
+        "id": "4053006",
+        "series_id": "5",
+        "title": "Pendant le bal",
+        "desc": "Terminer la mission de compagnon « Mascarade à deux »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053007": {
+        "id": "4053007",
+        "series_id": "5",
+        "title": "Oppenheimer",
+        "desc": "Découvrir la vie difficile d'un scientifique",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053008": {
+        "id": "4053008",
+        "series_id": "5",
+        "title": "Zoologiste du Pays des rêves",
+        "desc": "Dissiper #1 statues de chien",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053009": {
+        "id": "4053009",
+        "series_id": "8",
+        "title": "L'amour de la triche",
+        "desc": "Remporter le prix spécial de la Roue de la chance en trichant",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053010": {
+        "id": "4053010",
+        "series_id": "8",
+        "title": "J'ai dé-cône-é",
+        "desc": "Utiliser le consommable Cône des rêves et lancer une compétence sur la mauvaise cible",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053011": {
+        "id": "4053011",
+        "series_id": "8",
+        "title": "Introduction à la psychanalyse",
+        "desc": "Synthétiser l'un de ces consommables : Moment de la trahison, Bonheur passager, Le moment avant la mort, Ambiance animée, Nuages du doute ou Moment de liberté",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053012": {
+        "id": "4053012",
+        "series_id": "5",
+        "title": "Le vrai goût des émotions",
+        "desc": "À quoi sert le pouvoir de la Pendule ?",
+        "hide_desc": "※ Guider les émotions d'#1 personne du Pays des rêves",
+        "hide": false
+    },
+    "4053014": {
+        "id": "4053014",
+        "series_id": "5",
+        "title": "Vague de chaleur",
+        "desc": "Le pouvoir de la Pendule peut aider les gens à se redécouvrir.",
+        "hide_desc": "※ Résoudre #1 événement imprévu grâce au pouvoir de la Pendule",
+        "hide": false
+    },
+    "4053015": {
+        "id": "4053015",
+        "series_id": "5",
+        "title": "Tambour battant",
+        "desc": "Dans les rêves, les émotions sont réelles.",
+        "hide_desc": "※ Récupérer #1 engrenage émotionnel",
+        "hide": false
+    },
+    "4053016": {
+        "id": "4053016",
+        "series_id": "5",
+        "title": "Je sais ce à quoi tu penses",
+        "desc": "Comment résister à la tentation de la thérapie ?",
+        "hide_desc": "※ Guider les émotions d'au moins #1 personnes du Pays des rêves",
+        "hide": false
+    },
+    "4053017": {
+        "id": "4053017",
+        "series_id": "5",
+        "title": "Ma voiture à moi",
+        "desc": "Garer votre voiture au parking exclusif de l'Hôtel Rêverie",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053018": {
+        "id": "4053018",
+        "series_id": "5",
+        "title": "Retour sur investissement",
+        "desc": "Gagner suffisamment d'argent en travaillant comme taxi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053019": {
+        "id": "4053019",
+        "series_id": "5",
+        "title": "Le numéro que vous avez composé n'est pas attribué",
+        "desc": "Certaines portes resteront toujours fermées",
+        "hide_desc": "※ Appeler un numéro injoignable",
+        "hide": false
+    },
+    "4053020": {
+        "id": "4053020",
+        "series_id": "5",
+        "title": "Santé, mais pas des pieds",
+        "desc": "Faire {F#l'entremetteuse}{M#l'entremetteur} entre un vin bon marché et une coupe en cristal",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053021": {
+        "id": "4053021",
+        "series_id": "5",
+        "title": "Crystal on the rocks",
+        "desc": "Faire {F#l'entremetteuse}{M#l'entremetteur} entre du rhum et une coupe en cristal",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053022": {
+        "id": "4053022",
+        "series_id": "5",
+        "title": "Le champagne, ça vous gagne",
+        "desc": "Faire {F#l'entremetteuse}{M#l'entremetteur} entre du champagne et une coupe en cristal",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053023": {
+        "id": "4053023",
+        "series_id": "5",
+        "title": "Évitez de ramasser n'importe quoi",
+        "desc": "Toutes les légendes urbaines ne sont pas que des légendes",
+        "hide_desc": " ※ Ramasser une étrange cassette",
+        "hide": false
+    },
+    "4053024": {
+        "id": "4053024",
+        "series_id": "5",
+        "title": "Le loup de l'avenue Glaux",
+        "desc": "Découvrir pourquoi la Fontaine à sous est bloquée",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053025": {
+        "id": "4053025",
+        "series_id": "5",
+        "title": "La folie du jeu",
+        "desc": "Assister à la fin de l'histoire du légendaire Dieu des paris",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053026": {
+        "id": "4053026",
+        "series_id": "5",
+        "title": "Ange déchu",
+        "desc": "Découvrir la véritable origine de Xunsang",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053027": {
+        "id": "4053027",
+        "series_id": "5",
+        "title": "Angles d'attaque",
+        "desc": "Alors... qui a percuté qui ?",
+        "hide_desc": "※ Être témoin des circonstances de l'accident de voiture de l'avenue Glaux",
+        "hide": false
+    },
+    "4053028": {
+        "id": "4053028",
+        "series_id": "5",
+        "title": "Pepeshi, merveilleux Pepeshi",
+        "desc": "Pepeshi ? Ou créature mémétique ?",
+        "hide_desc": "※ Découvrir la véritable identité du « Pepeshi » du Hall de l'hôtel",
+        "hide": false
+    },
+    "4053029": {
+        "id": "4053029",
+        "series_id": "5",
+        "title": "La planète des festivités et six crédits Grand-Trèfle",
+        "desc": "Lequel est le plus important, l'amour ou les rêves ?",
+        "hide_desc": "※ Découvrir l'histoire d'une famille déchirée par ses rêves",
+        "hide": false
+    },
+    "4053030": {
+        "id": "4053030",
+        "series_id": "5",
+        "title": "Prise en charge psychologique",
+        "desc": "Il faut préserver l'environnement",
+        "hide_desc": "※ Aider Go-Ray à recycler les ordures du Pays des rêves",
+        "hide": false
+    },
+    "4053031": {
+        "id": "4053031",
+        "series_id": "5",
+        "title": "L'Interprétation des rêves",
+        "desc": "Utiliser l'Appel onirique et visiter les rêves de 7 personnes",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053032": {
+        "id": "4053032",
+        "series_id": "5",
+        "title": "Amis de tous horizons",
+        "desc": "Rencontrer tous les types de panneaux publicitaires",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053033": {
+        "id": "4053033",
+        "series_id": "5",
+        "title": "Besoin de rien, envie de joie",
+        "desc": "Que se passe-t-il lorsqu'un musicien joyeux est encore plus joyeux ?",
+        "hide_desc": "※ Apporter encore plus de joie à la musique de Max",
+        "hide": false
+    },
+    "4053034": {
+        "id": "4053034",
+        "series_id": "5",
+        "title": "Sur la Voie de la Voracité...",
+        "desc": "Manger le cône danseur de Vitali",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053035": {
+        "id": "4053035",
+        "series_id": "5",
+        "title": "Pays des merveilles",
+        "desc": "Écouter les mystérieux chuchotements des différents objets du Pays des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053036": {
+        "id": "4053036",
+        "series_id": "5",
+        "title": "Entre ciel et toi",
+        "desc": "Visiter à nouveau la planque secrète {F#seule}{M#seul}",
+        "hide_desc": "※ Retourner dans la planque secrète de Luciole après que tout soit terminé",
+        "hide": false
+    },
+    "4053037": {
+        "id": "4053037",
+        "series_id": "5",
+        "title": "Tu vois cette montagne ?",
+        "desc": "Essayer de gravir l'échelle à la Frontière des rêves",
+        "hide_desc": "※ En fait, c'est impossible.",
+        "hide": false
+    },
+    "4053038": {
+        "id": "4053038",
+        "series_id": "5",
+        "title": "Chute d'eau gravitationnelle",
+        "desc": "Admirer une chute d'eau spéciale dans le Rêve d'enfant",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053039": {
+        "id": "4053039",
+        "series_id": "5",
+        "title": "{M#Chanceux}{F#Chanceuse}",
+        "desc": "Accumuler plus de #1 jetons Aideen",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053040": {
+        "id": "4053040",
+        "series_id": "5",
+        "title": "J'adore ce jeu",
+        "desc": "Découvrir le prix ultime caché dans le Jackpot onirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053041": {
+        "id": "4053041",
+        "series_id": "5",
+        "title": "Où sont les Pepeshi ?",
+        "desc": "Parler à Cielo avec un personnage plus petit qu'elle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053042": {
+        "id": "4053042",
+        "series_id": "5",
+        "title": "Déjà-vu",
+        "desc": "Découvrir les « paysages » familiers du Pays des rêves",
+        "hide_desc": "※ Eh oui, c'est une poubelle !",
+        "hide": false
+    },
+    "4053043": {
+        "id": "4053043",
+        "series_id": "5",
+        "title": "Poubelle la vie",
+        "desc": "Défier toutes les Poubelles vénérables de l'Hôtel Rêverie, de l'Heure dorée, du Rêve d'enfant et de la Frontière des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053044": {
+        "id": "4053044",
+        "series_id": "5",
+        "title": "Fenêtre sur cour",
+        "desc": "Inspecter toutes les chambres verrouillées de l'hôtel",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053045": {
+        "id": "4053045",
+        "series_id": "5",
+        "title": "{F#Ennemie}{M#Ennemi} des Pepeshi",
+        "desc": "Offenser tous les Pepeshi que vous rencontrez de manière outrageuse",
+        "hide_desc": "※ Essayer de toucher la boule de poils de tous les Pepeshi de l'Heure dorée",
+        "hide": false
+    },
+    "4053046": {
+        "id": "4053046",
+        "series_id": "5",
+        "title": "Sans Nom sans scrupule",
+        "desc": "Montrer à Pom-Pom une bulle onirique spécifique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053047": {
+        "id": "4053047",
+        "series_id": "5",
+        "title": "La Porte des étoiles",
+        "desc": "Pirate ou aventurière ?",
+        "hide_desc": "※ Écouter les histoires de Colleen à propos de l'univers",
+        "hide": false
+    },
+    "4053048": {
+        "id": "4053048",
+        "series_id": "5",
+        "title": "Incroyable",
+        "desc": "Être témoin d'une « incroyable vision »",
+        "hide_desc": "※ Recueillir les avis des membres de la Famille au sujet du projet de la Frontière des rêves",
+        "hide": false
+    },
+    "4053049": {
+        "id": "4053049",
+        "series_id": "5",
+        "title": "I have a dream",
+        "desc": "Tout ici est le fruit de MA créativité !",
+        "hide_desc": "※ Aider Emmrich à réaliser son plan",
+        "hide": false
+    },
+    "4053050": {
+        "id": "4053050",
+        "series_id": "5",
+        "title": "Entre rêve et réalité",
+        "desc": "Après tout, les humains ne peuvent pas se comprendre",
+        "hide_desc": "※ Écouter la conversation entre Larose et Forla",
+        "hide": false
+    },
+    "4053051": {
+        "id": "4053051",
+        "series_id": "5",
+        "title": "Un long au revoir",
+        "desc": "Puisse-t-elle dire adieu à son lourd passé",
+        "hide_desc": "※ Découvrir l'histoire de Lou Archer",
+        "hide": false
+    },
+    "4053052": {
+        "id": "4053052",
+        "series_id": "5",
+        "title": "Jamais deux sans trois",
+        "desc": "Manger trop de cônes croustillants d'un coup dans l'Heure dorée...",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053053": {
+        "id": "4053053",
+        "series_id": "5",
+        "title": "Les sciences économiques d'Oti",
+        "desc": "Si tout le monde reçoit de l'argent, alors personne n'est vraiment gagnant",
+        "hide_desc": "※ Déclencher à plusieurs reprises la fontaine à sous dans la rue",
+        "hide": false
+    },
+    "4053054": {
+        "id": "4053054",
+        "series_id": "5",
+        "title": "Fréquentation : 0",
+        "desc": "Faire en sorte que le bolide Mercéleste classe X perde ses fans",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053055": {
+        "id": "4053055",
+        "series_id": "5",
+        "title": "Membre de la LPO",
+        "desc": "Devenir {M#un expert}{F#une experte} en ornithologie au Manoir de la rosée",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053056": {
+        "id": "4053056",
+        "series_id": "5",
+        "title": "Le plus grand bien",
+        "desc": "Obtenir les #1 produits dérivés de Chronou",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053057": {
+        "id": "4053057",
+        "series_id": "5",
+        "title": "La cabane dans les bois",
+        "desc": "Être témoin de l'étrange expérience de cinq personnes au Parc d'attractions des Studios Chrono",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053058": {
+        "id": "4053058",
+        "series_id": "5",
+        "title": "Preuves et Réfutations",
+        "desc": "Dépenser une fortune pour acheter un produit auprès du propriétaire de restaurant lors d'une conversation",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053059": {
+        "id": "4053059",
+        "series_id": "5",
+        "title": "Une variation nommée « moi »",
+        "desc": "Rencontrer un détective aux traits particuliers du Parc d'attractions des Studios Chrono",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053060": {
+        "id": "4053060",
+        "series_id": "5",
+        "title": "La Dame en or",
+        "desc": "Examiner le portrait d'un artiste célèbre au Manoir de la rosée",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053061": {
+        "id": "4053061",
+        "series_id": "5",
+        "title": "Seigneur de la guerre",
+        "desc": "Traduire Oksana en justice",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053062": {
+        "id": "4053062",
+        "series_id": "5",
+        "title": "Mieux vaut tard que jamais",
+        "desc": "Remettre Oksana aux Fin-Limier",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053063": {
+        "id": "4053063",
+        "series_id": "5",
+        "title": "Déshonneur de l'héritage",
+        "desc": "Laisser Oksana partir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053064": {
+        "id": "4053064",
+        "series_id": "5",
+        "title": "As du cocktail",
+        "desc": "Créer votre cocktail signature à la Taverne Chocmar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053065": {
+        "id": "4053065",
+        "series_id": "5",
+        "title": "Des rêves en bulles",
+        "desc": "Aider tous les monstres de la Taverne Chocmar à apaiser leurs tourments",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053066": {
+        "id": "4053066",
+        "series_id": "5",
+        "title": "À chacun sa boisson",
+        "desc": "Servir #1 bonnes commandes à la clientèle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053067": {
+        "id": "4053067",
+        "series_id": "5",
+        "title": "Omakase",
+        "desc": "Servir #1 mauvaises commandes à la clientèle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053068": {
+        "id": "4053068",
+        "series_id": "5",
+        "title": "Marmiton n'a qu'à bien se tenir",
+        "desc": "Trouver toutes les recettes de cocktails de la Taverne Chocmar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053070": {
+        "id": "4053070",
+        "series_id": "5",
+        "title": "Portrait de famille",
+        "desc": "Prendre une photo de famille de l'équipage de l'Astral Express au stand photo du Parc d'attractions des Studios Chrono",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053071": {
+        "id": "4053071",
+        "series_id": "5",
+        "title": "Et on sourit !",
+        "desc": "Prendre une photo de groupe au stand photo du Parc d'attractions des Studios Chrono",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053201": {
+        "id": "4053201",
+        "series_id": "5",
+        "title": "L'Histoire en bouteille",
+        "desc": "Explorer les quatre grands trésors de la cave à soda à la Salle d'audition d'Écorchesable",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053202": {
+        "id": "4053202",
+        "series_id": "5",
+        "title": "L'Histoire d'un médicament sirupeux",
+        "desc": "Trouver la réserve de collection de la cave à soda à la Salle d'audition d'Écorchesable",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053203": {
+        "id": "4053203",
+        "series_id": "5",
+        "title": "Or et machine... et temps ?",
+        "desc": "Découvrir le mystère derrière la capacité de Chronou à transformer la pierre en or à la Salle d'audition d'Écorchesable",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053204": {
+        "id": "4053204",
+        "series_id": "5",
+        "title": "Une ombre errante",
+        "desc": "Écouter les histoires des huit poupées sur la scène du Grand théâtre de Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053205": {
+        "id": "4053205",
+        "series_id": "5",
+        "title": "Autocollants à foison",
+        "desc": "Atteindre 100 % de progression pour toutes les pages du Pass onirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053206": {
+        "id": "4053206",
+        "series_id": "5",
+        "title": "Chant des rêves inachevé",
+        "desc": "Convaincre Orla de se réveiller du Pays des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053207": {
+        "id": "4053207",
+        "series_id": "5",
+        "title": "Partez",
+        "desc": "Laisser partir Orla et ses compagnons",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053208": {
+        "id": "4053208",
+        "series_id": "5",
+        "title": "Naissance de l'Union de Hanu",
+        "desc": "Aider tous les employés publiciaires à s'échapper dans la publicité Le gros coup de Hanu pour Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053209": {
+        "id": "4053209",
+        "series_id": "5",
+        "title": "{F#Ambassadrice}{M#Ambassadeur} Félicitâme",
+        "desc": "Marcher sur toutes les dalles Félicitâme sur toutes les cartes de la publicité Chronou le fana de soda pour Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053210": {
+        "id": "4053210",
+        "series_id": "5",
+        "title": "Le Magicien de Rêvopolis",
+        "desc": "Assurez-vous que tous les plans correspondent aux objectifs du réalisateur dans Ascension des Beaux rêves pour Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053211": {
+        "id": "4053211",
+        "series_id": "5",
+        "title": "Chronou et ses amis",
+        "desc": "Aider les animateurs de la saga Au fil des beaux rêves à créer les séries dérivées",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053212": {
+        "id": "4053212",
+        "series_id": "5",
+        "title": "Railboard 100",
+        "desc": "Obtenir le disque de Robin",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053213": {
+        "id": "4053213",
+        "series_id": "5",
+        "title": "Canot de sauvetage",
+        "desc": "Aider le Félicitâme à accomplir son rêve de devenir une superstar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053214": {
+        "id": "4053214",
+        "series_id": "5",
+        "title": "Groupe de travail onirique",
+        "desc": "Créer un nouveau lieu de vie pour les vagabonds",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053215": {
+        "id": "4053215",
+        "series_id": "5",
+        "title": "Murmure d'un ange",
+        "desc": "Assister à la chute de l'Émanateur des poubelles",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053216": {
+        "id": "4053216",
+        "series_id": "5",
+        "title": "La plume qu'il a perdue",
+        "desc": "Aider Robin à rassembler des indices sur Sunday",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053217": {
+        "id": "4053217",
+        "series_id": "5",
+        "title": "Carte d'embarquement permanente",
+        "desc": "Utiliser le sphéroïde jusqu'à l'étrange gare du Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053218": {
+        "id": "4053218",
+        "series_id": "5",
+        "title": "Cowabunga !",
+        "desc": "Trouver les sept plaques d'égout spéciales au Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053219": {
+        "id": "4053219",
+        "series_id": "5",
+        "title": "Triste splendeur",
+        "desc": "Retrouver la trace de Chronou dans la cage d'ascenseur au Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053220": {
+        "id": "4053220",
+        "series_id": "5",
+        "title": "Merveille temporelle",
+        "desc": "Terminer la mission d'aventure « Il était une fois à Rêvopolis... »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053221": {
+        "id": "4053221",
+        "series_id": "5",
+        "title": "Murmures du passé",
+        "desc": "Terminer le montage de toutes les fins d'Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053222": {
+        "id": "4053222",
+        "series_id": "5",
+        "title": "Top 100 du Pays des rêves",
+        "desc": "Atteindre un score d'audience de #1 pour l'Anthologie dans Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053223": {
+        "id": "4053223",
+        "series_id": "5",
+        "title": "Trop-plein d'émotions",
+        "desc": "Cumuler une valeur minimale de #1 pour les trois émotions du public dans Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053224": {
+        "id": "4053224",
+        "series_id": "5",
+        "title": "La génération perdue",
+        "desc": "Explorer un embranchement narratif spécial dans Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053225": {
+        "id": "4053225",
+        "series_id": "5",
+        "title": "Film à gros budget",
+        "desc": "Obtenir au moins #1 dés temporels#2 en un seul tour dans Au fil des beaux rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053226": {
+        "id": "4053226",
+        "series_id": "5",
+        "title": "Mention passable",
+        "desc": "Lors de la projection test d'Au fil des beaux rêves, toutes les valeurs d'émotion correspondent exactement aux conditions requises.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053227": {
+        "id": "4053227",
+        "series_id": "5",
+        "title": "Rail Road, Take Me Home",
+        "desc": "Entrer dans le Rêve d'enfant par la bulle onirique de l'Horloger au Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053228": {
+        "id": "4053228",
+        "series_id": "5",
+        "title": "Où vas-tu, Mikhail ?",
+        "desc": "J'ai emprunté la voie qui m'était destinée",
+        "hide_desc": "※ Alors que retombe la poussière, retourner là où l'enfant observe la Lune",
+        "hide": false
+    },
+    "4053229": {
+        "id": "4053229",
+        "series_id": "5",
+        "title": "Attention à la boîte",
+        "desc": "Escalader la montagne faite de boîtes en bois au Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053230": {
+        "id": "4053230",
+        "series_id": "5",
+        "title": "En attendant Godot",
+        "desc": "Attendre patiemment l'arrivée du train fantôme",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053231": {
+        "id": "4053231",
+        "series_id": "5",
+        "title": "Un canapé où il fait bon s'asseoir",
+        "desc": "Profiter d'un court moment de répit sur le canapé au Bastion flonirique",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053232": {
+        "id": "4053232",
+        "series_id": "5",
+        "title": "La ville de l'amour",
+        "desc": "Aider le panneau Hamza Mour à transmettre un message à son amoureuse",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053301": {
+        "id": "4053301",
+        "series_id": "5",
+        "title": "On ne parle pas affaires au Continental",
+        "desc": "Terminer la mission d'aventure « Formalités de départ »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053302": {
+        "id": "4053302",
+        "series_id": "5",
+        "title": "Le Requiem du roi des roses",
+        "desc": "Terminer la mission d'aventure « Film sombre de la Finalité »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053303": {
+        "id": "4053303",
+        "series_id": "5",
+        "title": "Mon capitaine, mon navire",
+        "desc": "Terminer la mission d'aventure « Retour à bon port »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053304": {
+        "id": "4053304",
+        "series_id": "5",
+        "title": "Photo de groupe imprévue",
+        "desc": "Prendre une photo de groupe pendant l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053305": {
+        "id": "4053305",
+        "series_id": "5",
+        "title": "Rubis Oméga",
+        "desc": "Placer le Faucon argenté, le Colibri coloré et le Pigeon voyageur sur des machines d'arcade du même côté lors de l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053306": {
+        "id": "4053306",
+        "series_id": "5",
+        "title": "Saphir Alpha",
+        "desc": "Placer Pigeon voyageur et Marchareux sur des machines d'arcade adjacentes lors de l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053307": {
+        "id": "4053307",
+        "series_id": "5",
+        "title": "Roue-coups",
+        "desc": "Déclencher les capacités des oiseaux en origami #1 fois pendant un match de l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053308": {
+        "id": "4053308",
+        "series_id": "5",
+        "title": "Angry Origami Birds",
+        "desc": "Déclencher manuellement des combinaisons de bombes #1 fois pendant un match de l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053309": {
+        "id": "4053309",
+        "series_id": "5",
+        "title": "T'es cui-cuit !",
+        "desc": "Atteindre une puissance de combat de #1 pendant un match de l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053310": {
+        "id": "4053310",
+        "series_id": "5",
+        "title": "Safari origami",
+        "desc": "Remporter la victoire dans tous les défis libres de l'événement Rififruit chez les oiseaux en origami",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053311": {
+        "id": "4053311",
+        "series_id": "5",
+        "title": "Une étoile est née",
+        "desc": "Assigner les artistes qui conviennent à la scène du {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053312": {
+        "id": "4053312",
+        "series_id": "5",
+        "title": "Need for Speed",
+        "desc": "Garer la voiture dans l'emplacement spécial sur le {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053313": {
+        "id": "4053313",
+        "series_id": "5",
+        "title": "Une toile en Famille",
+        "desc": "Utiliser le projecteur sur le {TEXTJOIN#87} et inviter l'équipage de l'Astral Express à venir voir la projection",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053315": {
+        "id": "4053315",
+        "series_id": "5",
+        "title": "Dix-huit Poubelles vénérables",
+        "desc": "Terminer tous les défis de la Poubelle des épreuves sur le {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053316": {
+        "id": "4053316",
+        "series_id": "5",
+        "title": "VeinEx",
+        "desc": "Recevoir le colis d'Aventurine sur le {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053317": {
+        "id": "4053317",
+        "series_id": "5",
+        "title": "Touche pas à ma télé !",
+        "desc": "Acheter la télévision de Hanu avec des jetons pour capsules dorés et l'installer dans la voiture de l'Astral Express",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053318": {
+        "id": "4053318",
+        "series_id": "5",
+        "title": "L'Accusé",
+        "desc": "Se transformer en Hanu pour entrer dans les chambres des membres de l'équipage",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053319": {
+        "id": "4053319",
+        "series_id": "5",
+        "title": "Marchandise autofinancée",
+        "desc": "Obtenir le produit dérivé {NICKNAME} du capitaine",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053320": {
+        "id": "4053320",
+        "series_id": "5",
+        "title": "L'ombre {M#du}{F#de la} capitaine",
+        "desc": "Parler avec le panneau publicitaire du Capitaine {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053321": {
+        "id": "4053321",
+        "series_id": "8",
+        "title": "Le client est roi",
+        "desc": "Se faire réprimander pour avoir joué dans la piscine du {TEXTJOIN#87} avant de l'acquérir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053322": {
+        "id": "4053322",
+        "series_id": "5",
+        "title": "Derrière le miroir noir",
+        "desc": "Activer la vidéosurveillance dans la salle de contrôle et observer la coque du {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053323": {
+        "id": "4053323",
+        "series_id": "5",
+        "title": "Regain de prestige",
+        "desc": "Renommer le Feldspath radieux et le repeindre",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053324": {
+        "id": "4053324",
+        "series_id": "5",
+        "title": "Les Villes invisibles",
+        "desc": "Utiliser le télescope à bord du {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053325": {
+        "id": "4053325",
+        "series_id": "5",
+        "title": "Je suis le maître du monde",
+        "desc": "Regarder au loin sur la proue du {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053326": {
+        "id": "4053326",
+        "series_id": "5",
+        "title": "Chair de poule",
+        "desc": "Lire toutes les émotions de Bella avec le pouvoir de la Pendule",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053327": {
+        "id": "4053327",
+        "series_id": "5",
+        "title": "The Evil Within",
+        "desc": "Lire toutes les émotions heureuses de Stefano avec le pouvoir de la Pendule",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053328": {
+        "id": "4053328",
+        "series_id": "5",
+        "title": "Jetons dorés étoilés",
+        "desc": "Collecter tous les jetons pour capsules dorés à Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053329": {
+        "id": "4053329",
+        "series_id": "5",
+        "title": "Ô capitaine, mon capitaine !",
+        "desc": "Entrer dans la cabine du capitaine du {TEXTJOIN#87} pour la première fois",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053401": {
+        "id": "4053401",
+        "series_id": "5",
+        "title": "L'épée dans la pierre et l'âme dans le ciel",
+        "desc": "Terminer la mission de compagnon « De l'épée à la bêche »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053402": {
+        "id": "4053402",
+        "series_id": "5",
+        "title": "Lame du fil des saisons",
+        "desc": "Maîtriser n'importe quel art de l'épée supérieur au rang « Épéiste née » lors de l'événement « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053403": {
+        "id": "4053403",
+        "series_id": "5",
+        "title": "L'affilage de la lame contre les nuages",
+        "desc": "Atteindre le rang « Symbiose avec la lame » dans la progression à l'épée lors de l'événement « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053404": {
+        "id": "4053404",
+        "series_id": "5",
+        "title": "Rasoir d'Occam",
+        "desc": "Terminer toutes les fins dans « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053405": {
+        "id": "4053405",
+        "series_id": "5",
+        "title": "Surpuissante mais trop prudente",
+        "desc": "Obtenir un score de #2 dans #1 stats de March 7th pendant l'événement « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053407": {
+        "id": "4053407",
+        "series_id": "5",
+        "title": "Survol du plateau",
+        "desc": "Atteindre #1 de stats d'entraînement en un seul tour dans « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053408": {
+        "id": "4053408",
+        "series_id": "5",
+        "title": "Épopée du tourisme primordial",
+        "desc": "Planifier des sessions d'apprentissage composées uniquement d'excursions sans aucun entraînement à l'épée dans « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053409": {
+        "id": "4053409",
+        "series_id": "5",
+        "title": "March 7th ne peut fonctionner sans amusement",
+        "desc": "S'entraîner jusqu'à ce que le moral de March 7th tombe à #1 dans « Épopée de l'épée primordiale »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053410": {
+        "id": "4053410",
+        "series_id": "5",
+        "title": "Doppelbatter galactique",
+        "desc": "Confronter Tut-tut « l'informe » qui se fait passer pour vous et prouver votre identité",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053411": {
+        "id": "4053411",
+        "series_id": "5",
+        "title": "Commission Inter-nœud",
+        "desc": "Aider Shiratori à retrouver son chemin dans le noir le plus complet",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053412": {
+        "id": "4053412",
+        "series_id": "5",
+        "title": "Guide touristique de Xianzhou",
+        "desc": "Rencontrer les touristes pepeshi et omnitron à bord du Luofu de Xianzhou",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053413": {
+        "id": "4053413",
+        "series_id": "5",
+        "title": "Parmi cinq personnes, trois se sont échappées",
+        "desc": "Trouver les fugitifs cachés dans la Prison des enchaînés et assister au jugement des géôliers",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053414": {
+        "id": "4053414",
+        "series_id": "5",
+        "title": "Où sont les victimes du mara ?",
+        "desc": "Mettre la main sur le document Une étude du mara perdu depuis longtemps et découvrir la raison de sa disparition",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053415": {
+        "id": "4053415",
+        "series_id": "5",
+        "title": "Credo de la garde de l'ombre",
+        "desc": "Choisir de contempler l'abîme depuis les hauteurs de la Prison des enchaînés",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053416": {
+        "id": "4053416",
+        "series_id": "5",
+        "title": "Trahison du credo de la garde de l'ombre",
+        "desc": "S'éloigner des hauteurs de la Prison des enchaînés",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053417": {
+        "id": "4053417",
+        "series_id": "5",
+        "title": "Droit de visite",
+        "desc": "Activer la mécagrue et visiter #1 cellules de prison du dernier étage en tant qu'{F#invitée}{M#invité}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053418": {
+        "id": "4053418",
+        "series_id": "5",
+        "title": "Faux souvenirs",
+        "desc": "Examiner la porte en pierre et se rappeler de la scène « Parmi cinq personnes, trois doivent payer le prix... »",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053420": {
+        "id": "4053420",
+        "series_id": "5",
+        "title": "Arnaque à la vente",
+        "desc": "Terminer une transaction avec un membre du Groupe correctionnel d'Arma dans la Prison des enchaînés",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053421": {
+        "id": "4053421",
+        "series_id": "5",
+        "title": "Cube²",
+        "desc": "Terminer tous les casse-tête Hexanexus V2 dans la Prison des enchaînés",
+        "hide_desc": "",
+        "hide": true
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -2827,7 +4763,7 @@
         "id": "4071401",
         "series_id": "7",
         "title": "Deus Ex Machina",
-        "desc": "Infliger Rupture de faiblesse à des ennemis 3 fois avec {M#le pionnier}{F#la pionnière} (Destruction) au cours d'un même combat",
+        "desc": "Infliger Rupture de faiblesse à des ennemis 3 fois avec {M#le pionnier}{F#la pionnière} (La Destruction) au cours d'un même combat",
         "hide_desc": "",
         "hide": true
     },
@@ -3259,7 +5195,7 @@
         "id": "4072609",
         "series_id": "8",
         "title": "Full Metal Racket",
-        "desc": "Engager le combat en phase d'exploration en attaquant un ennemi à distance avec Natasha",
+        "desc": "Engager le combat en attaquant un ennemi à distance ou briser un objet destructible à distance avec Natasha en phase d'exploration",
         "hide_desc": "",
         "hide": true
     },
@@ -3371,7 +5307,7 @@
         "id": "4072901",
         "series_id": "7",
         "title": "Dans l'obscurité absolue",
-        "desc": "Infliger une Rupture de faiblesse au Roi de l'Essaim briseur d'étoiles après sa première utilisation de « Carapace du désastre nourri »",
+        "desc": "Infliger une Rupture de faiblesse au Roi de l'Essaim briseur d'étoiles après qu'il a utilisé « Carapace du désastre nourri »",
         "hide_desc": "",
         "hide": true
     },
@@ -3387,7 +5323,7 @@
         "id": "4072903",
         "series_id": "7",
         "title": "Au nom de la Beauté",
-        "desc": "Aucune des invocations de la Lance, du Bouclier ou de « L'Honneur » n'entre en état Âme libérée au cours du combat contre Argenti.",
+        "desc": "Aucune des invocations de la Lance, du Bouclier ou de « L'Honneur » n'entre en état Âme libérée au cours du combat contre Argenti",
         "hide_desc": "",
         "hide": true
     },
@@ -3422,6 +5358,350 @@
         "desc": "Déclencher l'attaque de suivi du talent de Dr Ratio, Cogito, Ergo Sum, pendant 4 tours consécutifs au cours d'un même combat",
         "hide_desc": "",
         "hide": false
+    },
+    "4073001": {
+        "id": "4073001",
+        "series_id": "7",
+        "title": "Cauchemar en cuisine",
+        "desc": "Vaincre 2 ennemis en utilisant l'« Accident de cuisine » déclenché par le Brasérosaure de la Troupe Chocmar au cours d'un même combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073002": {
+        "id": "4073002",
+        "series_id": "7",
+        "title": "Surprise pour tout le monde",
+        "desc": "Faire en sorte que 3 Écrantateurs de la Troupe Chocmar passent dans l'état Chaîne de variété consécutivement au cours d'un même combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073003": {
+        "id": "4073003",
+        "series_id": "7",
+        "title": "Gare à la poubelle",
+        "desc": "Avoir #1 allié vaincu par la Poubelle vénérable",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073004": {
+        "id": "4073004",
+        "series_id": "7",
+        "title": "Tout est prédestiné",
+        "desc": "Appliquer au moins #1 cumuls d'Arcanes aux ennemis grâce à la technique « Du mythe à la réalité » de Cygne noir et entrer en combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073005": {
+        "id": "4073005",
+        "series_id": "7",
+        "title": "T—T—Toutes mes excuses !",
+        "desc": "Utiliser l'ultime de Micha « J—Je vais être en retard ! » et geler au moins #1 ennemis en une seule attaque",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073006": {
+        "id": "4073006",
+        "series_id": "7",
+        "title": "Plaisir d'offrir",
+        "desc": "Utiliser l'ultime de Sparkle « Personnage aux mille visages » et gagner #1 points de compétence au cours d'un même combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073007": {
+        "id": "4073007",
+        "series_id": "7",
+        "title": "Boisson sans sucre",
+        "desc": "Faire rebondir #1 bouteilles de soda du Limogorille de la Troupe Chocmar avec un bouclier en un seul combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073008": {
+        "id": "4073008",
+        "series_id": "7",
+        "title": "Memento Mori",
+        "desc": "Vaincre la Créature mémorielle « Projection de la mort » avec un seul personnage capable d'agir",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073009": {
+        "id": "4073009",
+        "series_id": "7",
+        "title": "Combustion silencieuse",
+        "desc": "Au cours du combat contre Sam, le Chasseur de Stellaron, Sam n'utilise pas « DHGDR : Surcharge supernova » quand l'effet Combustion secondaire est supprimé.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073010": {
+        "id": "4073010",
+        "series_id": "7",
+        "title": "Enflamme mon cœur, que mon corps brûle",
+        "desc": "Utiliser des points de compétence calcinés pour réduire les PV d'#1 allié en dessous de #2% au cours du combat contre Sam, le Chasseur de Stellaron",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073011": {
+        "id": "4073011",
+        "series_id": "7",
+        "title": "Double six",
+        "desc": "Provoquer au moins #1 Tout ou rien en une seule attaque pour obtenir #2 points à la fois au cours du combat contre Aventurine du Stratagème (Dix cœurs de pierre)",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073012": {
+        "id": "4073012",
+        "series_id": "7",
+        "title": "All My People, All My People...",
+        "desc": "Avoir #1 personnages dans l'équipe qui gagnent la Partie au cours du même tour dans le combat contre Aventurine du Stratagème (Dix cœurs de pierre)",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073013": {
+        "id": "4073013",
+        "series_id": "7",
+        "title": "Lady Snowblood",
+        "desc": "Utiliser l'ultime d'Achéron « Rêve flétri écarlate » pour vaincre tous les ennemis et remporter la victoire au cours d'un même combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073014": {
+        "id": "4073014",
+        "series_id": "7",
+        "title": "Vol de blindes",
+        "desc": "Utiliser l'ultime d'Aventurine « Roi de la roulette » pour récupérer #2 Paris aveugles lorsque Pari aveugle est à #1 au cours d'un même combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073015": {
+        "id": "4073015",
+        "series_id": "7",
+        "title": "Éradiquer la chaleur",
+        "desc": "Supprimer tous les cumuls de Brasier obscur de la Créature mémorielle « Carapace de colère réprimée » lorsqu'ils sont au maximum lors d'une Rupture de faiblesse",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073016": {
+        "id": "4073016",
+        "series_id": "7",
+        "title": "Combattre le feu par le feu",
+        "desc": "Vaincre la Créature mémorielle « Carapace de colère réprimée » sans lui infliger de Rupture de faiblesse au cours du même combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073017": {
+        "id": "4073017",
+        "series_id": "7",
+        "title": "Évaluation des performances",
+        "desc": "Utiliser Aventurine pour vaincre le Chef d'équipe et porter le coup de grâce",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073201": {
+        "id": "4073201",
+        "series_id": "7",
+        "title": "JACKPOT !",
+        "desc": "Faire en sorte que le Distributeur de chance de la Troupe Chocmar produise un « Jackpot ! » une fois",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073202": {
+        "id": "4073202",
+        "series_id": "7",
+        "title": "Soap opéra",
+        "desc": "Faire en sorte que #1 personnages entrent en état de sommeil face à « Futur harmonieux »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073203": {
+        "id": "4073203",
+        "series_id": "7",
+        "title": "Jeu de la passion",
+        "desc": "Faire en sorte qu'un personnage subisse tous les DGT de la capacité Évangile de la cage du « Passé enchaîné » sans tomber à terre",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073204": {
+        "id": "4073204",
+        "series_id": "7",
+        "title": "Œuvre chorale",
+        "desc": "« Représentation du passé, présent et de l'éternel » désigne #1 ennemis comme Juge 1 fois à tour de rôle lors de sa première phase",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073205": {
+        "id": "4073205",
+        "series_id": "7",
+        "title": "Pièce en un acte",
+        "desc": "La formation ennemie n'utilise pas plus d'une fois Danse de la loi unique lors de la deuxième phase de la « Représentation du passé, présent et de l'éternel »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073206": {
+        "id": "4073206",
+        "series_id": "7",
+        "title": "Fragment littéraire",
+        "desc": "Interrompre l'état de charge de « Présent ivre de la fête »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073207": {
+        "id": "4073207",
+        "series_id": "7",
+        "title": "Le temps d'une chanson",
+        "desc": "Écouter le chant de Robin",
+        "hide_desc": "※ En combat, consulter les Détails du combat en temps réel plus de #1 secondes après l'utilisation de l'ultime de Robin « Vox Harmonique, Opus Cosmique »",
+        "hide": false
+    },
+    "4073208": {
+        "id": "4073208",
+        "series_id": "7",
+        "title": "Le Joueur de flûte de Hamelin",
+        "desc": "Charmer au moins #1 ennemis à suivre Robin après utilisation de sa technique « Prélude à l'ivresse »",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073209": {
+        "id": "4073209",
+        "series_id": "7",
+        "title": "Pas de danse ultime !",
+        "desc": "Utiliser l'effet Soutien sur scène de l'ultime « Performance sur scène » {F#de la protagoniste}{M#du protagoniste} de l'Harmonie {NICKNAME} pour vaincre un ennemi élite",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073210": {
+        "id": "4073210",
+        "series_id": "7",
+        "title": "Roulette russe",
+        "desc": "Rassembler en combat un total de #1 cumuls d'Avantage en poche sur un tour avec le Fossoyeur dans votre équipe",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073211": {
+        "id": "4073211",
+        "series_id": "7",
+        "title": "Jour travaillé sans Dieu",
+        "desc": "Infliger une Rupture de faiblesse à tous les Échos des rêves passés avant que Septimus « Chœur de l'Harmonie » n'utilise « Volteggiando » ou « Tempestoso »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073212": {
+        "id": "4073212",
+        "series_id": "7",
+        "title": "Puis lundi arriva...",
+        "desc": "Bénéficier d'une valeur de bouclier suffisamment élevée pour totalement bloquer la capacité de Sunday « Embryon de la philosophie » « Au commencement était l'action »",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073301": {
+        "id": "4073301",
+        "series_id": "7",
+        "title": "Équipe spéciale de la planète des festivités",
+        "desc": "Remporter 1 combat avec une équipe composée de Topaz et Compti, Dr Ratio, Aventurine et Jade",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073302": {
+        "id": "4073302",
+        "series_id": "7",
+        "title": "Cousu de fil blanc",
+        "desc": "Remporter 1 combat avec une équipe composée de Louve d'argent, Blade, Kafka et Luciole",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073303": {
+        "id": "4073303",
+        "series_id": "7",
+        "title": "Le Contracteur",
+        "desc": "Réduire à #1 les PV d'un allié sous l'effet Agent de recouvrement de dettes de la compétence de Jade",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073304": {
+        "id": "4073304",
+        "series_id": "7",
+        "title": "À toi, SAM",
+        "desc": "Utiliser Luciole pour combattre Kafka et subir l'effet Dominé",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073305": {
+        "id": "4073305",
+        "series_id": "7",
+        "title": "Je vais déchaîner des océans de flammes !",
+        "desc": "Utiliser Surcharge de l'étoile mourante de Lampyroptère type IV de SAM #1 fois avant la fin de Combustion complète pendant un combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073306": {
+        "id": "4073306",
+        "series_id": "7",
+        "title": "Après l'été",
+        "desc": "Remporter 1 combat avec une équipe composée de Luciole et {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073401": {
+        "id": "4073401",
+        "series_id": "7",
+        "title": "À la poursuite de l'épée",
+        "desc": "Remporter #1 combat contre la Poubelle vénérable avec une équipe composée de Yunli",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073402": {
+        "id": "4073402",
+        "series_id": "7",
+        "title": "Chaud-froid",
+        "desc": "Déclencher les répliques d'ATQ normale de Tingyun et Jiaoqiu en vitesse ×1 au cours du même combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073403": {
+        "id": "4073403",
+        "series_id": "7",
+        "title": "J'ai demandé à la Lune",
+        "desc": "Dissiper la Folie lunaire de tous les ennemis avant la fin du compte à rebours de Folie lunaire",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073404": {
+        "id": "4073404",
+        "series_id": "7",
+        "title": "La Peur au Placard",
+        "desc": "Dissiper tous les états Emprise de la peur appliqués par le Cercueil hurlant à votre équipe au cours d'un même combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073405": {
+        "id": "4073405",
+        "series_id": "7",
+        "title": "Le chien de Frankenstein",
+        "desc": "Recevoir un coup fatal par Cercueil hurlant alors affecté par l'état Terrifié",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073406": {
+        "id": "4073406",
+        "series_id": "7",
+        "title": "Soirée culture G",
+        "desc": "Utiliser la compétence de March 7th de la Chasse « Maître, c'est l'heure du thé ! » sur #1 personnages différents",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073407": {
+        "id": "4073407",
+        "series_id": "7",
+        "title": "Ça c'est de la bonne",
+        "desc": "Faire apparaître un soda aux haricots mungo en utilisant la compétence de March 7th de la Chasse « Maître, c'est l'heure du thé ! » au cours d'un combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073408": {
+        "id": "4073408",
+        "series_id": "7",
+        "title": "Misandao",
+        "desc": "Déclencher « Sens de l'éradication » de Yunli #1 fois au cours du même combat",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -3715,7 +5995,7 @@
         "id": "4082607",
         "series_id": "8",
         "title": "Astral Express-ion",
-        "desc": "Envoyer des autocollants de l'équipage de l'Astral Express à 20 amis",
+        "desc": "Envoyer 20 autocollants de l'équipage de l'Astral Express",
         "hide_desc": "",
         "hide": true
     },
@@ -3844,6 +6124,102 @@
         "series_id": "8",
         "title": "Mission impossible ?",
         "desc": "Vaincre Phantylie avec l'ATQ normale de Huohuo « Bannière de tempête »",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083001": {
+        "id": "4083001",
+        "series_id": "8",
+        "title": "À pas feutrés",
+        "desc": "Traverser le même pont de bulle plusieurs fois en utilisant la capacité Marche-rêve",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083002": {
+        "id": "4083002",
+        "series_id": "8",
+        "title": "Parallaxe",
+        "desc": "Interagir avec l'Œil du rêve #2 fois ou plus en #1 minutes",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083003": {
+        "id": "4083003",
+        "series_id": "8",
+        "title": "Pourquoi les oiseaux volent-ils ?",
+        "desc": "Interagir #2 fois ou plus avec les modules oniriques de contrôle en forme d'oiseau en #1 minute",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083004": {
+        "id": "4083004",
+        "series_id": "8",
+        "title": "Triangle impossible",
+        "desc": "Ajuster votre perspective et former le Triangle de Penrose à la Frontière des rêves",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083006": {
+        "id": "4083006",
+        "series_id": "8",
+        "title": "Les règles sont faites pour être transgressées...",
+        "desc": "Enfreindre le code de la route et se faire percuter par une voiture à Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083007": {
+        "id": "4083007",
+        "series_id": "8",
+        "title": "Panneau publicitaire en approche !",
+        "desc": "Faire en sorte qu'un véhicule percute un panneau publicitaire",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083008": {
+        "id": "4083008",
+        "series_id": "8",
+        "title": "Toute vérité doit circuler comme l'argent",
+        "desc": "Participer à #1 combat en utilisant Dr Ratio comme soutien",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083009": {
+        "id": "4083009",
+        "series_id": "7",
+        "title": "Le jugement divin est impartial",
+        "desc": "Utiliser la technique d'Achéron « Chemin de la réalisation » pour vaincre #1 ennemis à la fois en mode exploration",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083010": {
+        "id": "4083010",
+        "series_id": "8",
+        "title": "Pourquoi cet oiseau en origami est-il si grand ?",
+        "desc": "Sortir le Grand oiseau en origami du Manoir de la rosée",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4083202": {
+        "id": "4083202",
+        "series_id": "8",
+        "title": "Bien réfléchir avant d'agir",
+        "desc": "Après avoir placé un pont de bulles sur un module onirique, déplacer le module onirique sans traverser le pont de bulles",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083203": {
+        "id": "4083203",
+        "series_id": "8",
+        "title": "Chacun paie sa part",
+        "desc": "※ Déclencher les répliques « Compétence 1 » d'Aventurine et « Rupture de faiblesse en début de combat » du Fossoyeur au cours du même combat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083301": {
+        "id": "4083301",
+        "series_id": "8",
+        "title": "L'invité est roi",
+        "desc": "Se faire réprimander pour avoir joué dans la piscine du {TEXTJOIN#87} avant de l'acquérir",
         "hide_desc": "",
         "hide": true
     },
@@ -4274,7 +6650,7 @@
     "4092350": {
         "id": "4092350",
         "series_id": "9",
-        "title": "Si je peux empêcher un cœur de se briser",
+        "title": "If I Can Stop One Heart From Breaking",
         "desc": "Terminer l'Univers simulé au niveau de difficulté 2 ou plus sans détruire d'objets destructibles",
         "hide_desc": "",
         "hide": true
@@ -4323,7 +6699,7 @@
         "id": "4092602",
         "series_id": "9",
         "title": "The Hunter Games",
-        "desc": "Capturer 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
+        "desc": "Capturer plus de 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
         "hide_desc": "",
         "hide": true
     },
@@ -4723,7 +7099,7 @@
         "id": "4092912",
         "series_id": "9",
         "title": "{F#Employée}{M#Employé} de rang D",
-        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commerciale mécanique de la Paix Interastrale (II) dans Or et machines",
+        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commercial mécanique de la Paix Interastrale (II) dans Or et machines",
         "hide_desc": "",
         "hide": true
     },
@@ -4755,7 +7131,7 @@
         "id": "4092916",
         "series_id": "9",
         "title": "Cochons décochés",
-        "desc": "Avoir éliminé au moins 15 Magorets en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
+        "desc": "Avoir éliminé au moins 15 Magorets en combat en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
         "hide_desc": "",
         "hide": false
     },
@@ -4930,7 +7306,7 @@
     "4092938": {
         "id": "4092938",
         "series_id": "9",
-        "title": "Tous surveillés par des machines d’amour et de grâce",
+        "title": "Tous surveillés par des machines d'amour et de grâce",
         "desc": "Survivre à 10 Extrapolation(s) de résonance ou plus au cours d'un même combat dans Or et machines",
         "hide_desc": "",
         "hide": true

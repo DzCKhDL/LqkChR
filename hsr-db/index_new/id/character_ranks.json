@@ -309,7 +309,7 @@
         "id": "100401",
         "name": "Legacy of Honor",
         "rank": 1,
-        "desc": "Setelah melancarkan Ultimate, Welt akan mendapat peningkatan kekuatan. 2 Basic Attack atau Skill setelahnya akan mengakibatkan 1 kali DMG tambahan pada target musuh. DMG Multiplier dari DMG tambahan yang disebabkan Basic Attack adalah 50% dari Basic ATK Welt, sedangkan DMG Multiplier dari DMG tambahan yang disebabkan Skill adalah 80% dari Skill Welt.",
+        "desc": "Setelah melancarkan Ultimate, Welt akan mendapat peningkatan kekuatan. 2 Basic Attack atau Skill setelahnya akan mengakibatkan 1 kali DMG Tambahan pada target musuh. DMG Multiplier dari DMG Tambahan yang disebabkan Basic Attack adalah 50% dari DMG Multiplier Basic Attack Welt, sedangkan DMG Multiplier dari DMG Tambahan yang disebabkan Skill adalah 80% dari DMG Multiplier Skill Welt.",
         "materials": [
             {
                 "id": "11004",
@@ -615,7 +615,7 @@
         "id": "100801",
         "name": "To the Bitter End",
         "rank": 1,
-        "desc": "Saat persentase HP saat ini kurang dari atau sama dengan 50%, Skill DMG meningkat 10%.",
+        "desc": "Saat persentase HP saat ini kurang dari atau sama dengan 50%, DMG yang diakibatkan Skill meningkat 10%.",
         "materials": [
             {
                 "id": "11008",
@@ -703,7 +703,7 @@
         "id": "100806",
         "name": "Self-Sacrifice",
         "rank": 6,
-        "desc": "Saat persentase HP saat ini kurang dari atau sama dengan 50%, meningkatkan 20% Ultimate DMG dan DMG Multiplier pada musuh sekitar target akan meningkat hingga sebesar DMG Multiplier pada target.",
+        "desc": "Saat persentase HP saat ini kurang dari atau sama dengan 50%, meningkatkan 20% DMG yang diakibatkan Ultimate dan DMG Multiplier pada musuh di sekitar target akan meningkat hingga sebesar DMG Multiplier pada target utama.",
         "materials": [
             {
                 "id": "11008",
@@ -972,7 +972,7 @@
         "id": "110104",
         "name": "Take by Surprise",
         "rank": 4,
-        "desc": "Setelah karakter lain melancarkan Basic Attack pada target musuh dengan Wind Weakness, Bronya akan segera melancarkan 1 Serangan Lanjutan yang mengakibatkan Wind DMG sebesar 80% DMG Basic Attack Bronya pada target tersebut. Efek ini dapat dipicu sekali setiap giliran.",
+        "desc": "Setelah karakter lain melancarkan Basic Attack pada target musuh dengan Wind Weakness, Bronya akan segera melancarkan 1 kali Serangan Lanjutan yang mengakibatkan Wind DMG sebesar 80% Basic Attack DMG Bronya pada target tersebut. Efek ini dapat dipicu sekali setiap giliran.",
         "materials": [
             {
                 "id": "11101",
@@ -1111,7 +1111,7 @@
         "id": "110206",
         "name": "Shattering Shambles",
         "rank": 6,
-        "desc": "Setelah melancarkan Ultimate, musuh yang diserang akan memasuki status \"Butterfly Flurry\" selama 1 giliran. Target musuh yang berada dalam status \"Butterfly Flurry\" akan menerima Quantum DMG tambahan sebesar 15% DMG Ultimate Seele setiap kali terkena serangan. Jika target musuh gugur akibat DMG \"Butterfly Flurry\" yang dipicu oleh rekan lain, maka Talent Seele tidak akan terpicu.\\nJika Seele gugur, maka status \"Butterfly Flurry\" yang ada pada musuh akan dihapus.",
+        "desc": "Setelah melancarkan Ultimate, musuh yang diserang akan memasuki status \"Butterfly Flurry\" selama 1 giliran. Target musuh yang berada dalam status \"Butterfly Flurry\" akan menerima Quantum DMG tambahan sebesar 15% dari Ultimate DMG Seele setiap kali terkena serangan. Jika target tersebut gugur akibat DMG Tambahan dari \"Butterfly Flurry\" yang dipicu oleh rekan lain, maka Talent Seele tidak akan terpicu.\\nJika Seele gugur, maka status \"Butterfly Flurry\" yang ada pada musuh akan dihapus.",
         "materials": [
             {
                 "id": "11102",
@@ -1125,7 +1125,7 @@
         "id": "110301",
         "name": "Echo Chamber",
         "rank": 1,
-        "desc": "Basic Attack mengakibatkan Lightning DMG sebesar 60% DMG Basic ATK pada 1 musuh di sekitar target secara acak.",
+        "desc": "Basic Attack mengakibatkan Lightning DMG sebesar 60% dari Basic Attack DMG pada 1 musuh di sekitar target secara acak.",
         "materials": [
             {
                 "id": "11103",
@@ -1894,7 +1894,7 @@
         "id": "111004",
         "name": "Dusk of Warm Campfire",
         "rank": 4,
-        "desc": "Saat target mendapatkan \"Survival Response\", ATK target tersebut akan meningkat sebesar ('3.0', '.1f')% Max HP Lynx selama 1 giliran.",
+        "desc": "Saat target mendapatkan \"Survival Response\", ATK target tersebut akan meningkat sebesar 3.0% Max HP Lynx selama 1 giliran.",
         "materials": [
             {
                 "id": "11110",
@@ -1931,7 +1931,7 @@
         "id": "111006",
         "name": "Dawn of Explorers' Chart",
         "rank": 6,
-        "desc": "Peningkatan Max HP dari \"Survival Response\" akan meningkat lagi sebesar ('6.00000001', '.1f')% Max HP Lynx, serta meningkatkan Effect RES sebesar 30%.",
+        "desc": "Peningkatan Max HP dari \"Survival Response\" akan meningkat lagi sebesar 6.0% Max HP Lynx, serta meningkatkan Effect RES sebesar 30%.",
         "materials": [
             {
                 "id": "11110",
@@ -2204,7 +2204,7 @@
         "id": "120104",
         "name": "Right on the Tiles",
         "rank": 4,
-        "desc": "Setelah melancarkan Skill, memiliki 24% peluang tetap untuk memperoleh status \"Autarky\" hingga akhir giliran saat ini.\\nSetelah melancarkan Basic Attack atau Enhanced Basic Attack dalam status \"Autarky\", Qingque akan langsung melancarkan 1 Serangan Lanjutan yang mengakibatkan Quantum DMG pada target sebesar 100% dari Basic Attack DMG atau Enhanced Basic Attack DMG.",
+        "desc": "Setelah melancarkan Skill, memiliki 24% peluang tetap untuk memperoleh status \"Self-Sufficer\" hingga akhir giliran saat ini.\\nSetelah melancarkan Basic Attack atau Enhanced Basic Attack dalam status \"Self-Sufficer\", Qingque akan langsung melancarkan 1 Serangan Lanjutan yang mengakibatkan Quantum DMG pada target sebesar 100% dari Basic Attack DMG atau Enhanced Basic Attack DMG.",
         "materials": [
             {
                 "id": "11201",
@@ -2361,7 +2361,7 @@
         "id": "120301",
         "name": "Ablution of the Quick",
         "rank": 1,
-        "desc": "Meningkatkan 20% ATK seluruh rekan tim saat Field aktif.",
+        "desc": "Meningkatkan 20% ATK seluruh rekan tim saat area pembatas aktif.",
         "materials": [
             {
                 "id": "11203",
@@ -2412,7 +2412,7 @@
         "id": "120304",
         "name": "Heavy Lies the Crown",
         "rank": 4,
-        "desc": "Membuat target musuh memasuki status Weaken saat Field aktif, mengurangi 12% DMG yang diakibatkannya.",
+        "desc": "Membuat target musuh memasuki status Weaken saat area pembatas aktif, mengurangi 12% DMG yang diakibatkannya.",
         "materials": [
             {
                 "id": "11203",
@@ -2657,7 +2657,7 @@
         "id": "120506",
         "name": "Reborn Into an Empty Husk",
         "rank": 6,
-        "desc": "Jumlah maksimum lapisan Charge berkurang menjadi 4 lapis. DMG dari Serangan Lanjutan yang dipicu Talent meningkat sebesar 50% Max HP Blade.",
+        "desc": "Jumlah maksimum lapisan Charge berkurang menjadi 4 lapis. DMG yang diakibatkan Serangan Lanjutan yang dipicu Talent meningkat sebesar 50% Max HP Blade.",
         "materials": [
             {
                 "id": "11205",
@@ -2963,7 +2963,7 @@
         "id": "120806",
         "name": "Omnia Vita",
         "rank": 6,
-        "desc": "Saat \"Matrix of Prescience\" aktif, ia akan menghitung akumulasi jumlah HP yang berkurang dari seluruh rekan tim dalam pertempuran kali ini. DMG Ultimate yang diakibatkan Fu Xuan akan meningkat sebesar 200% dari perhitungan akumulasi jumlah HP seluruh rekan tim yang berkurang di pertempuran kali ini.\\nJumlah perhitungan akumulasi HP yang berkurang dari seluruh rekan tim tidak dapat melebihi 120% Max HP Fu Xuan. Setelah melancarkan Ultimate, perhitungan jumlah akumulasi akan direset ulang dan diakumulasi kembali.",
+        "desc": "Saat \"Matrix of Prescience\" aktif, ia akan menghitung akumulasi jumlah HP yang berkurang dari seluruh rekan tim dalam pertempuran kali ini. DMG yang diakibatkan Ultimate Fu Xuan akan meningkat sebesar 200% dari perhitungan akumulasi jumlah HP seluruh rekan tim yang berkurang di pertempuran kali ini.\\nJumlah perhitungan akumulasi HP yang berkurang dari seluruh rekan tim tidak dapat melebihi 120% Max HP Fu Xuan. Setelah melancarkan Ultimate, perhitungan jumlah akumulasi akan direset ulang dan diakumulasi kembali.",
         "materials": [
             {
                 "id": "11208",
@@ -3721,7 +3721,7 @@
         "id": "121702",
         "name": "Sealed in Tail, Wraith Subdued",
         "rank": 2,
-        "desc": "Saat Huohuo memiliki \"Divine Provision\", jika rekan yang ditarget terkena serangan mematikan, rekan tersebut tidak akan gugur dan HP dia akan segera dipulihkan sebesar 50% Max HP rekan tersebut. Hal ini akan mengurangi durasi \"Divine Provision\" sebanyak 1 giliran. Efek ini dapat terpicu 2 kali dalam satu pertempuran.",
+        "desc": "Saat Huohuo memiliki \"Divine Provision\", jika rekan tim terkena serangan mematikan, rekan tersebut tidak akan gugur dan HP-nya akan segera dipulihkan sebesar 50% Max HP rekan tersebut. Hal ini akan mengurangi durasi \"Divine Provision\" sebanyak 1 giliran. Efek ini dapat terpicu 2 kali dalam 1 pertempuran.",
         "materials": [
             {
                 "id": "11217",
@@ -3804,6 +3804,422 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1217_rank6.png"
+    },
+    "121801": {
+        "id": "121801",
+        "name": "Pentapathic Transference",
+        "rank": 1,
+        "desc": "Meningkatkan 40% DMG yang diakibatkan rekan tim pada target musuh berstatus \"Ashen Roast\". Setiap kali membuat target musuh memasuki status \"Ashen Roast\" melalui efek Talent, maka jumlah lapisan \"Ashen Roast\" yang ditambahkan kali ini bertambah ekstra 1 lapis.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank1.png"
+    },
+    "121802": {
+        "id": "121802",
+        "name": "From Savor Comes Suffer",
+        "rank": 2,
+        "desc": "Saat target musuh berada dalam status \"Ashen Roast\", DMG Multiplier dari Fire DoT yang diakibatkan \"Ashen Roast\" pada target tersebut meningkat 300%.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank2.png"
+    },
+    "121803": {
+        "id": "121803",
+        "name": "Flavored Euphony Reigns Supreme",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "121802",
+                "num": 2
+            },
+            {
+                "id": "121801",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1218_skill.png"
+    },
+    "121804": {
+        "id": "121804",
+        "name": "Leisure In, Luster Out",
+        "rank": 4,
+        "desc": "Selama area pembatas ada, ATK target musuh berkurang 15%.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank4.png"
+    },
+    "121805": {
+        "id": "121805",
+        "name": "Duel in Dawn, Dash in Dusk",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "121803",
+                "num": 2
+            },
+            {
+                "id": "121804",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1218_ultimate.png"
+    },
+    "121806": {
+        "id": "121806",
+        "name": "Nonamorphic Pyrobind",
+        "rank": 6,
+        "desc": "Saat target musuh dikalahkan, lapisan \"Ashen Roast\" yang dimilikinya akan ditumpuk ke musuh dengan jumlah lapisan \"Ashen Roast\" tersedikit yang masih hidup di medan pertempuran. Batas maksimum jumlah lapisan \"Ashen Roast\" bertambah menjadi 9, dan setiap lapis \"Ashen Roast\" akan membuat RES Seluruh Tipe target berkurang 3%.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank6.png"
+    },
+    "122101": {
+        "id": "122101",
+        "name": "Weathered Blade Does Not Sully",
+        "rank": 1,
+        "desc": "DMG yang diakibatkan \"Intuit: Slash\" dan \"Intuit: Cull\" meningkat 20%, jumlah tambahan DMG dari \"Intuit: Cull\" bertambah 3.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank1.png"
+    },
+    "122102": {
+        "id": "122102",
+        "name": "First Luster Breaks Dawn",
+        "rank": 2,
+        "desc": "Saat mengakibatkan DMG dengan melancarkan Serangan Balasan, akan mengabaikan 20% DEF target musuh.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank2.png"
+    },
+    "122103": {
+        "id": "122103",
+        "name": "Mastlength Twirls Mountweight",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122103",
+                "num": 2
+            },
+            {
+                "id": "122101",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1221_skill.png"
+    },
+    "122104": {
+        "id": "122104",
+        "name": "Artisan's Ironsong",
+        "rank": 4,
+        "desc": "Setelah melancarkan \"Intuit: Slash\" atau \"Intuit: Cull\", akan meningkatkan 50% Effect RES diri sendiri, berlangsung selama 1 giliran.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank4.png"
+    },
+    "122105": {
+        "id": "122105",
+        "name": "Blade of Old Outlasts All",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122102",
+                "num": 2
+            },
+            {
+                "id": "122104",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1221_ultimate.png"
+    },
+    "122106": {
+        "id": "122106",
+        "name": "Walk in Blade, Talk in Zither",
+        "rank": 6,
+        "desc": "Selama durasi \"Parry\", saat musuh melancarkan kemampuan secara aktif, \"Intuit: Cull\" akan terpicu dan menghapus efek \"Parry\" tanpa peduli apakah musuh tersebut menyerang Yunli atau tidak. Saat melancarkan \"Intuit: Slash\" atau \"Intuit: Cull\" untuk mengakibatkan DMG, CRIT Rate Yunli akan meningkat 15%, dan Physical RES PEN akan meningkat 20%.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank6.png"
+    },
+    "122401": {
+        "id": "122401",
+        "name": "My Sword Stirs Starlight",
+        "rank": 1,
+        "desc": "Saat \"Shifu\" berada di medan pertempuran, SPD March 7th akan meningkat 10%.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank1.png"
+    },
+    "122402": {
+        "id": "122402",
+        "name": "Blade Dances on Waves' Fight",
+        "rank": 2,
+        "desc": "Setiap kali setelah \"Shifu\" melancarkan Basic Attack atau Skill untuk menyerang target musuh, March 7th akan segera melancarkan Serangan Lanjutan, mengakibatkan Imaginary DMG sebesar 60% ATK March 7th pada target utama serangan kali ini, dan memicu efek yang sesuai dengan Path \"Shifu\", lalu memperoleh 1 poin Charge. Jika tidak ada target utama yang dapat diserang, maka akan menyerang 1 musuh secara acak. Efek ini maksimal dapat dipicu 1 kali di setiap giliran.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank2.png"
+    },
+    "122403": {
+        "id": "122403",
+        "name": "Sharp Wit in Martial Might",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122402",
+                "num": 2
+            },
+            {
+                "id": "122401",
+                "num": 1
+            },
+            {
+                "id": "122408",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1224_skill.png"
+    },
+    "122404": {
+        "id": "122404",
+        "name": "Being Fabulous Never Frights",
+        "rank": 4,
+        "desc": "Saat giliran dimulai, akan memulihkan 5 Energy.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank4.png"
+    },
+    "122405": {
+        "id": "122405",
+        "name": "Sword Delights, Sugar Blights",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122403",
+                "num": 2
+            },
+            {
+                "id": "122404",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1224_ultimate.png"
+    },
+    "122406": {
+        "id": "122406",
+        "name": "Me, the Best Girl in Sight",
+        "rank": 6,
+        "desc": "Setelah melancarkan Ultimate, CRIT DMG yang diakibatkan Enhanced Basic Attack berikutnya akan meningkat 50%.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank6.png"
+    },
+    "130101": {
+        "id": "130101",
+        "name": "Salty Dog",
+        "rank": 1,
+        "desc": "Gallagher akan memulihkan 20 Energy setelah memasuki pertempuran, dan meningkatkan 50% Effect RES dirinya.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank1.png"
+    },
+    "130102": {
+        "id": "130102",
+        "name": "Lion's Tail",
+        "rank": 2,
+        "desc": "Saat melancarkan Skill, akan menghilangkan 1 Debuff dari 1 rekan tim yang ditargetkan. Di saat bersamaan, akan meningkatkan 30% Effect RES rekan tersebut, berlangsung selama 2 giliran.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank2.png"
+    },
+    "130103": {
+        "id": "130103",
+        "name": "Corpse Reviver",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130102",
+                "num": 2
+            },
+            {
+                "id": "130101",
+                "num": 1
+            },
+            {
+                "id": "130108",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1301_skill.png"
+    },
+    "130104": {
+        "id": "130104",
+        "name": "Last Word",
+        "rank": 4,
+        "desc": "Meningkatkan durasi status \"Besotted\" yang diakibatkan Ultimate Gallagher sebanyak 1 giliran.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank4.png"
+    },
+    "130105": {
+        "id": "130105",
+        "name": "Death in the Afternoon",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130103",
+                "num": 2
+            },
+            {
+                "id": "130104",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1301_ultimate.png"
+    },
+    "130106": {
+        "id": "130106",
+        "name": "Blood and Sand",
+        "rank": 6,
+        "desc": "Meningkatkan 20% Break Effect dan 20% Weakness Break Efficiency Gallagher.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank6.png"
     },
     "130201": {
         "id": "130201",
@@ -3915,7 +4331,7 @@
         "id": "130301",
         "name": "Neuronic Embroidery",
         "rank": 1,
-        "desc": "Selama Field dari Ultimate berlangsung, DMG yang diakibatkan seluruh rekan tim akan mengabaikan 20% DEF target.",
+        "desc": "Selama area pembatas dari Ultimate berlangsung, DMG yang diakibatkan seluruh rekan tim akan mengabaikan 20% DEF target.",
         "materials": [
             {
                 "id": "11303",
@@ -4003,7 +4419,7 @@
         "id": "130306",
         "name": "Sash Cascade",
         "rank": 6,
-        "desc": "Durasi Field dari Ultimate diperpanjang 1 giliran. DMG Multiplier dari Break DMG yang diakibatkan Talent meningkat ekstra 200%.",
+        "desc": "Durasi area pembatas dari Ultimate diperpanjang 1 giliran. DMG Multiplier dari Break DMG yang diakibatkan Talent meningkat ekstra 200%.",
         "materials": [
             {
                 "id": "11303",
@@ -4012,6 +4428,108 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1303_rank6.png"
+    },
+    "130401": {
+        "id": "130401",
+        "name": "Prisoner's Dilemma",
+        "rank": 1,
+        "desc": "CRIT DMG dari rekan tim yang memiliki \"Fortified Wager\" meningkat 20%. Setelah melancarkan Ultimate, akan memberikan Shield \"Fortified Wager\" pada seluruh rekan tim. Kekuatan Shield tersebut sebesar 100% dari kekuatan Shield yang diberikan Skill Aventurine, berlangsung selama 3 giliran.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank1.png"
+    },
+    "130402": {
+        "id": "130402",
+        "name": "Bounded Rationality",
+        "rank": 2,
+        "desc": "Saat melancarkan Basic Attack, RES Seluruh Tipe milik target musuh berkurang 12% selama 3 giliran.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank2.png"
+    },
+    "130403": {
+        "id": "130403",
+        "name": "Droprate Maxing",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130403",
+                "num": 2
+            },
+            {
+                "id": "130401",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1304_skill.png"
+    },
+    "130404": {
+        "id": "130404",
+        "name": "Unexpected Hanging Paradox",
+        "rank": 4,
+        "desc": "Saat memicu Serangan Lanjutan dari Talent Aventurine, DEF Aventurine akan meningkat 40% terlebih dahulu selama 2 giliran, serta menambah 3 Hits Per Action dari Serangan Lanjutan Talent-nya.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank4.png"
+    },
+    "130405": {
+        "id": "130405",
+        "name": "Ambiguity Aversion",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130402",
+                "num": 2
+            },
+            {
+                "id": "130404",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1304_ultimate.png"
+    },
+    "130406": {
+        "id": "130406",
+        "name": "Stag Hunt Game",
+        "rank": 6,
+        "desc": "Untuk setiap 1 rekan tim Aventurine yang memiliki Shield, DMG yang diakibatkan Aventurine akan meningkat 50%, maksimal tidak melebihi 150%.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank6.png"
     },
     "130501": {
         "id": "130501",
@@ -4105,7 +4623,7 @@
         "id": "130506",
         "name": "Vincit Omnia Veritas",
         "rank": 6,
-        "desc": "Efek terpicunya \"Wiseman's Folly\" bertambah ekstra 1 kali. DMG Serangan Lanjutan dari Talent meningkat 50%.",
+        "desc": "Efek terpicunya \"Wiseman's Folly\" bertambah ekstra 1 kali. DMG yang diakibatkan Serangan Lanjutan dari Talent meningkat 50%.",
         "materials": [
             {
                 "id": "11305",
@@ -4114,6 +4632,850 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1305_rank6.png"
+    },
+    "130601": {
+        "id": "130601",
+        "name": "Suspension of Disbelief",
+        "rank": 1,
+        "desc": "Durasi \"Cipher\" yang diberikan oleh Ultimate bertambah ekstra 1 giliran. Rekan tim yang memiliki \"Cipher\" akan mengalami peningkatan 40% ATK.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank1.png"
+    },
+    "130602": {
+        "id": "130602",
+        "name": "Purely Fictitious",
+        "rank": 2,
+        "desc": "Setiap lapis efek Talent akan membuat rekan tim mengabaikan 8% DEF target saat mengakibatkan DMG pada musuh.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank2.png"
+    },
+    "130603": {
+        "id": "130603",
+        "name": "Pipedream",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130602",
+                "num": 2
+            },
+            {
+                "id": "130601",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1306_skill.png"
+    },
+    "130604": {
+        "id": "130604",
+        "name": "Life Is a Gamble",
+        "rank": 4,
+        "desc": "Ultimate dapat memulihkan ekstra 1 Poin Skill. Efek peningkatan batas maksimum Poin Skill dari Talent bertambah 1.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank4.png"
+    },
+    "130605": {
+        "id": "130605",
+        "name": "Parallax Truth",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130603",
+                "num": 2
+            },
+            {
+                "id": "130604",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1306_ultimate.png"
+    },
+    "130606": {
+        "id": "130606",
+        "name": "Narrative Polysemy",
+        "rank": 6,
+        "desc": "Efek peningkatan CRIT DMG dari Skill Sparkle meningkat ekstra, peningkatannya sebesar 30% CRIT DMG Sparkle, dan saat Sparkle melancarkan Skill-nya, efek peningkatan CRIT DMG akan efektif untuk seluruh rekan (selain Sparkle) yang memiliki efek \"Cipher\". Saat Sparkle melancarkan Ultimate, jika terdapat rekan tim yang memiliki efek peningkatan CRIT DMG dari Skill Sparkle, maka efek tersebut akan menyebar ke seluruh rekan (selain Sparkle) yang memiliki efek \"Cipher\".",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank6.png"
+    },
+    "130701": {
+        "id": "130701",
+        "name": "Seven Pillars of Wisdom",
+        "rank": 1,
+        "desc": "Saat Black Swan berada dalam kondisi siap bertempur (tidak gugur), target musuh yang berstatus Wind Shear/Bleed/Burn/Shock akan mengalami pengurangan 25% RES Tipe terkait (Wind/Physical/Fire/Lightning RES sesuai urutan dengan jenis status di atas).",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank1.png"
+    },
+    "130702": {
+        "id": "130702",
+        "name": "Weep Not For Me, My Lamb",
+        "rank": 2,
+        "desc": "Saat target musuh berstatus \"Arcana\" dikalahkan, ada 100% Peluang Dasar untuk membuat musuh di sekitar target memasuki 6 lapis \"Arcana\".",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank2.png"
+    },
+    "130703": {
+        "id": "130703",
+        "name": "As Above, So Below",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130702",
+                "num": 2
+            },
+            {
+                "id": "130704",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1307_skill.png"
+    },
+    "130704": {
+        "id": "130704",
+        "name": "In Tears We Gift",
+        "rank": 4,
+        "desc": "Saat berstatus \"Epiphany\", Effect RES target musuh akan berkurang 10%, dan Black Swan akan memulihkan 8 Energy setiap saat giliran target dimulai atau saat target dikalahkan. Efek pemulihan Energy ini maksimal terpicu 1 kali selama durasi \"Epiphany\" berlangsung. Saat target memasuki ulang status \"Epiphany\", jumlah batas terpicu akan di-refresh.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank4.png"
+    },
+    "130705": {
+        "id": "130705",
+        "name": "Linnutee Flyway",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130703",
+                "num": 2
+            },
+            {
+                "id": "130701",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1307_ultimate.png"
+    },
+    "130706": {
+        "id": "130706",
+        "name": "Pantheon Merciful, Masses Pitiful",
+        "rank": 6,
+        "desc": "Saat target musuh menerima serangan dari rekan tim Black Swan, Black Swan memiliki 65% Peluang Dasar untuk membuat target tersebut memasuki 1 lapis \"Arcana\".\\nSetiap kali saat Black Swan membuat target musuh memasuki status \"Arcana\", ada 50% Peluang Tetap untuk membuat jumlah lapisan \"Arcana\" yang ditambahkan pada kali ini bertambah ekstra 1 lapis.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank6.png"
+    },
+    "130801": {
+        "id": "130801",
+        "name": "Silenced Sky Spake Sooth",
+        "rank": 1,
+        "desc": "Saat mengakibatkan DMG pada target musuh berstatus Debuff, CRIT Rate meningkat 18%.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank1.png"
+    },
+    "130802": {
+        "id": "130802",
+        "name": "Mute Thunder in Still Tempest",
+        "rank": 2,
+        "desc": "Syarat jumlah karakter Path \"Nihility\" yang diperlukan untuk nilai maksimal Trace \"The Abyss\" berkurang 1. Saat giliran Acheron dimulai, akan memperoleh 1 poin \"Slashed Dream\", dan di saat yang bersamaan akan menambahkan 1 lapis \"Crimson Knot\" pada musuh dengan lapisan \"Crimson Knot\" terbanyak.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank2.png"
+    },
+    "130803": {
+        "id": "130803",
+        "name": "Frost Bites in Death",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130803",
+                "num": 2
+            },
+            {
+                "id": "130801",
+                "num": 1
+            },
+            {
+                "id": "130814",
+                "num": 2
+            },
+            {
+                "id": "130815",
+                "num": 2
+            },
+            {
+                "id": "130816",
+                "num": 2
+            },
+            {
+                "id": "130817",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1308_skill.png"
+    },
+    "130804": {
+        "id": "130804",
+        "name": "Shrined Fire for Mirrored Soul",
+        "rank": 4,
+        "desc": "Saat target musuh memasuki pertempuran, akan membuatnya memasuki status Ultimate DMG Vulnerability, meningkatkan 8% Ultimate DMG yang diterimanya.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank4.png"
+    },
+    "130805": {
+        "id": "130805",
+        "name": "Strewn Souls on Erased Earths",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130802",
+                "num": 2
+            },
+            {
+                "id": "130804",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1308_ultimate.png"
+    },
+    "130806": {
+        "id": "130806",
+        "name": "Apocalypse, the Emancipator",
+        "rank": 6,
+        "desc": "Meningkatkan 20% RES PEN Seluruh Tipe dari Ultimate DMG yang diakibatkan Acheron. DMG yang diakibatkan Basic Attack dan Skill Acheron juga akan dianggap sebagai Ultimate DMG, dan mengabaikan Tipe Weakness musuh untuk mengurangi Toughness. Saat mengakibatkan Weakness Break, akan memicu efek Lightning Weakness Break.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank6.png"
+    },
+    "130901": {
+        "id": "130901",
+        "name": "Land of Smiles",
+        "rank": 1,
+        "desc": "Saat berstatus \"Concerto\", RES PEN Seluruh Tipe dari seluruh rekan tim meningkat 24%.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank1.png"
+    },
+    "130902": {
+        "id": "130902",
+        "name": "Afternoon Tea For Two",
+        "rank": 2,
+        "desc": "Saat berstatus \"Concerto\", SPD seluruh rekan tim meningkat 16%. Efek pemulihan Energy dari Talent meningkat 1 poin.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank2.png"
+    },
+    "130903": {
+        "id": "130903",
+        "name": "Inverted Tuning",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Ultimate +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130902",
+                "num": 2
+            },
+            {
+                "id": "130903",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1309_skill.png"
+    },
+    "130904": {
+        "id": "130904",
+        "name": "Raindrop Key",
+        "rank": 4,
+        "desc": "Saat Robin melancarkan Ultimate, akan menghapus status Crowd Control Debuff dari seluruh rekan tim. Saat Robin berada dalam status \"Concerto\", Effect RES seluruh rekan tim meningkat 50%.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank4.png"
+    },
+    "130905": {
+        "id": "130905",
+        "name": "Lonestar's Lament",
+        "rank": 5,
+        "desc": "Level Basic Attack +1, maksimal Lv. 10. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130901",
+                "num": 1
+            },
+            {
+                "id": "130904",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1309_ultimate.png"
+    },
+    "130906": {
+        "id": "130906",
+        "name": "Moonless Midnight",
+        "rank": 6,
+        "desc": "Saat berstatus \"Concerto\", CRIT DMG dari Physical DMG Tambahan yang diakibatkan Ultimate akan meningkat ekstra 450%. Efek \"Moonless Midnight\" maksimal terpicu 8 kali, dan jumlah terpicu akan reset setiap kali melancarkan Ultimate karakter ini.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank6.png"
+    },
+    "131001": {
+        "id": "131001",
+        "name": "In Reddened Chrysalis, I Once Rest",
+        "rank": 1,
+        "desc": "Saat melancarkan Enhanced Skill, akan mengabaikan 15% DEF target, dan Enhanced Skill tidak mengonsumsi Poin Skill.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank1.png"
+    },
+    "131002": {
+        "id": "131002",
+        "name": "From Shattered Sky, I Free Fall",
+        "rank": 2,
+        "desc": "Saat berstatus \"Complete Combustion\", jika Enhanced Basic Attack atau Enhanced Skill yang dilancarkan mengalahkan target musuh atau membuat target musuh memasuki status Weakness Break, maka SAM akan segera memperoleh 1 giliran tambahan. Efek ini dapat dipicu lagi setelah 1 giliran.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank2.png"
+    },
+    "131003": {
+        "id": "131003",
+        "name": "Amidst Silenced Stars, I Deep Sleep",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131002",
+                "num": 2
+            },
+            {
+                "id": "131001",
+                "num": 1
+            },
+            {
+                "id": "131009",
+                "num": 2
+            },
+            {
+                "id": "131008",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1310_skill.png"
+    },
+    "131004": {
+        "id": "131004",
+        "name": "Upon Lighted Fyrefly, I Soon Gaze",
+        "rank": 4,
+        "desc": "Saat berstatus \"Complete Combustion\", Effect RES milik SAM meningkat 50%.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank4.png"
+    },
+    "131005": {
+        "id": "131005",
+        "name": "From Undreamt Night, I Thence Shine",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131003",
+                "num": 2
+            },
+            {
+                "id": "131004",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1310_ultimate.png"
+    },
+    "131006": {
+        "id": "131006",
+        "name": "In Finalized Morrow, I Full Bloom",
+        "rank": 6,
+        "desc": "Fire RES PEN milik SAM saat berstatus \"Complete Combustion\" meningkat 20%. Saat melancarkan Enhanced Basic Attack atau Enhanced Skill, Weakness Break Efficiency meningkat 50%.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank6.png"
+    },
+    "131201": {
+        "id": "131201",
+        "name": "Whimsicality of Fancy",
+        "rank": 1,
+        "desc": "Saat melancarkan Ultimate, untuk setiap 1 target musuh yang ada di medan pertempuran, akan menambah ekstra 1 Hit untuk Hits Per Action dari Ultimate kali ini, maksimal hingga ekstra 5 Hit.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank1.png"
+    },
+    "131202": {
+        "id": "131202",
+        "name": "Yearning of Youth",
+        "rank": 2,
+        "desc": "Sebelum setiap Hit dari Ultimate mengenai target, memiliki 24% Peluang Dasar untuk mengurangi 16% DEF target selama 3 giliran.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank2.png"
+    },
+    "131203": {
+        "id": "131203",
+        "name": "Vestige of Happiness",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131203",
+                "num": 2
+            },
+            {
+                "id": "131201",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1312_skill.png"
+    },
+    "131204": {
+        "id": "131204",
+        "name": "Visage of Kinship",
+        "rank": 4,
+        "desc": "Meningkatkan 6% DMG Multiplier dari setiap Hit Ultimate.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank4.png"
+    },
+    "131205": {
+        "id": "131205",
+        "name": "Genesis of First Love",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131202",
+                "num": 2
+            },
+            {
+                "id": "131204",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1312_ultimate.png"
+    },
+    "131206": {
+        "id": "131206",
+        "name": "Estrangement of Dream",
+        "rank": 6,
+        "desc": "Saat melancarkan Ultimate, meningkatkan 30% DMG yang diakibatkan diri sendiri hingga giliran berakhir. Dan pada pelancaran Skill Misha yang berikutnya, akan memulihkan 1 Poin Skill untuk rekan tim.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank6.png"
+    },
+    "131401": {
+        "id": "131401",
+        "name": "Altruism? Nevertheless Tradable",
+        "rank": 1,
+        "desc": "DMG Serangan Lanjutan dari Talent Jade meningkat 32%. Setelah karakter yang berstatus \"Debt Collector\" melancarkan serangan, jika jumlah target musuh yang terkena serangan adalah 2/1, maka Jade akan memperoleh ekstra 1/2 poin Charge.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank1.png"
+    },
+    "131402": {
+        "id": "131402",
+        "name": "Morality? Herein Authenticated",
+        "rank": 2,
+        "desc": "Saat \"Pawned Asset\" mencapai 15 lapis, CRIT Rate Jade akan meningkat 18%.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank2.png"
+    },
+    "131403": {
+        "id": "131403",
+        "name": "Honesty? Soon Mortgaged",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131402",
+                "num": 2
+            },
+            {
+                "id": "131404",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1314_skill.png"
+    },
+    "131404": {
+        "id": "131404",
+        "name": "Sincerity? Put Option Only",
+        "rank": 4,
+        "desc": "Saat melancarkan Ultimate, membuat DMG yang diakibatkan Jade mengabaikan 12% DEF target musuh, berlangsung selama 3 giliran.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank4.png"
+    },
+    "131405": {
+        "id": "131405",
+        "name": "Hope? Hitherto Forfeited",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131403",
+                "num": 2
+            },
+            {
+                "id": "131401",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1314_ultimate.png"
+    },
+    "131406": {
+        "id": "131406",
+        "name": "Equity? Pending Sponsorship",
+        "rank": 6,
+        "desc": "Saat di medan pertempuran terdapat karakter yang berstatus \"Debt Collector\", Quantum RES PEN Jade akan meningkat 20%, dan Jade juga akan memperoleh status \"Debt Collector\".",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank6.png"
+    },
+    "131501": {
+        "id": "131501",
+        "name": "Dusty Trail's Lone Star",
+        "rank": 1,
+        "desc": "Saat pertempuran dimulai, akan memperoleh 1 lapis \"Pocket Trickshot\". Saat Boothill mengakibatkan DMG, akan mengabaikan 16% DEF target musuh.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank1.png"
+    },
+    "131502": {
+        "id": "131502",
+        "name": "Milestonemonger",
+        "rank": 2,
+        "desc": "Saat memperoleh \"Pocket Trickshot\" ketika berada dalam status \"Standoff\", akan memulihkan 1 Poin Skill dan meningkatkan 30% Break Effect, berlangsung selama 2 giliran. Efek ini tidak dapat terpicu berulang kali dalam satu giliran, dan tetap akan terpicu saat memperoleh \"Pocket Trickshot\" yang melebihi batas maksimal.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank2.png"
+    },
+    "131503": {
+        "id": "131503",
+        "name": "Marble Orchard's Guard",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131503",
+                "num": 2
+            },
+            {
+                "id": "131501",
+                "num": 1
+            },
+            {
+                "id": "131508",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1315_skill.png"
+    },
+    "131504": {
+        "id": "131504",
+        "name": "Cold Cuts Chef",
+        "rank": 4,
+        "desc": "Saat target musuh berstatus \"Standoff\" terkena serangan Boothill, DMG yang diterimanya akan meningkat ekstra 12%. Saat Boothill terkena serangan target musuh berstatus \"Standoff\", efek peningkatan DMG yang diterimanya akan berkurang 12%.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank4.png"
+    },
+    "131505": {
+        "id": "131505",
+        "name": "Stump Speech",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131502",
+                "num": 2
+            },
+            {
+                "id": "131504",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1315_ultimate.png"
+    },
+    "131506": {
+        "id": "131506",
+        "name": "Crowbar Hotel's Raccoon",
+        "rank": 6,
+        "desc": "Saat memicu Break DMG yang diakibatkan Talent, akan mengakibatkan Break DMG tambahan pada target sebesar 40% dari DMG Multiplier awal, dan mengakibatkan Break DMG tambahan pada musuh di sekitar target sebesar 70% dari DMG Multiplier awal.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank6.png"
     },
     "800101": {
         "id": "800101",
@@ -4546,5 +5908,209 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/8004_rank6.png"
+    },
+    "800501": {
+        "id": "800501",
+        "name": "Best Seat in the House",
+        "rank": 1,
+        "desc": "Memulihkan 1 Poin Skill setelah melancarkan Skill untuk pertama kalinya dalam pertempuran.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank1.png"
+    },
+    "800502": {
+        "id": "800502",
+        "name": "Jailbreaking Rainbowwalk",
+        "rank": 2,
+        "desc": "Saat pertempuran dimulai, Energy Regeneration Rate Trailblazer akan meningkat 25%, berlangsung selama 3 giliran.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank2.png"
+    },
+    "800503": {
+        "id": "800503",
+        "name": "Sanatorium for Rest Notes",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800502",
+                "num": 2
+            },
+            {
+                "id": "800504",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/8005_skill.png"
+    },
+    "800504": {
+        "id": "800504",
+        "name": "Dove in Tophat",
+        "rank": 4,
+        "desc": "Saat Trailblazer berada di medan pertempuran, meningkatkan Break Effect seluruh rekan tim selain Trailblazer, peningkatannya sebesar 15% dari Break Effect Trailblazer.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank4.png"
+    },
+    "800505": {
+        "id": "800505",
+        "name": "Poem Favors Rhythms of Old",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800503",
+                "num": 2
+            },
+            {
+                "id": "800501",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/8005_ultimate.png"
+    },
+    "800506": {
+        "id": "800506",
+        "name": "Tomorrow, Rest in Spotlight",
+        "rank": 6,
+        "desc": "DMG Tambahan dari Skill bertambah 2 kali.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank6.png"
+    },
+    "800601": {
+        "id": "800601",
+        "name": "Best Seat in the House",
+        "rank": 1,
+        "desc": "Memulihkan 1 Poin Skill setelah melancarkan Skill untuk pertama kalinya dalam pertempuran.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank1.png"
+    },
+    "800602": {
+        "id": "800602",
+        "name": "Jailbreaking Rainbowwalk",
+        "rank": 2,
+        "desc": "Saat pertempuran dimulai, Energy Regeneration Rate Trailblazer akan meningkat 25%, berlangsung selama 3 giliran.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank2.png"
+    },
+    "800603": {
+        "id": "800603",
+        "name": "Sanatorium for Rest Notes",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800602",
+                "num": 2
+            },
+            {
+                "id": "800604",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/8006_skill.png"
+    },
+    "800604": {
+        "id": "800604",
+        "name": "Dove in Tophat",
+        "rank": 4,
+        "desc": "Saat Trailblazer berada di medan pertempuran, meningkatkan Break Effect seluruh rekan tim selain Trailblazer, peningkatannya sebesar 15% dari Break Effect Trailblazer.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank4.png"
+    },
+    "800605": {
+        "id": "800605",
+        "name": "Poem Favors Rhythms of Old",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800603",
+                "num": 2
+            },
+            {
+                "id": "800601",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/8006_ultimate.png"
+    },
+    "800606": {
+        "id": "800606",
+        "name": "Tomorrow, Rest in Spotlight",
+        "rank": 6,
+        "desc": "DMG Tambahan dari Skill bertambah 2 kali.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank6.png"
     }
 }

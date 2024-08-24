@@ -479,6 +479,11 @@
         "name": "Патруль Герты",
         "icon": "icon/avatar/GroupDefault.png"
     },
+    "106": {
+        "id": "106",
+        "name": "Доктор Эдвард",
+        "icon": "icon/avatar/DreamStore.png"
+    },
     "107": {
         "id": "107",
         "name": "Групповой чат: Топаз, Март 7, {NICKNAME}",
@@ -518,6 +523,216 @@
         "id": "114",
         "name": "ОбожаюКраснуюФасоль, Билл Вратов, Космические_полёты_без_лицензии...",
         "icon": "icon/avatar/GroupDefault.png"
+    },
+    "115": {
+        "id": "115",
+        "name": "Команда Пенаконии",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "116": {
+        "id": "116",
+        "name": "«Сладкие сны»",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "117": {
+        "id": "117",
+        "name": "Фанаты Лесли Дина, объединяйтесь!",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "118": {
+        "id": "118",
+        "name": "Уолси",
+        "icon": "icon/avatar/Woolsey.png"
+    },
+    "119": {
+        "id": "119",
+        "name": "Ча■■■",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "120": {
+        "id": "120",
+        "name": "Ресторан «Часы»",
+        "icon": "icon/avatar/DelicayExpress.png"
+    },
+    "121": {
+        "id": "121",
+        "name": "Ума",
+        "icon": "icon/avatar/Uma.png"
+    },
+    "122": {
+        "id": "122",
+        "name": "Премиальные товары Пенаконии",
+        "icon": "icon/avatar/LuxuryStore.png"
+    },
+    "123": {
+        "id": "123",
+        "name": "Хрустальный кубок",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "124": {
+        "id": "124",
+        "name": "Старый друг",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "125": {
+        "id": "125",
+        "name": "Мусорный бак",
+        "icon": "icon/avatar/202002.png"
+    },
+    "126": {
+        "id": "126",
+        "name": "Пылающий бак",
+        "icon": "icon/avatar/202002.png"
+    },
+    "127": {
+        "id": "127",
+        "name": "Бак, страсть которого подобна пламени",
+        "icon": "icon/avatar/202002.png"
+    },
+    "128": {
+        "id": "128",
+        "name": "Бак с разбитым сердцем",
+        "icon": "icon/avatar/202002.png"
+    },
+    "129": {
+        "id": "129",
+        "name": "???",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "130": {
+        "id": "130",
+        "name": "Группа по исследованию Мозаики грёз",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "131": {
+        "id": "131",
+        "name": "«Сладкие сны»",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "Доктор Лазурь",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "133": {
+        "id": "133",
+        "name": "Шивон",
+        "icon": "icon/avatar/Sionbhan.png"
+    },
+    "134": {
+        "id": "134",
+        "name": "Тисок III",
+        "icon": "icon/avatar/DesolaTheSecond.png"
+    },
+    "135": {
+        "id": "135",
+        "name": "???",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "136": {
+        "id": "136",
+        "name": "Командир",
+        "icon": "icon/avatar/3002030.png"
+    },
+    "137": {
+        "id": "137",
+        "name": "Вини",
+        "icon": "icon/avatar/3001010.png"
+    },
+    "138": {
+        "id": "138",
+        "name": "Девица",
+        "icon": "icon/avatar/3002010.png"
+    },
+    "139": {
+        "id": "139",
+        "name": "Меланхолик",
+        "icon": "icon/avatar/3001020.png"
+    },
+    "140": {
+        "id": "140",
+        "name": "Это конец! Нас окружили глупцы!",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "141": {
+        "id": "141",
+        "name": "Детектив Рекламный Щит",
+        "icon": "icon/avatar/AdvertBoard.png"
+    },
+    "142": {
+        "id": "142",
+        "name": "Ахерон",
+        "icon": "icon/avatar/1308.png"
+    },
+    "143": {
+        "id": "143",
+        "name": "1111111111",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "144": {
+        "id": "144",
+        "name": "откуда_лучше_смотреть_салют",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "145": {
+        "id": "145",
+        "name": "Подрядчик Гончих",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "146": {
+        "id": "146",
+        "name": "Служба поддержки Студии «Часы»",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "147": {
+        "id": "147",
+        "name": "Мастер Гуншу",
+        "icon": "icon/avatar/MasterGongshu.png"
+    },
+    "148": {
+        "id": "148",
+        "name": "Джейд",
+        "icon": "icon/avatar/Jetta.png"
+    },
+    "149": {
+        "id": "149",
+        "name": "Бизнес есть бизнес",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "150": {
+        "id": "150",
+        "name": "Айден",
+        "icon": "icon/avatar/Aideen.png"
+    },
+    "151": {
+        "id": "151",
+        "name": "Курьер",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "152": {
+        "id": "152",
+        "name": "Три сокровища",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "153": {
+        "id": "153",
+        "name": "Дэнс",
+        "icon": "icon/avatar/Dennis.png"
+    },
+    "154": {
+        "id": "154",
+        "name": "Михей",
+        "icon": "icon/avatar/Micah.png"
+    },
+    "155": {
+        "id": "155",
+        "name": "Тина",
+        "icon": "icon/avatar/Tina.png"
+    },
+    "156": {
+        "id": "156",
+        "name": "Кукла «Сообщение»",
+        "icon": "icon/avatar/202017.png"
     },
     "1000": {
         "id": "1000",
@@ -704,6 +919,21 @@
         "name": "Хохо",
         "icon": "icon/avatar/1217.png"
     },
+    "1218": {
+        "id": "1218",
+        "name": "Цзяоцю",
+        "icon": "icon/avatar/1218.png"
+    },
+    "1221": {
+        "id": "1221",
+        "name": "Юньли",
+        "icon": "icon/avatar/1221.png"
+    },
+    "1301": {
+        "id": "1301",
+        "name": "Галлахер",
+        "icon": "icon/avatar/1301.png"
+    },
     "1302": {
         "id": "1302",
         "name": "Аргенти",
@@ -714,20 +944,60 @@
         "name": "Жуань Мэй",
         "icon": "icon/avatar/1303.png"
     },
+    "1304": {
+        "id": "1304",
+        "name": "Авантюрин",
+        "icon": "icon/avatar/1304.png"
+    },
     "1305": {
         "id": "1305",
         "name": "Доктор Рацио",
         "icon": "icon/avatar/1305.png"
     },
+    "1306": {
+        "id": "1306",
+        "name": "Искорка",
+        "icon": "icon/avatar/1306.png"
+    },
+    "1307": {
+        "id": "1307",
+        "name": "Чёрный Лебедь",
+        "icon": "icon/avatar/1307.png"
+    },
+    "1308": {
+        "id": "1308",
+        "name": "Ахерон",
+        "icon": "icon/avatar/1308.png"
+    },
+    "1309": {
+        "id": "1309",
+        "name": "Зарянка",
+        "icon": "icon/avatar/1309.png"
+    },
+    "1310": {
+        "id": "1310",
+        "name": "Светлячок",
+        "icon": "icon/avatar/1310.png"
+    },
+    "1312": {
+        "id": "1312",
+        "name": "Миша",
+        "icon": "icon/avatar/1312.png"
+    },
+    "1314": {
+        "id": "1314",
+        "name": "Яшма",
+        "icon": "icon/avatar/1314.png"
+    },
+    "1315": {
+        "id": "1315",
+        "name": "Бутхилл",
+        "icon": "icon/avatar/1315.png"
+    },
     "8000": {
         "id": "8000",
         "name": "{NICKNAME}",
         "icon": ""
-    },
-    "8001": {
-        "id": "8001",
-        "name": "{NICKNAME}",
-        "icon": "icon/avatar/8001.png"
     },
     "200001": {
         "id": "200001",
@@ -831,9 +1101,69 @@
         "rarity": 5,
         "icon": "icon/avatar/200116.png"
     },
+    "200117": {
+        "id": "200117",
+        "name": "Искорка: Иллюзия",
+        "rarity": 5,
+        "icon": "icon/avatar/200117.png"
+    },
+    "200118": {
+        "id": "200118",
+        "name": "Сампо: Иллюзия",
+        "rarity": 5,
+        "icon": "icon/avatar/200118.png"
+    },
+    "200119": {
+        "id": "200119",
+        "name": "Топаз: В яблочко",
+        "rarity": 5,
+        "icon": "icon/avatar/200119.png"
+    },
+    "200120": {
+        "id": "200120",
+        "name": "Авантюрин: В яблочко",
+        "rarity": 5,
+        "icon": "icon/avatar/200120.png"
+    },
+    "200121": {
+        "id": "200121",
+        "name": "Ахерон: Западня",
+        "rarity": 5,
+        "icon": "icon/avatar/200121.png"
+    },
+    "200122": {
+        "id": "200122",
+        "name": "Бутхилл: Западня",
+        "rarity": 5,
+        "icon": "icon/avatar/200122.png"
+    },
+    "200123": {
+        "id": "200123",
+        "name": "Светлячок: Перспективы",
+        "rarity": 5,
+        "icon": "icon/avatar/200123.png"
+    },
+    "200124": {
+        "id": "200124",
+        "name": "Сэм: Перспективы",
+        "rarity": 5,
+        "icon": "icon/avatar/200124.png"
+    },
+    "200125": {
+        "id": "200125",
+        "name": "Байлу: Целительство",
+        "rarity": 5,
+        "icon": "icon/avatar/200125.png"
+    },
+    "200126": {
+        "id": "200126",
+        "name": "Цзяоцю: Целительство",
+        "rarity": 5,
+        "icon": "icon/avatar/200126.png"
+    },
     "201001": {
         "id": "201001",
-        "name": "Март 7",
+        "name": "Март 7: Сохранение",
         "icon": "icon/avatar/1001.png"
     },
     "201002": {
@@ -1016,6 +1346,26 @@
         "name": "Хохо",
         "icon": "icon/avatar/1217.png"
     },
+    "201218": {
+        "id": "201218",
+        "name": "Цзяоцю",
+        "icon": "icon/avatar/1218.png"
+    },
+    "201221": {
+        "id": "201221",
+        "name": "Юньли",
+        "icon": "icon/avatar/1221.png"
+    },
+    "201224": {
+        "id": "201224",
+        "name": "Март 7: Охота",
+        "icon": "icon/avatar/1224.png"
+    },
+    "201301": {
+        "id": "201301",
+        "name": "Галлахер",
+        "icon": "icon/avatar/1301.png"
+    },
     "201302": {
         "id": "201302",
         "name": "Аргенти",
@@ -1026,10 +1376,55 @@
         "name": "Жуань Мэй",
         "icon": "icon/avatar/1303.png"
     },
+    "201304": {
+        "id": "201304",
+        "name": "Авантюрин",
+        "icon": "icon/avatar/1304.png"
+    },
     "201305": {
         "id": "201305",
         "name": "Доктор Рацио",
         "icon": "icon/avatar/1305.png"
+    },
+    "201306": {
+        "id": "201306",
+        "name": "Искорка",
+        "icon": "icon/avatar/1306.png"
+    },
+    "201307": {
+        "id": "201307",
+        "name": "Чёрный Лебедь",
+        "icon": "icon/avatar/1307.png"
+    },
+    "201308": {
+        "id": "201308",
+        "name": "Ахерон",
+        "icon": "icon/avatar/1308.png"
+    },
+    "201309": {
+        "id": "201309",
+        "name": "Зарянка",
+        "icon": "icon/avatar/1309.png"
+    },
+    "201310": {
+        "id": "201310",
+        "name": "Светлячок",
+        "icon": "icon/avatar/1310.png"
+    },
+    "201312": {
+        "id": "201312",
+        "name": "Миша",
+        "icon": "icon/avatar/1312.png"
+    },
+    "201314": {
+        "id": "201314",
+        "name": "Яшма",
+        "icon": "icon/avatar/1314.png"
+    },
+    "201315": {
+        "id": "201315",
+        "name": "Бутхилл",
+        "icon": "icon/avatar/1315.png"
     },
     "202001": {
         "id": "202001",
@@ -1091,6 +1486,54 @@
         "rarity": 4,
         "icon": "icon/avatar/202010.png"
     },
+    "202011": {
+        "id": "202011",
+        "name": "Часик",
+        "rarity": 4,
+        "icon": "icon/avatar/202011.png"
+    },
+    "202012": {
+        "id": "202012",
+        "name": "Братец Хану",
+        "rarity": 4,
+        "icon": "icon/avatar/202012.png"
+    },
+    "202013": {
+        "id": "202013",
+        "name": "Птица-оригами",
+        "rarity": 4,
+        "icon": "icon/avatar/202013.png"
+    },
+    "202014": {
+        "id": "202014",
+        "name": "Какавача",
+        "rarity": 4,
+        "icon": "icon/avatar/202014.png"
+    },
+    "202015": {
+        "id": "202015",
+        "name": "Хомяк-рыцарь",
+        "rarity": 4,
+        "icon": "icon/avatar/202015.png"
+    },
+    "202016": {
+        "id": "202016",
+        "name": "Празднование первой годовщины",
+        "rarity": 4,
+        "icon": "icon/avatar/202016.png"
+    },
+    "202017": {
+        "id": "202017",
+        "name": "Кукла Искорки",
+        "rarity": 4,
+        "icon": "icon/avatar/202017.png"
+    },
+    "202018": {
+        "id": "202018",
+        "name": "«Эй, иди тестировать».",
+        "rarity": 4,
+        "icon": "icon/avatar/202018.png"
+    },
     "208001": {
         "id": "208001",
         "name": "{NICKNAME} (Разрушение)",
@@ -1110,5 +1553,15 @@
         "id": "208004",
         "name": "{NICKNAME} (Сохранение)",
         "icon": "icon/avatar/8004.png"
+    },
+    "208005": {
+        "id": "208005",
+        "name": "{NICKNAME} (Гармония)",
+        "icon": "icon/avatar/8005.png"
+    },
+    "208006": {
+        "id": "208006",
+        "name": "{NICKNAME} (Гармония)",
+        "icon": "icon/avatar/8006.png"
     }
 }

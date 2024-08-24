@@ -121,7 +121,7 @@
     "18": {
         "id": "18",
         "name": "Omniscient Capsule",
-        "desc": "You can now open your Inventory to use Consumables while in the Simulated Universe. This Curio will be destroyed after 5 Consumables have been used.",
+        "desc": "You can now open your Inventory to use Consumables while in the Simulated Universe. This Curio will be destroyed after 5 Consumables have been used",
         "bg_desc": "There is a group in the Intelligentsia Guild that believes science was originally the same as magic, that advanced science is magic and rigorous magic is science. They drew inspiration from ancient fantastic mythologies and created the Omniscient Capsule, a light-weight and convenient storage gadget. The Intelligentsia Guild planned for the Omniscient Capsule to ultimately lead to independent demiplanes, thus obtaining infinite space beyond the advanced spatial compression technologies currently in use... And they are still trying.",
         "icon": "icon/curio/1030.png"
     },
@@ -317,7 +317,7 @@
     "62": {
         "id": "62",
         "name": "Space-Time Prism",
-        "desc": "Upon entering battle, increase all ally's Eidolon Resonance level by 1.",
+        "desc": "Upon entering battle, increase all allies' Eidolon Resonance level by 1.",
         "bg_desc": "A multifaceted prism made in the shape of cheese. Every hole is an individual surface, and reflections from each prism surface produce a different effect. Some participants in experiments have their bodies physically enlarged or reduced after being reflected in the prism. Meanwhile, other participants have no bodily alterations, but instead receive memories not of their own. They become diagnosed with fictmemoria, and claim that they saw the enigmatic face of the Aeon Fuli in the prism.",
         "icon": "icon/curio/1028.png"
     },
@@ -409,21 +409,21 @@
         "id": "104",
         "name": "Family Ties",
         "desc": "Increase all allies' DMG by 30% for every Curio that has been destroyed.",
-        "bg_desc": "An escapee reported that he had acquired a Family Ties after opening a peculiar box, and inadvertently entered a gathering of The Family that venerates Xipe the Harmony. He described witnessing an unprecedented scene: the will of numerous heavenly bodies were intertwined, coiling into a single bound knot. Under Family Ties, people open their eyes wide, their faces etched with eerie smiles, staring at one another with identical expressions. When he voiced a question at the scene, everyone in the grand hall simultaneously shifted their gaze towards him and spoke with the same voice — \"Welcome.\" The escapee was instantly unnerved, and, in a desperate bid for survival, he too held his eyes wide, his face plastered with the same smile.",
+        "bg_desc": "An escapee reported that he had acquired a Family Ties after opening a peculiar box, and inadvertently entered a gathering of The Family that venerates Xipe the Harmony. He described witnessing an unprecedented scene: The will of numerous heavenly bodies were intertwined, coiling into a single bound knot. Under Family Ties, people open their eyes wide, their faces etched with eerie smiles, staring at one another with identical expressions. When he voiced a question at the scene, everyone in the grand hall simultaneously shifted their gaze towards him and spoke with the same voice — \"Welcome.\" The escapee was instantly unnerved, and, in a desperate bid for survival, he too held his eyes wide, his face plastered with the same smile.",
         "icon": "icon/curio/1057.png"
     },
     "105": {
         "id": "105",
         "name": "Medal of the Gloryblood Era",
-        "desc": "Immediately gain 1 random 3-star Blessing(s). The next time you enter an Occurrence domain, no occurrence will be triggered. This Curio will be destroyed after the effect is triggered 1 time(s).",
-        "bg_desc": "A hundred Eras after the proliferation of the Amber Era system and the Synesthesia Beacon, interstellar trade continued to develop and resource exchange became a pressing matter. A few planets ascended to become bustling interstellar hubs, signaling the onset of the Second Prosperity termed the \"Gloryblood Era.\" The Second Prosperity endured for nearly five hundred Amber Eras before entering a gradual decline, but not even the apocalyptic Interstellar Energy War could erase its resplendent achievements. At same time, Nous the Erudition unexpectedly terminated their calculations regarding the mysteries of the universe.",
+        "desc": "Immediately gain 1 random 3-star Blessing(s). The next time you enter an Occurrence domain, no Occurrence will be triggered. This Curio will be destroyed after the effect is triggered 1 time(s)",
+        "bg_desc": "A hundred Amber Eras after the proliferation of the Amber Era system and the Synesthesia Beacon, interstellar trade continued to develop and resource exchange became a pressing matter. A few planets ascended to become bustling interstellar hubs, signaling the onset of the Second Prosperity termed the \"Gloryblood Era.\" The Second Prosperity endured for nearly five hundred Amber Eras before entering a gradual decline, but not even the apocalyptic Interstellar Energy War could erase its resplendent achievements. At the same time, Nous the Erudition unexpectedly terminated their calculations regarding the mysteries of the universe.",
         "icon": "icon/curio/1069.png"
     },
     "106": {
         "id": "106",
         "name": "Black Hole Trap",
         "desc": "You will obtain 10 Cosmic Fragments for each ally whose HP is at max when winning a battle.",
-        "bg_desc": "The places where the space-time curvature are most extreme are suspected to be locations cast in the vast shadow of the Aeon of Nihility. However, as their presence is shrouded in mist and mystery, there have been many a scholar who thought they have received revelations from the Aeon, causing them to leave all behind to seek Nihility's gloom without giving thought or concern to their own safety. In the end, none of them ever returned. It is a common belief among mainstream academic circles that this is a trap intentionally set by hidden powers, but according to survey data, there truly seems to be some kind of unknown energy flowing through these parts for reasons unfathomed.",
+        "bg_desc": "The places where the space-time curvature are most extreme are suspected to be locations cast in the vast shadow of the Aeon of Nihility. However, as THEIR presence is shrouded in mist and mystery, there have been many a scholar who thought they have received revelations from the Aeon, causing them to leave all behind to seek Nihility's gloom without giving thought or concern to their own safety. In the end, none of them ever returned. It is a common belief among mainstream academic circles that this is a trap intentionally set by hidden powers, but according to survey data, there truly seems to be some kind of unknown energy flowing through these parts for reasons unfathomed.",
         "icon": "icon/curio/1043.png"
     },
     "107": {
@@ -435,22 +435,22 @@
     },
     "108": {
         "id": "108",
-        "name": "Fissured Cuckoo Clock",
+        "name": "Fission Cuckoo Clock",
         "desc": "Reduces characters' ATK by 5% and grants a chance of splitting into a clone (with a max of 3 concurrent clones) after winning a battle.",
-        "bg_desc": "After receiving an omen from the Finality, the Cuckoo Clocks connected to the cataclysm suddenly appeared in the Black Forest, causing blockchains of inorganic entities to break up for reasons unknown. A Nameless intruding in the forest, however, began collecting the clocks for reasons related to passion, and was determined to bring the clocks back home with them. The sundering Cuckoo Clocks constantly split during the journey, and in the end, the ship of the Nameless was filled to the brim. However, due to not comprehending the hints given by emerging phenomena resulting from constantly splitting clocks within the allotted, time, the Nameless was devoured by the swarm halfway through their interstellar voyage.",
+        "bg_desc": "After receiving an omen from the Finality, the Cuckoo Clocks connected to the cataclysm suddenly appeared in the Black Forest, causing blockchains of inorganic entities to break up for reasons unknown. A Nameless intruding in the forest, however, began collecting the clocks for reasons related to passion, and was determined to bring the clocks back home with them. The Fission Cuckoo Clock constantly split during the journey, and in the end, the ship of the Nameless was filled to the brim. However, due to not comprehending the hints given by emerging phenomena resulting from constantly splitting Fission Cuckoo Clock within the allotted, time, the Nameless was devoured by the swarm halfway through their interstellar voyage.",
         "icon": "icon/curio/1053.png"
     },
     "109": {
         "id": "109",
-        "name": "Fissured Cuckoo Clock",
+        "name": "Fission Cuckoo Clock",
         "desc": "Character's ATK decreases by 5%.",
-        "bg_desc": "After receiving an omen from the Finality, the Cuckoo Clocks connected to the cataclysm suddenly appeared in the Black Forest, causing blockchains of inorganic entities to break up for reasons unknown. A Nameless intruding in the forest, however, began collecting the clocks for reasons related to passion, and was determined to bring the clocks back home with them. The sundering Cuckoo Clocks constantly split during the journey, and in the end, the ship of the Nameless was filled to the brim. However, due to not comprehending the hints given by emerging phenomena resulting from constantly splitting clocks within the allotted, time, the Nameless was devoured by the swarm halfway through their interstellar voyage.",
+        "bg_desc": "After receiving an omen from the Finality, the Cuckoo Clocks connected to the cataclysm suddenly appeared in the Black Forest, causing blockchains of inorganic entities to break up for reasons unknown. A Nameless intruding in the forest, however, began collecting the clocks for reasons related to passion, and was determined to bring the clocks back home with them. The Fission Cuckoo Clock constantly split during the journey, and in the end, the ship of the Nameless was filled to the brim. However, due to not comprehending the hints given by emerging phenomena resulting from constantly splitting Fission Cuckoo Clock within the allotted, time, the Nameless was devoured by the swarm halfway through their interstellar voyage.",
         "icon": "icon/curio/1053.png"
     },
     "110": {
         "id": "110",
         "name": "Typical Genius Society Gossip",
-        "desc": "After obtaining this Curio, Cosmic Fragments obtained will increase by 100%, but Blessings will no longer be obtained after combat",
+        "desc": "After obtaining this Curio, Cosmic Fragments obtained will increase by 100%, but Blessings will no longer be obtained after combat.",
         "bg_desc": "\"Herta's EQ is too low and Screwllum needs to learn more common knowledge regarding organics!\" Fans of the Genius Society are always arguing over the various geniuses, and they often find themselves squabbling over things like Stephen Lloyd's actual age. Some believe he is a middle-aged man, while others maintain that he's just a child. In the chaos of their arguments, fans have brought forth an interesting anecdote to note: It is said that the being known as \"Mad Scientist\" among the members of the Genius Society was once rumored to be a man. No one expected a female scientist, let alone one possessed of refined manners. As such, the fans learned from this experience and posed a new question: Is Stephen Lloyd's gender also a fabrication?",
         "icon": "icon/curio/1063.png"
     },
@@ -514,7 +514,7 @@
         "id": "119",
         "name": "A Pinch of Bearded Gunpowder",
         "desc": "Gains 1 cheat attempt(s) after obtaining this Curio.",
-        "bg_desc": "Compared to currencies of stone, wood, gold, or supernium metals, the nomadic miners are more obsessed with the excavation of Aether. There was a period where they were even infatuated with the sensation of digging vast quantities of Aether using their bare hands while in the mines, but these experiences brought calamity upon them. Several large-statured miners met their ends via exploding gunpowder in unknown areas, while only a short and small miner managed to survive. Its beard henceforth always flickered with a pinch of flame.",
+        "bg_desc": "Compared to currencies of stone, wood, gold, or supernium metals, the nomadic miners are more obsessed with the excavation of Aether. There was a period when they were infatuated with the sensation of digging vast quantities of Aether using their bare hands while in the mines, but these experiences brought calamity upon them. Several large-stature miners finally met their ends via exploding gunpowder in unknown areas, while only a short and small miner managed to survive. Its beard henceforth always flickered with a pinch of flame.",
         "icon": "icon/curio/1066.png"
     },
     "120": {
@@ -640,13 +640,13 @@
         "id": "303",
         "name": "\"Jellyfish on the Staircase\"",
         "desc": "Loses all Dice reroll attempts. Making a reroll will no longer consume a reroll attempt. If the same Dice Face is rolled more than once in a single turn, this Curio will be destroyed.",
-        "bg_desc": "The Riddlers have a saying: every time that an enigma manifests in the universe, it will leave behind a \"staircase\" in the void. The dissolved realities will then drip down the steps, condensing into a mottled thing bearing semblance to a jellyfish. There was once a Nameless who claimed to have made contact with a \"Jellyfish on the Staircase.\" In madness, he proclaimed that the jellyfish will activate the cognition regions within the gray matter of one's brain — a vast place beyond the fathoming of mortal minds.",
+        "bg_desc": "The Riddlers have a saying: Every time that an enigma manifests in the universe, it will leave behind a \"staircase\" in the void. The dissolved realities will then drip down the steps, condensing into a mottled thing bearing semblance to a jellyfish. There was once a Nameless who claimed to have made contact with a \"Jellyfish on the Staircase.\" In madness, he proclaimed that the jellyfish will activate the cognition regions within the gray matter of one's brain — a vast place beyond the fathoming of mortal minds.",
         "icon": "icon/curio/1081.png"
     },
     "304": {
         "id": "304",
         "name": "Rationality's Fall",
-        "desc": "Possessing this Curio is considered the equivalent of possessing 1 Blessing(s) of each Path",
+        "desc": "Possessing this Curio is considered the equivalent of possessing 1 Blessing(s) of each Path.",
         "bg_desc": "What is truth? No one truly knows. Supposing that \"stupidity\" is an incurable disease in this world, then disseminating knowledge counts as a treatment for the universe. But can \"books\" mend all living things? According to the Intelligentsia Guild's historical records, the Philosopher Union of the Laurel Wreath Galaxy once erupted in civil war, and blood and machine oil had stained all the books in the contemplators' corridors. Uncountable numbers of scholars died, and the IPC employees who witnessed it all deemed this occurrence \"Rationality's Fall\" — Through such absurd means, books cleansed a world of its impurities once more.",
         "icon": "icon/curio/1080.png"
     },
@@ -667,7 +667,7 @@
     "307": {
         "id": "307",
         "name": "King of Sponges",
-        "desc": "Every time you enter a domain, all allies will lose 80% of their current HP, while their Max HP are increased by 10%. This Curio will be destroyed after its effect has been triggered 4 times, and the Max HP bonus will take effect even after the Curio is destroyed.",
+        "desc": "Every time you enter a domain, all allies will lose 80% of their current HP, while their Max HP are increased by 10%. This Curio will be destroyed after its effect has been triggered 4 times, and the Max HP bonus will take effect even after the Curio is destroyed",
         "bg_desc": "In the Black Forest, a sponge miraculously became sapient. It tried to interact with the similarly sapient screws, but found itself hitting a brick wall. It pondered about its painful experience and learned to smooth away all the edges in its personality, allowing itself to constantly shine and climb up the societal ladder, ultimately turning into a smooth and slick sponge. Now, it dedicates its efforts to uplifting discarded sponges into developing their own self-awareness.",
         "icon": "icon/curio/1072.png"
     },

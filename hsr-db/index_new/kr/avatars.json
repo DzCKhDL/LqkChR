@@ -479,6 +479,11 @@
         "name": "헤르타 순찰대",
         "icon": "icon/avatar/GroupDefault.png"
     },
+    "106": {
+        "id": "106",
+        "name": "Dr. 에드워드",
+        "icon": "icon/avatar/DreamStore.png"
+    },
     "107": {
         "id": "107",
         "name": "토파즈, Mar. 7th, {NICKNAME}의 단톡방",
@@ -518,6 +523,216 @@
         "id": "114",
         "name": "팥앙금러버, 빌 게이버, 무면허 조종사…",
         "icon": "icon/avatar/GroupDefault.png"
+    },
+    "115": {
+        "id": "115",
+        "name": "페나코니 팀",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "116": {
+        "id": "116",
+        "name": "좋은꿈 신문사",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "117": {
+        "id": "117",
+        "name": "레슬리•딘 팬 집합!",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "118": {
+        "id": "118",
+        "name": "울시",
+        "icon": "icon/avatar/Woolsey.png"
+    },
+    "119": {
+        "id": "119",
+        "name": "시계■■■",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "120": {
+        "id": "120",
+        "name": "시계 식당",
+        "icon": "icon/avatar/DelicayExpress.png"
+    },
+    "121": {
+        "id": "121",
+        "name": "우마",
+        "icon": "icon/avatar/Uma.png"
+    },
+    "122": {
+        "id": "122",
+        "name": "페나코니 명품",
+        "icon": "icon/avatar/LuxuryStore.png"
+    },
+    "123": {
+        "id": "123",
+        "name": "크리스탈 잔",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "124": {
+        "id": "124",
+        "name": "친구",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "125": {
+        "id": "125",
+        "name": "쓰레기통",
+        "icon": "icon/avatar/202002.png"
+    },
+    "126": {
+        "id": "126",
+        "name": "불타는 쓰레기통",
+        "icon": "icon/avatar/202002.png"
+    },
+    "127": {
+        "id": "127",
+        "name": "불타는 정열의 쓰레기통",
+        "icon": "icon/avatar/202002.png"
+    },
+    "128": {
+        "id": "128",
+        "name": "마음이 산산조각 난 쓰레기통",
+        "icon": "icon/avatar/202002.png"
+    },
+    "129": {
+        "id": "129",
+        "name": "???",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "130": {
+        "id": "130",
+        "name": "꿈 건축 퍼즐 연구팀",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "131": {
+        "id": "131",
+        "name": "좋은꿈 신문사",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "블루 나이트",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "133": {
+        "id": "133",
+        "name": "시오반",
+        "icon": "icon/avatar/Sionbhan.png"
+    },
+    "134": {
+        "id": "134",
+        "name": "티조크 3세",
+        "icon": "icon/avatar/DesolaTheSecond.png"
+    },
+    "135": {
+        "id": "135",
+        "name": "???",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "136": {
+        "id": "136",
+        "name": "사령관",
+        "icon": "icon/avatar/3002030.png"
+    },
+    "137": {
+        "id": "137",
+        "name": "스페이드",
+        "icon": "icon/avatar/3001010.png"
+    },
+    "138": {
+        "id": "138",
+        "name": "레이디",
+        "icon": "icon/avatar/3002010.png"
+    },
+    "139": {
+        "id": "139",
+        "name": "우울이",
+        "icon": "icon/avatar/3001020.png"
+    },
+    "140": {
+        "id": "140",
+        "name": "큰일났어! 멍청이들한테 포위되고 말았어!",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "141": {
+        "id": "141",
+        "name": "광고판 탐정",
+        "icon": "icon/avatar/AdvertBoard.png"
+    },
+    "142": {
+        "id": "142",
+        "name": "아케론",
+        "icon": "icon/avatar/1308.png"
+    },
+    "143": {
+        "id": "143",
+        "name": "1111111111",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "144": {
+        "id": "144",
+        "name": "폭죽은 어디서 봐야 하지",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "145": {
+        "id": "145",
+        "name": "사냥개 하청업자",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "146": {
+        "id": "146",
+        "name": "클락 스튜디오 고객센터",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "147": {
+        "id": "147",
+        "name": "공수 사부",
+        "icon": "icon/avatar/MasterGongshu.png"
+    },
+    "148": {
+        "id": "148",
+        "name": "지드",
+        "icon": "icon/avatar/Jetta.png"
+    },
+    "149": {
+        "id": "149",
+        "name": "일 처리는 원칙대로",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "150": {
+        "id": "150",
+        "name": "에이딘",
+        "icon": "icon/avatar/Aideen.png"
+    },
+    "151": {
+        "id": "151",
+        "name": "배달원",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "152": {
+        "id": "152",
+        "name": "베이비 트리오",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "153": {
+        "id": "153",
+        "name": "댄시",
+        "icon": "icon/avatar/Dennis.png"
+    },
+    "154": {
+        "id": "154",
+        "name": "미카",
+        "icon": "icon/avatar/Micah.png"
+    },
+    "155": {
+        "id": "155",
+        "name": "티아나",
+        "icon": "icon/avatar/Tina.png"
+    },
+    "156": {
+        "id": "156",
+        "name": "「문자 메시지」 인형",
+        "icon": "icon/avatar/202017.png"
     },
     "1000": {
         "id": "1000",
@@ -704,6 +919,21 @@
         "name": "곽향",
         "icon": "icon/avatar/1217.png"
     },
+    "1218": {
+        "id": "1218",
+        "name": "초구",
+        "icon": "icon/avatar/1218.png"
+    },
+    "1221": {
+        "id": "1221",
+        "name": "운리",
+        "icon": "icon/avatar/1221.png"
+    },
+    "1301": {
+        "id": "1301",
+        "name": "갤러거",
+        "icon": "icon/avatar/1301.png"
+    },
     "1302": {
         "id": "1302",
         "name": "아젠티",
@@ -714,20 +944,60 @@
         "name": "완•매",
         "icon": "icon/avatar/1303.png"
     },
+    "1304": {
+        "id": "1304",
+        "name": "어벤츄린",
+        "icon": "icon/avatar/1304.png"
+    },
     "1305": {
         "id": "1305",
         "name": "Dr. 레이시오",
         "icon": "icon/avatar/1305.png"
     },
+    "1306": {
+        "id": "1306",
+        "name": "스파클",
+        "icon": "icon/avatar/1306.png"
+    },
+    "1307": {
+        "id": "1307",
+        "name": "블랙 스완",
+        "icon": "icon/avatar/1307.png"
+    },
+    "1308": {
+        "id": "1308",
+        "name": "아케론",
+        "icon": "icon/avatar/1308.png"
+    },
+    "1309": {
+        "id": "1309",
+        "name": "로빈",
+        "icon": "icon/avatar/1309.png"
+    },
+    "1310": {
+        "id": "1310",
+        "name": "반디",
+        "icon": "icon/avatar/1310.png"
+    },
+    "1312": {
+        "id": "1312",
+        "name": "미샤",
+        "icon": "icon/avatar/1312.png"
+    },
+    "1314": {
+        "id": "1314",
+        "name": "제이드",
+        "icon": "icon/avatar/1314.png"
+    },
+    "1315": {
+        "id": "1315",
+        "name": "부트힐",
+        "icon": "icon/avatar/1315.png"
+    },
     "8000": {
         "id": "8000",
         "name": "{NICKNAME}",
         "icon": ""
-    },
-    "8001": {
-        "id": "8001",
-        "name": "{NICKNAME}",
-        "icon": "icon/avatar/8001.png"
     },
     "200001": {
         "id": "200001",
@@ -831,9 +1101,69 @@
         "rarity": 5,
         "icon": "icon/avatar/200116.png"
     },
+    "200117": {
+        "id": "200117",
+        "name": "스파클•환상",
+        "rarity": 5,
+        "icon": "icon/avatar/200117.png"
+    },
+    "200118": {
+        "id": "200118",
+        "name": "삼포•환상",
+        "rarity": 5,
+        "icon": "icon/avatar/200118.png"
+    },
+    "200119": {
+        "id": "200119",
+        "name": "토파즈•명중",
+        "rarity": 5,
+        "icon": "icon/avatar/200119.png"
+    },
+    "200120": {
+        "id": "200120",
+        "name": "어벤츄린•명중",
+        "rarity": 5,
+        "icon": "icon/avatar/200120.png"
+    },
+    "200121": {
+        "id": "200121",
+        "name": "아케론•암습",
+        "rarity": 5,
+        "icon": "icon/avatar/200121.png"
+    },
+    "200122": {
+        "id": "200122",
+        "name": "부트힐•암습",
+        "rarity": 5,
+        "icon": "icon/avatar/200122.png"
+    },
+    "200123": {
+        "id": "200123",
+        "name": "반디•전망",
+        "rarity": 5,
+        "icon": "icon/avatar/200123.png"
+    },
+    "200124": {
+        "id": "200124",
+        "name": "기갑 「샘」•전망",
+        "rarity": 5,
+        "icon": "icon/avatar/200124.png"
+    },
+    "200125": {
+        "id": "200125",
+        "name": "백로•인의(仁醫)",
+        "rarity": 5,
+        "icon": "icon/avatar/200125.png"
+    },
+    "200126": {
+        "id": "200126",
+        "name": "초구•인의(仁醫)",
+        "rarity": 5,
+        "icon": "icon/avatar/200126.png"
+    },
     "201001": {
         "id": "201001",
-        "name": "Mar. 7th",
+        "name": "Mar. 7th•보존",
         "icon": "icon/avatar/1001.png"
     },
     "201002": {
@@ -1016,6 +1346,26 @@
         "name": "곽향",
         "icon": "icon/avatar/1217.png"
     },
+    "201218": {
+        "id": "201218",
+        "name": "초구",
+        "icon": "icon/avatar/1218.png"
+    },
+    "201221": {
+        "id": "201221",
+        "name": "운리",
+        "icon": "icon/avatar/1221.png"
+    },
+    "201224": {
+        "id": "201224",
+        "name": "Mar. 7th•수렵",
+        "icon": "icon/avatar/1224.png"
+    },
+    "201301": {
+        "id": "201301",
+        "name": "갤러거",
+        "icon": "icon/avatar/1301.png"
+    },
     "201302": {
         "id": "201302",
         "name": "아젠티",
@@ -1026,10 +1376,55 @@
         "name": "완•매",
         "icon": "icon/avatar/1303.png"
     },
+    "201304": {
+        "id": "201304",
+        "name": "어벤츄린",
+        "icon": "icon/avatar/1304.png"
+    },
     "201305": {
         "id": "201305",
         "name": "Dr. 레이시오",
         "icon": "icon/avatar/1305.png"
+    },
+    "201306": {
+        "id": "201306",
+        "name": "스파클",
+        "icon": "icon/avatar/1306.png"
+    },
+    "201307": {
+        "id": "201307",
+        "name": "블랙 스완",
+        "icon": "icon/avatar/1307.png"
+    },
+    "201308": {
+        "id": "201308",
+        "name": "아케론",
+        "icon": "icon/avatar/1308.png"
+    },
+    "201309": {
+        "id": "201309",
+        "name": "로빈",
+        "icon": "icon/avatar/1309.png"
+    },
+    "201310": {
+        "id": "201310",
+        "name": "반디",
+        "icon": "icon/avatar/1310.png"
+    },
+    "201312": {
+        "id": "201312",
+        "name": "미샤",
+        "icon": "icon/avatar/1312.png"
+    },
+    "201314": {
+        "id": "201314",
+        "name": "제이드",
+        "icon": "icon/avatar/1314.png"
+    },
+    "201315": {
+        "id": "201315",
+        "name": "부트힐",
+        "icon": "icon/avatar/1315.png"
     },
     "202001": {
         "id": "202001",
@@ -1091,6 +1486,54 @@
         "rarity": 4,
         "icon": "icon/avatar/202010.png"
     },
+    "202011": {
+        "id": "202011",
+        "name": "시계 소년",
+        "rarity": 4,
+        "icon": "icon/avatar/202011.png"
+    },
+    "202012": {
+        "id": "202012",
+        "name": "하누 형제",
+        "rarity": 4,
+        "icon": "icon/avatar/202012.png"
+    },
+    "202013": {
+        "id": "202013",
+        "name": "종이새",
+        "rarity": 4,
+        "icon": "icon/avatar/202013.png"
+    },
+    "202014": {
+        "id": "202014",
+        "name": "카카바샤",
+        "rarity": 4,
+        "icon": "icon/avatar/202014.png"
+    },
+    "202015": {
+        "id": "202015",
+        "name": "햄스터볼 기사",
+        "rarity": 4,
+        "icon": "icon/avatar/202015.png"
+    },
+    "202016": {
+        "id": "202016",
+        "name": "1주년 기념",
+        "rarity": 4,
+        "icon": "icon/avatar/202016.png"
+    },
+    "202017": {
+        "id": "202017",
+        "name": "스파클 인형",
+        "rarity": 4,
+        "icon": "icon/avatar/202017.png"
+    },
+    "202018": {
+        "id": "202018",
+        "name": "「안녕, 테스트하러 와」",
+        "rarity": 4,
+        "icon": "icon/avatar/202018.png"
+    },
     "208001": {
         "id": "208001",
         "name": "{NICKNAME}•파멸",
@@ -1110,5 +1553,15 @@
         "id": "208004",
         "name": "{NICKNAME}•보존",
         "icon": "icon/avatar/8004.png"
+    },
+    "208005": {
+        "id": "208005",
+        "name": "{NICKNAME}•화합",
+        "icon": "icon/avatar/8005.png"
+    },
+    "208006": {
+        "id": "208006",
+        "name": "{NICKNAME}•화합",
+        "icon": "icon/avatar/8006.png"
     }
 }

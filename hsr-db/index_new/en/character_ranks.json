@@ -91,7 +91,7 @@
         "id": "100106",
         "name": "Just Like This, Always...",
         "rank": 6,
-        "desc": "Allies under the protection of the Shield granted by the Skill restores HP equal to 4% of their Max HP plus 106 at the beginning of each turn.",
+        "desc": "Allies under the protection of the Shield granted by the Skill restore HP equal to 4% of their Max HP plus 106 at the beginning of each turn.",
         "materials": [
             {
                 "id": "11001",
@@ -309,7 +309,7 @@
         "id": "100401",
         "name": "Legacy of Honor",
         "rank": 1,
-        "desc": "After Welt uses his Ultimate, his abilities are enhanced. The next 2 time(s) he uses his Basic ATK or Skill, deals Additional DMG to the target equal to 50% of his Basic ATK's DMG multiplier or 80% of his Skill's DMG multiplier respectively.",
+        "desc": "After using Ultimate, Welt gets enhanced. Then, the next 2 time(s) he uses Basic ATK or Skill, deals 1 extra instance of Additional DMG to the target enemy. The Additional DMG dealt when using Basic ATK is equal to 50% of Basic ATK DMG multiplier. The Additional DMG dealt when using Skill is equal to 80% of Skill DMG multiplier.",
         "materials": [
             {
                 "id": "11004",
@@ -615,7 +615,7 @@
         "id": "100801",
         "name": "To the Bitter End",
         "rank": 1,
-        "desc": "When HP is lower than or equal to 50% of Max HP, increases Skill's DMG by 10%.",
+        "desc": "When HP is lower than or equal to 50% of Max HP, increases DMG dealt by Skill by 10%.",
         "materials": [
             {
                 "id": "11008",
@@ -703,7 +703,7 @@
         "id": "100806",
         "name": "Self-Sacrifice",
         "rank": 6,
-        "desc": "When HP drops to 50% or below, Ultimate deals 20% more DMG. The DMG multiplier of DMG taken by the target enemy now applies to adjacent enemies as well.",
+        "desc": "When HP drops to 50% or below, Ultimate deals 20% more DMG. And the DMG multiplier for adjacent targets is raised to the same level as that for the primary target.",
         "materials": [
             {
                 "id": "11008",
@@ -972,7 +972,7 @@
         "id": "110104",
         "name": "Take by Surprise",
         "rank": 4,
-        "desc": "After an ally other than Bronya uses Basic ATK on an enemy with Wind Weakness, Bronya immediately launches a follow-up attack on the target, dealing Wind DMG equal to 80% of Bronya's Basic ATK DMG. This effect can only be triggered 1 time per turn.",
+        "desc": "After any other allied character uses Basic ATK on an enemy target that has Wind Weakness, Bronya immediately launches 1 instance of follow-up attack, dealing Wind DMG to this target by an amount equal to 80% of Basic ATK DMG. This effect can only trigger once per turn.",
         "materials": [
             {
                 "id": "11101",
@@ -1125,7 +1125,7 @@
         "id": "110301",
         "name": "Echo Chamber",
         "rank": 1,
-        "desc": "Basic ATK deals Lightning DMG equal to 60% of the Basic ATK's DMG to a random enemy adjacent to the target of the Basic ATK.",
+        "desc": "Basic ATK deals Lightning DMG equal to 60% of Basic ATK DMG to a random target adjacent to the target enemy.",
         "materials": [
             {
                 "id": "11103",
@@ -1315,7 +1315,7 @@
         "id": "110406",
         "name": "Unyielding Resolve",
         "rank": 6,
-        "desc": "When his Talent is triggered, Gepard immediately takes action again and restores extra HP equal to 50% of his Max HP.",
+        "desc": "When his Talent is triggered, Gepard immediately takes action and restores extra HP equal to 50% of his Max HP.",
         "materials": [
             {
                 "id": "11104",
@@ -1894,7 +1894,7 @@
         "id": "111004",
         "name": "Dusk of Warm Campfire",
         "rank": 4,
-        "desc": "When \"Survival Response\" is gained, increases the target's ATK by an amount equal to ('3.0', '.1f')% of Lynx's Max HP for 1 turn(s).",
+        "desc": "When \"Survival Response\" is gained, increases the target's ATK by an amount equal to 3.0% of Lynx's Max HP for 1 turn(s).",
         "materials": [
             {
                 "id": "11110",
@@ -1931,7 +1931,7 @@
         "id": "111006",
         "name": "Dawn of Explorers' Chart",
         "rank": 6,
-        "desc": "Additionally boosts the Max HP increasing effect of \"Survival Response\" by an amount equal to ('6.00000001', '.1f')% of Lynx's Max HP and increases Effect RES by 30%.",
+        "desc": "Additionally boosts the Max HP increasing effect of \"Survival Response\" by an amount equal to 6.0% of Lynx's Max HP and increases Effect RES by 30%.",
         "materials": [
             {
                 "id": "11110",
@@ -2204,7 +2204,7 @@
         "id": "120104",
         "name": "Right on the Tiles",
         "rank": 4,
-        "desc": "After this character's Skill is used, there is a 24% fixed chance to gain Autarky, which lasts until the end of the current turn. \\nWith Autarky, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing Quantum DMG equal to 100% of the previous Basic ATK (or Enhanced Basic ATK)'s DMG.",
+        "desc": "After using Skill, there is a 24% fixed chance to gain Self-Sufficer, lasting until the end of the current turn. \\nWith Self-Sufficer, using Basic ATK or Enhanced Basic ATK immediately launches 1 follow-up attack on the same target, dealing Quantum DMG equal to 100% of Basic ATK DMG or Enhanced Basic ATK DMG.",
         "materials": [
             {
                 "id": "11201",
@@ -2361,7 +2361,7 @@
         "id": "120301",
         "name": "Ablution of the Quick",
         "rank": 1,
-        "desc": "While the Field is active, ATK of all allies increases by 20%.",
+        "desc": "While the Zone is active, ATK of all allies increases by 20%.",
         "materials": [
             {
                 "id": "11203",
@@ -2412,7 +2412,7 @@
         "id": "120304",
         "name": "Heavy Lies the Crown",
         "rank": 4,
-        "desc": "When Luocha's Field is active, enemies become Weakened and deal 12% less DMG.",
+        "desc": "When Luocha's Zone is active, enemies become Weakened and deal 12% less DMG.",
         "materials": [
             {
                 "id": "11203",
@@ -2463,7 +2463,7 @@
         "id": "120401",
         "name": "Slash, Seas Split",
         "rank": 1,
-        "desc": "When Lightning-Lord attacks, the DMG multiplier on enemies adjacent to the target enemy increases by an extra amount equal to 25% of the DMG multiplier against the target enemy.",
+        "desc": "When Lightning-Lord attacks, the DMG multiplier on enemies adjacent to the target enemy increases by an extra amount equal to 25% of the DMG multiplier against the primary target enemy.",
         "materials": [
             {
                 "id": "11204",
@@ -2477,7 +2477,7 @@
         "id": "120402",
         "name": "Swing, Skies Squashed",
         "rank": 2,
-        "desc": "After Lightning-Lord takes action, DMG caused by Jing Yuan's Basic ATK, Skill, and Ultimate increases by 20% for 2 turn(s).",
+        "desc": "After Lightning-Lord takes action, DMG dealt by Jing Yuan's Basic ATK, Skill, and Ultimate increases by 20%, lasting for 2 turn(s).",
         "materials": [
             {
                 "id": "11204",
@@ -2657,7 +2657,7 @@
         "id": "120506",
         "name": "Reborn Into an Empty Husk",
         "rank": 6,
-        "desc": "The maximum number of Charge stacks is reduced to 4. The DMG of the follow-up attack triggered by Blade's Talent additionally increases by 50% of his Max HP.",
+        "desc": "The maximum number of Charge stacks is reduced to 4. The follow-up attack triggered by Talent deals additionally increased DMG, equal to 50% of Blade's Max HP.",
         "materials": [
             {
                 "id": "11205",
@@ -2963,7 +2963,7 @@
         "id": "120806",
         "name": "Omnia Vita",
         "rank": 6,
-        "desc": "Once Matrix of Prescience is activated, it will keep a tally of the total HP lost by all team members in the current battle. Fu Xuan's Ultimate DMG will increase by 200% of this tally of HP loss.\\nThis tally is also capped at 120% of Fu Xuan's Max HP and the tally value will reset and re-accumulate after Fu Xuan's Ultimate is used.",
+        "desc": "Once Matrix of Prescience is activated, it will keep a tally of the total HP lost by all team members in the current battle. The DMG dealt by Fu Xuan's Ultimate will increase by 200% of this tally of HP loss.\\nThis tally is also capped at 120% of Fu Xuan's Max HP and the tally value will reset and re-accumulate after Fu Xuan's Ultimate is used.",
         "materials": [
             {
                 "id": "11208",
@@ -3805,6 +3805,422 @@
         "level_up_skills": [],
         "icon": "icon/skill/1217_rank6.png"
     },
+    "121801": {
+        "id": "121801",
+        "name": "Pentapathic Transference",
+        "rank": 1,
+        "desc": "Allies deal 40% increased DMG to enemy targets afflicted with Ashen Roast. Whenever inflicting Ashen Roast on an enemy target via triggering the Talent's effect, additionally increases the number of Ashen Roast applied this time by 1.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank1.png"
+    },
+    "121802": {
+        "id": "121802",
+        "name": "From Savor Comes Suffer",
+        "rank": 2,
+        "desc": "When an enemy target is afflicted with Ashen Roast, increases the multiplier for the Fire DoT dealt by Ashen Roast to the target by 300%.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank2.png"
+    },
+    "121803": {
+        "id": "121803",
+        "name": "Flavored Euphony Reigns Supreme",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "121802",
+                "num": 2
+            },
+            {
+                "id": "121801",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1218_skill.png"
+    },
+    "121804": {
+        "id": "121804",
+        "name": "Leisure In, Luster Out",
+        "rank": 4,
+        "desc": "When the Zone exists, reduces enemy target's ATK by 15%.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank4.png"
+    },
+    "121805": {
+        "id": "121805",
+        "name": "Duel in Dawn, Dash in Dusk",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "121803",
+                "num": 2
+            },
+            {
+                "id": "121804",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1218_ultimate.png"
+    },
+    "121806": {
+        "id": "121806",
+        "name": "Nonamorphic Pyrobind",
+        "rank": 6,
+        "desc": "When an enemy target gets defeated, their accumulated \"Ashen Roast\" stacks will transfer to the enemy with the lowest number of \"Ashen Roast\" stacks on the battlefield. The maximum stack limit of Ashen Roast increases to 9, and each \"Ashen Roast\" stack reduces the target's All-Type RES by 3%.",
+        "materials": [
+            {
+                "id": "11218",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1218_rank6.png"
+    },
+    "122101": {
+        "id": "122101",
+        "name": "Weathered Blade Does Not Sully",
+        "rank": 1,
+        "desc": "Increases DMG dealt by \"Intuit: Slash\" and \"Intuit: Cull\" by 20%. Increases the number of additional DMG instances for \"Intuit: Cull\" by 3.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank1.png"
+    },
+    "122102": {
+        "id": "122102",
+        "name": "First Luster Breaks Dawn",
+        "rank": 2,
+        "desc": "When dealing DMG via Counter, ignores 20% of the target's DEF.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank2.png"
+    },
+    "122103": {
+        "id": "122103",
+        "name": "Mastlength Twirls Mountweight",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122103",
+                "num": 2
+            },
+            {
+                "id": "122101",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1221_skill.png"
+    },
+    "122104": {
+        "id": "122104",
+        "name": "Artisan's Ironsong",
+        "rank": 4,
+        "desc": "After launching \"Intuit: Slash\" or \"Intuit: Cull,\" increases this unit's Effect RES by 50%, lasting for 1 turn(s).",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank4.png"
+    },
+    "122105": {
+        "id": "122105",
+        "name": "Blade of Old Outlasts All",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122102",
+                "num": 2
+            },
+            {
+                "id": "122104",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1221_ultimate.png"
+    },
+    "122106": {
+        "id": "122106",
+        "name": "Walk in Blade, Talk in Zither",
+        "rank": 6,
+        "desc": "While Parry is active, if an enemy actively uses their abilities, regardless of whether it attacks Yunli or not, it will trigger \"Intuit: Cull\" and remove the \"Parry\" effect. When dealing DMG via \"Intuit: Slash\" or \"Intuit: Cull,\" increases CRIT Rate by 15% and Physical RES PEN by 20%.",
+        "materials": [
+            {
+                "id": "11221",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1221_rank6.png"
+    },
+    "122401": {
+        "id": "122401",
+        "name": "My Sword Stirs Starlight",
+        "rank": 1,
+        "desc": "When Shifu is on the field, increases March 7th's SPD by 10%.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank1.png"
+    },
+    "122402": {
+        "id": "122402",
+        "name": "Blade Dances on Waves' Fight",
+        "rank": 2,
+        "desc": "After Shifu uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a follow-up attack and deals Imaginary DMG equal to 60% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on Shifu's Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then attacks a single random enemy instead. This effect can only trigger once per turn.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank2.png"
+    },
+    "122403": {
+        "id": "122403",
+        "name": "Sharp Wit in Martial Might",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122402",
+                "num": 2
+            },
+            {
+                "id": "122401",
+                "num": 1
+            },
+            {
+                "id": "122408",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1224_skill.png"
+    },
+    "122404": {
+        "id": "122404",
+        "name": "Being Fabulous Never Frights",
+        "rank": 4,
+        "desc": "At the start of the turn, regenerates 5 Energy.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank4.png"
+    },
+    "122405": {
+        "id": "122405",
+        "name": "Sword Delights, Sugar Blights",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "122403",
+                "num": 2
+            },
+            {
+                "id": "122404",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1224_ultimate.png"
+    },
+    "122406": {
+        "id": "122406",
+        "name": "Me, the Best Girl in Sight",
+        "rank": 6,
+        "desc": "After using Ultimate, increases the CRIT DMG dealt by the next Enhanced Basic ATK by 50%.",
+        "materials": [
+            {
+                "id": "11224",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1224_rank6.png"
+    },
+    "130101": {
+        "id": "130101",
+        "name": "Salty Dog",
+        "rank": 1,
+        "desc": "When entering the battle, Gallagher regenerates 20 Energy and increases Effect RES by 50%.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank1.png"
+    },
+    "130102": {
+        "id": "130102",
+        "name": "Lion's Tail",
+        "rank": 2,
+        "desc": "When using the Skill, removes 1 debuff(s) from the target ally. At the same time, increases their Effect RES by 30%, lasting for 2 turn(s).",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank2.png"
+    },
+    "130103": {
+        "id": "130103",
+        "name": "Corpse Reviver",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130102",
+                "num": 2
+            },
+            {
+                "id": "130101",
+                "num": 1
+            },
+            {
+                "id": "130108",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1301_skill.png"
+    },
+    "130104": {
+        "id": "130104",
+        "name": "Last Word",
+        "rank": 4,
+        "desc": "Extends the duration of the Besotted state inflicted by Gallagher's Ultimate by 1 turn(s).",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank4.png"
+    },
+    "130105": {
+        "id": "130105",
+        "name": "Death in the Afternoon",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130103",
+                "num": 2
+            },
+            {
+                "id": "130104",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1301_ultimate.png"
+    },
+    "130106": {
+        "id": "130106",
+        "name": "Blood and Sand",
+        "rank": 6,
+        "desc": "Increases Gallagher's Break Effect by 20% and Weakness Break Efficiency by 20%.",
+        "materials": [
+            {
+                "id": "11301",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1301_rank6.png"
+    },
     "130201": {
         "id": "130201",
         "name": "A Lacuna in Kingdom of Aesthetics",
@@ -3915,7 +4331,7 @@
         "id": "130301",
         "name": "Neuronic Embroidery",
         "rank": 1,
-        "desc": "While the Ultimate's field is deployed, the DMG dealt by all allies ignores 20% of the target's DEF.",
+        "desc": "While the Ultimate's Zone is deployed, the DMG dealt by all allies ignores 20% of the target's DEF.",
         "materials": [
             {
                 "id": "11303",
@@ -4003,7 +4419,7 @@
         "id": "130306",
         "name": "Sash Cascade",
         "rank": 6,
-        "desc": "Extends the duration of the Ultimate's field by 1 turn(s). The Talent's Break DMG multiplier additionally increases by 200%.",
+        "desc": "Extends the duration of the Ultimate's Zone by 1 turn(s). The Talent's Break DMG multiplier additionally increases by 200%.",
         "materials": [
             {
                 "id": "11303",
@@ -4012,6 +4428,108 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1303_rank6.png"
+    },
+    "130401": {
+        "id": "130401",
+        "name": "Prisoner's Dilemma",
+        "rank": 1,
+        "desc": "Increases CRIT DMG by 20% for allies with Fortified Wager. After using the Ultimate, provides all allies with a Fortified Wager shield, whose Shield effect is equal to 100% of the one provided by the Skill, lasting for 3 turn(s).",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank1.png"
+    },
+    "130402": {
+        "id": "130402",
+        "name": "Bounded Rationality",
+        "rank": 2,
+        "desc": "When using the Basic ATK, reduces the target's All-Type RES by 12% for 3 turn(s).",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank2.png"
+    },
+    "130403": {
+        "id": "130403",
+        "name": "Droprate Maxing",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130403",
+                "num": 2
+            },
+            {
+                "id": "130401",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1304_skill.png"
+    },
+    "130404": {
+        "id": "130404",
+        "name": "Unexpected Hanging Paradox",
+        "rank": 4,
+        "desc": "When triggering his Talent's follow-up attack, first increases Aventurine's DEF by 40% for 2 turn(s), and additionally increases the Hits Per Action for his talent's follow-up attack by 3.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank4.png"
+    },
+    "130405": {
+        "id": "130405",
+        "name": "Ambiguity Aversion",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130402",
+                "num": 2
+            },
+            {
+                "id": "130404",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1304_ultimate.png"
+    },
+    "130406": {
+        "id": "130406",
+        "name": "Stag Hunt Game",
+        "rank": 6,
+        "desc": "For every ally that holds a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%.",
+        "materials": [
+            {
+                "id": "11304",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1304_rank6.png"
     },
     "130501": {
         "id": "130501",
@@ -4031,7 +4549,7 @@
         "id": "130502",
         "name": "The Divine Is in the Details",
         "rank": 2,
-        "desc": "When his Talent's follow-up attack hits a target, for every debuff the target has, additionally deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each follow-up attack.",
+        "desc": "When his Talent's follow-up attack hits a target, for every debuff the target has, deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each follow-up attack.",
         "materials": [
             {
                 "id": "11305",
@@ -4105,7 +4623,7 @@
         "id": "130506",
         "name": "Vincit Omnia Veritas",
         "rank": 6,
-        "desc": "Increases the trigger count for Wiseman's Folly by 1. The DMG dealt by the Talent's follow-up attack increases by 50%.",
+        "desc": "Additionally increases the triggerable count for Wiseman's Folly by 1. The DMG dealt by the Talent's follow-up attack increases by 50%.",
         "materials": [
             {
                 "id": "11305",
@@ -4114,6 +4632,850 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1305_rank6.png"
+    },
+    "130601": {
+        "id": "130601",
+        "name": "Suspension of Disbelief",
+        "rank": 1,
+        "desc": "The Cipher effect granted by the Ultimate lasts for 1 extra turn. All allies with Cipher have their ATK increased by 40%.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank1.png"
+    },
+    "130602": {
+        "id": "130602",
+        "name": "Purely Fictitious",
+        "rank": 2,
+        "desc": "Every stack of the Talent's effect allows allies to additionally ignore 8% of the target's DEF when dealing DMG.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank2.png"
+    },
+    "130603": {
+        "id": "130603",
+        "name": "Pipedream",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130602",
+                "num": 2
+            },
+            {
+                "id": "130601",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1306_skill.png"
+    },
+    "130604": {
+        "id": "130604",
+        "name": "Life Is a Gamble",
+        "rank": 4,
+        "desc": "The Ultimate recovers 1 more Skill Point. The Talent additionally increases the Max Skill Points by 1.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank4.png"
+    },
+    "130605": {
+        "id": "130605",
+        "name": "Parallax Truth",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130603",
+                "num": 2
+            },
+            {
+                "id": "130604",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1306_ultimate.png"
+    },
+    "130606": {
+        "id": "130606",
+        "name": "Narrative Polysemy",
+        "rank": 6,
+        "desc": "The CRIT DMG Boost effect provided by the Skill additionally increases by an amount equal to 30% of Sparkle's CRIT DMG. When Sparkle uses Skill, her Skill's CRIT DMG Boost effect will apply to all allies with Cipher. When Sparkle uses her Ultimate, any single ally who benefits from her Skill's CRIT DMG Boost will spread that effect to allies with Cipher.",
+        "materials": [
+            {
+                "id": "11306",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1306_rank6.png"
+    },
+    "130701": {
+        "id": "130701",
+        "name": "Seven Pillars of Wisdom",
+        "rank": 1,
+        "desc": "While Black Swan is active in battle, enemies afflicted with Wind Shear, Bleed, Burn, or Shock will have their corresponding Wind, Physical, Fire, or Lightning RES respectively reduced by 25%.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank1.png"
+    },
+    "130702": {
+        "id": "130702",
+        "name": "Weep Not For Me, My Lamb",
+        "rank": 2,
+        "desc": "When an enemy target afflicted with Arcana is defeated, there is a 100% base chance of inflicting 6 stack(s) of Arcana on adjacent targets.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank2.png"
+    },
+    "130703": {
+        "id": "130703",
+        "name": "As Above, So Below",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130702",
+                "num": 2
+            },
+            {
+                "id": "130704",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1307_skill.png"
+    },
+    "130704": {
+        "id": "130704",
+        "name": "In Tears We Gift",
+        "rank": 4,
+        "desc": "While in the Epiphany state, enemy targets have their Effect RES reduced by 10% and Black Swan regenerates 8 Energy at the start of these targets' turns or when they are defeated. This Energy Regeneration effect can only trigger up to 1 time while Epiphany lasts. The trigger count is reset when Epiphany is applied again.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank4.png"
+    },
+    "130705": {
+        "id": "130705",
+        "name": "Linnutee Flyway",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130703",
+                "num": 2
+            },
+            {
+                "id": "130701",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1307_ultimate.png"
+    },
+    "130706": {
+        "id": "130706",
+        "name": "Pantheon Merciful, Masses Pitiful",
+        "rank": 6,
+        "desc": "When an enemy target gets attacked by Black Swan's allies, Black Swan has a 65% base chance of inflicting 1 stack of Arcana on the target.\\nEvery time Black Swan inflicts Arcana on an enemy target, there is a 50% fixed chance to additionally increase the number of Arcana stacked this time by 1.",
+        "materials": [
+            {
+                "id": "11307",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1307_rank6.png"
+    },
+    "130801": {
+        "id": "130801",
+        "name": "Silenced Sky Spake Sooth",
+        "rank": 1,
+        "desc": "When dealing DMG to debuffed enemies, increases the CRIT Rate by 18%.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank1.png"
+    },
+    "130802": {
+        "id": "130802",
+        "name": "Mute Thunder in Still Tempest",
+        "rank": 2,
+        "desc": "The number of Nihility characters required for the Trace \"The Abyss\" to achieve its highest possible effect is reduced by 1. When this unit's turn starts, gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the enemy with the most Crimson Knot stacks.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank2.png"
+    },
+    "130803": {
+        "id": "130803",
+        "name": "Frost Bites in Death",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130803",
+                "num": 2
+            },
+            {
+                "id": "130801",
+                "num": 1
+            },
+            {
+                "id": "130814",
+                "num": 2
+            },
+            {
+                "id": "130815",
+                "num": 2
+            },
+            {
+                "id": "130816",
+                "num": 2
+            },
+            {
+                "id": "130817",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1308_skill.png"
+    },
+    "130804": {
+        "id": "130804",
+        "name": "Shrined Fire for Mirrored Soul",
+        "rank": 4,
+        "desc": "When enemy targets enter combat, inflicts them with the Ultimate DMG Vulnerability, increasing the amount of Ultimate DMG they take by 8%.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank4.png"
+    },
+    "130805": {
+        "id": "130805",
+        "name": "Strewn Souls on Erased Earths",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130802",
+                "num": 2
+            },
+            {
+                "id": "130804",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1308_ultimate.png"
+    },
+    "130806": {
+        "id": "130806",
+        "name": "Apocalypse, the Emancipator",
+        "rank": 6,
+        "desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by 20%. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When breaking Weaknesses, triggers the Lightning Weakness Break effect.",
+        "materials": [
+            {
+                "id": "11308",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1308_rank6.png"
+    },
+    "130901": {
+        "id": "130901",
+        "name": "Land of Smiles",
+        "rank": 1,
+        "desc": "While the Concerto state is active, all allies' All-Type RES PEN increases by 24%.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank1.png"
+    },
+    "130902": {
+        "id": "130902",
+        "name": "Afternoon Tea For Two",
+        "rank": 2,
+        "desc": "While the Concerto state is active, all allies' SPD increases by 16%. The Talent's Energy Regeneration effect additionally increases by 1.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank2.png"
+    },
+    "130903": {
+        "id": "130903",
+        "name": "Inverted Tuning",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nUltimate Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130902",
+                "num": 2
+            },
+            {
+                "id": "130903",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1309_skill.png"
+    },
+    "130904": {
+        "id": "130904",
+        "name": "Raindrop Key",
+        "rank": 4,
+        "desc": "When using the Ultimate, dispels Crowd Control debuffs from all allies. While Robin is in the Concerto state, increases the Effect RES of all allies by 50%.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank4.png"
+    },
+    "130905": {
+        "id": "130905",
+        "name": "Lonestar's Lament",
+        "rank": 5,
+        "desc": "Basic ATK Lv. +1, up to a maximum of Lv. 10.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "130901",
+                "num": 1
+            },
+            {
+                "id": "130904",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1309_ultimate.png"
+    },
+    "130906": {
+        "id": "130906",
+        "name": "Moonless Midnight",
+        "rank": 6,
+        "desc": "While the Concerto state is active, the CRIT DMG for the Additional Physical DMG caused by the Ultimate increases by 450%. The effect of Moonless Midnight can trigger up to 8 time(s). And the trigger count resets each time the Ultimate is used.",
+        "materials": [
+            {
+                "id": "11309",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1309_rank6.png"
+    },
+    "131001": {
+        "id": "131001",
+        "name": "In Reddened Chrysalis, I Once Rest",
+        "rank": 1,
+        "desc": "When using the Enhanced Skill, ignores 15% of the target's DEF. The Enhanced Skill does not consume Skill Points.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank1.png"
+    },
+    "131002": {
+        "id": "131002",
+        "name": "From Shattered Sky, I Free Fall",
+        "rank": 2,
+        "desc": "While in Complete Combustion, using the Enhanced Basic ATK or the Enhanced Skill to defeat an enemy target or to break their Weakness allows SAM to immediately gain 1 extra turn. This effect can trigger again after 1 turn(s).",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank2.png"
+    },
+    "131003": {
+        "id": "131003",
+        "name": "Amidst Silenced Stars, I Deep Sleep",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131002",
+                "num": 2
+            },
+            {
+                "id": "131001",
+                "num": 1
+            },
+            {
+                "id": "131009",
+                "num": 2
+            },
+            {
+                "id": "131008",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1310_skill.png"
+    },
+    "131004": {
+        "id": "131004",
+        "name": "Upon Lighted Fyrefly, I Soon Gaze",
+        "rank": 4,
+        "desc": "While in Complete Combustion, increases SAM's Effect RES by 50%.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank4.png"
+    },
+    "131005": {
+        "id": "131005",
+        "name": "From Undreamt Night, I Thence Shine",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131003",
+                "num": 2
+            },
+            {
+                "id": "131004",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1310_ultimate.png"
+    },
+    "131006": {
+        "id": "131006",
+        "name": "In Finalized Morrow, I Full Bloom",
+        "rank": 6,
+        "desc": "While in Complete Combustion, increases SAM's Fire RES PEN by 20%. When using the Enhanced Basic ATK or Enhanced Skill, increases the Weakness Break efficiency by 50%.",
+        "materials": [
+            {
+                "id": "11310",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1310_rank6.png"
+    },
+    "131201": {
+        "id": "131201",
+        "name": "Whimsicality of Fancy",
+        "rank": 1,
+        "desc": "When using the Ultimate, for every enemy on the field, additionally increases the Hits Per Action for the current Ultimate by 1 hit(s), up to a maximum increase of 5 hit(s).",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank1.png"
+    },
+    "131202": {
+        "id": "131202",
+        "name": "Yearning of Youth",
+        "rank": 2,
+        "desc": "Before each hit of the Ultimate lands, there is a 24% base chance of reducing the target's DEF by 16% for 3 turn(s).",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank2.png"
+    },
+    "131203": {
+        "id": "131203",
+        "name": "Vestige of Happiness",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131203",
+                "num": 2
+            },
+            {
+                "id": "131201",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1312_skill.png"
+    },
+    "131204": {
+        "id": "131204",
+        "name": "Visage of Kinship",
+        "rank": 4,
+        "desc": "Increases the DMG multiplier for each hit of the Ultimate by 6%.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank4.png"
+    },
+    "131205": {
+        "id": "131205",
+        "name": "Genesis of First Love",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131202",
+                "num": 2
+            },
+            {
+                "id": "131204",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1312_ultimate.png"
+    },
+    "131206": {
+        "id": "131206",
+        "name": "Estrangement of Dream",
+        "rank": 6,
+        "desc": "When using the Ultimate, increases own DMG by 30%, lasting until the end of the turn. In addition, the next time the Skill is used, recovers 1 Skill Point(s) for the team.",
+        "materials": [
+            {
+                "id": "11312",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1312_rank6.png"
+    },
+    "131401": {
+        "id": "131401",
+        "name": "Altruism? Nevertheless Tradable",
+        "rank": 1,
+        "desc": "The follow-up attack DMG from Jade's Talent increases by 32%. After the Debt Collector character attacks and the number of the enemy target(s) hit is either 2 or 1, Jade additionally gains 1 or 2 point(s) of Charge respectively.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank1.png"
+    },
+    "131402": {
+        "id": "131402",
+        "name": "Morality? Herein Authenticated",
+        "rank": 2,
+        "desc": "When there are 15 stacks of Pawned Asset, Jade's CRIT Rate increases by 18%.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank2.png"
+    },
+    "131403": {
+        "id": "131403",
+        "name": "Honesty? Soon Mortgaged",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131402",
+                "num": 2
+            },
+            {
+                "id": "131404",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1314_skill.png"
+    },
+    "131404": {
+        "id": "131404",
+        "name": "Sincerity? Put Option Only",
+        "rank": 4,
+        "desc": "When using Ultimate, enables the DMG dealt by Jade to ignore 12% of enemy targets' DEF, lasting for 3 turn(s).",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank4.png"
+    },
+    "131405": {
+        "id": "131405",
+        "name": "Hope? Hitherto Forfeited",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131403",
+                "num": 2
+            },
+            {
+                "id": "131401",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1314_ultimate.png"
+    },
+    "131406": {
+        "id": "131406",
+        "name": "Equity? Pending Sponsorship",
+        "rank": 6,
+        "desc": "When the Debt Collector character exists on the field, Jade's Quantum RES PEN increases by 20%, and Jade gains the Debt Collector state.",
+        "materials": [
+            {
+                "id": "11314",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1314_rank6.png"
+    },
+    "131501": {
+        "id": "131501",
+        "name": "Dusty Trail's Lone Star",
+        "rank": 1,
+        "desc": "When the battle starts, obtains 1 stack of Pocket Trickshot. When Boothill deals DMG, ignores 16% of the enemy target's DEF.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank1.png"
+    },
+    "131502": {
+        "id": "131502",
+        "name": "Milestonemonger",
+        "rank": 2,
+        "desc": "When in Standoff and gaining Pocket Trickshot, recovers 1 Skill Point(s) and increases Break Effect by 30%, lasting for 2 turn(s). Can also trigger this effect when gaining Pocket Trickshot stacks that exceed the max limit. But cannot trigger repeatedly within one turn.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank2.png"
+    },
+    "131503": {
+        "id": "131503",
+        "name": "Marble Orchard's Guard",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131503",
+                "num": 2
+            },
+            {
+                "id": "131501",
+                "num": 1
+            },
+            {
+                "id": "131508",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/1315_skill.png"
+    },
+    "131504": {
+        "id": "131504",
+        "name": "Cold Cuts Chef",
+        "rank": 4,
+        "desc": "When the enemy target in the Standoff is attacked by Boothill, the DMG they receive additionally increases by 12%. When Boothill is attacked by the enemy target in the Standoff, the effect of him receiving increased DMG is offset by 12%.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank4.png"
+    },
+    "131505": {
+        "id": "131505",
+        "name": "Stump Speech",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "131502",
+                "num": 2
+            },
+            {
+                "id": "131504",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/1315_ultimate.png"
+    },
+    "131506": {
+        "id": "131506",
+        "name": "Crowbar Hotel's Raccoon",
+        "rank": 6,
+        "desc": "When triggering the Talent's Break DMG, additionally deals Break DMG to the target equal to 40% of the original DMG multiplier and additionally deals Break DMG to adjacent targets equal to 70% of the original DMG multiplier.",
+        "materials": [
+            {
+                "id": "11315",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1315_rank6.png"
     },
     "800101": {
         "id": "800101",
@@ -4546,5 +5908,209 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/8004_rank6.png"
+    },
+    "800501": {
+        "id": "800501",
+        "name": "Best Seat in the House",
+        "rank": 1,
+        "desc": "After using Skill for the first time, immediately recovers 1 Skill Point(s).",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank1.png"
+    },
+    "800502": {
+        "id": "800502",
+        "name": "Jailbreaking Rainbowwalk",
+        "rank": 2,
+        "desc": "When the battle starts, the Trailblazer's Energy Regeneration Rate increases by 25%, lasting for 3 turn(s).",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank2.png"
+    },
+    "800503": {
+        "id": "800503",
+        "name": "Sanatorium for Rest Notes",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800502",
+                "num": 2
+            },
+            {
+                "id": "800504",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/8005_skill.png"
+    },
+    "800504": {
+        "id": "800504",
+        "name": "Dove in Tophat",
+        "rank": 4,
+        "desc": "While the Trailblazer is on the field, increases the Break Effect of all teammates (excluding the Trailblazer), by an amount equal to 15% of the Trailblazer's Break Effect.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank4.png"
+    },
+    "800505": {
+        "id": "800505",
+        "name": "Poem Favors Rhythms of Old",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800503",
+                "num": 2
+            },
+            {
+                "id": "800501",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/8005_ultimate.png"
+    },
+    "800506": {
+        "id": "800506",
+        "name": "Tomorrow, Rest in Spotlight",
+        "rank": 6,
+        "desc": "The number of additional DMG applications by the Skill increases by 2.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8005_rank6.png"
+    },
+    "800601": {
+        "id": "800601",
+        "name": "Best Seat in the House",
+        "rank": 1,
+        "desc": "After using Skill for the first time, immediately recovers 1 Skill Point(s).",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank1.png"
+    },
+    "800602": {
+        "id": "800602",
+        "name": "Jailbreaking Rainbowwalk",
+        "rank": 2,
+        "desc": "When the battle starts, the Trailblazer's Energy Regeneration Rate increases by 25%, lasting for 3 turn(s).",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank2.png"
+    },
+    "800603": {
+        "id": "800603",
+        "name": "Sanatorium for Rest Notes",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800602",
+                "num": 2
+            },
+            {
+                "id": "800604",
+                "num": 2
+            }
+        ],
+        "icon": "icon/skill/8006_skill.png"
+    },
+    "800604": {
+        "id": "800604",
+        "name": "Dove in Tophat",
+        "rank": 4,
+        "desc": "While the Trailblazer is on the field, increases the Break Effect of all teammates (excluding the Trailblazer), by an amount equal to 15% of the Trailblazer's Break Effect.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank4.png"
+    },
+    "800605": {
+        "id": "800605",
+        "name": "Poem Favors Rhythms of Old",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [
+            {
+                "id": "800603",
+                "num": 2
+            },
+            {
+                "id": "800601",
+                "num": 1
+            }
+        ],
+        "icon": "icon/skill/8006_ultimate.png"
+    },
+    "800606": {
+        "id": "800606",
+        "name": "Tomorrow, Rest in Spotlight",
+        "rank": 6,
+        "desc": "The number of additional DMG applications by the Skill increases by 2.",
+        "materials": [
+            {
+                "id": "18005",
+                "num": 1
+            }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/8006_rank6.png"
     }
 }

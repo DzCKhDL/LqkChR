@@ -111,14 +111,53 @@
         "1217": [
             "Huohuo"
         ],
+        "1218": [
+            "Jiaoqiu"
+        ],
+        "1221": [
+            "Yunli"
+        ],
+        "1224": [
+            "March 7th"
+        ],
+        "1301": [
+            "Gallagher"
+        ],
         "1302": [
             "Argenti"
         ],
         "1303": [
             "Ruan Mei"
         ],
+        "1304": [
+            "Aventurine"
+        ],
         "1305": [
             "Dr. Ratio"
+        ],
+        "1306": [
+            "Sparkle"
+        ],
+        "1307": [
+            "Black Swan"
+        ],
+        "1308": [
+            "Acheron"
+        ],
+        "1309": [
+            "Robin"
+        ],
+        "1310": [
+            "Firefly"
+        ],
+        "1312": [
+            "Misha"
+        ],
+        "1314": [
+            "Jade"
+        ],
+        "1315": [
+            "Boothill"
         ],
         "8001": [
             "{NICKNAME}"
@@ -130,6 +169,12 @@
             "{NICKNAME}"
         ],
         "8004": [
+            "{NICKNAME}"
+        ],
+        "8005": [
+            "{NICKNAME}"
+        ],
+        "8006": [
             "{NICKNAME}"
         ]
     },
@@ -302,11 +347,50 @@
         "21034": [
             "Today Is Another Peaceful Day"
         ],
+        "21035": [
+            "What Is Real?"
+        ],
+        "21036": [
+            "Dreamville Adventure"
+        ],
+        "21037": [
+            "Final Victor"
+        ],
+        "21038": [
+            "Flames Afar"
+        ],
+        "21039": [
+            "Destiny's Threads Forewoven"
+        ],
+        "21040": [
+            "The Day The Cosmos Fell"
+        ],
+        "21041": [
+            "It's Showtime"
+        ],
+        "21042": [
+            "Indelible Promise"
+        ],
+        "21043": [
+            "Concert for Two"
+        ],
+        "21044": [
+            "Boundless Choreo"
+        ],
+        "21045": [
+            "After the Charmony Fall"
+        ],
+        "21046": [
+            "Poised to Bloom"
+        ],
         "22000": [
             "Before the Tutorial Mission Starts"
         ],
         "22001": [
             "Hey, Over Here"
+        ],
+        "22002": [
+            "For Tomorrow's Journey"
         ],
         "23000": [
             "Night on the Milky Way"
@@ -371,6 +455,36 @@
         "23020": [
             "Baptism of Pure Thought"
         ],
+        "23021": [
+            "Earthly Escapade"
+        ],
+        "23022": [
+            "Reforged Remembrance"
+        ],
+        "23023": [
+            "Inherently Unjust Destiny"
+        ],
+        "23024": [
+            "Along the Passing Shore"
+        ],
+        "23025": [
+            "Whereabouts Should Dreams Rest"
+        ],
+        "23026": [
+            "Flowing Nightglow"
+        ],
+        "23027": [
+            "Sailing Towards a Second Life"
+        ],
+        "23028": [
+            "Yet Hope Is Priceless"
+        ],
+        "23029": [
+            "Those Many Springs"
+        ],
+        "23030": [
+            "Dance at Sunset"
+        ],
         "24000": [
             "On the Fall of an Aeon"
         ],
@@ -382,6 +496,9 @@
         ],
         "24003": [
             "Solitary Healing"
+        ],
+        "24004": [
+            "Eternal Calculus"
         ]
     },
     "relic_sets": {
@@ -433,6 +550,18 @@
         "116": [
             "Prisoner in Deep Confinement"
         ],
+        "117": [
+            "Pioneer Diver of Dead Waters"
+        ],
+        "118": [
+            "Watchmaker, Master of Dream Machinations"
+        ],
+        "119": [
+            "Iron Cavalry Against the Scourge"
+        ],
+        "120": [
+            "The Wind-Soaring Valorous"
+        ],
         "301": [
             "Space Sealing Station"
         ],
@@ -468,6 +597,18 @@
         ],
         "312": [
             "Penacony, Land of the Dreams"
+        ],
+        "313": [
+            "Sigonia, the Unclaimed Desolation"
+        ],
+        "314": [
+            "Izumo Gensei and Takama Divine Realm"
+        ],
+        "315": [
+            "Duran, Dynasty of Running Wolves"
+        ],
+        "316": [
+            "Forge of the Kalpagni Lantern"
         ]
     }
 }

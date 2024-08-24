@@ -42,7 +42,7 @@
     "10009": {
         "id": "10009",
         "title": "A Abundância",
-        "desc": "O caminho governado pelo Aeon Yaoshi.\nAtos altruístas, generosos e de cura são manifestações do caminho da Abundância."
+        "desc": "O caminho governado pelo Aeon Yaoshi.\nAtos altruístas, generosos e de cura são manifestações do Caminho da Abundância."
     },
     "10010": {
         "id": "10010",
@@ -117,7 +117,7 @@
     "10024": {
         "id": "10024",
         "title": "Herta",
-        "desc": "Membro 83 da Sociedade de Gênios e verdadeira dona da Estação Espacial.\nUma cientista incrivelmente inteligente, mas não tem muita empatia."
+        "desc": "Membro n.º 83 da Sociedade de Gênios e verdadeira dona da Estação Espacial.\nUma cientista incrivelmente inteligente, mas não tem muita empatia."
     },
     "10025": {
         "id": "10025",
@@ -227,7 +227,7 @@
     "10046": {
         "id": "10046",
         "title": "O Enxame",
-        "desc": "O exército de clones da \"Majestade do Enxame\", Tayzzyronth.\nCom o propósito único de se \"propagar\", invade vários planetas do universo, como um enxame de louva-deuses."
+        "desc": "O exército de clones da \"Monarca Insectorum\", Tayzzyronth.\nCom o propósito único de se \"propagar\", invade vários planetas do universo, como um enxame de louva-deuses."
     },
     "10047": {
         "id": "10047",
@@ -477,7 +477,7 @@
     "10096": {
         "id": "10096",
         "title": "Técnica",
-        "desc": "Durante a exploração, os personagens podem usar Técnicas fora do combate.\nHá diversos tipos de Técnica, como as de suporte, reforço e ataque surpresa.\nUse Técnicas para obter uma vantagem para sua equipe na exploração."
+        "desc": "Durante a exploração, os personagens podem usar Técnicas fora do combate.\nHá diversos tipos de Técnica, como as de Defesa, Debilitação, Suporte, Restauração, Ataque Surpresa, Aprimoramento e mais.\nUse Técnicas para obter uma vantagem para sua equipe durante a exploração."
     },
     "10097": {
         "id": "10097",
@@ -652,7 +652,7 @@
     "10131": {
         "id": "10131",
         "title": "Topaz",
-        "desc": "Gerente Sênior do Departamento de Investimento Estratégico da Corporação da Paz Interastral e líder do Grupo de Coleta de Dívidas Especiais.\nMembro dos \"Dez Corações de Pedra\" desde jovem, a pedra-núcleo de Topaz é o \"topázio de recuperação de dívidas\".\nEla e Dinheirinho, seu parceiro, estão atravessando o cosmos juntos, indo atrás de dívidas e danos que podem influenciar negativamente os negócios da CPI."
+        "desc": "Gerente Sênior do Departamento de Investimento Estratégico da Corporação da Paz Interastral e líder do Grupo de Coleta de Dívidas Especiais.\nMembro dos \"Dez Corações de Pedra\" desde jovem, o Alicerce de Topaz é o \"topázio de recuperação de dívidas\".\nEla e Dinheirinho, seu parceiro, estão atravessando o cosmos juntos, indo atrás de dívidas e danos que podem influenciar negativamente os negócios da CPI."
     },
     "10132": {
         "id": "10132",
@@ -687,7 +687,7 @@
     "10138": {
         "id": "10138",
         "title": "Argenti",
-        "desc": "Um cavaleiro clássico dos \"Cavaleiros da Beleza\" que busca piamente por seu Aeon perdido, Idrila, \"a Beleza\".\nDireto e franco, ele vaga pelo cosmos defendendo as virtudes do bom nome de Idrila."
+        "desc": "Um protótipo de cavaleiro dos Cavaleiros da Beleza que busca piamente por seu Aeon perdido, Idrila, a Beleza.\nDireto e franco, ele vaga pelo cosmos defendendo as virtudes do bom nome de Idrila."
     },
     "10139": {
         "id": "10139",
@@ -707,7 +707,7 @@
     "10142": {
         "id": "10142",
         "title": "Dr. Ratio",
-        "desc": "Um membro da Guilda de Intelectuais. Excêntrico, egocêntrico, levemente melancólico, mas ainda assim, elegante.\nEle costuma utilizar uma bizarra escultura de gesso sobre a cabeça, apesar de ter um belo roso."
+        "desc": "Um membro da Guilda de Intelectuais. Excêntrico, egocêntrico, levemente melancólico, mas ainda assim, elegante.\nEle costuma utilizar uma bizarra escultura de gesso sobre a cabeça, apesar de ter um belo rosto."
     },
     "10143": {
         "id": "10143",
@@ -718,5 +718,365 @@
         "id": "10144",
         "title": "O Desastre do Enxame",
         "desc": "Tayzzyronth, que em meio ao ódio e a solidão, ascendeu para se tornar o Aeon da Propagação.\nEntão, um vasto \"Enxame\" varreu o universo."
+    },
+    "10145": {
+        "id": "10145",
+        "title": "Misha",
+        "desc": "Um servente no Devaneio que tem muito interesse no Caminho do Desbravamento em que o Expresso Astral trilha."
+    },
+    "10146": {
+        "id": "10146",
+        "title": "Relojoeiro",
+        "desc": "Uma figura lendária conhecida como Pai de Penacony e fundador do Mundonírico.\nNo entanto, sua verdadeira identidade é um mistério."
+    },
+    "10147": {
+        "id": "10147",
+        "title": "Sunday",
+        "desc": "O líder benevolente e reverenciados da Família Carvalho e do Paraíso do Doce Sonhar.\nÉ muito respeitado no mundo exterior e é o irmão mais velho de Robin."
+    },
+    "10149": {
+        "id": "10149",
+        "title": "Aventurine",
+        "desc": "Gerente sênior do Departamento de Investimento Estratégico da CPI e um dos Dez Corações de Pedra, conhecido por seu alicerce \"Aventurine de estratagemas\".\nEle sempre tem um sorriso no rosto, que oculta suas verdadeiras intenções, e vive de acordo com o princípio de que \"quanto maior o risco, melhor é a recompensa\"."
+    },
+    "10150": {
+        "id": "10150",
+        "title": "Vaga-lume",
+        "desc": "Ela diz que é a nova artista da Família Iris.\nInicialmente, foi acusada de contrabando pela Família Cão de Caça. Depois de {NICKNAME} oferecer ajuda, ela se voluntariou para trabalhar como guia de turismo."
+    },
+    "10151": {
+        "id": "10151",
+        "title": "SAM",
+        "desc": "Um dos Caçadores de Stellaron, um guerreiro que usa uma armadura formidável.\nSua armadura mecha é capaz de realizar ataques de fogo, envolvendo o campo de batalha em chamas."
+    },
+    "10152": {
+        "id": "10152",
+        "title": "Acheron",
+        "desc": "Uma viajante reservada e introvertida, associada à Vigia da Galáxia. Tem a tendência de esquecer coisas importantes."
+    },
+    "10153": {
+        "id": "10153",
+        "title": "Sparkle",
+        "desc": "Membro dos Tolos Mascarados, passional e imprevisível.\nEla navega entre grandes facções, se divertindo enquanto vira o mundo de cabeça para baixo."
+    },
+    "10154": {
+        "id": "10154",
+        "title": "Cisne Negro",
+        "desc": "Uma Memoriadora descontraída e enigmática que coleciona memórias intrigantes.\nEla acredita piamente que o destino não está além da compreensão, e que todas as coisas em algum momento se tornarão \"conhecidas\" dentro do eterno reino das memórias."
+    },
+    "10155": {
+        "id": "10155",
+        "title": "Gallagher",
+        "desc": "Coquetelista desarrumado e oficial de segurança da Família Cão de Caça.\nLocal de Penacony, ele possui um conhecimento excepcional, embora raramente mencione isso para os outros."
+    },
+    "10156": {
+        "id": "10156",
+        "title": "Relogin",
+        "desc": "Protagonista de um desenho animado popular de Penacony, Relogin personifica otimismo, sabedoria e energia infinita, enquanto ainda exibe um lado impulsivo.\nPor motivos desconhecidos, Relogin frequentemente aparece no Mundonírico, visível apenas para aqueles que possuem uma alma infantil."
+    },
+    "10157": {
+        "id": "10157",
+        "title": "Penacony (Realidade)",
+        "desc": "Estrutura colossal localizada no sistema Asdana, que conta com o icônico hotel \"Devaneio\" como emblema proeminente.\nJá foi uma prisão de fronteira da CPI, mas agora serve como centro de transporte interestelar e porta de entrada para o Paraíso do Doce Sonhar, administrado pela Família."
+    },
+    "10158": {
+        "id": "10158",
+        "title": "Penacony (Mundonírico)",
+        "desc": "Uma metrópole magnífica caracterizada por um fluxo contínuo de visitantes, meticulosamente mantida pela Família na Sinestesia do Mundonírico.\nQuando hóspedes dormem no Devaneio, a consciência deles se liga ao Mundonírico, permitindo que eles entrem no mundo dos sonhos encantado de Penacony."
+    },
+    "10159": {
+        "id": "10159",
+        "title": "Hotel Devaneio",
+        "desc": "Um resort intergaláctico surreal e luxuoso que serve como um símbolo proeminente de Penacony.\nEle serve como um refúgio para viajantes intergalácticos e a única porta de entrada para o Mundonírico, um paraíso hedonista."
+    },
+    "10160": {
+        "id": "10160",
+        "title": "Sonho de Uma Criança",
+        "desc": "Um fragmento extraído da memória de alguém, presumivelmente conectado a um segredo muito bem guardado de Penacony."
+    },
+    "10161": {
+        "id": "10161",
+        "title": "Sigonia",
+        "desc": "Um setor abandonado localizado na convergência dos sistemas Dnies, Pruthian, e Dorneau.\nObjetos celestes neste setor resistem constantemente à investida implacável de ventos estelares e corpos celestes perdidos, resultando em um clima excepcionalmente severo na superfície de seus planetas."
+    },
+    "10162": {
+        "id": "10162",
+        "title": "Avginianos",
+        "desc": "Um dos nativos de Sigonia-IV, que tem muito conhecimento sobre a vida nos penhascos.\n\"Avgin\" significa \"querido\" no idioma Sigoniano, mas aqueles que temem os Avginianos distorcem irracionalmente sem qualquer justificativa o significado da palavra para perpetuar esteriótipos Avginianos que os representam como astutos, cheios de lábia e caprichosos."
+    },
+    "10163": {
+        "id": "10163",
+        "title": "Zona da Memória",
+        "desc": "Um reino criado pela memória, inacessível para observação direta. Apenas Exploradores que seguem o Caminho da Recordação ou indivíduos versados em métodos não convencionais de navegação conseguem se aventurar por suas fronteiras.\nNo passado, o Enigmata causou várias brechas na fronteira entre o espaço real e a Zona da Memória."
+    },
+    "10164": {
+        "id": "10164",
+        "title": "Memória",
+        "desc": "A Memória serve como receptáculo para a memória e consciência humana. Indivíduos que não são Memoriadores podem sentir vários níveis de impactos negativos ao entrar em contato direto com memória não processada.\nA Zona da Memória e Bolhas da Memória são agregados da Memória, apenas diferentes em tamanho."
+    },
+    "10165": {
+        "id": "10165",
+        "title": "Sinestesia do Mundonírico",
+        "desc": "Uma manifestação única de um distúrbio mental orgânico, ligado diretamente às falhas de memória.\nInúmeros sonhos se cruzam e se mesclam aqui, permitindo que indivíduos no mundo dos sonhos se encontrem e até mesmo vivam vidas completamente novas."
+    },
+    "10166": {
+        "id": "10166",
+        "title": "Festival Carismonia",
+        "desc": "Um ritual muito importância em Penacony, que ocorre apenas uma vez a cada Era de Âmbar.\nQuando o Festival Carismonia acontece em qualquer planeta, a encarnação de Xipe descende para conceder bênçãos tanto aos que acreditam quanto aos que não acreditam."
+    },
+    "10167": {
+        "id": "10167",
+        "title": "Mestre dos Sonhos",
+        "desc": "Mestre do Mundonírico e verdadeiro líder da Família em Penacony.\nEle opera nos bastidores, orquestrando tudo e delegando a maior parte do gerenciamento de verdade para a Família Carvalho."
+    },
+    "10168": {
+        "id": "10168",
+        "title": "Truquelógio",
+        "desc": "Uma habilidade única concedida aos Desbravadores pelo Relogin.\nCom esta habilidade, os Desbravadores conseguem canalizar as inúmeras emoções que fluem pelos sonhos de volta às almas de seus donos."
+    },
+    "10169": {
+        "id": "10169",
+        "title": "\"Algo até a Morte\"",
+        "desc": "Um mimema enigmático na Zona da Memória, supostamente uma manifestação do medo que as pessoas têm da morte e de assassinato.\nAltamente elusiva, segue padrões de comportamento desconhecidos e já cometeu vários assassinatos terríveis dentro do Mundonírico em Penacony."
+    },
+    "10170": {
+        "id": "10170",
+        "title": "Hora Dourada",
+        "desc": "Um dos doze Mundoníricos em Penacony e seu horário coincide com a meia-noite.\nAqui, o tempo do sonho está sempre preso em 00h00. O amanhã não virá, e a noite de folia jamais terminará."
+    },
+    "10171": {
+        "id": "10171",
+        "title": "Trupe dos Sonhos Doces",
+        "desc": "Dispositivos e instalações foram domesticadas pela Família para servir os hóspedes. Sob a influência das emoções no Mundonírico, esses objetos ganharam consciência.\nAqueles que foram afetados por emoções negativas e se transformaram em monstros selvagens são chamados de Trupe dos Pesadelos Amargos."
+    },
+    "10172": {
+        "id": "10172",
+        "title": "Bolha de Sonhos",
+        "desc": "Bolhas da Memória afetadas por forças enigmáticas. Bolhas de Sonhos brutas tipicamente carregam sentimentos intensos.\nCom o ajuste da Família, elas podem ser utilizadas para gravar sonhos com segurança, fazendo com que elas sejam uma das especialidades mais intrigantes de Penacony."
+    },
+    "10173": {
+        "id": "10173",
+        "title": "Mimema da Zona da Memória",
+        "desc": "Entidades compostas de percepções específicas que se originam de fragmentos do subconsciente na Zona da Memória.\nElas não têm inteligência, então agem puramente baseadas nas percepções que carregam, levadas a consumir mais memórias."
+    },
+    "10174": {
+        "id": "10174",
+        "title": "Passe do Mundonírico",
+        "desc": "Uma recordação concedida a todos os hóspedes que ficam no Hotel Devaneio, com uma variedade de funções."
+    },
+    "10175": {
+        "id": "10175",
+        "title": "Robin",
+        "desc": "Cantora de renome por todo o cosmos, considerada a estrela do Palco Estrelado.\nSua voz cativante honra a Harmonia diante de plateias em todo o universo."
+    },
+    "10176": {
+        "id": "10176",
+        "title": "Misha",
+        "desc": "O ingênuo e alheio protagonista dos sonhos de infância de Mikhail. Ele fugiu da Bolha de Sonhos.\nCarregando a missão de guiar o Expresso Astral para descobrir o legado do Relojoeiro, ele erroneamente acredita ser um \"servente\" de Penacony."
+    },
+    "10177": {
+        "id": "10177",
+        "title": "Relojoeiro",
+        "desc": "O lendário magnata de Penacony, Mikhail Char Gasta-Sola. Um antigo Inominado.\nEle passou sua vida na batalha contra os vilões escondidos na Família, e em seu leito de morte, ele fez um convite a todo o Cosmos, tudo para cuidar de seus negócios em aberto."
+    },
+    "10178": {
+        "id": "10178",
+        "title": "Sunday",
+        "desc": "O benevolente e disciplinado chefe da Família Carvalho.\nPara conseguir concluir a promessa que fez à sua irmã mais nova na infância, ele embarcou numa jornada diametralmente oposta à dela."
+    },
+    "10179": {
+        "id": "10179",
+        "title": "Gallagher",
+        "desc": "O leal cão do Relojoeiro. Um personagem criado por um certo Ficciologista da História com base em diversos fatos de Penacony.\nCarregando o legado do Relojoeiro, ele habilmente se opôs à Família até seu último suspiro."
+    },
+    "10180": {
+        "id": "10180",
+        "title": "Sonho de Uma Criança",
+        "desc": "O último sonho de Mikhail. Ele registra todas as verdades relacionadas ao Relojoeiro, Misha e ao Relogin."
+    },
+    "10181": {
+        "id": "10181",
+        "title": "\"Algo até a Morte\"",
+        "desc": "A forma de vida mimética \"Letargia\", fabricada por Gallagher com os poderes emprestados do Enigmata. Ela ajuda os residentes do Recife do Fluxonírico a viajar entre lá e o doce sonho.\nÉ regularmente confundida como uma manifestação dos medos das pessoas da \"morte\" e do \"assassinato\"."
+    },
+    "10182": {
+        "id": "10182",
+        "title": "Recife do Fluxonírico",
+        "desc": "O reflexo de Penacony refletido nas profundezas. O \"Pesadelo\" declarado pela Família.\nNa realidade, esse canto da Zona da Memória primordial é a verdadeira forma do Mundonírico."
+    },
+    "10183": {
+        "id": "10183",
+        "title": "Audição Festiva FelizAlma™",
+        "desc": "O evento classificatório para o Festival Carismonia.\nAs pessoas que sonham com a fama do dia para a noite competem ferozmente aqui, visando o título de \"Superestrela Festiva\" e os assentos VIPs no Festival Carismonia."
+    },
+    "10184": {
+        "id": "10184",
+        "title": "Momento da Brasareia",
+        "desc": "O momento em que os vendos selvagens passam. Um dos doze Mundoníricos de Penacony.\nFerrovias, pastos, animais e vastas planícies que já foram destruídas por desastres.\nApós a sua reconstrução, se tornou um local de realização das \"Audições Festivas\", patrocinadas e promovidas pela Empresa FelizAlma."
+    },
+    "10185": {
+        "id": "10185",
+        "title": "Grande Teatro de Penacony",
+        "desc": "O magnífico e opulento Grande Teatro.\nConstruído pela Família, é uma estrutura colossal projetada com base nas prisões ancestrais, servindo de palco para o Festival Carismonia dos dias de hoje."
+    },
+    "10186": {
+        "id": "10186",
+        "title": "Feldspato Radiante",
+        "desc": "Uma nave de luxo feita pela Família, navegando pelo oceano de Memória, que já foi impedido temporariamente por algum motivo."
+    },
+    "10200": {
+        "id": "10200",
+        "title": "Cerimônia da Dança da Guerra Luminar",
+        "desc": "Um festival tradicional da Aliança Xianzhou e um torneio de artes marciais criado para comemorar os momentos de salvação concedidos pela Flecha do Destino e pelos Cavaleiros das Nuvens.\nGuerreiros de todos os mundos são convidados para competir como pares."
+    },
+    "10201": {
+        "id": "10201",
+        "title": "Feixiao",
+        "desc": "A general celestial do Yaoqing do Xianzhou. Conhecida como Garra de Merlin.\nDecisiva como um relâmpago e sempre fazendo o que é correto, ela demonstrou um incrível sucesso militar através de sua proeza marcial."
+    },
+    "10202": {
+        "id": "10202",
+        "title": "Jiaoqiu",
+        "desc": "Um conselheiro sob o comando de Feixiao. Responsável pela alimentação e saúde da general.\nPara ele, um caldeirão de remédios em fervura não é nada diferente de um hotpot no fogão, e os ingredientes das refeições também não são diferentes de remédios..."
+    },
+    "10203": {
+        "id": "10203",
+        "title": "Yunli",
+        "desc": "Uma mestra da espada do Zhuming visitando o Luofu do Xianzhou. A amada neta adotiva do general Huaiyan.\nEla não oferece pretensões para guerreiros carentes de virtude e ama reivindicar para si as armas de seus inimigos derrotados."
+    },
+    "10204": {
+        "id": "10204",
+        "title": "Huaiyan",
+        "desc": "O Árbitro-General que governa o Zhuming do Xianzhou. Conhecido como Coração Flamejante.\nComo um indivíduo que porta um semblante idoso, o general se destaca em meio às pessoas joviais do Xianzhou."
+    },
+    "10205": {
+        "id": "10205",
+        "title": "Moze",
+        "desc": "Um assessor sob Feixiao. Ele é responsável pela inteligência e segurança.\nComo uma lâmina oculta, sua presença raramente é percebida, aparecendo apenas quando necessário."
+    },
+    "10206": {
+        "id": "10206",
+        "title": "Hoolay",
+        "desc": "Um oponente formidável do povo Xianzhouita. Um Senhor da Ninhada dos Borisins.\nDerrotado há 700 anos, ele foi mantido aprisionado na Prisão dos Grilhões, condenado ao sofrimento eterno."
+    },
+    "20000": {
+        "id": "20000",
+        "title": "Voltando ao ponto de vista {F#da Desbravadora}{M#do Desbravador}...",
+        "desc": "Quando tiver a chance de fazer uma escolha, faça uma da qual não vai se arrepender."
+    },
+    "20002": {
+        "id": "20002",
+        "title": "Mudando para o ponto de vista de Aventurine...",
+        "desc": "Aventurine agora compreende a situação atual. Ele decidiu honrar o convite do chefe da Família Carvalho e se encontrar com ele, e então reivindicar seus pertences perdidos, assim como o poder adequado para eles..."
+    },
+    "20003": {
+        "id": "20003",
+        "title": "Mudando para o ponto de vista de Aventurine...",
+        "desc": "Aventurine parece ter perdido tudo, mas ele ainda decide entregar as joias e o dinheiro pelas ruas para aproveitar o que sobrou. Qual é o objetivo dele...?"
+    },
+    "20004": {
+        "id": "20004",
+        "title": "Mudando para o ponto de vista de Acheron...",
+        "desc": "Acheron e Welt chegaram a um acordo, visando diretamente a Família com suas suspeitas. O que será que eles descobrirão no Pavilhão do Orvalho?"
+    },
+    "20005": {
+        "id": "20005",
+        "title": "Mudando para o ponto de vista de Aventurine...",
+        "desc": "Aventurine parece estar convencido de que ele obteve algumas pistas-chave e de que a vitória está a seu alcance. Entretanto, ele pode realmente suportar até o momento em que ele subirá no palco do Parque Temático dos Estúdios Clock?"
+    },
+    "20006": {
+        "id": "20006",
+        "title": "Mudando para o ponto de vista de Topaz...",
+        "desc": "Enquanto isso, Topaz embarca em uma certa espaçonave luxuosa em Penacony, aguardando o início de uma importante reunião..."
+    },
+    "20007": {
+        "id": "20007",
+        "title": "Mudando para o ponto de vista de Jade...",
+        "desc": "A reunião com Oti Alfafa não começou de maneira suave. Jade e Topaz estão atualmente a bordo da Feldspato Radiante discutindo a estratégia para o segundo tempo..."
+    },
+    "20008": {
+        "id": "20008",
+        "title": "Mudando para o ponto de vista de Vaga-lume...",
+        "desc": "Nesse momento, uma \"clandestina\" hábil também embarca na Feldspato Radiante..."
+    },
+    "20011": {
+        "id": "20011",
+        "title": "Mudando para o ponto de vista de 7 de Março...",
+        "desc": "Com o encorajamento do general Huaiyan - seja ele deliberado ou acidental - 7 de Março buscou a oportunidade inesperada de aprender a arte da espada do Xianzhou e de realizar a cerimônia da Dança da Guerra..."
+    },
+    "20012": {
+        "id": "20012",
+        "title": "Mudando para o ponto de vista de Jiaoqiu...",
+        "desc": "Enviados pela general do Yaoqing, Jiaoqiu e Moze entram na Prisão dos Grilhões para visitar Hoolay, o Muhtar da Guerra Borisin aprisionado aqui..."
+    },
+    "20013": {
+        "id": "20013",
+        "title": "Buscando ajuda do Dr. Ratio...",
+        "desc": "O professor Ratio partiu da Maquete sem pensar duas vezes, nem sequer olhar para trás. Que legal da parte dele!"
+    },
+    "20014": {
+        "id": "20014",
+        "title": "Jade",
+        "desc": "Uma gerente sênior do Departamento de Investimento Estratégico da CPI e uma dos Dez Corações de Pedra. Seu Alicerce é o \"Jade do Crédito\"."
+    },
+    "20015": {
+        "id": "20015",
+        "title": "Pavilhão do Orvalho",
+        "desc": "O local onde os líderes de cada linhagem negociam os planos quanto ao desenvolvimento de Penacony. Um edifício no nome de Sunday.\nHóspedes comuns não saberiam nem sequer da existência desta mansão, muito menos como chegar nela."
+    },
+    "20016": {
+        "id": "20016",
+        "title": "Momento do Orvalho Matinal",
+        "desc": "O momento mais silencioso dos doze Mundoníricos de Penacony.\nAqui é onde fica a residência e o escritório da Família, o Pavilhão do Orvalho."
+    },
+    "20017": {
+        "id": "20017",
+        "title": "Parque Temático dos Estúdios Clock",
+        "desc": "Um parque de diversões construído pela Família, com o tema dos personagens de um famoso desenho Penaconiano.\nO parque pertence nominalmente aos Estúdios Clock e é propriedade do lendário magnata, o Relojoeiro."
+    },
+    "20018": {
+        "id": "20018",
+        "title": "Autoaniquilador",
+        "desc": "Alguém que sem querer adentrou na sombra da Inexistência de IX e perdeu a razão de sua existência daquele momento em diante.\nAutoaniquiladores desesperados perambulam pelo universo solitariamente. A maioria encontra finais sem sentido."
+    },
+    "20019": {
+        "id": "20019",
+        "title": "Alicerce",
+        "desc": "Uma pedra sagrada, selada com a autoridade de um Emanador da Preservação dentro de si. Cada um dos Dez Corações de Pedra possui um."
+    },
+    "20022": {
+        "id": "20022",
+        "title": "Acheron",
+        "desc": "Uma viajante indiferente e taciturna, uma Autoaniquiladora que retornou das sombras da Inexistência de IX.\nEm sua batalha contra o destino, ela brande sua espada incansavelmente, buscando romper os Caminhos."
+    },
+    "20023": {
+        "id": "20023",
+        "title": "Gallagher",
+        "desc": "O coquetelista local não-assumido de Penacony, que também é um oficial de segurança da Família Cão de Caça.\nEle é suspeito de ser um Explorador do Enigmata e está fortemente conectado ao Mimema da Zona da Memória \"Algo até a Morte\"."
+    },
+    "20024": {
+        "id": "20024",
+        "title": "Relojoeiro",
+        "desc": "Uma figura lendária conhecida como Pai de Penacony.\nSeu verdadeiro nome é Mikhail e ele agora é considerado um traidor pela Família."
+    },
+    "20025": {
+        "id": "20025",
+        "title": "Vaga-lume",
+        "desc": "Uma suposta artista novata da Família Iris, que, na realidade, é membro dos Caçadores de Stellaron.\nPara garantir que \"o Expresso persiga o 'grande legado' ao seu lado\", ela arriscou sua vida e finalmente \"retorna dos mortos\"."
+    },
+    "20026": {
+        "id": "20026",
+        "title": "Mudando para o ponto de vista de Robin...?",
+        "desc": "Penacony cai num caos temporário devido à comoção no Parque Temático e Robin(?) decide aproveitar essa oportunidade para distribuir seu presentinho misterioso..."
+    },
+    "20027": {
+        "id": "20027",
+        "title": "Mudando para o ponto de vista de Boothill...",
+        "desc": "Boothill chega a um acordo com Dan Heng. Agora, eles tentarão se infiltrar no doce sonho e salvar seus amigos..."
+    },
+    "20028": {
+        "id": "20028",
+        "title": "Mudando para o ponto de vista de Robin...",
+        "desc": "Robin e Sunday decidem convencer Gopher Wood, o Mestre dos Sonhos, e seu antigo benfeitor. Com sorte, tudo dará certo..."
     }
 }

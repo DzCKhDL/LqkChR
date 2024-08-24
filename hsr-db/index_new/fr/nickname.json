@@ -111,14 +111,53 @@
         "1217": [
             "Huohuo"
         ],
+        "1218": [
+            "Jiaoqiu"
+        ],
+        "1221": [
+            "Yunli"
+        ],
+        "1224": [
+            "March 7th"
+        ],
+        "1301": [
+            "Gallagher"
+        ],
         "1302": [
             "Argenti"
         ],
         "1303": [
             "Ruan Mei"
         ],
+        "1304": [
+            "Aventurine"
+        ],
         "1305": [
             "Dr Ratio"
+        ],
+        "1306": [
+            "Sparkle"
+        ],
+        "1307": [
+            "Cygne noir"
+        ],
+        "1308": [
+            "Achéron"
+        ],
+        "1309": [
+            "Robin"
+        ],
+        "1310": [
+            "Luciole"
+        ],
+        "1312": [
+            "Micha"
+        ],
+        "1314": [
+            "Jade"
+        ],
+        "1315": [
+            "Le Fossoyeur"
         ],
         "8001": [
             "{NICKNAME}"
@@ -130,6 +169,12 @@
             "{NICKNAME}"
         ],
         "8004": [
+            "{NICKNAME}"
+        ],
+        "8005": [
+            "{NICKNAME}"
+        ],
+        "8006": [
             "{NICKNAME}"
         ]
     },
@@ -302,11 +347,50 @@
         "21034": [
             "Encore une belle journée qui s'annonce"
         ],
+        "21035": [
+            "Réalité et faux-semblants"
+        ],
+        "21036": [
+            "Aventure à Rêvopolis"
+        ],
+        "21037": [
+            "Pari gagnant"
+        ],
+        "21038": [
+            "Flammes lointaines"
+        ],
+        "21039": [
+            "Fils du destin"
+        ],
+        "21040": [
+            "Le jour de l'effondrement du cosmos"
+        ],
+        "21041": [
+            "Que le spectacle commence"
+        ],
+        "21042": [
+            "Promesse indélébile"
+        ],
+        "21043": [
+            "Concert pour deux"
+        ],
+        "21044": [
+            "Danse endiablée"
+        ],
+        "21045": [
+            "Après la chute"
+        ],
+        "21046": [
+            "Portrait de la jeune fille en fleurs"
+        ],
         "22000": [
             "Avant que le tutoriel ne commence"
         ],
         "22001": [
             "Hé, par ici !"
+        ],
+        "22002": [
+            "Au nom du voyage de demain"
         ],
         "23000": [
             "Nuit sur la voie lactée"
@@ -371,6 +455,36 @@
         "23020": [
             "Baptême de pure réflexion"
         ],
+        "23021": [
+            "Escapade terrestre"
+        ],
+        "23022": [
+            "Souvenirs refaçonnés"
+        ],
+        "23023": [
+            "Destin injuste"
+        ],
+        "23024": [
+            "Le long de la rive"
+        ],
+        "23025": [
+            "Là où les rêves se reposent"
+        ],
+        "23026": [
+            "Lumières nocturnes"
+        ],
+        "23027": [
+            "Le début d'une seconde vie"
+        ],
+        "23028": [
+            "L'espoir n'a pas de prix"
+        ],
+        "23029": [
+            "Le temps du printemps"
+        ],
+        "23030": [
+            "Danse au crépuscule"
+        ],
         "24000": [
             "La chute d'un Aiôn"
         ],
@@ -382,6 +496,9 @@
         ],
         "24003": [
             "Remède à la solitude"
+        ],
+        "24004": [
+            "Calcul éternel"
         ]
     },
     "relic_sets": {
@@ -433,6 +550,18 @@
         "116": [
             "Prisonnier enchaîné"
         ],
+        "117": [
+            "Exploratrice des abîmes"
+        ],
+        "118": [
+            "L'Horloger, maître des machinations oniriques"
+        ],
+        "119": [
+            "Brigade de fer à l'assaut du fléau"
+        ],
+        "120": [
+            "Vaillance du guerrier du vent"
+        ],
         "301": [
             "Station de scellement spatial"
         ],
@@ -468,6 +597,18 @@
         ],
         "312": [
             "Penacony, terre des rêves"
+        ],
+        "313": [
+            "Sigonia, terre vierge désolée"
+        ],
+        "314": [
+            "Vie présente d'Izumo et royaume divin de Takama"
+        ],
+        "315": [
+            "Duran, dynastie des loups"
+        ],
+        "316": [
+            "Forge de la lanterne Kalpagni"
         ]
     }
 }

@@ -479,6 +479,11 @@
         "name": "Equipo de vigilancia de Herta",
         "icon": "icon/avatar/GroupDefault.png"
     },
+    "106": {
+        "id": "106",
+        "name": "Dr. Edward",
+        "icon": "icon/avatar/DreamStore.png"
+    },
     "107": {
         "id": "107",
         "name": "Chat de grupo de Topaz, Siete de Marzo y {NICKNAME}",
@@ -518,6 +523,216 @@
         "id": "114",
         "name": "Amante De Frejoles Rojos, Bill Portcullis, Piloto sin licencia...",
         "icon": "icon/avatar/GroupDefault.png"
+    },
+    "115": {
+        "id": "115",
+        "name": "Equipo Colonipenal",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "116": {
+        "id": "116",
+        "name": "Diario Dulces Sueños",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "117": {
+        "id": "117",
+        "name": "Fans de Lesley Dean",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "118": {
+        "id": "118",
+        "name": "Woolsey",
+        "icon": "icon/avatar/Woolsey.png"
+    },
+    "119": {
+        "id": "119",
+        "name": "Relo■■■",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "120": {
+        "id": "120",
+        "name": "Restaurante Reloj",
+        "icon": "icon/avatar/DelicayExpress.png"
+    },
+    "121": {
+        "id": "121",
+        "name": "Uma",
+        "icon": "icon/avatar/Uma.png"
+    },
+    "122": {
+        "id": "122",
+        "name": "Artículos lujosos de Colonipenal",
+        "icon": "icon/avatar/LuxuryStore.png"
+    },
+    "123": {
+        "id": "123",
+        "name": "Copa de cristal",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "124": {
+        "id": "124",
+        "name": "Vieja amiga",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "125": {
+        "id": "125",
+        "name": "Cubo de basura",
+        "icon": "icon/avatar/202002.png"
+    },
+    "126": {
+        "id": "126",
+        "name": "Cubo de basura ardiente",
+        "icon": "icon/avatar/202002.png"
+    },
+    "127": {
+        "id": "127",
+        "name": "Cubo de basura ardientemente apasionado",
+        "icon": "icon/avatar/202002.png"
+    },
+    "128": {
+        "id": "128",
+        "name": "Cubo de basura descorazonado",
+        "icon": "icon/avatar/202002.png"
+    },
+    "129": {
+        "id": "129",
+        "name": "¿?",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "130": {
+        "id": "130",
+        "name": "Grupo de investigación de los Rompecabezas de ensueño",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "131": {
+        "id": "131",
+        "name": "Diario Dulces Sueños",
+        "icon": "icon/avatar/DreamOffice.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "Dr. Azul",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "133": {
+        "id": "133",
+        "name": "Siobhan",
+        "icon": "icon/avatar/Sionbhan.png"
+    },
+    "134": {
+        "id": "134",
+        "name": "Tizocic III",
+        "icon": "icon/avatar/DesolaTheSecond.png"
+    },
+    "135": {
+        "id": "135",
+        "name": "¿?",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "136": {
+        "id": "136",
+        "name": "Comandante",
+        "icon": "icon/avatar/3002030.png"
+    },
+    "137": {
+        "id": "137",
+        "name": "Picas",
+        "icon": "icon/avatar/3001010.png"
+    },
+    "138": {
+        "id": "138",
+        "name": "Dama",
+        "icon": "icon/avatar/3002010.png"
+    },
+    "139": {
+        "id": "139",
+        "name": "Melancolía",
+        "icon": "icon/avatar/3001020.png"
+    },
+    "140": {
+        "id": "140",
+        "name": "¡Maldita sea! ¡Estamos rodeados de tontos!",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "141": {
+        "id": "141",
+        "name": "Anuncio detective",
+        "icon": "icon/avatar/AdvertBoard.png"
+    },
+    "142": {
+        "id": "142",
+        "name": "Acheron",
+        "icon": "icon/avatar/1308.png"
+    },
+    "143": {
+        "id": "143",
+        "name": "1111111111",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "144": {
+        "id": "144",
+        "name": "Dónde-buscar-los-fuegos-artificiales",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "145": {
+        "id": "145",
+        "name": "Contratista de los Sabueso",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "146": {
+        "id": "146",
+        "name": "Atención al Cliente de Estudios Reloj",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "147": {
+        "id": "147",
+        "name": "Maestro Gongshu",
+        "icon": "icon/avatar/MasterGongshu.png"
+    },
+    "148": {
+        "id": "148",
+        "name": "Geed",
+        "icon": "icon/avatar/Jetta.png"
+    },
+    "149": {
+        "id": "149",
+        "name": "Negocios son negocios",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "150": {
+        "id": "150",
+        "name": "Aideen",
+        "icon": "icon/avatar/Aideen.png"
+    },
+    "151": {
+        "id": "151",
+        "name": "Repartidor",
+        "icon": "icon/avatar/Anonymous.png"
+    },
+    "152": {
+        "id": "152",
+        "name": "Tres tesoros",
+        "icon": "icon/avatar/GroupDefault.png"
+    },
+    "153": {
+        "id": "153",
+        "name": "Dancy",
+        "icon": "icon/avatar/Dennis.png"
+    },
+    "154": {
+        "id": "154",
+        "name": "Micah",
+        "icon": "icon/avatar/Micah.png"
+    },
+    "155": {
+        "id": "155",
+        "name": "Tinah",
+        "icon": "icon/avatar/Tina.png"
+    },
+    "156": {
+        "id": "156",
+        "name": "Muñeca de mensajes",
+        "icon": "icon/avatar/202017.png"
     },
     "1000": {
         "id": "1000",
@@ -704,6 +919,21 @@
         "name": "Huohuo",
         "icon": "icon/avatar/1217.png"
     },
+    "1218": {
+        "id": "1218",
+        "name": "Jiaoqiu",
+        "icon": "icon/avatar/1218.png"
+    },
+    "1221": {
+        "id": "1221",
+        "name": "Yunli",
+        "icon": "icon/avatar/1221.png"
+    },
+    "1301": {
+        "id": "1301",
+        "name": "Gallagher",
+        "icon": "icon/avatar/1301.png"
+    },
     "1302": {
         "id": "1302",
         "name": "Argenti",
@@ -714,20 +944,60 @@
         "name": "Ruan Mei",
         "icon": "icon/avatar/1303.png"
     },
+    "1304": {
+        "id": "1304",
+        "name": "Aventurino",
+        "icon": "icon/avatar/1304.png"
+    },
     "1305": {
         "id": "1305",
         "name": "Dr. Ratio",
         "icon": "icon/avatar/1305.png"
     },
+    "1306": {
+        "id": "1306",
+        "name": "Sparkle",
+        "icon": "icon/avatar/1306.png"
+    },
+    "1307": {
+        "id": "1307",
+        "name": "Cisne Negro",
+        "icon": "icon/avatar/1307.png"
+    },
+    "1308": {
+        "id": "1308",
+        "name": "Acheron",
+        "icon": "icon/avatar/1308.png"
+    },
+    "1309": {
+        "id": "1309",
+        "name": "Robin",
+        "icon": "icon/avatar/1309.png"
+    },
+    "1310": {
+        "id": "1310",
+        "name": "Luciérnaga",
+        "icon": "icon/avatar/1310.png"
+    },
+    "1312": {
+        "id": "1312",
+        "name": "Misha",
+        "icon": "icon/avatar/1312.png"
+    },
+    "1314": {
+        "id": "1314",
+        "name": "Jade",
+        "icon": "icon/avatar/1314.png"
+    },
+    "1315": {
+        "id": "1315",
+        "name": "Boothill",
+        "icon": "icon/avatar/1315.png"
+    },
     "8000": {
         "id": "8000",
         "name": "{NICKNAME}",
         "icon": ""
-    },
-    "8001": {
-        "id": "8001",
-        "name": "{NICKNAME}",
-        "icon": "icon/avatar/8001.png"
     },
     "200001": {
         "id": "200001",
@@ -831,9 +1101,69 @@
         "rarity": 5,
         "icon": "icon/avatar/200116.png"
     },
+    "200117": {
+        "id": "200117",
+        "name": "Sparkle: Ilusión",
+        "rarity": 5,
+        "icon": "icon/avatar/200117.png"
+    },
+    "200118": {
+        "id": "200118",
+        "name": "Sampo: Ilusión",
+        "rarity": 5,
+        "icon": "icon/avatar/200118.png"
+    },
+    "200119": {
+        "id": "200119",
+        "name": "Topaz: En el blanco",
+        "rarity": 5,
+        "icon": "icon/avatar/200119.png"
+    },
+    "200120": {
+        "id": "200120",
+        "name": "Aventurino: En el blanco",
+        "rarity": 5,
+        "icon": "icon/avatar/200120.png"
+    },
+    "200121": {
+        "id": "200121",
+        "name": "Acheron: Emboscada",
+        "rarity": 5,
+        "icon": "icon/avatar/200121.png"
+    },
+    "200122": {
+        "id": "200122",
+        "name": "Boothill: Emboscada",
+        "rarity": 5,
+        "icon": "icon/avatar/200122.png"
+    },
+    "200123": {
+        "id": "200123",
+        "name": "Luciérnaga: Visión",
+        "rarity": 5,
+        "icon": "icon/avatar/200123.png"
+    },
+    "200124": {
+        "id": "200124",
+        "name": "SAM: Visión",
+        "rarity": 5,
+        "icon": "icon/avatar/200124.png"
+    },
+    "200125": {
+        "id": "200125",
+        "name": "Bailu: Práctica médica",
+        "rarity": 5,
+        "icon": "icon/avatar/200125.png"
+    },
+    "200126": {
+        "id": "200126",
+        "name": "Jiaoqiu: Práctica médica",
+        "rarity": 5,
+        "icon": "icon/avatar/200126.png"
+    },
     "201001": {
         "id": "201001",
-        "name": "Siete de Marzo",
+        "name": "Siete de Marzo: Conservación",
         "icon": "icon/avatar/1001.png"
     },
     "201002": {
@@ -1016,6 +1346,26 @@
         "name": "Huohuo",
         "icon": "icon/avatar/1217.png"
     },
+    "201218": {
+        "id": "201218",
+        "name": "Jiaoqiu",
+        "icon": "icon/avatar/1218.png"
+    },
+    "201221": {
+        "id": "201221",
+        "name": "Yunli",
+        "icon": "icon/avatar/1221.png"
+    },
+    "201224": {
+        "id": "201224",
+        "name": "Siete de Marzo: Cacería",
+        "icon": "icon/avatar/1224.png"
+    },
+    "201301": {
+        "id": "201301",
+        "name": "Gallagher",
+        "icon": "icon/avatar/1301.png"
+    },
     "201302": {
         "id": "201302",
         "name": "Argenti",
@@ -1026,10 +1376,55 @@
         "name": "Ruan Mei",
         "icon": "icon/avatar/1303.png"
     },
+    "201304": {
+        "id": "201304",
+        "name": "Aventurino",
+        "icon": "icon/avatar/1304.png"
+    },
     "201305": {
         "id": "201305",
         "name": "Dr. Ratio",
         "icon": "icon/avatar/1305.png"
+    },
+    "201306": {
+        "id": "201306",
+        "name": "Sparkle",
+        "icon": "icon/avatar/1306.png"
+    },
+    "201307": {
+        "id": "201307",
+        "name": "Cisne Negro",
+        "icon": "icon/avatar/1307.png"
+    },
+    "201308": {
+        "id": "201308",
+        "name": "Acheron",
+        "icon": "icon/avatar/1308.png"
+    },
+    "201309": {
+        "id": "201309",
+        "name": "Robin",
+        "icon": "icon/avatar/1309.png"
+    },
+    "201310": {
+        "id": "201310",
+        "name": "Luciérnaga",
+        "icon": "icon/avatar/1310.png"
+    },
+    "201312": {
+        "id": "201312",
+        "name": "Misha",
+        "icon": "icon/avatar/1312.png"
+    },
+    "201314": {
+        "id": "201314",
+        "name": "Jade",
+        "icon": "icon/avatar/1314.png"
+    },
+    "201315": {
+        "id": "201315",
+        "name": "Boothill",
+        "icon": "icon/avatar/1315.png"
     },
     "202001": {
         "id": "202001",
@@ -1091,6 +1486,54 @@
         "rarity": 4,
         "icon": "icon/avatar/202010.png"
     },
+    "202011": {
+        "id": "202011",
+        "name": "Relojito",
+        "rarity": 4,
+        "icon": "icon/avatar/202011.png"
+    },
+    "202012": {
+        "id": "202012",
+        "name": "Hanu",
+        "rarity": 4,
+        "icon": "icon/avatar/202012.png"
+    },
+    "202013": {
+        "id": "202013",
+        "name": "Pajarito de papel",
+        "rarity": 4,
+        "icon": "icon/avatar/202013.png"
+    },
+    "202014": {
+        "id": "202014",
+        "name": "Kakavasha",
+        "rarity": 4,
+        "icon": "icon/avatar/202014.png"
+    },
+    "202015": {
+        "id": "202015",
+        "name": "Caballero Bola de Hámster",
+        "rarity": 4,
+        "icon": "icon/avatar/202015.png"
+    },
+    "202016": {
+        "id": "202016",
+        "name": "Conmemoración del primer aniversario",
+        "rarity": 4,
+        "icon": "icon/avatar/202016.png"
+    },
+    "202017": {
+        "id": "202017",
+        "name": "Muñeca de Sparkle",
+        "rarity": 4,
+        "icon": "icon/avatar/202017.png"
+    },
+    "202018": {
+        "id": "202018",
+        "name": "\"Ey, ven a probar\"",
+        "rarity": 4,
+        "icon": "icon/avatar/202018.png"
+    },
     "208001": {
         "id": "208001",
         "name": "{NICKNAME}: Destrucción",
@@ -1110,5 +1553,15 @@
         "id": "208004",
         "name": "{NICKNAME}: Conservación",
         "icon": "icon/avatar/8004.png"
+    },
+    "208005": {
+        "id": "208005",
+        "name": "{NICKNAME}: Armonía",
+        "icon": "icon/avatar/8005.png"
+    },
+    "208006": {
+        "id": "208006",
+        "name": "{NICKNAME}: Armonía",
+        "icon": "icon/avatar/8006.png"
     }
 }

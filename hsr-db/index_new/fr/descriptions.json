@@ -117,7 +117,7 @@
     "10024": {
         "id": "10024",
         "title": "Herta",
-        "desc": "Membre n°83 de la Société des génies, véritable capitaine de la station spatiale.\nUne scientifique antipathique, mais prodigieusement intelligente."
+        "desc": "Membre n° 83 de la Société des génies. Véritable capitaine de la station spatiale.\nUne scientifique antipathique, mais prodigieusement intelligente."
     },
     "10025": {
         "id": "10025",
@@ -227,7 +227,7 @@
     "10046": {
         "id": "10046",
         "title": "L'Essaim",
-        "desc": "L'armée de clones du Roi de l'Essaim, Tayzzyronth.\nAnimé par la seule volonté de se propager, il envahit plusieurs planètes de l'univers, tel un essaim de sauterelles."
+        "desc": "L'armée de clones de l'Imperator Insectorum, Tayzzyronth.\nAnimé par la seule volonté de se propager, il envahit plusieurs planètes de l'univers, tel un essaim de sauterelles."
     },
     "10047": {
         "id": "10047",
@@ -376,7 +376,7 @@
     },
     "10076": {
         "id": "10076",
-        "title": "Avant-garde du Présage",
+        "title": "Avant-garde du présage",
         "desc": "Ses membres pensent que Terminus représente la fin de l'univers.\nIls passent leur temps à élaborer des prophéties à partir des paroles obscures de Terminus."
     },
     "10077": {
@@ -392,7 +392,7 @@
     "10079": {
         "id": "10079",
         "title": "Rangers de la galaxie",
-        "desc": "Un groupe de justiciers bénévoles qui pense que la bonté et la justice dans l'univers doivent être portées par les actes de chacun.\nÀ la suite de tensions avec le Dr Primitif, membre n°64 de la Société des génies, ce groupe a disparu de la circulation."
+        "desc": "Un groupe de justiciers bénévoles qui pense que la bonté et la justice dans l'univers doivent être portées par les actes de chacun.\nÀ la suite de tensions avec le Dr Primitif, membre n° 64 de la Société des génies, ce groupe a disparu de la circulation."
     },
     "10080": {
         "id": "10080",
@@ -477,7 +477,7 @@
     "10096": {
         "id": "10096",
         "title": "Technique",
-        "desc": "En exploration, les personnages peuvent utiliser des techniques en dehors du combat.\nIl y a plusieurs types de technique telles que le soutien, le renforcement et l'attaque-surprise.\nUtilisez des techniques pour donner un avantage à votre équipe lors de l'exploration."
+        "desc": "Lors de l'exploration, les personnages peuvent utiliser leur technique en dehors des combats.\nIl existe différents types de techniques : défense, incapacitation, soutien, restauration, attaque-surprise, renforcement, etc.\nUtilisez judicieusement vos techniques pour donner l'avantage à votre équipe lors de l'exploration."
     },
     "10097": {
         "id": "10097",
@@ -512,7 +512,7 @@
     "10103": {
         "id": "10103",
         "title": "Rupture de faiblesse imaginaire",
-        "desc": "Utiliser des attaques imaginaires pour déclencher Rupture de faiblesse applique l'effet Emprisonnement.\nL'Emprisonnement retarde l'action des ennemis et réduit leur VIT."
+        "desc": "Utiliser des attaques imaginaires pour déclencher une Rupture de faiblesse applique l'effet Emprisonnement.\nL'Emprisonnement retarde l'action des ennemis et réduit leur VIT."
     },
     "10104": {
         "id": "10104",
@@ -576,12 +576,12 @@
     },
     "10116": {
         "id": "10116",
-        "title": "Dissipation de l'effet",
+        "title": "Dissipation d'effet",
         "desc": "Les capacités de certains personnages peuvent supprimer les malus appliqués aux alliés. Elles peuvent renverser le cours de la bataille en un instant."
     },
     "10117": {
         "id": "10117",
-        "title": "Dissipation de l'effet",
+        "title": "Dissipation d'effet",
         "desc": "Les capacités de certains personnages peuvent supprimer les bonus appliqués aux ennemis, ce qui peut renverser le cours de la bataille face à des ennemis spéciaux."
     },
     "10118": {
@@ -652,7 +652,7 @@
     "10131": {
         "id": "10131",
         "title": "Topaz",
-        "desc": "Cadre du Département des investissements stratégiques de la Corporation pour la Paix Interastrale et directrice de l'équipe de surveillance des dettes spéciales.\nPropulsée très jeune dans le groupe des « Dix cœurs de pierre », la pierre totem de Topaz est la « topaze du recouvrement de dette ».\nAvec Compti, son partenaire, elle traverse l'espace à la chasse des mauvais payeurs et des passifs qui pourraient se mettre en travers des objectifs commerciaux de la CPI."
+        "desc": "Cadre du Département des investissements stratégiques de la Corporation pour la Paix Interastrale à la tête de l'Équipe spéciale de surveillance des dettes.\nMalgré son jeune âge, elle fait déjà partie des « Dix cœurs de pierre », sa pierre angulaire est la « Topaze du Recouvrement ».\nElle parcourt la galaxie avec Compti, son partenaire, à la recherche de tout litige de dette qui pourrait nuire aux affaires de la CPI."
     },
     "10132": {
         "id": "10132",
@@ -687,7 +687,7 @@
     "10138": {
         "id": "10138",
         "title": "Argenti",
-        "desc": "Un chevalier des Chevaliers de la Beauté, dont la quête pieuse est de retrouver l'Aiôn disparu, Idrila la Beauté.\nFranc et candide, il erre à travers l'espace, défendant les vertus prônées par Idrila."
+        "desc": "Chevalier de la Beauté et fervent admirateur de l'Aiôn disparu, Idrila la Beauté.\nIntègre et droit, il erre à travers l'univers, défendant la vertu d'Idrila."
     },
     "10139": {
         "id": "10139",
@@ -712,11 +712,371 @@
     "10143": {
         "id": "10143",
         "title": "Rubert, membre n° 27",
-        "desc": "Membre n° 27 de la Société des génies, l'« Empereur » autoproclamé, à qui l'on doit l'équation anti-organique.\nIl a provoqué la « première Guerre de l'Empereur » qui a balayé l'univers tout entier."
+        "desc": "Membre n° 27 de la Société des génies, l'« Empereur » autoproclamé, à qui l'on doit l'Équation anti-organique.\nIl a provoqué la « première Guerre de l'Empereur » qui a balayé l'univers tout entier."
     },
     "10144": {
         "id": "10144",
         "title": "Désastre de l'Essaim",
         "desc": "Tayzzyronth est devenu l'Aiôn de la Propagation dans la colère et la solitude.\nPuis, un immense « Essaim » a balayé l'univers tout entier."
+    },
+    "10145": {
+        "id": "10145",
+        "title": "Micha",
+        "desc": "Groom de l'Hôtel Rêverie ayant un intérêt marqué pour la Voie du Pionnier par laquelle passe l'Astral Express."
+    },
+    "10146": {
+        "id": "10146",
+        "title": "L'Horloger",
+        "desc": "Personnage légendaire, considéré comme le Père de Penacony et le fondateur du Pays des rêves.\nSon identité reste néanmoins un mystère."
+    },
+    "10147": {
+        "id": "10147",
+        "title": "Sunday",
+        "desc": "Chef bienveillant et vénéré de la Maison Vieux-Chêne et du Paradis des Beaux rêves.\nCette figure est très respectée dans le monde extérieur, il est le grand frère de Robin."
+    },
+    "10149": {
+        "id": "10149",
+        "title": "Aventurine",
+        "desc": "Cadre du Département des investissements stratégiques de la CPI et membre des Dix cœurs de pierre, connu pour sa pierre angulaire, l'« Aventurine du Stratagème ».\nIl arbore toujours un sourire qui dissimule ses réelles intentions, et a pour crédo « Qui ne tente rien n'a rien »."
+    },
+    "10150": {
+        "id": "10150",
+        "title": "Luciole",
+        "desc": "Se présente comme une nouvelle artiste de la Maison Bel-Iris.\nInitialement accusée d'être une clandestine par la Maison Fin-Limier, lorsque {NICKNAME} lui a proposé son aide, elle s'est portée volontaire pour être sa guide."
+    },
+    "10151": {
+        "id": "10151",
+        "title": "Sam",
+        "desc": "Membre des Chasseurs de Stellaron et mystérieux guerrier.\nSon armure mecha peut projeter des flammes pour embraser le champ de bataille."
+    },
+    "10152": {
+        "id": "10152",
+        "title": "Achéron",
+        "desc": "Voyageuse réservée et introvertie, très proche des Rangers de la galaxie. Elle a tendance à oublier des choses importantes..."
+    },
+    "10153": {
+        "id": "10153",
+        "title": "Sparkle",
+        "desc": "Membre des Fous masqués, passionnée autant qu'imprévisible.\nElle passe d'une faction à une autre, et prend un malin plaisir à mettre le monde sens dessus dessous."
+    },
+    "10154": {
+        "id": "10154",
+        "title": "Cygne noir",
+        "desc": "Une protectrice de la mémoire, énigmatique et décontractée, qui collectionne les souvenirs intrigants.\nElle croit fermement que l'on peut appréhender le destin, et que l'on finit par tout savoir au royaume éternel des souvenirs."
+    },
+    "10155": {
+        "id": "10155",
+        "title": "Gallagher",
+        "desc": "Un barman à l'apparence hirsute, également agent de sécurité de la Maison Fin-Limier.\nLocal de Penacony, il est très cultivé mais se garde bien de le faire savoir."
+    },
+    "10156": {
+        "id": "10156",
+        "title": "Chronou",
+        "desc": "Chronou est le personnage principal d'une série à succès à Penacony. Il incarne l'optimisme, l'esprit et l'énergie débordante, avec un petit côté rebelle.\nPour des raisons inconnues, Chronou apparaît souvent au Pays des rêves, mais seules les personnes ayant gardé leur âme d'enfant peuvent le voir."
+    },
+    "10157": {
+        "id": "10157",
+        "title": "Penacony (réalité)",
+        "desc": "Une structure colossale située dans le système d'Asdana, comportant l'emblématique Hôtel Rêverie.\nAutrefois prison frontalière appartenant à la CPI, c'est aujourd'hui une plaque tournante du transport interstellaire, et l'entrée au Paradis des Beaux rêves, appartenant à la Famille."
+    },
+    "10158": {
+        "id": "10158",
+        "title": "Penacony (Pays des rêves)",
+        "desc": "Magnifique métropole connue pour accueillir un flot continu de visiteurs, elle est gérée d'une main de maître par la Famille au Pays des rêves synesthésique.\nLorsque les clients du Rêverie sont endormis, leur conscience entre en connexion avec le Pays des rêves, ce qui leur permet de pénétrer dans le monde onirique envoûtant de Penacony."
+    },
+    "10159": {
+        "id": "10159",
+        "title": "Hôtel Rêverie",
+        "desc": "Un complexe hôtelier intergalactique et surréaliste de luxe, emblème de Penacony.\nUn havre pour les voyageurs galactiques, et une porte d'entrée vers le Pays des rêves, paradis hédoniste."
+    },
+    "10160": {
+        "id": "10160",
+        "title": "Rêve d'enfant",
+        "desc": "Un fragment de souvenir que l'on pense lié à un lourd secret de Penacony."
+    },
+    "10161": {
+        "id": "10161",
+        "title": "Sigonia",
+        "desc": "Un secteur détaché, point de convergence entre les systèmes Denestra, Peluchia et Dorneau.\nLes objets célestes dans son sillage subissent les assauts incessants des vents stellaires et des corps célestes errants, ce qui génère un climat exceptionnellement rude à la surface de ses planètes."
+    },
+    "10162": {
+        "id": "10162",
+        "title": "Avginiens",
+        "desc": "L'un des peuples autochtones de Sigonia-IV, faisant preuve d'une grande connaissance de la vie en falaises.\n« Avginien » signifie « miel » en sigonien, terme injustement manipulé par leurs détracteurs pour perpétrer de dangereux stéréotypes, les dépeignant de fait comme des êtres habiles, charmeurs et capricieux."
+    },
+    "10163": {
+        "id": "10163",
+        "title": "Zone de mémoire",
+        "desc": "Un royaume créé par les souvenirs, impossible à observer de ses propres yeux. Seuls les Éclaireurs qui suivent la Voie du Souvenir ou les personnes maîtrisant des méthodes peu conventionnelles peuvent parcourir ses limites.\nPar le passé, l'Enigmata a provoqué de nombreuses brèches à la limite entre l'espace réel et la Zone de mémoire."
+    },
+    "10164": {
+        "id": "10164",
+        "title": "Souvenirs",
+        "desc": "Les réceptacles de la mémoire et de la conscience humaines. Tout autre être que les protecteurs de la mémoire peuvent ressentir des effets nocifs variables s'ils entrent en contact direct avec des souvenirs bruts.\nLa Zone de mémoire et les bulles mémorielles sont des agrégats de souvenirs de différentes tailles."
+    },
+    "10165": {
+        "id": "10165",
+        "title": "Pays des rêves synesthésique",
+        "desc": "Manifestation singulière d'un trouble mental organique, étroitement liée aux brèches mémorielles.\nD'innombrables rêves s'y entrecroisent et y fusionnent, permettant aux individus de se retrouver dans un monde onirique, et même de changer complètement de vie."
+    },
+    "10166": {
+        "id": "10166",
+        "title": "Festival Ôdiapason",
+        "desc": "Un rituel important à Penacony qui ne se produit qu'une fois à chaque ère de l'Ambre.\nLorsque le Festival Ôdiapason a lieu sur n'importe quelle planète, l'incarnation de Xipe apparaît pour accorder ses bénédictions aux croyants comme aux non-croyants."
+    },
+    "10167": {
+        "id": "10167",
+        "title": "Maître des rêves",
+        "desc": "Le maître du Pays des rêves et véritable chef de la Famille à Penacony.\nIl travaille dans l'ombre, tire les ficelles et délègue une grande partie de la gestion effective à la Maison Vieux-Chêne."
+    },
+    "10168": {
+        "id": "10168",
+        "title": "Pouvoir de la Pendule",
+        "desc": "Une capacité unique que confère Chronou aux pionniers et pionnières ainsi capable de canaliser les diverses émotions qui alimentent les rêves, et les renvoyer dans l'âme de leurs propriétaires."
+    },
+    "10169": {
+        "id": "10169",
+        "title": "Projection de la mort",
+        "desc": "Étrange créature de la Zone de mémoire, elle est considérée comme une manifestation de la peur de la mort et du meurtre.\nInsaisissable, son schéma comportemental reste un mystère, et elle a commis plusieurs meurtres abominables au Pays des rêves à Penacony."
+    },
+    "10170": {
+        "id": "10170",
+        "title": "Heure dorée",
+        "desc": "L'un des douze Pays des rêves de Penacony, qui coïncide avec minuit.\nL'heure des rêves y est pour toujours figée sur minuit. Il n'y aura jamais de lendemain, et cette nuit de fête durera éternellement."
+    },
+    "10171": {
+        "id": "10171",
+        "title": "Troupe Beaux rêves",
+        "desc": "Des objets et dispositifs domestiqués par la Famille pour être au service des clients. Sous l'effet des émotions au Pays des rêves, ils ont développé une conscience.\nCeux ayant été impactés par les émotions négatives, devenus de véritables monstres, ont été rebaptisés la « Troupe Chocmar »."
+    },
+    "10172": {
+        "id": "10172",
+        "title": "Bulles oniriques",
+        "desc": "Des bulles mémorielles affectées par des forces obscures. Les bulles mémorielles brutes transportent habituellement des sentiments et émotions intenses.\nAjustées par la Famille, elles peuvent être utilisées en toute sécurité pour consigner les rêves personnels, ce qui en fait l'une des spécialités les plus intrigantes de Penacony."
+    },
+    "10173": {
+        "id": "10173",
+        "title": "Créature mémorielle",
+        "desc": "Entité imprégnée d'une perception cognitive spécifique formée à partir de l'accumulation de fragments de subconscient dans la Zone de mémoire.\nDépourvues d'intelligence, elles sont uniquement guidées par leurs perceptions et ne cherchent qu'à engloutir les souvenirs."
+    },
+    "10174": {
+        "id": "10174",
+        "title": "Pass onirique",
+        "desc": "Un souvenir aux fonctionnalités étendues remis à tous les clients de l'Hôtel Rêverie."
+    },
+    "10175": {
+        "id": "10175",
+        "title": "Robin",
+        "desc": "Chanteuse connue à travers le cosmos, elle est considérée comme la superstar de la scène étoilée.\nElle chante le nom de l'Harmonie à des publics de tout l'univers, captivés par sa voix."
+    },
+    "10176": {
+        "id": "10176",
+        "title": "Micha",
+        "desc": "Candide et naïf, il est le protagoniste des rêves d'enfant de Mikhail. Il s'est échappé de sa bulle onirique.\nChargé de guider l'Astral Express jusqu'à l'héritage de l'Horloger, il pense par erreur être le « groom » de Penacony."
+    },
+    "10177": {
+        "id": "10177",
+        "title": "L'Horloger",
+        "desc": "Légendaire magnat de Penacony, Mikhail Char Legwork est un ancien Sans Nom.\nIl a passé toute sa vie à combattre les membres mal intentionnés de la Famille. Avant de mourir, il a invité la galaxie entière à terminer la tâche inachevée de sa vie."
+    },
+    "10178": {
+        "id": "10178",
+        "title": "Sunday",
+        "desc": "Le chef bienveillant et discipliné de la Maison Vieux-Chêne.\nPour tenir la promesse qu'il avait faite à sa sœur dans son enfance, il a finalement suivi un tout autre chemin qu'elle."
+    },
+    "10179": {
+        "id": "10179",
+        "title": "Gallagher",
+        "desc": "Le fidèle limier de l'Horloger. Un personnage composé par un certain membre des Fictionnistes de l'histoire à partir de faits propres à Penacony.\nDéterminé à faire prospérer la lignée de l'Horloger, il s'est opposé à la Famille jusqu'à son dernier souffle."
+    },
+    "10180": {
+        "id": "10180",
+        "title": "Rêve d'enfant",
+        "desc": "Le rêve ultime de Mikhail. Il y a consigné toutes les vérités relatives à l'Horloger, Micha et Chronou."
+    },
+    "10181": {
+        "id": "10181",
+        "title": "Projection de la mort",
+        "desc": "Entité mémorielle de la « Stase » fabriquée par Gallagher à partir du pouvoir de l'Enigmata. Elle permet aux habitants du Bastion flonirique de voyager à travers les beaux rêves.\nElle est souvent considérée à tort comme la matérialisation des peurs communes de la « mort » et du « meurtre »."
+    },
+    "10182": {
+        "id": "10182",
+        "title": "Bastion flonirique",
+        "desc": "Le reflet de Penacony dans les profondeurs marines. Le « Cauchemar » selon les termes de la Famille.\nCette Zone de mémoire primordiale constitue en réalité une partie du véritable visage du Pays des rêves."
+    },
+    "10183": {
+        "id": "10183",
+        "title": "Auditions Félicitâme™",
+        "desc": "Phase de qualification préliminaire au Festival Ôdiapason.\nDans l'espoir de connaître la gloire, de nombreux concurrents se donnent corps et âme pour décrocher le titre de « superstar du festival » ainsi qu'un billet VIP pout le Festival Ôdiapason."
+    },
+    "10184": {
+        "id": "10184",
+        "title": "Heure d'Écorchesable",
+        "desc": "L'heure où soufflent les vents violents. L'une des douze heures du Pays des rêves de Penacony.\nChemins de fer, verdure et vastes plaines furent autrefois décimés par une série de catastrophes.\nUne fois les travaux de reconstruction terminés, la société Félicitâme a sponsorisé les « Auditions du festival »."
+    },
+    "10185": {
+        "id": "10185",
+        "title": "Grand théâtre de Penacony",
+        "desc": "Le magnifique et opulent Grand théâtre.\nConstruit par la Famille, cette structure colossale conçue à partir d'anciennes prisons sert de scène à l'actuel Festival Ôdiapason."
+    },
+    "10186": {
+        "id": "10186",
+        "title": "Feldspath radieux",
+        "desc": "Un vaisseau luxueux construit par la Famille, qui voyage à travers l'océan des souvenirs. Il a été temporairement mis à quai pour une raison inconnue."
+    },
+    "10200": {
+        "id": "10200",
+        "title": "Danse martiale des étoiles",
+        "desc": "Festival traditionnel de l'Alliance Xianzhou organisé pour commémorer la rédemption accordée par le Seigneur archer de la Destinée et les Chevaliers des nuages sous forme de tournoi martial.\nDes guerriers de tous horizons sont invités à s'affronter d'égal à égal."
+    },
+    "10201": {
+        "id": "10201",
+        "title": "Feixiao",
+        "desc": "Générale céleste du Yaoqing de Xianzhou, aussi connue sous le nom de Serre du griffon.\nAussi déterminée que la foudre, elle prend des décisions avec une aisance déconcertante, faisant montre d'une éthique martiale exemplaire et comptant nombres d'exploits militaires à son actif."
+    },
+    "10202": {
+        "id": "10202",
+        "title": "Jiaoqiu",
+        "desc": "Conseiller de Feixiao. Il est chargé de veiller à son alimentation et à sa santé.\nIl ne fait pas de différence entre les fourneaux médicinaux et les marmites à pot-aux-flammes, et entre la nourriture et les remèdes à base d'herbes..."
+    },
+    "10203": {
+        "id": "10203",
+        "title": "Yunli",
+        "desc": "Épéiste en visite à bord du Luofu. Elle est la petite-fille adoptive bien-aimée du général Huaiyan.\nElle n'a aucune considération envers ceux qu'elle ne juge pas dignes et s'approprie leur arme sans le moindre scrupule."
+    },
+    "10204": {
+        "id": "10204",
+        "title": "Huaiyan",
+        "desc": "Général céleste qui commande le Zhuming de Xianzhou, également appelé le Cœur ardent.\nAvec son apparence de vieillard décrépit, il dénote parmi les habitants de Xianzhou, connus pour leur jeunesse éternelle."
+    },
+    "10205": {
+        "id": "10205",
+        "title": "Moze",
+        "desc": "Conseiller sous les ordres de Feixiao, responsable du renseignement et de la sécurité.\nEn tant que lame de l'ombre, il se manifeste rarement et seulement en cas de nécessité."
+    },
+    "10206": {
+        "id": "10206",
+        "title": "Hoolay",
+        "desc": "Ennemi juré des habitants de Xianzhou et Seigneur du terrier des Borissiens.\nVaincu il y a 700 ans, il a été emprisonné à la Prison des enchaînés pour y subir une éternité de souffrance."
+    },
+    "20000": {
+        "id": "20000",
+        "title": "Adoption du point de vue {M#du pionnier}{F#de la pionnière}...",
+        "desc": "Quand tu as l'occasion de faire un choix, fais-en un que tu es {M#sûr}{F#sûre} de ne pas regretter..."
+    },
+    "20002": {
+        "id": "20002",
+        "title": "Adoption du point de vue d'Aventurine...",
+        "desc": "Aventurine a compris la situation. Il a décidé de rencontrer le chef de la Maison Vieux-Chêne pour récupérer ses biens et le pouvoir qui lui appartient..."
+    },
+    "20003": {
+        "id": "20003",
+        "title": "Adoption du point de vue d'Aventurine...",
+        "desc": "Il semble qu'Aventurine ait tout perdu, mais il a toujours l'intention de mettre à profit les biens qu'il lui reste. Qu'est-ce qu'il a en tête...?"
+    },
+    "20004": {
+        "id": "20004",
+        "title": "Adoption du point de vue d'Achéron...",
+        "desc": "Achéron et Welt ont trouvé un terrain d'entente, et leurs soupçons se portent directement sur la Famille. Que vont-ils découvrir au Manoir de la rosée ?"
+    },
+    "20005": {
+        "id": "20005",
+        "title": "Adoption du point de vue d'Aventurine...",
+        "desc": "Aventurine a l'air convaincu qu'il détient un indice crucial et que la victoire est à portée de main. Mais est-ce qu'il pourra vraiment tenir jusqu'au dernier moment au Parc d'attractions des Studios Chrono ?"
+    },
+    "20006": {
+        "id": "20006",
+        "title": "Adoption du point de vue de Topaz...",
+        "desc": "Pendant ce temps, Topaz monte à bord d'un certain vaisseau de Penacony et attend le début d'un rendez-vous important..."
+    },
+    "20007": {
+        "id": "20007",
+        "title": "Adoption du point de vue de Jade...",
+        "desc": "Le rendez-vous avec Oti Grand-Trèfle ne commence pas sous les meilleurs auspices. Encore à bord du Feldspath radieux, Jade et Topaz réfléchissent aux stratagèmes à employer pour la suite de l'entretien..."
+    },
+    "20008": {
+        "id": "20008",
+        "title": "Adoption du point de vue de Luciole...",
+        "desc": "Au même moment, une « passagère clandestine » adroite monte également à bord du Feldspath radieux..."
+    },
+    "20011": {
+        "id": "20011",
+        "title": "Adoption du point de vue de March 7th...",
+        "desc": "Grâce aux encouragements du général Huaiyan, qu'ils soient délibérés ou accidentels, March 7th a saisi l'occasion pour apprendre l'art de l'épée de Xianzhou et participer à la cérémonie de la Danse martiale..."
+    },
+    "20012": {
+        "id": "20012",
+        "title": "Adoption du point de vue de Jiaoqiu...",
+        "desc": "À la demande du général du Yaoqing, Jiaoqiu et Moze se rendent à la Prison des enchaînés pour rendre visite à Hoolay, Mukhtar guerrier borissien..."
+    },
+    "20013": {
+        "id": "20013",
+        "title": "En attente d'aide de Dr Ratio...",
+        "desc": "Docteur Ratio a quitté la maquette en un éclair, et ce sans même regarder en arrière. Quel homme agréable !"
+    },
+    "20014": {
+        "id": "20014",
+        "title": "Jade",
+        "desc": "Cadre supérieur du Département des investissements stratégiques et l'un des Dix cœurs de pierre. Sa pierre angulaire est « Jade du crédit »."
+    },
+    "20015": {
+        "id": "20015",
+        "title": "Manoir de la rosée",
+        "desc": "Lieu où se réunissent les chefs de chaque maison pour discuter des projets de développement de Penacony. Le bâtiment appartient à Sunday.\nLes invités ordinaires n'ont aucune idée de l'existence de ce manoir, et savent encore moins comment s'y rendre."
+    },
+    "20016": {
+        "id": "20016",
+        "title": "Heure de la Rosée du matin",
+        "desc": "Heure la plus silencieuse parmi les douze Pays des rêves de Penacony.\nC'est là où se trouve le Manoir de la rosée, le lieu de résidence et de réception de la Famille."
+    },
+    "20017": {
+        "id": "20017",
+        "title": "Parc d'attractions des Studios Chrono",
+        "desc": "Un parc d'attractions construit par la Famille, sur le thème d'une série de personnages de dessins animés populaires de Penacony.\nLe site appartient aux Studios Chrono, propriété du magnat légendaire, le célèbre Horloger."
+    },
+    "20018": {
+        "id": "20018",
+        "title": "Auto-annihilateur",
+        "desc": "Personne qui a accidentellement pénétré dans l'ombre de IX la Nihilité et qui a perdu tout sens de sa propre existence.\nLes Auto-annihilateurs désabusés errent seuls dans l'univers. La plupart d'entre eux connaissent une fin insignifiante."
+    },
+    "20019": {
+        "id": "20019",
+        "title": "Pierre angulaire",
+        "desc": "Une pierre sacrée qui scelle l'autorité d'un Émanateur de la Préservation. Chacun des Dix cœurs de pierre en possède une."
+    },
+    "20022": {
+        "id": "20022",
+        "title": "Achéron",
+        "desc": "Voyageuse taciturne et réservée, cette Auto-annihilatrice est une rescapée des ténèbres de IX, la Nihilité.\nDans une lutte contre le destin, elle brandit son épée sans répit avec l'espoir de trancher les Voies."
+    },
+    "20023": {
+        "id": "20023",
+        "title": "Gallagher",
+        "desc": "Un petit barman de Penacony doublé d'un agent de sécurité employé par la Maison Fin-Limier.\nOn le soupçonne d'être un Éclaireur de l'Enigmata lié de près à la Créature mémorielle « Projection de la Mort »."
+    },
+    "20024": {
+        "id": "20024",
+        "title": "L'Horloger",
+        "desc": "Magnat légendaire connu comme étant le Père de Penacony.\nSon vrai nom est Mikhail, il est aujourd'hui considéré comme étant un traître par la Famille."
+    },
+    "20025": {
+        "id": "20025",
+        "title": "Luciole",
+        "desc": "Elle prétend être une nouvelle recrue de la Maison Bel-Iris, mais en réalité, elle fait partie des Chasseurs de Stellaron.\nElle a risqué sa vie pour s'assurer que les membres de l'Astral Express poursuivent le « grand héritage » avant de finalement « revenir d'entre les morts »."
+    },
+    "20026": {
+        "id": "20026",
+        "title": "Adoption du point de vue de Robin...?",
+        "desc": "Penacony est en proie à un chaos temporaire à cause de l'agitation au parc d'attractions, et Robin (?) décide de profiter de l'occasion pour distribuer des petits cadeaux..."
+    },
+    "20027": {
+        "id": "20027",
+        "title": "Adoption du point de vue du Fossoyeur...",
+        "desc": "Le Fossoyeur a fini par trouver un accord avec Dan Heng. Ils vont maintenant essayer d'infiltrer les beaux rêves pour sauver leurs amis..."
+    },
+    "20028": {
+        "id": "20028",
+        "title": "Adoption du point de vue de Robin...",
+        "desc": "Robin et Sunday décident de convaincre Gopher Wood, le Maître des rêves, et leur bienfaiteur initial. Espérons que tout se passe bien..."
     }
 }

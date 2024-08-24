@@ -151,6 +151,14 @@
         "hide_desc": "",
         "hide": false
     },
+    "4013201": {
+        "id": "4013201",
+        "series_id": "1",
+        "title": "Nessun Dorma",
+        "desc": "Tread on the Path of Harmony",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -431,6 +439,238 @@
         "hide_desc": "※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\"",
         "hide": false
     },
+    "4033001": {
+        "id": "4033001",
+        "series_id": "3",
+        "title": "Do You Remember Me?",
+        "desc": "At the outset of your journey, you find yourself accompanied by an unexpected companion...",
+        "hide_desc": "※ Encounter Acheron in a strange dreamland.",
+        "hide": false
+    },
+    "4033002": {
+        "id": "4033002",
+        "series_id": "3",
+        "title": "Trailblazer in Dreamscape",
+        "desc": "You have arrived at the Incredible Land of the Dreams!",
+        "hide_desc": "※ Arrive at the Golden Hour.",
+        "hide": false
+    },
+    "4033003": {
+        "id": "4033003",
+        "series_id": "3",
+        "title": "Gentleness, the Name of Nocturne",
+        "desc": "See how shooting stars fly across the dream sky.",
+        "hide_desc": "※ Learn Firefly's secrets at the Dream's Edge.",
+        "hide": false
+    },
+    "4033004": {
+        "id": "4033004",
+        "series_id": "3",
+        "title": "The Pursuit of Sweetness",
+        "desc": "Discover the serendipitous joy in dreamscape",
+        "hide_desc": "※ Escape from the shadow of \"death\"",
+        "hide": false
+    },
+    "4033005": {
+        "id": "4033005",
+        "series_id": "3",
+        "title": "Old Friends, New Friends",
+        "desc": "Embrace the warmth in the ocean of memories...",
+        "hide_desc": "※ Fight Stellaron Hunter Sam.",
+        "hide": false
+    },
+    "4033006": {
+        "id": "4033006",
+        "series_id": "3",
+        "title": "If I Can Stop One Heart From Breaking",
+        "desc": "The entire Penacony will go wild...",
+        "hide_desc": "※ Witness the second murder.",
+        "hide": false
+    },
+    "4033007": {
+        "id": "4033007",
+        "series_id": "3",
+        "title": "Sibyl, What Do You Want?",
+        "desc": "Where will good fortune lead gamblers?",
+        "hide_desc": "※ Witness the life of Kakavasha",
+        "hide": false
+    },
+    "4033009": {
+        "id": "4033009",
+        "series_id": "3",
+        "title": "A Drop of the Hard Stuff",
+        "desc": "Cheers to sweet dreams and the dreamer!",
+        "hide_desc": "※ Obtain Gallagher's special mix",
+        "hide": false
+    },
+    "4033010": {
+        "id": "4033010",
+        "series_id": "3",
+        "title": "She Replied, I Want to Die.",
+        "desc": "Sit in the best seat and watch the grand finale",
+        "hide_desc": "※ Defeat \"Ten Stonehearts\" Aventurine",
+        "hide": false
+    },
+    "4033011": {
+        "id": "4033011",
+        "series_id": "3",
+        "title": "To Icarus",
+        "desc": "Relive the past in a faraway land",
+        "hide_desc": "※ Listen to Acheron and Welt's conversation",
+        "hide": false
+    },
+    "4033201": {
+        "id": "4033201",
+        "series_id": "3",
+        "title": "The Last Tycoon",
+        "desc": "Commune with the Watchmaker",
+        "hide_desc": "※ Meet the first Nameless in Penacony",
+        "hide": false
+    },
+    "4033202": {
+        "id": "4033202",
+        "series_id": "3",
+        "title": "We Will Be Freemen as Our Fathers Were",
+        "desc": "Inherit the Watchmaker's legacy",
+        "hide_desc": "※ Continue the unfinished journey of the last Nameless in Penacony",
+        "hide": false
+    },
+    "4033203": {
+        "id": "4033203",
+        "series_id": "3",
+        "title": "If We Walk in the Light",
+        "desc": "Embark on a new trailblaze journey as desired",
+        "hide_desc": "※ Defeat the Harmonious Choir, Dominicus...",
+        "hide": false
+    },
+    "4033204": {
+        "id": "4033204",
+        "series_id": "3",
+        "title": "In the End, We Awaken From Our Dreams",
+        "desc": "Witness the first light of dawn on Penacony",
+        "hide_desc": "Defeat \"Embryo of Philosophy\" Sunday",
+        "hide": false
+    },
+    "4033205": {
+        "id": "4033205",
+        "series_id": "3",
+        "title": "Sincerity Is Eternally the Ultimate",
+        "desc": "Make peace with the Penacony's custodian of justice",
+        "hide_desc": "※ Persuade Argenti in Superstar Showdown",
+        "hide": true
+    },
+    "4033206": {
+        "id": "4033206",
+        "series_id": "3",
+        "title": "The Ultimate is Eternal Sincerity",
+        "desc": "Defeat Penacony's custodian of justice",
+        "hide_desc": "※ Defeat Argenti in Superstar Showdown",
+        "hide": true
+    },
+    "4033301": {
+        "id": "4033301",
+        "series_id": "3",
+        "title": "All the Flowers are Dying",
+        "desc": "Here's to the departed, toasting the bitter reality.",
+        "hide_desc": "※ Crafting the special drink \"Bitter Dreams\"",
+        "hide": true
+    },
+    "4033302": {
+        "id": "4033302",
+        "series_id": "3",
+        "title": "It's a Wonderful Life",
+        "desc": "Here's to the departed, toasting the honeyed tomorrow.",
+        "hide_desc": "※ Crafting the special drink \"Drowning Sweetness\"",
+        "hide": true
+    },
+    "4033303": {
+        "id": "4033303",
+        "series_id": "3",
+        "title": "Going My Way",
+        "desc": "Encounter the Astral Express unexpectedly.",
+        "hide_desc": "※ As Firefly, run into the Express Crew on the Radiant Feldspar",
+        "hide": true
+    },
+    "4033304": {
+        "id": "4033304",
+        "series_id": "3",
+        "title": "On the Road",
+        "desc": "Pass by the Astral Express",
+        "hide_desc": "※ As Firefly, focus on finding the \"Bonajade Exchange\" aboard the Radiant Feldspar",
+        "hide": true
+    },
+    "4033305": {
+        "id": "4033305",
+        "series_id": "3",
+        "title": "Ship of Fools",
+        "desc": "Add new footnotes to our destinies",
+        "hide_desc": "※ Successfully resolve the \"bomb\" threat and watch the grand fireworks",
+        "hide": false
+    },
+    "4033306": {
+        "id": "4033306",
+        "series_id": "3",
+        "title": "Tell Me, O Muse",
+        "desc": "Decide upon the next stop at Penacony",
+        "hide_desc": "※ To Amphoreus, The Eternal Land!",
+        "hide": false
+    },
+    "4033401": {
+        "id": "4033401",
+        "series_id": "3",
+        "title": "A Crossing of Blades and Hearts",
+        "desc": "When Two Blades Meet...",
+        "hide_desc": "※ Witness the battle for supremacy between Yanqing and Yunli",
+        "hide": false
+    },
+    "4033402": {
+        "id": "4033402",
+        "series_id": "3",
+        "title": "Gift of Gab",
+        "desc": "※ Convince the IPC Specialist using your own speechcraft",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4033403": {
+        "id": "4033403",
+        "series_id": "3",
+        "title": "PowerSuasion",
+        "desc": "※ Use physical means to \"persuade\" the IPC Specialist",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4033404": {
+        "id": "4033404",
+        "series_id": "3",
+        "title": "A Closing on Open Casket",
+        "desc": "Open the container in the fashion one might lift the lid off a coffin...",
+        "hide_desc": "※ Defeat Howling Casket, the IPC's \"dangerous cargo\"",
+        "hide": false
+    },
+    "4033405": {
+        "id": "4033405",
+        "series_id": "3",
+        "title": "An Autumnal Shine of Blade",
+        "desc": "Accept the masters' gifts and eager expectations",
+        "hide_desc": "※ Begin learning the art of Xianzhou swordplay in March 7th's POV",
+        "hide": false
+    },
+    "4033406": {
+        "id": "4033406",
+        "series_id": "3",
+        "title": "Shackles Shattered",
+        "desc": "And now, the most dangerous prisoners have broken free",
+        "hide_desc": "※ Complete the visitation of Hoolay from in Jiaoqiu's POV",
+        "hide": false
+    },
+    "4033407": {
+        "id": "4033407",
+        "series_id": "3",
+        "title": "Time to Hunt",
+        "desc": "The game between hunters and prey have not begun",
+        "hide_desc": "※ The generals... are ready to march forth",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -707,7 +947,7 @@
         "id": "4042507",
         "series_id": "4",
         "title": "The Star of Wealth Shines Upon You",
-        "desc": "Open Treasures 170 times on the Xianzhou Luofu",
+        "desc": "Open Treasures 170 time(s) on the Xianzhou Luofu",
         "hide_desc": "",
         "hide": false
     },
@@ -722,10 +962,522 @@
     "4042802": {
         "id": "4042802",
         "series_id": "4",
-        "title": "The Golem: How He Came into the World",
+        "title": "The Golem: How He Came Into the World",
         "desc": "In Fyxestroll Garden, obtain a total of 9 \"Pathfinder\" rewards",
         "hide_desc": "",
         "hide": false
+    },
+    "4043001": {
+        "id": "4043001",
+        "series_id": "4",
+        "title": "This Side of Paradise",
+        "desc": "Activate Space Anchors 15 times in Penacony.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043002": {
+        "id": "4043002",
+        "series_id": "4",
+        "title": "Penacony Dreams",
+        "desc": "Open Treasures 120 times in Penacony.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043003": {
+        "id": "4043003",
+        "series_id": "4",
+        "title": "\"Space Walk\"",
+        "desc": "Complete the mission \"Slaughterhouse\" and uncover the truth within the hotel in the Dreamscape.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043004": {
+        "id": "4043004",
+        "series_id": "4",
+        "title": "Tweet?",
+        "desc": "Help 1 Origami Bird(s) return to the Great Tree.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043005": {
+        "id": "4043005",
+        "series_id": "4",
+        "title": "Tweet! Tweet!",
+        "desc": "Help 60 Origami Bird(s) return to the Great Tree.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043006": {
+        "id": "4043006",
+        "series_id": "4",
+        "title": "Always Sync With Time",
+        "desc": "Fix 15 Dream Tickers.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043007": {
+        "id": "4043007",
+        "series_id": "4",
+        "title": "Whose Dream Is It?",
+        "desc": "Witness the mysterious wonders in the child's dream for the first time.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043008": {
+        "id": "4043008",
+        "series_id": "4",
+        "title": "Eternal Golden Braid",
+        "desc": "Use the Dream's Eye to forge the impossible path and traverse it.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043009": {
+        "id": "4043009",
+        "series_id": "4",
+        "title": "Pictorial World",
+        "desc": "Earn rewards 10 times from the Dream Jigsaw.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043010": {
+        "id": "4043010",
+        "series_id": "4",
+        "title": "FlyMe2theBalloon",
+        "desc": "Break the special Boss Stone balloon in Golden Hour",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043011": {
+        "id": "4043011",
+        "series_id": "4",
+        "title": "Balloon Gakuen 2",
+        "desc": "Break the special Boss Stone balloon at Dream's Edge",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043012": {
+        "id": "4043012",
+        "series_id": "4",
+        "title": "Balloon Impact 3rd",
+        "desc": "Break the special Boss Stone balloon in A Child's Dream",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043013": {
+        "id": "4043013",
+        "series_id": "4",
+        "title": "Penacony: Balloon Rail",
+        "desc": "Break the special Boss Stone balloon in The Reverie (Dreamscape)",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043014": {
+        "id": "4043014",
+        "series_id": "4",
+        "title": "I'm a Grown-up!",
+        "desc": "Arrive at the Dreamjolt Hostelry for the first time.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043015": {
+        "id": "4043015",
+        "series_id": "4",
+        "title": "All the Sad Young Men",
+        "desc": "Enter the special hotel room in The Reverie (Reality) for the first time",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043016": {
+        "id": "4043016",
+        "series_id": "4",
+        "title": "Jack of All Trades",
+        "desc": "Walk onto the Bubble Bridge using the Dreamwalker ability for the first time.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043017": {
+        "id": "4043017",
+        "series_id": "4",
+        "title": "Walks with Wolves",
+        "desc": "Collect the complete Hanu's Adventure (I) collection",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043018": {
+        "id": "4043018",
+        "series_id": "4",
+        "title": "Lie in Wait",
+        "desc": "Push down objects in Hanu's Adventure without hitting any enemies",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043019": {
+        "id": "4043019",
+        "series_id": "4",
+        "title": "Escape Velocity Reached",
+        "desc": "The rocket teleportation in Hanu's Adventure lasts more than #1 seconds",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043020": {
+        "id": "4043020",
+        "series_id": "4",
+        "title": "100% Alertness",
+        "desc": "Brush past death in Hanu's Adventure",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043021": {
+        "id": "4043021",
+        "series_id": "4",
+        "title": "Learning in Sleep",
+        "desc": "Collect 15 readable items in Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043022": {
+        "id": "4043022",
+        "series_id": "4",
+        "title": "Home Alone",
+        "desc": "Defeat 3 of Boss Stone's minions at once in a Hanu's Adventure stage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043023": {
+        "id": "4043023",
+        "series_id": "4",
+        "title": "Anti-Balloon",
+        "desc": "Break the special Boss Stone balloon in Clock Studios Theme Park",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043024": {
+        "id": "4043024",
+        "series_id": "4",
+        "title": "Saga of the Dreamhaven Tumult",
+        "desc": "Break the special Boss Stone balloon in Dewlight Pavilion",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043025": {
+        "id": "4043025",
+        "series_id": "4",
+        "title": "Safety Car",
+        "desc": "Complete the shoot without any damage in any mode in Clockie's Extras",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043026": {
+        "id": "4043026",
+        "series_id": "4",
+        "title": "Non-Racing Line",
+        "desc": "Stay in the middle lane continuously for #1 second(s) in any mode in Clockie's Extras",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043027": {
+        "id": "4043027",
+        "series_id": "4",
+        "title": "Pole to Win",
+        "desc": "Reach maximum energy again within the duration of Nutty Blitz or Hanu Time in any mode of Clockie's Extras",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043028": {
+        "id": "4043028",
+        "series_id": "4",
+        "title": "Biggest DRS Beneficiary",
+        "desc": "Perform Turbo Dash 10 times in a row without mistakes or interruption in Clockie's Extras: Fast & Furynuts",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043029": {
+        "id": "4043029",
+        "series_id": "4",
+        "title": "Slow Road to Hell",
+        "desc": "Defeat all enemies that appeared in Clockie's Extras: Way of the Wolf",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043030": {
+        "id": "4043030",
+        "series_id": "4",
+        "title": "A Dreamy Town, Oak Paradise!",
+        "desc": "Enter the miniature sandpit in Dewlight Pavilion for the first time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043031": {
+        "id": "4043031",
+        "series_id": "4",
+        "title": "Dreamweaving Industrialization",
+        "desc": "Complete the Dreamwalker Challenge at the Dewlight Pavilion for some extra income",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043032": {
+        "id": "4043032",
+        "series_id": "4",
+        "title": "To Get Blood Out of a Stone",
+        "desc": "Transform into Hanu and use Hanu Rocket to defeat Boss Stone's minions for the first time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043033": {
+        "id": "4043033",
+        "series_id": "4",
+        "title": "Living With a Wolf",
+        "desc": "Collect the complete Hanu's Adventure (II) collection",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043034": {
+        "id": "4043034",
+        "series_id": "4",
+        "title": "Maximum Firepower",
+        "desc": "Obtain the maximum ammo limit of Hanu Rocket in Hanu's Adventure",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043035": {
+        "id": "4043035",
+        "series_id": "4",
+        "title": "Secret Party",
+        "desc": "Discover Clock Studios Theme Park's hidden area via Bubble Pinball",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043036": {
+        "id": "4043036",
+        "series_id": "4",
+        "title": "Pac-Man",
+        "desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043201": {
+        "id": "4043201",
+        "series_id": "4",
+        "title": "Elysian Balloon",
+        "desc": "Break the special Boss Stone balloon at Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043202": {
+        "id": "4043202",
+        "series_id": "4",
+        "title": "Second Balloon Eruption",
+        "desc": "Break the special Boss Stone balloon at Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043203": {
+        "id": "4043203",
+        "series_id": "4",
+        "title": "A Post-Balloon Odyssey",
+        "desc": "Break the special Boss Stone balloon at Penacony Grand Theater",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043205": {
+        "id": "4043205",
+        "series_id": "4",
+        "title": "New Penacony Dreams",
+        "desc": "Open Treasures 300 time(s) in Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043206": {
+        "id": "4043206",
+        "series_id": "4",
+        "title": "Blood Sugar Highs",
+        "desc": "Eat all the SoulGlad items in the Fast & Furynuts challenge located at the Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043207": {
+        "id": "4043207",
+        "series_id": "4",
+        "title": "Tweet... I Can't Move Anymore",
+        "desc": "Help 100 Origami Bird(s) return to the Great Tree.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043208": {
+        "id": "4043208",
+        "series_id": "4",
+        "title": "Audition Funhouse",
+        "desc": "Discover any hidden challenge on the Audition Shuttle interface",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043209": {
+        "id": "4043209",
+        "series_id": "4",
+        "title": "Audition Rizzler",
+        "desc": "Successfully triggered a total of #1 Audition Shuttle hidden challenge(s)",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043210": {
+        "id": "4043210",
+        "series_id": "4",
+        "title": "Disqualified!",
+        "desc": "Break all Boss Stone balloons in the Audition Plaza",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043211": {
+        "id": "4043211",
+        "series_id": "4",
+        "title": "First Blood",
+        "desc": "Complete the Hanu Wars challenge for the first time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043212": {
+        "id": "4043212",
+        "series_id": "4",
+        "title": "Wolflike",
+        "desc": "Rebound every piece of Boss Stone's coins in any \"Way of the Wolf (End)\" stages",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043213": {
+        "id": "4043213",
+        "series_id": "4",
+        "title": "Old Wolf Homecoming",
+        "desc": "Complete all \"Way of the Wolf (End)\" stages",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043214": {
+        "id": "4043214",
+        "series_id": "4",
+        "title": "Like a Wolf Arrives!",
+        "desc": "Defeat Boss Stone in any \"Way of the Wolf (End)\" stages without rebounding any coin attacks",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043215": {
+        "id": "4043215",
+        "series_id": "4",
+        "title": "Fifteenth Blood",
+        "desc": "Complete all Hanu Wars challenges",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043216": {
+        "id": "4043216",
+        "series_id": "4",
+        "title": "How Many Drops Are We At Now?",
+        "desc": "Complete all Hanu Wars challenges flawlessly",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043217": {
+        "id": "4043217",
+        "series_id": "4",
+        "title": "Armor-Piercing Bullet",
+        "desc": "Hit #1 target(s) with a single shot in Hanu Wars",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043218": {
+        "id": "4043218",
+        "series_id": "4",
+        "title": "The Crocodile Enemy",
+        "desc": "Defeat Steely Gator in the final stage of Hanu's Adventure",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043219": {
+        "id": "4043219",
+        "series_id": "4",
+        "title": "Goodbye, Hanunue",
+        "desc": "Collect all Hanu's Adventure story books",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043220": {
+        "id": "4043220",
+        "series_id": "4",
+        "title": "Final Blood",
+        "desc": "Hit all targets for the first time in Hanu Wars",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043221": {
+        "id": "4043221",
+        "series_id": "4",
+        "title": "Hanu's Legacy",
+        "desc": "Find the hidden treasure in the Festivity Auditions' Gunfire Trial",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043222": {
+        "id": "4043222",
+        "series_id": "4",
+        "title": "Za Warudo!",
+        "desc": "Hit #1 target(s) using Clock Time in Hanu Wars",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043224": {
+        "id": "4043224",
+        "series_id": "4",
+        "title": "Saturation Bombing",
+        "desc": "Defeat #1 of Boss Stone's minions at once in a Hanu's Adventure stage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043226": {
+        "id": "4043226",
+        "series_id": "4",
+        "title": "In the Name of The Family",
+        "desc": "Help Family members retrieve all the stolen goods",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043301": {
+        "id": "4043301",
+        "series_id": "4",
+        "title": "Balloons, Towards Tomorrow~",
+        "desc": "Break the special Boss Stone balloon at {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043302": {
+        "id": "4043302",
+        "series_id": "4",
+        "title": "Alas, Not a Concert Band",
+        "desc": "Rescue the Boss Ticker on {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043401": {
+        "id": "4043401",
+        "series_id": "4",
+        "title": "Avian Vision",
+        "desc": "Use the cycrane to open the hidden underground passage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043402": {
+        "id": "4043402",
+        "series_id": "4",
+        "title": "Hidden Corner",
+        "desc": "Use the cycrane to enter the hidden chamber",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043403": {
+        "id": "4043403",
+        "series_id": "8",
+        "title": "The Door Is Tougher",
+        "desc": "Get your head caught in the gate of The Shackling Prison",
+        "hide_desc": "",
+        "hide": true
     },
     "4051001": {
         "id": "4051001",
@@ -779,7 +1531,7 @@
         "id": "4051101",
         "series_id": "4",
         "title": "Don't You Dare Waste It",
-        "desc": "Get Jim Roger Bread Soda from a trash can",
+        "desc": "Get Jim Roger Bread Soda from a trashcan",
         "hide_desc": "",
         "hide": false
     },
@@ -843,7 +1595,7 @@
         "id": "4051110",
         "series_id": "5",
         "title": "The Lifecycle of Software Objects",
-        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (II)\"",
         "hide_desc": "",
         "hide": true
     },
@@ -851,7 +1603,7 @@
         "id": "4051111",
         "series_id": "5",
         "title": "For a Breath I Tarry",
-        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (II)\"",
         "hide_desc": "",
         "hide": true
     },
@@ -1771,7 +2523,7 @@
         "id": "4052730",
         "series_id": "5",
         "title": "Ice Grim",
-        "desc": "Obtain Trash from a frozen trash can",
+        "desc": "Obtain Trash from a frozen trashcan",
         "hide_desc": "",
         "hide": true
     },
@@ -2003,7 +2755,7 @@
         "id": "4052905",
         "series_id": "5",
         "title": "Qualified Caretaker",
-        "desc": "Complete the adventure mission \"Critter Pick\"",
+        "desc": "Complete the Adventure Mission \"Critter Pick\"",
         "hide_desc": "",
         "hide": false
     },
@@ -2116,6 +2868,1190 @@
         "series_id": "5",
         "title": "Chronic Ailment Diagnostic Manual",
         "desc": "Collect all the readables that contain messages from Dr. Ratio in the Seclusion Zone",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053001": {
+        "id": "4053001",
+        "series_id": "5",
+        "title": "Don't Shake Your Soda",
+        "desc": "Use the Bubble Pinball for the first time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053002": {
+        "id": "4053002",
+        "series_id": "5",
+        "title": "Towards the Brighter Side",
+        "desc": "Hold on to your life, even in the face of adversity",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053003": {
+        "id": "4053003",
+        "series_id": "5",
+        "title": "He Grew Up Under This Sunshine",
+        "desc": "Perhaps... it is time to let it go",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053004": {
+        "id": "4053004",
+        "series_id": "5",
+        "title": "East of Eden",
+        "desc": "Witness the story of a fleeting cosmic superstar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053005": {
+        "id": "4053005",
+        "series_id": "5",
+        "title": "Crime and Punishment",
+        "desc": "Witness the story of a \"good person\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053006": {
+        "id": "4053006",
+        "series_id": "5",
+        "title": "The Dance Is On",
+        "desc": "Complete the Companion Mission \"Masquerade Duet\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053007": {
+        "id": "4053007",
+        "series_id": "5",
+        "title": "The Good Deeds a Man Has Done",
+        "desc": "Witness the struggling life of a scientist",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053008": {
+        "id": "4053008",
+        "series_id": "5",
+        "title": "Zoologist in Fiction",
+        "desc": "Dispel #1 Hound Statue(s)",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053009": {
+        "id": "4053009",
+        "series_id": "8",
+        "title": "Tales of a Card Shark",
+        "desc": "Win the special reward in Lucky Wheel by cheating",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053010": {
+        "id": "4053010",
+        "series_id": "8",
+        "title": "As Fragile as Crisp Cone",
+        "desc": "After using the consumable Dreamy Cone, cast a skill on the wrong target.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053011": {
+        "id": "4053011",
+        "series_id": "8",
+        "title": "Introduction to Psychoanalysis",
+        "desc": "Synthesize any one of the following consumables: The Moment of Betrayal, Fleeting Happiness, The Moment Before Death, Bustling Ambience, The Cloud of Doubt, or Momentary Freedom.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053012": {
+        "id": "4053012",
+        "series_id": "5",
+        "title": "Savor Emotions",
+        "desc": "What does Clockwork do?",
+        "hide_desc": "※ Guide the emotions of #1 people in the Dreamscape.",
+        "hide": false
+    },
+    "4053014": {
+        "id": "4053014",
+        "series_id": "5",
+        "title": "Surge of Warmth",
+        "desc": "Clockwork helps people discover their true selves.",
+        "hide_desc": "※ Resolve #1 emergencies in Clockwork.",
+        "hide": false
+    },
+    "4053015": {
+        "id": "4053015",
+        "series_id": "5",
+        "title": "Thumping Heart",
+        "desc": "In dreams, even emotions are tangible.",
+        "hide_desc": "※ Collect #1 Emo Gears.",
+        "hide": false
+    },
+    "4053016": {
+        "id": "4053016",
+        "series_id": "5",
+        "title": "I Know Your Thoughts",
+        "desc": "Can you resist the temptation of counseling?",
+        "hide_desc": "※ Guide the emotions of at least #1 people in the Dreamscape.",
+        "hide": false
+    },
+    "4053017": {
+        "id": "4053017",
+        "series_id": "5",
+        "title": "My Favorite Car",
+        "desc": "Park your car in the exclusive parking space at The Reverie",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053018": {
+        "id": "4053018",
+        "series_id": "5",
+        "title": "Breaking Even",
+        "desc": "Make enough money through taxicab assignments.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053019": {
+        "id": "4053019",
+        "series_id": "5",
+        "title": "The Number You Have Dialed Is Unavailable",
+        "desc": "There are always off-limits places",
+        "hide_desc": "※ Call an unreachable number.",
+        "hide": false
+    },
+    "4053020": {
+        "id": "4053020",
+        "series_id": "5",
+        "title": "Glasses in the City",
+        "desc": "Matchmake crystal chalice with cheap wine",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053021": {
+        "id": "4053021",
+        "series_id": "5",
+        "title": "Heart of the Rock",
+        "desc": "Matchmake crystal chalice with rum",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053022": {
+        "id": "4053022",
+        "series_id": "5",
+        "title": "The Great Champagne",
+        "desc": "Matchmake crystal chalice with golden champagne",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053023": {
+        "id": "4053023",
+        "series_id": "5",
+        "title": "Don't Pick Up Anything Ominous",
+        "desc": "Not all urban legends are just legends",
+        "hide_desc": "※ Pick up an eerie tape.",
+        "hide": false
+    },
+    "4053024": {
+        "id": "4053024",
+        "series_id": "5",
+        "title": "The Wolf of Glaux Avenue",
+        "desc": "Figure out why the cash-spewer is stuck",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053025": {
+        "id": "4053025",
+        "series_id": "5",
+        "title": "Every Gambler Has Their Excuses",
+        "desc": "Witness the ending of the legendary Ace Gambler's story",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053026": {
+        "id": "4053026",
+        "series_id": "5",
+        "title": "Fallen Angel",
+        "desc": "Discover the true origins of Xunsang",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053027": {
+        "id": "4053027",
+        "series_id": "5",
+        "title": "Rashomon",
+        "desc": "So... who hit whom?",
+        "hide_desc": "※ Witness the entire process of the car accident at Glaux Avenue.",
+        "hide": false
+    },
+    "4053028": {
+        "id": "4053028",
+        "series_id": "5",
+        "title": "Magique Pepeshi",
+        "desc": "Pepeshi? Or mimic?",
+        "hide_desc": "※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.",
+        "hide": false
+    },
+    "4053029": {
+        "id": "4053029",
+        "series_id": "5",
+        "title": "The Planet of Festivities and Six Alfalfa Credits",
+        "desc": "Which is more important? Love, or aspiration?",
+        "hide_desc": "※ Discover the story of a family torn apart by the dreams of its members.",
+        "hide": false
+    },
+    "4053030": {
+        "id": "4053030",
+        "series_id": "5",
+        "title": "Mental Health Care",
+        "desc": "The environment must be protected",
+        "hide_desc": "※ Help Go-Ray recycle trash in the Dreamscape.",
+        "hide": false
+    },
+    "4053031": {
+        "id": "4053031",
+        "series_id": "5",
+        "title": "The Interpretation of Dreams",
+        "desc": "Peek into 7 people's dreams through the Dreampeek Call",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053032": {
+        "id": "4053032",
+        "series_id": "5",
+        "title": "We Are All Friends Here",
+        "desc": "Meet all the types of animated billboards",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053033": {
+        "id": "4053033",
+        "series_id": "5",
+        "title": "No Man's Symphony",
+        "desc": "What happens when a joyful player becomes even more joyful?",
+        "hide_desc": "※ Enhance Max's music with even more joy",
+        "hide": false
+    },
+    "4053034": {
+        "id": "4053034",
+        "series_id": "5",
+        "title": "On the Path of Voracity...",
+        "desc": "Consume Vitali's Cone Dancer",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053035": {
+        "id": "4053035",
+        "series_id": "5",
+        "title": "Into the Rabbit Hole",
+        "desc": "Listen to the mysterious whispers of various objects in the Dreamscape.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053036": {
+        "id": "4053036",
+        "series_id": "5",
+        "title": "Between the Sky and You",
+        "desc": "Revisit the secret place alone",
+        "hide_desc": "※ Return to Firefly's secret base after everything has concluded",
+        "hide": false
+    },
+    "4053037": {
+        "id": "4053037",
+        "series_id": "5",
+        "title": "See That Ladder? You Can Climb It!",
+        "desc": "Attempt to climb the ladder at the Dream's Edge",
+        "hide_desc": "※ Actually, you can't climb it",
+        "hide": false
+    },
+    "4053038": {
+        "id": "4053038",
+        "series_id": "5",
+        "title": "Gravity Waterfall",
+        "desc": "Enjoy the peculiar waterfall in A Child's Dream",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053039": {
+        "id": "4053039",
+        "series_id": "5",
+        "title": "Lucky Striper",
+        "desc": "Accumulate more than #1 Aideen Tokens",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053040": {
+        "id": "4053040",
+        "series_id": "5",
+        "title": "I'm Lovin' This Game",
+        "desc": "Discover the ultimate prize hidden in Dreamy Slots",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053041": {
+        "id": "4053041",
+        "series_id": "5",
+        "title": "Are There No Pepeshi?",
+        "desc": "Talk to Cielo using a character shorter than her",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053042": {
+        "id": "4053042",
+        "series_id": "5",
+        "title": "Déjà Vu",
+        "desc": "Encounter the familiar \"landscapes\" in the Dreamscape",
+        "hide_desc": "※ Yep, it's the trashcans!",
+        "hide": false
+    },
+    "4053043": {
+        "id": "4053043",
+        "series_id": "5",
+        "title": "Ramesrash II",
+        "desc": "Challenge all the Lordly Trashcans in The Reverie, Golden Hour, A Child's Dream, and Dream's Edge",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053044": {
+        "id": "4053044",
+        "series_id": "5",
+        "title": "Rear Window",
+        "desc": "Investigate all the locked rooms in the hotel",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053045": {
+        "id": "4053045",
+        "series_id": "5",
+        "title": "Enemy of the Pepeshi",
+        "desc": "Offend every Pepeshi you encounter in an outrageous way",
+        "hide_desc": "※ Try to touch the fluff ball of every Pepeshi in the Golden Hour",
+        "hide": false
+    },
+    "4053046": {
+        "id": "4053046",
+        "series_id": "5",
+        "title": "The Worst Nameless Ever",
+        "desc": "Show Pom-Pom a specific dream bubble",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053047": {
+        "id": "4053047",
+        "series_id": "5",
+        "title": "Gate to Stars",
+        "desc": "Adventurer or pirate?",
+        "hide_desc": "※ Listen to Colleen's story about the universe",
+        "hide": false
+    },
+    "4053048": {
+        "id": "4053048",
+        "series_id": "5",
+        "title": "This Is Simply Amazing",
+        "desc": "Witness a \"great vision\"",
+        "hide_desc": "※ Collect Family members' comments on the Dream's Edge project",
+        "hide": false
+    },
+    "4053049": {
+        "id": "4053049",
+        "series_id": "5",
+        "title": "Dream of Trustification",
+        "desc": "Everything you see is MY invention!",
+        "hide_desc": "※ Help Emmrich complete his plan",
+        "hide": false
+    },
+    "4053050": {
+        "id": "4053050",
+        "series_id": "5",
+        "title": "Reality Sinks, Dream Drifts",
+        "desc": "Humans can't comprehend each other after all",
+        "hide_desc": "※ Listen to the conversation between Larose and Forla",
+        "hide": false
+    },
+    "4053051": {
+        "id": "4053051",
+        "series_id": "5",
+        "title": "The Long Goodbye",
+        "desc": "May she bid farewell to her troubled past",
+        "hide_desc": "※ Witness Lew Archer's story",
+        "hide": false
+    },
+    "4053052": {
+        "id": "4053052",
+        "series_id": "5",
+        "title": "Third Cone's the Charm",
+        "desc": "Consume way too many crispy cones at one time in the Golden Hour...",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053053": {
+        "id": "4053053",
+        "series_id": "5",
+        "title": "Oti's Economics",
+        "desc": "When everyone receives money, it is equivalent to nobody actually receiving money",
+        "hide_desc": "※ Repeatedly trigger the cash-spewer on the streets",
+        "hide": false
+    },
+    "4053054": {
+        "id": "4053054",
+        "series_id": "5",
+        "title": "Attendance Rate, Zero",
+        "desc": "Make Radiant Speedster lose its fans",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053055": {
+        "id": "4053055",
+        "series_id": "5",
+        "title": "Birds Art Life: A Year of Observation",
+        "desc": "Become a master bird observer at Dewlight Pavilion",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053056": {
+        "id": "4053056",
+        "series_id": "5",
+        "title": "For Great Goods",
+        "desc": "Obtain all #1 Clockie merchandise",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053057": {
+        "id": "4053057",
+        "series_id": "5",
+        "title": "The Cabin in the Woods",
+        "desc": "Witness the bizarre experience of the five at a certain place in Clock Studios Theme Park",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053058": {
+        "id": "4053058",
+        "series_id": "5",
+        "title": "Proofs And Refutations",
+        "desc": "Purchase a certain good from a food truck owner at a high price during a conversation",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053059": {
+        "id": "4053059",
+        "series_id": "5",
+        "title": "A Variation Named \"I\"",
+        "desc": "Meet a \"detective\" with peculiar physical attributes in Clock Studios Theme Park",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053060": {
+        "id": "4053060",
+        "series_id": "5",
+        "title": "The Lady in Gold",
+        "desc": "Investigate the portrait of a certain famous performer at Dewlight Pavilion",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053061": {
+        "id": "4053061",
+        "series_id": "5",
+        "title": "Lord of War",
+        "desc": "Bring Oksana to justice",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053062": {
+        "id": "4053062",
+        "series_id": "5",
+        "title": "Better Late Than Never",
+        "desc": "Expose Oksana to the Bloodhounds",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053063": {
+        "id": "4053063",
+        "series_id": "5",
+        "title": "Dishonored Legacy",
+        "desc": "Let Oksana go",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053064": {
+        "id": "4053064",
+        "series_id": "5",
+        "title": "Big Shot!",
+        "desc": "Leave your special mix at the Dreamjolt Hostelry",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053065": {
+        "id": "4053065",
+        "series_id": "5",
+        "title": "Make Your Dreams a Blast",
+        "desc": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053066": {
+        "id": "4053066",
+        "series_id": "5",
+        "title": "To Each Their Own Drink",
+        "desc": "Serve the correct drinks to the customers #1 times",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053067": {
+        "id": "4053067",
+        "series_id": "5",
+        "title": "Omakase",
+        "desc": "Serve the wrong drinks to the customers #1 times",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053068": {
+        "id": "4053068",
+        "series_id": "5",
+        "title": "Operation Dreampunk Drinksmith",
+        "desc": "Complete all Dreamjolt Hostelry recipe deductions",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053070": {
+        "id": "4053070",
+        "series_id": "5",
+        "title": "Family Portrait",
+        "desc": "Take a family photo of the Express Crew at the photo board in Clock Studios Theme Park",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053071": {
+        "id": "4053071",
+        "series_id": "5",
+        "title": "\"Clock\" In",
+        "desc": "Take a group photo at the photo board in Clock Studios Theme Park",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053201": {
+        "id": "4053201",
+        "series_id": "5",
+        "title": "Bottling History",
+        "desc": "Explore the Four Great Treasures of the soda cellar in the Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053202": {
+        "id": "4053202",
+        "series_id": "5",
+        "title": "The Tale of Syrupy Medicine",
+        "desc": "Find the most precious hoard of the soda cellar in the Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053203": {
+        "id": "4053203",
+        "series_id": "5",
+        "title": "Gold and Gear... Clock?",
+        "desc": "Uncover the mystery behind Clockie turning rocks into gold in the Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053204": {
+        "id": "4053204",
+        "series_id": "5",
+        "title": "Just A Walking Shadow",
+        "desc": "Listen to the stories of the eight puppets by Penacony Grand Theater's stage",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053205": {
+        "id": "4053205",
+        "series_id": "5",
+        "title": "Stickers, So Many Stickers",
+        "desc": "Achieve 100% page completion progress for Dreamscape Pass",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053206": {
+        "id": "4053206",
+        "series_id": "5",
+        "title": "Unfinished Dream Song",
+        "desc": "Persuade Orla to awaken from the Dreamscape",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053207": {
+        "id": "4053207",
+        "series_id": "5",
+        "title": "Just Leave",
+        "desc": "Let Orla leave with his companions",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053208": {
+        "id": "4053208",
+        "series_id": "5",
+        "title": "The Birth of Hanu Union",
+        "desc": "Help all the billboard staff escape in the Brother Hanu's Great Heist Commercial for Dreamjoy Memoir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053209": {
+        "id": "4053209",
+        "series_id": "5",
+        "title": "SoulGlad Ambassador",
+        "desc": "Step across all SoulGlad Floor Tiles in all maps in the Bubbly Clockie Commercial for Dreamjoy Memoir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053210": {
+        "id": "4053210",
+        "series_id": "5",
+        "title": "The Wonderful Wizard of Dreamville",
+        "desc": "Ensure that all shots perfectly meet the director's requirements in the Dreamjoy Ascension Commercial for Dreamjoy Memoir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053211": {
+        "id": "4053211",
+        "series_id": "5",
+        "title": "Clockie and His Companions",
+        "desc": "Help Dreamjoy Memoir's animators produce all of the extra stories",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053212": {
+        "id": "4053212",
+        "series_id": "5",
+        "title": "Railboard 100",
+        "desc": "Obtain Robin's records",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053213": {
+        "id": "4053213",
+        "series_id": "5",
+        "title": "Lifeboat",
+        "desc": "Help the SoulGlad who wants to become a superstar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053214": {
+        "id": "4053214",
+        "series_id": "5",
+        "title": "Dreamflux Study Group",
+        "desc": "Create a new home for the vagrants",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053215": {
+        "id": "4053215",
+        "series_id": "5",
+        "title": "Angel's Murmur",
+        "desc": "Witness the end of Emanator of Cans",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053216": {
+        "id": "4053216",
+        "series_id": "5",
+        "title": "The Feather He Dropped",
+        "desc": "Help Robin find clues about Sunday",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053217": {
+        "id": "4053217",
+        "series_id": "5",
+        "title": "Permanent Boarding Pass",
+        "desc": "Ride the Spheroid to the mysterious station at the Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053218": {
+        "id": "4053218",
+        "series_id": "5",
+        "title": "Anyway, It's Cool",
+        "desc": "Find seven special manhole covers at Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053219": {
+        "id": "4053219",
+        "series_id": "5",
+        "title": "Where Splendor Meets Sorrow",
+        "desc": "Find Clockie's traces in the elevator shaft in Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053220": {
+        "id": "4053220",
+        "series_id": "5",
+        "title": "Temporal Wonder",
+        "desc": "Complete the Adventure Mission \"Once Upon a Dreamville...\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053221": {
+        "id": "4053221",
+        "series_id": "5",
+        "title": "Whispers of the Past",
+        "desc": "Complete the editing work of all endings in Dreamjoy Memoir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053222": {
+        "id": "4053222",
+        "series_id": "5",
+        "title": "Dreamscape Top 100",
+        "desc": "Reach an Audience Score of #1 in Dreamjoy Memoir's Anthology",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053223": {
+        "id": "4053223",
+        "series_id": "5",
+        "title": "Emotions Beyond the Lens",
+        "desc": "All three Audience Emotions reach at least #1 simultaneously in Dreamjoy Memoir",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053224": {
+        "id": "4053224",
+        "series_id": "5",
+        "title": "The Lost Generation",
+        "desc": "Enter a special story branch in Dreamjoy Memoir",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053225": {
+        "id": "4053225",
+        "series_id": "5",
+        "title": "High-Budget Movie",
+        "desc": "In Dreamjoy Memoir, obtain at least #1 Time Dice, \"#2,\" in the same turn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053226": {
+        "id": "4053226",
+        "series_id": "5",
+        "title": "Natural 0 Roll",
+        "desc": "When conducting the test screening in Dreamjoy Memoir, all the required Emotions perfectly match the review criteria",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053227": {
+        "id": "4053227",
+        "series_id": "5",
+        "title": "Rail Road, Take Me Home",
+        "desc": "Enter A Child's Dream through the Watchmaker's dream bubble in Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053228": {
+        "id": "4053228",
+        "series_id": "5",
+        "title": "Where Are You Going, Mikhail?",
+        "desc": "I have walked the path I should have walked",
+        "hide_desc": "※ When the dust settles, return to A Child's Moongazing Spot",
+        "hide": false
+    },
+    "4053229": {
+        "id": "4053229",
+        "series_id": "5",
+        "title": "Boxes and Ladders",
+        "desc": "Climb the mountain made from wooden boxes at Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053230": {
+        "id": "4053230",
+        "series_id": "5",
+        "title": "Waiting for Godot",
+        "desc": "Patiently wait for the arrival of the ghost train",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053231": {
+        "id": "4053231",
+        "series_id": "5",
+        "title": "An Afternoon's Worth of Sitting",
+        "desc": "Enjoy a brief moment of respite on the couch at Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053232": {
+        "id": "4053232",
+        "series_id": "5",
+        "title": "City of Love",
+        "desc": "Help the Billboard Hurrylove to pass a message to its lover",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053301": {
+        "id": "4053301",
+        "series_id": "5",
+        "title": "No Business on Continental Grounds",
+        "desc": "Complete the Adventure Mission \"Checking Out\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053302": {
+        "id": "4053302",
+        "series_id": "5",
+        "title": "Requiem of the Rose",
+        "desc": "Complete the Adventure Mission \"Grim Film of Finality\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053303": {
+        "id": "4053303",
+        "series_id": "5",
+        "title": "My Captain, My Ship",
+        "desc": "Complete the Adventure Mission \"Cloud-Bound Hearts\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053304": {
+        "id": "4053304",
+        "series_id": "5",
+        "title": "Unplanned Group Photo",
+        "desc": "Take a group photo during the Origami Bird Clash event",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053305": {
+        "id": "4053305",
+        "series_id": "5",
+        "title": "Omega Ruby",
+        "desc": "During the Origami Bird Clash event, place Silbird Wolf, Birefly, and Trailbirder on arcade machines of the same side",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053306": {
+        "id": "4053306",
+        "series_id": "5",
+        "title": "Alpha Sapphire",
+        "desc": "During the Origami Bird Clash event, place Trailbirder and March Bird on arcade machines adjacent to each other",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053307": {
+        "id": "4053307",
+        "series_id": "5",
+        "title": "Easy As Pie",
+        "desc": "During the Origami Bird Clash event, trigger Origami Bird abilities #1 time(s) in a single match",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053308": {
+        "id": "4053308",
+        "series_id": "5",
+        "title": "Angry Origami Birds",
+        "desc": "During the Origami Bird Clash event, manually trigger bomb combos #1 time(s) in a single match",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053309": {
+        "id": "4053309",
+        "series_id": "5",
+        "title": "For the Birds",
+        "desc": "During the Origami Bird Clash event, achieve a Combat Power value of #1 in a single match",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053310": {
+        "id": "4053310",
+        "series_id": "5",
+        "title": "Origami Zoo",
+        "desc": "Obtain victory in all Open Challenges in the Origami Bird Clash Event",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053311": {
+        "id": "4053311",
+        "series_id": "5",
+        "title": "A Star is Born",
+        "desc": "Appoint the appropriate performers on the stage of {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053312": {
+        "id": "4053312",
+        "series_id": "5",
+        "title": "Need for Speed",
+        "desc": "Park your car in the exclusive parking space at {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053313": {
+        "id": "4053313",
+        "series_id": "5",
+        "title": "Family Cinema",
+        "desc": "Use the projector on {TEXTJOIN#87} and invite the Express Crew to take a look",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053315": {
+        "id": "4053315",
+        "series_id": "5",
+        "title": "Eighteen Lordly Trashcans",
+        "desc": "Complete all Trashcan of Trials's challenges on {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053316": {
+        "id": "4053316",
+        "series_id": "5",
+        "title": "LuckEx",
+        "desc": "Receive the package delivered by Aventurine on {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053317": {
+        "id": "4053317",
+        "series_id": "5",
+        "title": "Astral Express Night Live",
+        "desc": "Purchase Lil' Brother Hanu TV with golden capsule coins and install it in the coach of the Astral Express",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053318": {
+        "id": "4053318",
+        "series_id": "5",
+        "title": "The Invisible Guest",
+        "desc": "Transform into Brother Hanu and enter other Crew members' rooms",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053319": {
+        "id": "4053319",
+        "series_id": "5",
+        "title": "Self-Funded Merch",
+        "desc": "Obtain {NICKNAME}'s captain merchandise",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053320": {
+        "id": "4053320",
+        "series_id": "5",
+        "title": "Shadow Captain",
+        "desc": "Speak with {NICKNAME}'s Captain Billboard",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053321": {
+        "id": "4053321",
+        "series_id": "8",
+        "title": "Host's Choice",
+        "desc": "Before gaining ownership of {TEXTJOIN#87}, sprint and play in its swimming pool and get reprimanded",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053322": {
+        "id": "4053322",
+        "series_id": "5",
+        "title": "Beneath the Black Mirror",
+        "desc": "Activate surveillance in the control room and observe the hull of {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053323": {
+        "id": "4053323",
+        "series_id": "5",
+        "title": "Return to Glory",
+        "desc": "Rename the Radiant Feldspar and change its empennage's paint scheme",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053324": {
+        "id": "4053324",
+        "series_id": "5",
+        "title": "Invisible Cities",
+        "desc": "Use the telescope on {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053325": {
+        "id": "4053325",
+        "series_id": "5",
+        "title": "My Heart Will Go On",
+        "desc": "Look into the distance from the bow of {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053326": {
+        "id": "4053326",
+        "series_id": "5",
+        "title": "Utter Horror Story",
+        "desc": "Read all of Bella's Emotions with Clockwork",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053327": {
+        "id": "4053327",
+        "series_id": "5",
+        "title": "The Evil Within",
+        "desc": "Read all of Stefano's Happy Emotions with Clockwork",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053328": {
+        "id": "4053328",
+        "series_id": "5",
+        "title": "Gold Coins of Starlight",
+        "desc": "Collect all the golden capsule coins on Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053329": {
+        "id": "4053329",
+        "series_id": "5",
+        "title": "O Captain! My Captain!",
+        "desc": "Enter the Captain's quarters on {TEXTJOIN#87} for the first time",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053401": {
+        "id": "4053401",
+        "series_id": "5",
+        "title": "Sword in Stone, Soul in Sky",
+        "desc": "Complete Companion Mission \"Swords to Plowshares\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053402": {
+        "id": "4053402",
+        "series_id": "5",
+        "title": "Blade Speaks in Seasons",
+        "desc": "In \"Saga of Primaveral Blade,\" master any Swordplay that ranks above \"Innate Artistry\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053403": {
+        "id": "4053403",
+        "series_id": "5",
+        "title": "Flux of Iron Impales Peak of Heaven",
+        "desc": "In \"Saga of Primaveral Blade,\" achieve \"Bladecore Genesis\" for Swordart Ascension.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053404": {
+        "id": "4053404",
+        "series_id": "5",
+        "title": "Occam's Sheathed Razor",
+        "desc": "In \"Saga of Primaveral Blade,\" collect all possible story endings",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053405": {
+        "id": "4053405",
+        "series_id": "5",
+        "title": "Overpowered Yet Overcautious",
+        "desc": "In \"Saga of Primaveral Blade,\" train #1 of March 7th's stats above #2",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053407": {
+        "id": "4053407",
+        "series_id": "5",
+        "title": "Beyond the Plateau",
+        "desc": "In \"Saga of Primaveral Blade,\" increase training stats to #1 in a single round",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053408": {
+        "id": "4053408",
+        "series_id": "5",
+        "title": "Saga of Primaveral Tourism",
+        "desc": "In \"Saga of Primaveral Blade,\" schedule only Excursions and no Sword Training in Swordplay Sessions",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053409": {
+        "id": "4053409",
+        "series_id": "5",
+        "title": "All Sword and No Play Makes March a Dull Girl",
+        "desc": "In \"Saga of Primaveral Blade,\" train until March 7th's Mood becomes #1",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053410": {
+        "id": "4053410",
+        "series_id": "5",
+        "title": "Galactic Doppelbatter",
+        "desc": "Confront the \"Shapeless\" Doot-Doot disguised as you and prove that you are the real {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053411": {
+        "id": "4053411",
+        "series_id": "5",
+        "title": "Inter-Knot Commission",
+        "desc": "Help Shiratori navigate through the dark container to find the correct path",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053412": {
+        "id": "4053412",
+        "series_id": "5",
+        "title": "Xianzhou Tour Guide",
+        "desc": "Meet the Pepeshi and Intellitron tourist at the Xianzhou Luofu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053413": {
+        "id": "4053413",
+        "series_id": "5",
+        "title": "Of Five People, Three are Escapees",
+        "desc": "Find the fugitives hiding in The Shackling Prison and witness the Jailer's judgment",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053414": {
+        "id": "4053414",
+        "series_id": "5",
+        "title": "Terrific Mara-Struck and Where to Find Them",
+        "desc": "Find the long-lost A Study into the Mara-Struck document and find out why it went missing",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053415": {
+        "id": "4053415",
+        "series_id": "5",
+        "title": "Shadow Guard's Creed",
+        "desc": "When first looking down at The Shackling Prison from the upper level, choose to gaze into the abyss",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053416": {
+        "id": "4053416",
+        "series_id": "5",
+        "title": "Shadow Guard's Creed Rogue",
+        "desc": "When first looking down at The Shackling Prison from the upper level, choose to temporarily retreat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053417": {
+        "id": "4053417",
+        "series_id": "5",
+        "title": "Prison Visitation",
+        "desc": "Activate the cycrane and visit #1 prison cell(s) on the upper level as a guest",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053418": {
+        "id": "4053418",
+        "series_id": "5",
+        "title": "False Memories",
+        "desc": "Investigate the special stone door and reminisce on the \"Of five people, three must pay a price...\" scene",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053420": {
+        "id": "4053420",
+        "series_id": "5",
+        "title": "A Steal of a Deal",
+        "desc": "Complete a transaction with any member of the Arma Correctional Group in The Shackling Prison",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053421": {
+        "id": "4053421",
+        "series_id": "5",
+        "title": "This Cube, Our Lives",
+        "desc": "Complete all \"Hexanexus: Remake\" puzzles in The Shackling Prison",
         "hide_desc": "",
         "hide": true
     },
@@ -2699,7 +4635,7 @@
         "id": "4071001",
         "series_id": "7",
         "title": "Perpetual Freezer",
-        "desc": "Freeze 1 enemies for 3 turns in a row",
+        "desc": "Freeze 1 enemy for 3 turns in a row",
         "hide_desc": "",
         "hide": false
     },
@@ -3259,7 +5195,7 @@
         "id": "4072609",
         "series_id": "8",
         "title": "Full Metal Racket",
-        "desc": "Enter a battle by attacking a distant enemy with Natasha during exploration",
+        "desc": "Enter a battle by attacking a distant enemy or destroy a destructible object at a distance with Natasha during exploration",
         "hide_desc": "",
         "hide": true
     },
@@ -3371,7 +5307,7 @@
         "id": "4072901",
         "series_id": "7",
         "title": "In Utter Darkness",
-        "desc": "After the Starcrusher Swarm King uses \"Carapace of Nurtured Disaster\" for the first time, inflict Weakness Break on it",
+        "desc": "After the Starcrusher Swarm King unleashes \"Carapace of Nurtured Disaster,\" inflict Weakness Break on it",
         "hide_desc": "",
         "hide": true
     },
@@ -3419,9 +5355,353 @@
         "id": "4072907",
         "series_id": "7",
         "title": "Chain Peoplebreaker",
-        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for 4 consecutive turns",
+        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito, Ergo Sum, for 4 consecutive turns",
         "hide_desc": "",
         "hide": false
+    },
+    "4073001": {
+        "id": "4073001",
+        "series_id": "7",
+        "title": "Good Night Kitchen",
+        "desc": "Defeat at least 2 enemies using \"Kitchen Mishap\" from Dreamjolt Troupe's Beyond Overcooked in a single battle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073002": {
+        "id": "4073002",
+        "series_id": "7",
+        "title": "National Sensation",
+        "desc": "Switch 3 Dreamjolt Troupe's Mr. Domescreens to the Surprise Channel consecutively in a single battle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073003": {
+        "id": "4073003",
+        "series_id": "7",
+        "title": "Hazardous Waste",
+        "desc": "Have #1 allies get defeated by the Lordly Trashcan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073004": {
+        "id": "4073004",
+        "series_id": "7",
+        "title": "All Is Predestined",
+        "desc": "Inflict at least #1 stacks of Arcana on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073005": {
+        "id": "4073005",
+        "series_id": "7",
+        "title": "I... I... I'm So Sorry!",
+        "desc": "When Misha uses Ultimate \"G—Gonna Be Late!\", freeze at least #1 enemies with a single attack",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073006": {
+        "id": "4073006",
+        "series_id": "7",
+        "title": "Sparkling Sparkle",
+        "desc": "Gain #1 Skill Points using Sparkle's Ultimate \"The Hero with a Thousand Faces\" in a single battle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073007": {
+        "id": "4073007",
+        "series_id": "7",
+        "title": "Withdrawal from Sweets",
+        "desc": "Rebound #1 Soda Bottle(s) thrown by Dreamjolt Troupe's Sweet Gorilla with a Shield in a single battle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073008": {
+        "id": "4073008",
+        "series_id": "7",
+        "title": "Memento Mori",
+        "desc": "Defeat the Memory Zone meme \"Something Unto Death\" with only one character able to take action",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073009": {
+        "id": "4073009",
+        "series_id": "7",
+        "title": "Quiet Burning",
+        "desc": "During the battle against Stellaron Hunter Sam, Sam did not use \"DHGDR: Supernova Overload\" when their Secondary Combustion state is dispelled",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073010": {
+        "id": "4073010",
+        "series_id": "7",
+        "title": "Ignite My Heart, Inflame My Flesh",
+        "desc": "During the battle against Stellaron Hunter Sam, use Skill Points with the Combustion effect to reduce #1 allies' HP to below #2%",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073011": {
+        "id": "4073011",
+        "series_id": "7",
+        "title": "Boxcars",
+        "desc": "In the battle against Ten Stonehearts: Aventurine of Stratagems, cause at least #1 \"All or Nothings\" to simultaneously roll a #2 with a single attack",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073012": {
+        "id": "4073012",
+        "series_id": "7",
+        "title": "All My People, All My People...",
+        "desc": "In the battle against Ten Stonehearts: Aventurine of Stratagems, have #1 characters in the team win in the same round of Gamble",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073013": {
+        "id": "4073013",
+        "series_id": "7",
+        "title": "Lady Snowblood",
+        "desc": "In a single battle, use Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073014": {
+        "id": "4073014",
+        "series_id": "7",
+        "title": "Blind Stealing",
+        "desc": "In a single battle, when Blind Bet is at #1 point(s), use Aventurine's Ultimate \"Roulette Shark\" to obtain #2 Blind Bet point(s)",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073015": {
+        "id": "4073015",
+        "series_id": "7",
+        "title": "Purging Heatiness",
+        "desc": "Clear the full stacks of Obscure Blaze on the Memory Zone Meme \"Shell of Faded Rage\" during a Weakness Break",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073016": {
+        "id": "4073016",
+        "series_id": "7",
+        "title": "Fight Fire With Fire",
+        "desc": "In a single battle, defeat Memory Zone Meme \"Shell of Faded Rage\" without causing Weakness Break",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073017": {
+        "id": "4073017",
+        "series_id": "7",
+        "title": "Performance Evaluation",
+        "desc": "Use ally Aventurine to fight Senior Staff: Team Leader and deal the finishing blow",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073201": {
+        "id": "4073201",
+        "series_id": "7",
+        "title": "JACKPOT!",
+        "desc": "Make Dreamjolt Troupe's Fortune Seller produce \"Jackpot!\" once",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073202": {
+        "id": "4073202",
+        "series_id": "7",
+        "title": "Soap Opera",
+        "desc": "Have #1 character(s) enter the sleeping state when battling \"Tomorrow in Harmonious Chords\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073203": {
+        "id": "4073203",
+        "series_id": "7",
+        "title": "Passion Play",
+        "desc": "Use one character to take all DMG from \"Past Confined and Caged\"'s ability, \"Desmios Evangelion\" without being knocked down",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073204": {
+        "id": "4073204",
+        "series_id": "7",
+        "title": "Ensemble Piece",
+        "desc": "In the first phase of \"The Past, Present, and Eternal Show,\" cause #1 enemies to take turns to become Impresario for 1 time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073205": {
+        "id": "4073205",
+        "series_id": "7",
+        "title": "One-Act Play",
+        "desc": "In the second phase of \"The Past, Present, and Eternal Show,\" the enemy uses \"Dance for Synchrony\" at most once",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073206": {
+        "id": "4073206",
+        "series_id": "7",
+        "title": "Literary Fragment",
+        "desc": "After \"Present Inebriated in Revelry\" enters the Charge state, interrupt its Charging",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073207": {
+        "id": "4073207",
+        "series_id": "7",
+        "title": "Duration of a Song",
+        "desc": "Listen to Robin's singing",
+        "hide_desc": "※ In combat, view Robin for more than #1 seconds in Real-Time Combat View after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\"",
+        "hide": false
+    },
+    "4073208": {
+        "id": "4073208",
+        "series_id": "7",
+        "title": "Pied Piper of Hamelin",
+        "desc": "After using Robin's Technique \"Overture of Inebriation\" in exploration, attract #1 or more enemies to follow",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073209": {
+        "id": "4073209",
+        "series_id": "7",
+        "title": "Ultimate Dance Move!",
+        "desc": "In combat, use the Backup Dancer effect of {NICKNAME}: Harmony's Ultimate \"All-Out Footlight Parade\" to defeat an Elite Enemy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073210": {
+        "id": "4073210",
+        "series_id": "7",
+        "title": "Russian Roulette",
+        "desc": "In combat, ally Boothill accumulates a total of #1 stack(s) of Pocket Trickshot within 1 turn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073211": {
+        "id": "4073211",
+        "series_id": "7",
+        "title": "Workday Without God",
+        "desc": "Break all Echoes of Faded Dreams before The \"Harmonious Choir\" The Great Septimus uses \"Volteggiando\" or \"Tempestoso\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073212": {
+        "id": "4073212",
+        "series_id": "7",
+        "title": "And Then It Is Monday...",
+        "desc": "Accumulate enough Shield to completely block \"Embryo of Philosophy\" Sunday's ability, Im Anfang war die Tat",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073301": {
+        "id": "4073301",
+        "series_id": "7",
+        "title": "Planet of Festivities Special Team",
+        "desc": "Win 1 battle(s) with a team comprising Topaz & Numby, Dr. Ratio, Aventurine, and Jade",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073302": {
+        "id": "4073302",
+        "series_id": "7",
+        "title": "Save the Cat!",
+        "desc": "Win 1 battle(s) with a team comprising Silver Wolf, Blade, Kafka, and Firefly",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073303": {
+        "id": "4073303",
+        "series_id": "7",
+        "title": "The Contractor",
+        "desc": "In a single battle, reduce an ally's HP to #1 when they are under the Debt Collector effect from Jade's Skill",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073304": {
+        "id": "4073304",
+        "series_id": "7",
+        "title": "Go, Bla— SAM",
+        "desc": "Use ally Firefly in combat against boss Kafka and be Dominated by her",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073305": {
+        "id": "4073305",
+        "series_id": "7",
+        "title": "I Will... Set the Seas Ablaze!",
+        "desc": "In a single battle, use Fyrefly Type-IV: Deathstar Overload #1 time(s) before the Complete Combustion state ends while using SAM",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073306": {
+        "id": "4073306",
+        "series_id": "7",
+        "title": "Seeing Summer",
+        "desc": "Win 1 battle(s) with a team comprising Firefly and {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073401": {
+        "id": "4073401",
+        "series_id": "7",
+        "title": "Swordseeker",
+        "desc": "Win #1 battle(s) against the Lordly Trashcan with a team that has Yunli",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073402": {
+        "id": "4073402",
+        "series_id": "7",
+        "title": "Up the Heat, Out the Chill",
+        "desc": "Trigger Tingyun's Basic ATK and Jiaoqiu's Basic ATK voice lines at regular speed (×1) in the same battle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073403": {
+        "id": "4073403",
+        "series_id": "7",
+        "title": "No Words for the Moon",
+        "desc": "Before the Moon Rage countdown ends, all enemies on the field have their Moon Rage dispelled",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073404": {
+        "id": "4073404",
+        "series_id": "7",
+        "title": "Ain't Nothing to Fear",
+        "desc": "In a single battle, dispel all the \"Terror Grip\" states inflicted by Howling Casket on your team's characters",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073405": {
+        "id": "4073405",
+        "series_id": "7",
+        "title": "Frankenstein's Dog",
+        "desc": "Howling Casket knocks down an allied character that is afflicted with Terrified",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073406": {
+        "id": "4073406",
+        "series_id": "7",
+        "title": "Trivia Night",
+        "desc": "Use March 7th (The Hunt)'s Skill, \"Master, It's Tea Time!\", on #1 different characters",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073407": {
+        "id": "4073407",
+        "series_id": "7",
+        "title": "This Is the Real Deal!",
+        "desc": "In a single battle, trigger mung bean soda to appear when March 7th (The Hunt) uses her Skill, \"Master, It's Tea Time!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073408": {
+        "id": "4073408",
+        "series_id": "7",
+        "title": "Misandao",
+        "desc": "In a single battle, have Yunli trigger \"Intuit: Cull\" for #1 time(s)",
+        "hide_desc": "",
+        "hide": true
     },
     "4080101": {
         "id": "4080101",
@@ -3460,7 +5740,7 @@
         "series_id": "8",
         "title": "Diogenes' Utopia",
         "desc": "See what Belobog is famous for!",
-        "hide_desc": "※ You've obtained every useful prop in the trash cans!",
+        "hide_desc": "※ You've obtained every useful prop in the trashcans!",
         "hide": false
     },
     "4080302": {
@@ -3514,7 +5794,7 @@
     "4080403": {
         "id": "4080403",
         "series_id": "4",
-        "title": "Non-pulp Fiction",
+        "title": "Non-Pulp Fiction",
         "desc": "Collect 20 readable item(s) in Belobog",
         "hide_desc": "",
         "hide": false
@@ -3811,7 +6091,7 @@
         "id": "4082802",
         "series_id": "8",
         "title": "Meta-Guardians of the Galaxy",
-        "desc": "Win 1 battles with a team comprising Argenti and {NICKNAME}",
+        "desc": "Win 1 battle with a team comprising Argenti and {NICKNAME}",
         "hide_desc": "",
         "hide": true
     },
@@ -3844,6 +6124,102 @@
         "series_id": "8",
         "title": "Mission Impossible?",
         "desc": "Defeat Phantylia with Huohuo's Basic ATK \"Banner: Stormcaller\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083001": {
+        "id": "4083001",
+        "series_id": "8",
+        "title": "Friction, Friction",
+        "desc": "Traverse the same Bubble Bridge multiple times using the Dreamwalker ability",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083002": {
+        "id": "4083002",
+        "series_id": "8",
+        "title": "Parallax",
+        "desc": "Interact with the Dream's Eye #2 or more times within #1 minutes",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083003": {
+        "id": "4083003",
+        "series_id": "8",
+        "title": "Why Do Birds Fly?",
+        "desc": "Interact with the bird-shaped device controlling Dream Modules #2 or more times within #1 minutes",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083004": {
+        "id": "4083004",
+        "series_id": "8",
+        "title": "Penrose Triangle",
+        "desc": "Adjust your perspective and form the Penrose Triangle at the Dream's Edge",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083006": {
+        "id": "4083006",
+        "series_id": "8",
+        "title": "Rules Are Made to Be Broken...",
+        "desc": "Violate traffic rules and get hit by a vehicle in Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083007": {
+        "id": "4083007",
+        "series_id": "8",
+        "title": "Bill — Board",
+        "desc": "Make a Penacony billboard get hit by a vehicle",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083008": {
+        "id": "4083008",
+        "series_id": "8",
+        "title": "Truth Must Circulate Like Currency",
+        "desc": "Take part in #1 match(es) in Support Assist using Dr. Ratio",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083009": {
+        "id": "4083009",
+        "series_id": "7",
+        "title": "Divine Judgment Does Not Discriminate",
+        "desc": "During exploration, use Acheron's Technique \"Quadrivalent Ascendance\" to defeat #1 enemies consecutively",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083010": {
+        "id": "4083010",
+        "series_id": "8",
+        "title": "Why Is the Origami Bird So Huge?",
+        "desc": "Yank out the Origami Big Bird at Dewlight Pavilion",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4083202": {
+        "id": "4083202",
+        "series_id": "8",
+        "title": "Think Thrice Before Acts",
+        "desc": "After placing Bubble Bridge on the Dream Module, move the Dream Module away without passing through the Bubble Bridge",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083203": {
+        "id": "4083203",
+        "series_id": "8",
+        "title": "Going Dutch",
+        "desc": "※ In the same battle, trigger Aventurine's \"Skill 1\" voice line and Boothill's \"Battle Begins: Weakness Break\" voice line",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083301": {
+        "id": "4083301",
+        "series_id": "8",
+        "title": "Guest's Choice",
+        "desc": "After gaining ownership of {TEXTJOIN#87}, sprint and play in its swimming pool",
         "hide_desc": "",
         "hide": true
     },
@@ -4274,7 +6650,7 @@
     "4092350": {
         "id": "4092350",
         "series_id": "9",
-        "title": "If I Can Stop One Heart From Breaking",
+        "title": "If I Can Save One Heart From Cracking",
         "desc": "Clear Simulated Universe at difficulty 2 or higher without breaking any destructible objects",
         "hide_desc": "",
         "hide": true
@@ -4323,7 +6699,7 @@
         "id": "4092602",
         "series_id": "9",
         "title": "The Hunter Games",
-        "desc": "In Simulated Universe: Swarm Disaster, capture 8 Trotters through battling in the same plane while following the Path of The Hunt",
+        "desc": "In Simulated Universe: Swarm Disaster, capture more than 8 Trotters through combat in the same plane while following the Path of The Hunt",
         "hide_desc": "",
         "hide": true
     },
@@ -4611,7 +6987,7 @@
         "id": "4092638",
         "series_id": "9",
         "title": "Nuke Them From Orbit",
-        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty V",
+        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty 5",
         "hide_desc": "",
         "hide": false
     },
@@ -4715,7 +7091,7 @@
         "id": "4092911",
         "series_id": "9",
         "title": "Pacifica Is Still Pacifica",
-        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) occurrence.",
+        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheat Code (II) Occurrence.",
         "hide_desc": "",
         "hide": true
     },
@@ -4723,7 +7099,7 @@
         "id": "4092912",
         "series_id": "9",
         "title": "Class-D Personnel",
-        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) occurrence",
+        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) Occurrence",
         "hide_desc": "",
         "hide": true
     },
@@ -4739,7 +7115,7 @@
         "id": "4092914",
         "series_id": "9",
         "title": "Tau Zero",
-        "desc": "When clearing Simulated Universe: Gold and Gears, complete occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
+        "desc": "When clearing Simulated Universe: Gold and Gears, complete Occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
         "hide_desc": "",
         "hide": false
     },
@@ -4755,7 +7131,7 @@
         "id": "4092916",
         "series_id": "9",
         "title": "When Pigs Pry",
-        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) using Custom Dice: Trotter Extrapolation",
+        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) in combat using Custom Dice: Trotter Extrapolation",
         "hide_desc": "",
         "hide": false
     },
@@ -4859,7 +7235,7 @@
         "id": "4092929",
         "series_id": "9",
         "title": "XK-Class Scenario",
-        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V",
+        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty 5",
         "hide_desc": "",
         "hide": true
     },
@@ -4923,7 +7299,7 @@
         "id": "4092937",
         "series_id": "9",
         "title": "Gloomy Blues",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty III or higher)",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty 3 or higher)",
         "hide_desc": "",
         "hide": true
     },

@@ -111,14 +111,53 @@
         "1217": [
             "Huohuo"
         ],
+        "1218": [
+            "Jiaoqiu"
+        ],
+        "1221": [
+            "Yunli"
+        ],
+        "1224": [
+            "March 7th"
+        ],
+        "1301": [
+            "Gallagher"
+        ],
         "1302": [
             "Argenti"
         ],
         "1303": [
             "Ruan Mei"
         ],
+        "1304": [
+            "Aventurine"
+        ],
         "1305": [
             "Dr. Ratio"
+        ],
+        "1306": [
+            "Sparkle"
+        ],
+        "1307": [
+            "Black Swan"
+        ],
+        "1308": [
+            "Acheron"
+        ],
+        "1309": [
+            "Robin"
+        ],
+        "1310": [
+            "Firefly"
+        ],
+        "1312": [
+            "Misha"
+        ],
+        "1314": [
+            "Jade"
+        ],
+        "1315": [
+            "Boothill"
         ],
         "8001": [
             "{NICKNAME}"
@@ -130,6 +169,12 @@
             "{NICKNAME}"
         ],
         "8004": [
+            "{NICKNAME}"
+        ],
+        "8005": [
+            "{NICKNAME}"
+        ],
+        "8006": [
             "{NICKNAME}"
         ]
     },
@@ -302,11 +347,50 @@
         "21034": [
             "Hôm Nay Là Ngày Yên Lành"
         ],
+        "21035": [
+            "Đâu Là Thật?"
+        ],
+        "21036": [
+            "Chuyến Thám Hiểm Thị Trấn Mộng Đẹp"
+        ],
+        "21037": [
+            "Người Chiến Thắng Cuối Cùng"
+        ],
+        "21038": [
+            "Ở Nơi Xa Ngọn Lửa"
+        ],
+        "21039": [
+            "Dây Thêu Dệt Vận Mệnh"
+        ],
+        "21040": [
+            "Ngày Ngân Hà Sụp Đổ"
+        ],
+        "21041": [
+            "Vai Diễn Bắt Đầu"
+        ],
+        "21042": [
+            "Ước Hẹn Khắc Ghi"
+        ],
+        "21043": [
+            "Buổi Hòa Nhạc Hai Người"
+        ],
+        "21044": [
+            "Vũ Điệu Vô Biên"
+        ],
+        "21045": [
+            "Sau Sự Im Lặng Hài Hòa"
+        ],
+        "21046": [
+            "Tuổi Hoa Chờ Nở Rộ"
+        ],
         "22000": [
             "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ"
         ],
         "22001": [
             "Hi, Tôi Ở Đây"
+        ],
+        "22002": [
+            "Vì Hành Trình Ngày Mai"
         ],
         "23000": [
             "Chuyến Tàu Đêm Trên Dải Ngân Hà"
@@ -371,6 +455,36 @@
         "23020": [
             "Lễ Rửa Tội Thuần Khiết"
         ],
+        "23021": [
+            "Trò Đùa Trần Thế"
+        ],
+        "23022": [
+            "Hun Đúc Ký Ức Thời Gian"
+        ],
+        "23023": [
+            "Vận Mệnh Chưa Từng Công Bằng"
+        ],
+        "23024": [
+            "Bước Theo Bến Bờ Thời Gian"
+        ],
+        "23025": [
+            "Giấc Mộng Sẽ Đi Về Đâu"
+        ],
+        "23026": [
+            "Sắc Đêm Rực Sáng"
+        ],
+        "23027": [
+            "Hướng Đến Sinh Mệnh Thứ Hai"
+        ],
+        "23028": [
+            "Hi Vọng Là Vô Giá"
+        ],
+        "23029": [
+            "Vô Số Mùa Xuân Ấy"
+        ],
+        "23030": [
+            "Điệu Múa Dưới Hoàng Hôn"
+        ],
         "24000": [
             "Sự Sụp Đổ Của Aeon"
         ],
@@ -382,6 +496,9 @@
         ],
         "24003": [
             "Một Mình Chữa Trị"
+        ],
+        "24004": [
+            "Ngoại Suy Vô Tận"
         ]
     },
     "relic_sets": {
@@ -433,6 +550,18 @@
         "116": [
             "Tù Nhân Ngục Tối"
         ],
+        "117": [
+            "Tiên Phong Trong Nước Chết"
+        ],
+        "118": [
+            "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+        ],
+        "119": [
+            "Thiết Kỵ Diệt Trừ Tai Họa"
+        ],
+        "120": [
+            "Dũng Khí Ngút Trời"
+        ],
         "301": [
             "Trạm Phong Ấn Không Gian"
         ],
@@ -468,6 +597,18 @@
         ],
         "312": [
             "Penacony, Vùng Đất Của Những Giấc Mơ"
+        ],
+        "313": [
+            "Hành Tinh Vô Chủ Sigonia"
+        ],
+        "314": [
+            "Izumo Hiện Thế Và Thần Quốc Cõi Trời"
+        ],
+        "315": [
+            "Duran - Vương Triều Sói Hoang"
+        ],
+        "316": [
+            "Cung Điện Rèn Đúc Kiếp Hỏa Liên Đăng"
         ]
     }
 }

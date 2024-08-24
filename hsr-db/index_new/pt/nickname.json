@@ -111,14 +111,53 @@
         "1217": [
             "Huohuo"
         ],
+        "1218": [
+            "Jiaoqiu"
+        ],
+        "1221": [
+            "Yunli"
+        ],
+        "1224": [
+            "7 de Março"
+        ],
+        "1301": [
+            "Gallagher"
+        ],
         "1302": [
             "Argenti"
         ],
         "1303": [
             "Ruan Mei"
         ],
+        "1304": [
+            "Aventurine"
+        ],
         "1305": [
             "Dr. Ratio"
+        ],
+        "1306": [
+            "Sparkle"
+        ],
+        "1307": [
+            "Cisne Negro"
+        ],
+        "1308": [
+            "Acheron"
+        ],
+        "1309": [
+            "Robin"
+        ],
+        "1310": [
+            "Vaga-lume"
+        ],
+        "1312": [
+            "Misha"
+        ],
+        "1314": [
+            "Jade"
+        ],
+        "1315": [
+            "Boothill"
         ],
         "8001": [
             "{NICKNAME}"
@@ -130,6 +169,12 @@
             "{NICKNAME}"
         ],
         "8004": [
+            "{NICKNAME}"
+        ],
+        "8005": [
+            "{NICKNAME}"
+        ],
+        "8006": [
             "{NICKNAME}"
         ]
     },
@@ -302,11 +347,50 @@
         "21034": [
             "Hoje é Mais um Dia de Paz"
         ],
+        "21035": [
+            "O Que É Real?"
+        ],
+        "21036": [
+            "Aventura de Sonhópolis"
+        ],
+        "21037": [
+            "O Último Vencedor"
+        ],
+        "21038": [
+            "Chamas Distantes"
+        ],
+        "21039": [
+            "Fios Forjados do Destino"
+        ],
+        "21040": [
+            "O Dia em que o Cosmos Caiu"
+        ],
+        "21041": [
+            "É Hora do Show"
+        ],
+        "21042": [
+            "Promessa Indelével"
+        ],
+        "21043": [
+            "Concerto para Dois"
+        ],
+        "21044": [
+            "Dança Ilimitada"
+        ],
+        "21045": [
+            "Depois que a Harmonia se Dissipa"
+        ],
+        "21046": [
+            "Prestes a Florescer"
+        ],
         "22000": [
             "Antes do Início da Missão do Tutorial"
         ],
         "22001": [
             "Ei, Estou Aqui"
+        ],
+        "22002": [
+            "Pela Jornada do Amanhã"
         ],
         "23000": [
             "Noite na Via Láctea"
@@ -371,6 +455,36 @@
         "23020": [
             "O Batismo de Pensamento Puro"
         ],
+        "23021": [
+            "Fuga Terrena"
+        ],
+        "23022": [
+            "Recordação Reforjada"
+        ],
+        "23023": [
+            "Destino Inerentemente Injusto"
+        ],
+        "23024": [
+            "Ao Longo da Margem Transitória"
+        ],
+        "23025": [
+            "Onde os Sonhos Deveriam Repousar"
+        ],
+        "23026": [
+            "Luzes Noturnas"
+        ],
+        "23027": [
+            "Velejando em Direção a uma Segunda Vida"
+        ],
+        "23028": [
+            "A Esperança é Inestimável"
+        ],
+        "23029": [
+            "Aquelas Incontáveis Primaveras"
+        ],
+        "23030": [
+            "Dança ao Pôr do Sol"
+        ],
         "24000": [
             "Na Queda de Um Aeon"
         ],
@@ -382,6 +496,9 @@
         ],
         "24003": [
             "Cura Solitária"
+        ],
+        "24004": [
+            "Cálculo Ininterrupto"
         ]
     },
     "relic_sets": {
@@ -433,6 +550,18 @@
         "116": [
             "Prisioneiro em Confinamento Profundo"
         ],
+        "117": [
+            "Mergulhador Pioneiro de Águas Mortas"
+        ],
+        "118": [
+            "Relojoeiro, Mestre de Maquinações de Sonhos"
+        ],
+        "119": [
+            "Cavalaria de Ferro Contra a Praga"
+        ],
+        "120": [
+            "Coragem Como Vento e Nuvem"
+        ],
         "301": [
             "Estação de Vedação Espacial"
         ],
@@ -468,6 +597,18 @@
         ],
         "312": [
             "Penacony, Terra dos Sonhos"
+        ],
+        "313": [
+            "Sigonia, a Desolação Abandonada"
+        ],
+        "314": [
+            "Izumo Gensei e Reino Divino de Takama"
+        ],
+        "315": [
+            "Duran, Dinastia dos Lobos Errantes"
+        ],
+        "316": [
+            "Forja da Lanterna Kalpagni"
         ]
     }
 }
