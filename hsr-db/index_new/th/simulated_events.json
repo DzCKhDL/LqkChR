@@ -113,6 +113,12 @@
         "type": "ความลึกลับ",
         "image": "image/simulated_event/HoshinoKami_013.png"
     },
+    "20": {
+        "id": "20",
+        "name": "Polka Kakamond",
+        "type": "สมาชิกลำดับที่ 4 แห่งสมาคมอัจฉริยะ",
+        "image": "image/simulated_event/HoshinoKami_Herta6.png"
+    },
     "139": {
         "id": "139",
         "name": "จุดเริ่มต้น: องค์กรสันติภาพแห่งดวงดาว",
@@ -193,13 +199,13 @@
     },
     "152": {
         "id": "152",
-        "name": "ตัดสินอินทรีย์: \"ความคิดไม่ดีไม่งาม\" (1)",
+        "name": "ตัดสินอินทรีย์: \"ความคิดชั่วร้าย\" (1)",
         "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventDLC_07.png"
     },
     "153": {
         "id": "153",
-        "name": "ขยายการรับรู้: \"ความคิดไม่ดีไม่งาม\" (2)",
+        "name": "ขยายการรับรู้: \"ความคิดชั่วร้าย\" (2)",
         "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventDLC_07.png"
     },
@@ -241,7 +247,7 @@
     },
     "160": {
         "id": "160",
-        "name": "Garden of Recollection",
+        "name": "สวนประกายความทรงจำ",
         "type": "สมการ",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
     },
@@ -283,7 +289,7 @@
     },
     "167": {
         "id": "167",
-        "name": "แผนกนิเวศวิทยาดาราจักร",
+        "name": "ภาควิชานิเวศวิทยาดาราจักร",
         "type": "สมการ",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
     },
@@ -341,6 +347,522 @@
         "type": "สมการ",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
     },
+    "177": {
+        "id": "177",
+        "name": "จอมโจรมายา",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "178": {
+        "id": "178",
+        "name": "สุสานแห่งรอยแผลเป็น",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "179": {
+        "id": "179",
+        "name": "ร่างผนึกรวม",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "180": {
+        "id": "180",
+        "name": "ผู้กอบกู้ทางชีวภาพ",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "181": {
+        "id": "181",
+        "name": "นักวิชาการแห่งการทำลาย",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "182": {
+        "id": "182",
+        "name": "ย้ายเกราะห่อหุ้ม 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "183": {
+        "id": "183",
+        "name": "ย้ายเกราะห่อหุ้ม 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "184": {
+        "id": "184",
+        "name": "ย้ายเกราะห่อหุ้ม 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "185": {
+        "id": "185",
+        "name": "จดจำพวกเขา 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "186": {
+        "id": "186",
+        "name": "จดจำพวกเขา 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "187": {
+        "id": "187",
+        "name": "จดจำพวกเขา 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "188": {
+        "id": "188",
+        "name": "โลกไขลาน 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "189": {
+        "id": "189",
+        "name": "โลกไขลาน 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "190": {
+        "id": "190",
+        "name": "โลกไขลาน 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "191": {
+        "id": "191",
+        "name": "พิมพ์ความจริง 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "192": {
+        "id": "192",
+        "name": "พิมพ์ความจริง 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "193": {
+        "id": "193",
+        "name": "พิมพ์ความจริง 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "194": {
+        "id": "194",
+        "name": "คำลวงที่ยิ่งใหญ่ 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "195": {
+        "id": "195",
+        "name": "คำลวงที่ยิ่งใหญ่ 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "196": {
+        "id": "196",
+        "name": "คำลวงที่ยิ่งใหญ่ 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "197": {
+        "id": "197",
+        "name": "ดับเปลวเพลิง 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "198": {
+        "id": "198",
+        "name": "ดับเปลวเพลิง 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "199": {
+        "id": "199",
+        "name": "ดับเปลวเพลิง 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "200": {
+        "id": "200",
+        "name": "อัจฉริยะและคำทำนาย 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "201": {
+        "id": "201",
+        "name": "อัจฉริยะและคำทำนาย 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "202": {
+        "id": "202",
+        "name": "สภาแห่งอนาคต 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "203": {
+        "id": "203",
+        "name": "สภาแห่งอนาคต 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "204": {
+        "id": "204",
+        "name": "สภาแห่งอนาคต 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "205": {
+        "id": "205",
+        "name": "การล้มละลายรอบด้าน 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "206": {
+        "id": "206",
+        "name": "การล้มละลายรอบด้าน 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "207": {
+        "id": "207",
+        "name": "การล้มละลายรอบด้าน 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "208": {
+        "id": "208",
+        "name": "ไวรัสต้านสิ่งมีชีวิตอินทรีย์ 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "209": {
+        "id": "209",
+        "name": "ไวรัสต้านสิ่งมีชีวิตอินทรีย์ 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "210": {
+        "id": "210",
+        "name": "ไวรัสต้านสิ่งมีชีวิตอินทรีย์ 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "211": {
+        "id": "211",
+        "name": "ท่องไปใน Izmael 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "212": {
+        "id": "212",
+        "name": "ท่องไปใน Izmael 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "213": {
+        "id": "213",
+        "name": "ท่องไปใน Izmael 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "214": {
+        "id": "214",
+        "name": "การรับรู้ที่ล่มสลาย 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "215": {
+        "id": "215",
+        "name": "การรับรู้ที่ล่มสลาย 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "216": {
+        "id": "216",
+        "name": "การรับรู้ที่ล่มสลาย 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "217": {
+        "id": "217",
+        "name": "ผู้สอดส่องเบื้องบน 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "218": {
+        "id": "218",
+        "name": "ผู้สอดส่องเบื้องบน 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "219": {
+        "id": "219",
+        "name": "ผู้สอดส่องเบื้องบน 3",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "220": {
+        "id": "220",
+        "name": "ความคาดหวังของทวยเทพ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "221": {
+        "id": "221",
+        "name": "เขตแดนที่ไม่รู้จัก 1",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "222": {
+        "id": "222",
+        "name": "เขตแดนที่ไม่รู้จัก 2",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "ผู้ติดตามสัมพัทธนิยม",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "224": {
+        "id": "224",
+        "name": "แมลงดารา",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "225": {
+        "id": "225",
+        "name": "ยักษ์ไร้หัวใจ",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "226": {
+        "id": "226",
+        "name": "คนเก็บสมุนไพร",
+        "type": "สมการ",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "227": {
+        "id": "227",
+        "name": "ผีเสื้อเกาะบนกิ่งไม้",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "228": {
+        "id": "228",
+        "name": "ผีเสื้อโฉบผ่านหน้าต่าง",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "229": {
+        "id": "229",
+        "name": "ผีเสื้อจากไปอย่างเงียบงัน",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "230": {
+        "id": "230",
+        "name": "เมื่อผลชะตาร่วงหล่น",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "231": {
+        "id": "231",
+        "name": "เมื่อโชคชะตาหยุดนิ่ง",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "เมื่อโชคชะตาเผยการชี้นำ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "233": {
+        "id": "233",
+        "name": "บทเพลงรื่นเริงของฟ้าดิน",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "234": {
+        "id": "234",
+        "name": "บทเพลงรื่นเริงของสายฝนและหิมะ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "235": {
+        "id": "235",
+        "name": "บทเพลงระบำของทะเลและวายุ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "236": {
+        "id": "236",
+        "name": "เทพผู้ลวงทวยเทพ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "เทพผู้กลั่นแกล้งโลกมนุษย์",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "เทพผู้ตระเวนก่อความวุ่นวาย",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "239": {
+        "id": "239",
+        "name": "สงครามที่ไม่เคยปิดฉาก",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "240": {
+        "id": "240",
+        "name": "สงครามที่ยังคุกรุ่น",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "241": {
+        "id": "241",
+        "name": "สงครามสิ้นเกียรติยศ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "242": {
+        "id": "242",
+        "name": "นิทานก่อนนอนสำหรับเด็ก",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "นิทานก่อนนอนเพื่อเตือนโลก",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "244": {
+        "id": "244",
+        "name": "นิทานก่อนนอนสู่บ้านเกิด",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "245": {
+        "id": "245",
+        "name": "นกยักษ์บดบังโลกา",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "246": {
+        "id": "246",
+        "name": "ปัญญาข้ามมหาสมุทร",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "247": {
+        "id": "247",
+        "name": "โอ้อวดบริวารผู้สมบูรณ์แบบ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "248": {
+        "id": "248",
+        "name": "สรรเสริญในปัญญา",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "249": {
+        "id": "249",
+        "name": "เสียงถอนหายใจอันเยือกเย็น",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "250": {
+        "id": "250",
+        "name": "ทอดถอนใจในคำร่ายพร",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "251": {
+        "id": "251",
+        "name": "การเดินขบวนของยักษ์",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "252": {
+        "id": "252",
+        "name": "ภารกิจของยักษ์",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "253": {
+        "id": "253",
+        "name": "ศัตรูตัวฉกาจของยักษ์",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "254": {
+        "id": "254",
+        "name": "คำทำนายแห่งทองคำ",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "255": {
+        "id": "255",
+        "name": "คำทำนายแห่งทองคำขาว",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "256": {
+        "id": "256",
+        "name": "คำทำนายแห่งเหล็ก",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "257": {
+        "id": "257",
+        "name": "กฎที่ผูกมัดสรรพสิ่ง",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "258": {
+        "id": "258",
+        "name": "กฎที่ผูกมัดคุณธรรมมนุษย์",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "259": {
+        "id": "259",
+        "name": "กฎที่ผูกมัดเทพเจ้า",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "260": {
+        "id": "260",
+        "name": "สิ่งที่หนักอึ้งที่สุด",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "261": {
+        "id": "261",
+        "name": "สิ่งที่ดื้อรั้นที่สุด",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "262": {
+        "id": "262",
+        "name": "สิ่งที่อ่อนโยนที่สุด",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
     "398": {
         "id": "398",
         "name": "แนวคิดของ Stephen Lloyd",
@@ -397,7 +919,7 @@
     },
     "10501": {
         "id": "10501",
-        "name": "The Cremator",
+        "name": "ผู้เผาผลาญ",
         "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
@@ -659,6 +1181,12 @@
         "type": "ซื้อขาย",
         "image": "image/simulated_event/HoshinoKami_Herta3.png"
     },
+    "110007": {
+        "id": "110007",
+        "name": "ร้านสมการของ Ruan Mei",
+        "type": "ซื้อขาย",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
     "110101": {
         "id": "110101",
         "name": "คนงานเหมืองเร่ร่อน",
@@ -685,7 +1213,7 @@
     },
     "110501": {
         "id": "110501",
-        "name": "The Cremator",
+        "name": "ผู้เผาผลาญ",
         "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
@@ -1481,12 +2009,6 @@
         "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
-    "390101": {
-        "id": "390101",
-        "name": "",
-        "type": "",
-        "image": "image/simulated_event/PicRogueEvent_Normal.png"
-    },
     "410101": {
         "id": "410101",
         "name": "คนงานเหมืองเร่ร่อน",
@@ -1513,7 +2035,7 @@
     },
     "410501": {
         "id": "410501",
-        "name": "The Cremator",
+        "name": "ผู้เผาผลาญ",
         "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
@@ -1670,6 +2192,12 @@
     "412801": {
         "id": "412801",
         "name": "ประสบการณ์ลอตเตอรี่คูณสอง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "412802": {
+        "id": "412802",
+        "name": "ประสบการณ์ซูเปอร์ลอตเตอรี่",
         "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
     },
@@ -1985,10 +2513,370 @@
         "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_17.png"
     },
-    "490701": {
-        "id": "490701",
-        "name": "ทดสอบ",
-        "type": "",
+    "421801": {
+        "id": "421801",
+        "name": "ความหมายไม่สอดคล้อง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Battle.png"
+    },
+    "421901": {
+        "id": "421901",
+        "name": "ขนมปังสับปะรด",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_19.png"
+    },
+    "422001": {
+        "id": "422001",
+        "name": "ลิงอย่างเช่นคุณ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_21.png"
+    },
+    "422101": {
+        "id": "422101",
+        "name": "ขยะซิมโฟนี",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_20.png"
+    },
+    "422201": {
+        "id": "422201",
+        "name": "พิธีตกปลา",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "422301": {
+        "id": "422301",
+        "name": "ลาวา",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422401": {
+        "id": "422401",
+        "name": "ลดราคาพิเศษ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422501": {
+        "id": "422501",
+        "name": "ชีวิตโลหะ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "422601": {
+        "id": "422601",
+        "name": "แต้มหนึ่งสีสัน",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_profiteer.png"
+    },
+    "422701": {
+        "id": "422701",
+        "name": "หน่วยสรรค์สร้าง",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "422801": {
+        "id": "422801",
+        "name": "ธนาคารกาลเวลา (I)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "422811": {
+        "id": "422811",
+        "name": "ธนาคารกาลเวลา (II)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "423001": {
+        "id": "423001",
+        "name": "สีแดงที่ชวนลุ่มหลง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "423101": {
+        "id": "423101",
+        "name": "การเลือกที่ยากเย็น (I)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423102": {
+        "id": "423102",
+        "name": "การเลือกที่ยากเย็น (II)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423501": {
+        "id": "423501",
+        "name": "ตลาดของมือสอง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "423601": {
+        "id": "423601",
+        "name": "ผลิตภัณฑ์คอลแลป",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Toy.png"
+    },
+    "424201": {
+        "id": "424201",
+        "name": "กลยุทธ์ทะเลสีคราม",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "424301": {
+        "id": "424301",
+        "name": "รายงานโดยส่วนใหญ่",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "424401": {
+        "id": "424401",
+        "name": "งานประพันธ์วิจิตร",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424501": {
+        "id": "424501",
+        "name": "วิหารสุดเงียบงัน",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "424601": {
+        "id": "424601",
+        "name": "อนาคตลวง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_11.png"
+    },
+    "424701": {
+        "id": "424701",
+        "name": "แฮ็กเกอร์กับกะลาสี",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_28.png"
+    },
+    "424801": {
+        "id": "424801",
+        "name": "ศึกย่านการค้าครั้งที่หนึ่ง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424901": {
+        "id": "424901",
+        "name": "ชีวิตดั่งพืชผัก (1)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424902": {
+        "id": "424902",
+        "name": "ชีวิตดั่งพืชผัก (2)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424903": {
+        "id": "424903",
+        "name": "ชีวิตดั่งพืชผัก (3)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "510004": {
+        "id": "510004",
+        "name": "Stephen",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/HoshinoKami_Herta4.png"
+    },
+    "510005": {
+        "id": "510005",
+        "name": "Ruan Mei",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
+    "519401": {
+        "id": "519401",
+        "name": "โลกพิกเซล: กลไกซ่อนเร้น",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Pixel.png"
+    },
+    "523801": {
+        "id": "523801",
+        "name": "ความเร็วและเครื่องยนต์",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_25.png"
+    },
+    "523901": {
+        "id": "523901",
+        "name": "จานเพาะเลี้ยง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_23.png"
+    },
+    "524001": {
+        "id": "524001",
+        "name": "ช่างซ่อมบำรุง (1)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524002": {
+        "id": "524002",
+        "name": "ช่างซ่อมบำรุง (2)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524101": {
+        "id": "524101",
+        "name": "เรือคนเขลา",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_26.png"
+    },
+    "625001": {
+        "id": "625001",
+        "name": "ผู้พึมพำ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625101": {
+        "id": "625101",
+        "name": "บริวารตัวปลอม",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625201": {
+        "id": "625201",
+        "name": "เครื่องดูดาว",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625301": {
+        "id": "625301",
+        "name": "ลูกเต๋า Dolos",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625401": {
+        "id": "625401",
+        "name": "กระจกลี้ภัย",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625501": {
+        "id": "625501",
+        "name": "เกณฑ์ความสำเร็จ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "625601": {
+        "id": "625601",
+        "name": "ข้อตกลงทุจริต",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625701": {
+        "id": "625701",
+        "name": "เสียงแห่งท้องทะเล",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625801": {
+        "id": "625801",
+        "name": "ผู้อธิษฐานที่เร่งรีบ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625901": {
+        "id": "625901",
+        "name": "กำเนิดวีรชน (I)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625902": {
+        "id": "625902",
+        "name": "กำเนิดวีรชน (II)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625903": {
+        "id": "625903",
+        "name": "กำเนิดวีรชน (III)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626001": {
+        "id": "626001",
+        "name": "แบ่งแยกชีวิต (I)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626002": {
+        "id": "626002",
+        "name": "แบ่งแยกชีวิต (II)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626101": {
+        "id": "626101",
+        "name": "เกมเดินหมาก",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "626201": {
+        "id": "626201",
+        "name": "โอกาสลงมือ",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626301": {
+        "id": "626301",
+        "name": "สังเวียนสิงโตยักษ์",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_35.png"
+    },
+    "626401": {
+        "id": "626401",
+        "name": "รวบรวมสิ่งแปลกปลอม",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "626501": {
+        "id": "626501",
+        "name": "ตาชั่งแห่งความปรารถนา",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626601": {
+        "id": "626601",
+        "name": "เรือบินสายไหม",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_38.png"
+    },
+    "626701": {
+        "id": "626701",
+        "name": "เส้นทางนักปราชญ์ 1",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626702": {
+        "id": "626702",
+        "name": "เส้นทางนักปราชญ์ 2",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626703": {
+        "id": "626703",
+        "name": "เส้นทางนักปราชญ์ 3",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626801": {
+        "id": "626801",
+        "name": "ภารกิจขนส่ง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626901": {
+        "id": "626901",
+        "name": "ประตูคู่เขาวงกต",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_37.png"
+    },
+    "627001": {
+        "id": "627001",
+        "name": "Cyrene",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_39.png"
     }
 }

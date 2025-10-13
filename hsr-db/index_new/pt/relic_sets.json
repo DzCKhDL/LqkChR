@@ -8,15 +8,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "HealRatioBase",
-                    "value": 0.1
-                }
+                { "type": "HealRatioBase", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/101.png",
-        "guide_overview": []
+        "icon": "icon/relic/101.png"
     },
     "102": {
         "id": "102",
@@ -27,20 +23,13 @@
         ],
         "properties": [
             [
-                {
-                    "type": "AttackAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "AttackAddedRatio", "value": 0.12 }
             ],
             [
-                {
-                    "type": "SpeedAddedRatio",
-                    "value": 0.06
-                }
+                { "type": "SpeedAddedRatio", "value": 0.06 }
             ]
         ],
-        "icon": "icon/relic/102.png",
-        "guide_overview": []
+        "icon": "icon/relic/102.png"
     },
     "103": {
         "id": "103",
@@ -51,15 +40,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "DefenceAddedRatio",
-                    "value": 0.15
-                }
+                { "type": "DefenceAddedRatio", "value": 0.15 }
             ],
             []
         ],
-        "icon": "icon/relic/103.png",
-        "guide_overview": []
+        "icon": "icon/relic/103.png"
     },
     "104": {
         "id": "104",
@@ -70,15 +55,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "IceAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "IceAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/104.png",
-        "guide_overview": []
+        "icon": "icon/relic/104.png"
     },
     "105": {
         "id": "105",
@@ -89,29 +70,24 @@
         ],
         "properties": [
             [
-                {
-                    "type": "PhysicalAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "PhysicalAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/105.png",
-        "guide_overview": []
+        "icon": "icon/relic/105.png"
     },
     "106": {
         "id": "106",
         "name": "Guarda da Neve Uivante",
         "desc": [
             "Reduz o Dano recebido em 8%.",
-            "No início da rodada, se os PV do usuário forem iguais ou inferiores a 50%, restaura PV igual a 8% de seus PV máximos e regenera 5 de Energia."
+            "No início da rodada, se a porcentagem dos PV do usuário for igual ou inferior a 50%, restaura PV igual a 8% de seus PV máximos e regenera 5 de Energia."
         ],
         "properties": [
             [],
             []
         ],
-        "icon": "icon/relic/106.png",
-        "guide_overview": []
+        "icon": "icon/relic/106.png"
     },
     "107": {
         "id": "107",
@@ -122,15 +98,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "FireAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "FireAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/107.png",
-        "guide_overview": []
+        "icon": "icon/relic/107.png"
     },
     "108": {
         "id": "108",
@@ -141,15 +113,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "QuantumAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "QuantumAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/108.png",
-        "guide_overview": []
+        "icon": "icon/relic/108.png"
     },
     "109": {
         "id": "109",
@@ -160,15 +128,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "ThunderAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "ThunderAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/109.png",
-        "guide_overview": []
+        "icon": "icon/relic/109.png"
     },
     "110": {
         "id": "110",
@@ -179,15 +143,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "WindAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "WindAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/110.png",
-        "guide_overview": []
+        "icon": "icon/relic/110.png"
     },
     "111": {
         "id": "111",
@@ -198,39 +158,28 @@
         ],
         "properties": [
             [
-                {
-                    "type": "BreakDamageAddedRatioBase",
-                    "value": 0.16
-                }
+                { "type": "BreakDamageAddedRatioBase", "value": 0.16 }
             ],
             [
-                {
-                    "type": "BreakDamageAddedRatioBase",
-                    "value": 0.16
-                }
+                { "type": "BreakDamageAddedRatioBase", "value": 0.16 }
             ]
         ],
-        "icon": "icon/relic/111.png",
-        "guide_overview": []
+        "icon": "icon/relic/111.png"
     },
     "112": {
         "id": "112",
         "name": "Andarilho do Deserto da Bandidagem",
         "desc": [
             "Aumenta o Dano Imaginário em 10%.",
-            "Ao atacar inimigos com penalidades, a Chance de CRIT do usuário aumenta em 10%, e seu Dano CRIT aumenta em 20% contra inimigos Aprisionados."
+            "Ao causar Dano a inimigos-alvo afligidos com penalidades, o usuário tem sua Chance de CRIT aumentada em 10%. E quando ele causa Dano a inimigos-alvo afligidos com Aprisionamento, sua Chance de CRIT aumenta em 20%."
         ],
         "properties": [
             [
-                {
-                    "type": "ImaginaryAddedRatio",
-                    "value": 0.1
-                }
+                { "type": "ImaginaryAddedRatio", "value": 0.1 }
             ],
             []
         ],
-        "icon": "icon/relic/112.png",
-        "guide_overview": []
+        "icon": "icon/relic/112.png"
     },
     "113": {
         "id": "113",
@@ -241,15 +190,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "HPAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "HPAddedRatio", "value": 0.12 }
             ],
             []
         ],
-        "icon": "icon/relic/113.png",
-        "guide_overview": []
+        "icon": "icon/relic/113.png"
     },
     "114": {
         "id": "114",
@@ -260,29 +205,24 @@
         ],
         "properties": [
             [
-                {
-                    "type": "SpeedAddedRatio",
-                    "value": 0.06
-                }
+                { "type": "SpeedAddedRatio", "value": 0.06 }
             ],
             []
         ],
-        "icon": "icon/relic/114.png",
-        "guide_overview": []
+        "icon": "icon/relic/114.png"
     },
     "115": {
         "id": "115",
         "name": "Grão-Duque em Brasas",
         "desc": [
             "Aumenta o Dano causado pelos Ataques Extras em 20%.",
-            "Quando o usuário usa Ataques Extras, aumenta o ATQ do usuário em 6% a cada vez que o Ataque Extra causa Dano. Este efeito pode ser acumulado até o máximo de 8 vez(es) e dura por 3 rodada(s). Este efeito é removido da próxima vez que o usuário utilizar um Ataque Extra."
+            "Quando o usuário usa um Ataque Extra, aumenta o ATQ do usuário em 6% a cada vez que o Ataque Extra causa Dano. Este efeito pode ser chegar até um máximo de 8 acúmulo(s) e dura por 3 rodada(s). Este efeito é removido na próxima vez que o usuário utilizar um Ataque Extra."
         ],
         "properties": [
             [],
             []
         ],
-        "icon": "icon/relic/115.png",
-        "guide_overview": []
+        "icon": "icon/relic/115.png"
     },
     "116": {
         "id": "116",
@@ -293,15 +233,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "AttackAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "AttackAddedRatio", "value": 0.12 }
             ],
             []
         ],
-        "icon": "icon/relic/116.png",
-        "guide_overview": []
+        "icon": "icon/relic/116.png"
     },
     "117": {
         "id": "117",
@@ -313,14 +249,10 @@
         "properties": [
             [],
             [
-                {
-                    "type": "CriticalChanceBase",
-                    "value": 0.04
-                }
+                { "type": "CriticalChanceBase", "value": 0.04 }
             ]
         ],
-        "icon": "icon/relic/117.png",
-        "guide_overview": []
+        "icon": "icon/relic/117.png"
     },
     "118": {
         "id": "118",
@@ -331,15 +263,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "BreakDamageAddedRatioBase",
-                    "value": 0.16
-                }
+                { "type": "BreakDamageAddedRatioBase", "value": 0.16 }
             ],
             []
         ],
-        "icon": "icon/relic/118.png",
-        "guide_overview": []
+        "icon": "icon/relic/118.png"
     },
     "119": {
         "id": "119",
@@ -350,15 +278,11 @@
         ],
         "properties": [
             [
-                {
-                    "type": "BreakDamageAddedRatioBase",
-                    "value": 0.16
-                }
+                { "type": "BreakDamageAddedRatioBase", "value": 0.16 }
             ],
             []
         ],
-        "icon": "icon/relic/119.png",
-        "guide_overview": []
+        "icon": "icon/relic/119.png"
     },
     "120": {
         "id": "120",
@@ -369,20 +293,133 @@
         ],
         "properties": [
             [
-                {
-                    "type": "AttackAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "AttackAddedRatio", "value": 0.12 }
             ],
             [
-                {
-                    "type": "CriticalChanceBase",
-                    "value": 0.06
-                }
+                { "type": "CriticalChanceBase", "value": 0.06 }
             ]
         ],
-        "icon": "icon/relic/120.png",
-        "guide_overview": []
+        "icon": "icon/relic/120.png"
+    },
+    "121": {
+        "id": "121",
+        "name": "O Ordálio Revivido de Sacerdos",
+        "desc": [
+            "Aumenta a VEL em 6%.",
+            "Ao usar uma Perícia ou Perícia Suprema em um aliado-alvo, aumenta o Dano CRIT do alvo em 18%, durando por 2 rodada(s). Esse efeito pode acumular até 2 vez(es)."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/121.png"
+    },
+    "122": {
+        "id": "122",
+        "name": "Uma Erudita Perdida na Erudição",
+        "desc": [
+            "Aumenta a Chance de CRIT em 8%.",
+            "Aumenta o Dano causado pela Perícia e pela Perícia Suprema em 20%. Após usar a Perícia Suprema, aumenta adicionalmente o Dano causado pela próxima Perícia em 25%."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.08 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/122.png"
+    },
+    "123": {
+        "id": "123",
+        "name": "Herói da Melodia Triunfante",
+        "desc": [
+            "Aumenta o ATQ em 12%.",
+            "Enquanto o Memoespírito do usuário está em campo, aumenta a VEL do usuário em 6%. Quando o Memoespírito do usuário ataca, aumenta o Dano CRIT do usuário e do Memoespírito em 30% por 2 rodada(s)."
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.12 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/123.png"
+    },
+    "124": {
+        "id": "124",
+        "name": "Poetisa do Colapso Enlutada",
+        "desc": [
+            "Aumenta o Dano Quântico em 10%.",
+            "Reduz a VEL do usuário em 8%. Antes de entrar em batalha, se a VEL do usuário estiver abaixo de 110/95, aumenta a Chance de CRIT do usuário em 20%/32%. Este efeito também se aplica no Memoespírito do usuário."
+        ],
+        "properties": [
+            [
+                { "type": "QuantumAddedRatio", "value": 0.1 }
+            ],
+            [
+                { "type": "SpeedAddedRatio", "value": -0.08 }
+            ]
+        ],
+        "icon": "icon/relic/124.png"
+    },
+    "125": {
+        "id": "125",
+        "name": "Deusa Guerreira do Sol e do Trovão",
+        "desc": [
+            "Aumenta a VEL em 6%.",
+            "Quando o usuário ou seu Memoespírito fornecem cura aos aliados-alvo que não sejam eles mesmos, o usuário recebe \"Chuva Suave\", que dura 2 rodada(s) e só pode ser ativada uma vez por rodada. Enquanto o usuário estiver com \"Chuva Suave\", a VEL aumenta em 6% e o Dano CRIT de todos os aliados aumenta em 15%. Esse efeito não pode ser acumulado."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/125.png"
+    },
+    "126": {
+        "id": "126",
+        "name": "Capitão Navegante de Ondas",
+        "desc": [
+            "Aumenta o Dano CRIT em 16%.",
+            "Quando o usuário se torna o alvo da habilidade de outro aliado-alvo, ganha 1 acúmulo de \"Ajuda\", acumulando até 2 vez(es). Se tiver 2 acúmulo(s) de \"Ajuda\" quando o usuário usar sua Perícia Suprema, consome toda a \"Ajuda\" para aumentar o ATQ do usuário em 48% por 1 rodada(s)."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalDamageBase", "value": 0.16 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/126.png"
+    },
+    "127": {
+        "id": "127",
+        "name": "Portador da Reconstrução do Mundo",
+        "desc": [
+            "Aumenta a Chance de CRIT em 8%.",
+            "Depois que o usuário usar o ATQ Básico ou a Perícia, se o Memoespírito do usuário estiver em campo, aumenta os PV máximos do usuário e de seu Memoespírito em 24% e aumenta o Dano causado por todos os aliados em 15%, durando até o próximo uso de ATQ Básico ou Perícia do usuário."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.08 }
+            ],
+            []
+        ],
+        "icon": "icon/relic/127.png"
+    },
+    "128": {
+        "id": "128",
+        "name": "Ermitão Envolto em Si Mesmo",
+        "desc": [
+            "O Efeito de Escudo concedido é aumentado em 10%.",
+            "Aumenta o Efeito de Escudo fornecido pelo usuário em 12%. Quando um aliado-alvo tem um Efeito de Escudo fornecido pelo usuário, o Dano CRIT do aliado-alvo aumenta em 15%."
+        ],
+        "properties": [
+            [],
+            []
+        ],
+        "icon": "icon/relic/128.png"
     },
     "301": {
         "id": "301",
@@ -392,14 +429,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "AttackAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "AttackAddedRatio", "value": 0.12 }
             ]
         ],
-        "icon": "icon/relic/301.png",
-        "guide_overview": []
+        "icon": "icon/relic/301.png"
     },
     "302": {
         "id": "302",
@@ -409,14 +442,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "HPAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "HPAddedRatio", "value": 0.12 }
             ]
         ],
-        "icon": "icon/relic/302.png",
-        "guide_overview": []
+        "icon": "icon/relic/302.png"
     },
     "303": {
         "id": "303",
@@ -426,14 +455,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "StatusProbabilityBase",
-                    "value": 0.1
-                }
+                { "type": "StatusProbabilityBase", "value": 0.1 }
             ]
         ],
-        "icon": "icon/relic/303.png",
-        "guide_overview": []
+        "icon": "icon/relic/303.png"
     },
     "304": {
         "id": "304",
@@ -443,14 +468,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "DefenceAddedRatio",
-                    "value": 0.15
-                }
+                { "type": "DefenceAddedRatio", "value": 0.15 }
             ]
         ],
-        "icon": "icon/relic/304.png",
-        "guide_overview": []
+        "icon": "icon/relic/304.png"
     },
     "305": {
         "id": "305",
@@ -460,14 +481,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "CriticalDamageBase",
-                    "value": 0.16
-                }
+                { "type": "CriticalDamageBase", "value": 0.16 }
             ]
         ],
-        "icon": "icon/relic/305.png",
-        "guide_overview": []
+        "icon": "icon/relic/305.png"
     },
     "306": {
         "id": "306",
@@ -477,14 +494,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "CriticalChanceBase",
-                    "value": 0.08
-                }
+                { "type": "CriticalChanceBase", "value": 0.08 }
             ]
         ],
-        "icon": "icon/relic/306.png",
-        "guide_overview": []
+        "icon": "icon/relic/306.png"
     },
     "307": {
         "id": "307",
@@ -494,14 +507,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "BreakDamageAddedRatioBase",
-                    "value": 0.16
-                }
+                { "type": "BreakDamageAddedRatioBase", "value": 0.16 }
             ]
         ],
-        "icon": "icon/relic/307.png",
-        "guide_overview": []
+        "icon": "icon/relic/307.png"
     },
     "308": {
         "id": "308",
@@ -511,14 +520,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "SPRatioBase",
-                    "value": 0.05
-                }
+                { "type": "SPRatioBase", "value": 0.05 }
             ]
         ],
-        "icon": "icon/relic/308.png",
-        "guide_overview": []
+        "icon": "icon/relic/308.png"
     },
     "309": {
         "id": "309",
@@ -528,14 +533,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "CriticalChanceBase",
-                    "value": 0.08
-                }
+                { "type": "CriticalChanceBase", "value": 0.08 }
             ]
         ],
-        "icon": "icon/relic/309.png",
-        "guide_overview": []
+        "icon": "icon/relic/309.png"
     },
     "310": {
         "id": "310",
@@ -545,14 +546,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "StatusResistanceBase",
-                    "value": 0.1
-                }
+                { "type": "StatusResistanceBase", "value": 0.1 }
             ]
         ],
-        "icon": "icon/relic/310.png",
-        "guide_overview": []
+        "icon": "icon/relic/310.png"
     },
     "311": {
         "id": "311",
@@ -562,14 +559,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "AttackAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "AttackAddedRatio", "value": 0.12 }
             ]
         ],
-        "icon": "icon/relic/311.png",
-        "guide_overview": []
+        "icon": "icon/relic/311.png"
     },
     "312": {
         "id": "312",
@@ -579,14 +572,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "SPRatioBase",
-                    "value": 0.05
-                }
+                { "type": "SPRatioBase", "value": 0.05 }
             ]
         ],
-        "icon": "icon/relic/312.png",
-        "guide_overview": []
+        "icon": "icon/relic/312.png"
     },
     "313": {
         "id": "313",
@@ -596,14 +585,10 @@
         ],
         "properties": [
             [
-                {
-                    "type": "CriticalChanceBase",
-                    "value": 0.04
-                }
+                { "type": "CriticalChanceBase", "value": 0.04 }
             ]
         ],
-        "icon": "icon/relic/313.png",
-        "guide_overview": []
+        "icon": "icon/relic/313.png"
     },
     "314": {
         "id": "314",
@@ -613,26 +598,21 @@
         ],
         "properties": [
             [
-                {
-                    "type": "AttackAddedRatio",
-                    "value": 0.12
-                }
+                { "type": "AttackAddedRatio", "value": 0.12 }
             ]
         ],
-        "icon": "icon/relic/314.png",
-        "guide_overview": []
+        "icon": "icon/relic/314.png"
     },
     "315": {
         "id": "315",
         "name": "Duran, Dinastia dos Lobos Errantes",
         "desc": [
-            "Quando um aliado utilizam um Ataque Extra, o usuário recebe 1 acúmulo de Mérito, acumulando até 5 vez(es). Cada acúmulo de Mérito aumenta o Dano causado pelos Ataques Extras do usuário em 5%. Quando há 5 acúmulos, aumenta adicionalmente o Dano CRIT do usuário em 25%."
+            "Quando um aliado utiliza um Ataque Extra, o usuário recebe 1 acúmulo de Mérito, acumulando até 5 vez(es). Cada acúmulo de Mérito aumenta o Dano causado pelos Ataques Extras do usuário em 5%. Com 5 acúmulos, aumenta adicionalmente o Dano CRIT do usuário em 25%."
         ],
         "properties": [
             []
         ],
-        "icon": "icon/relic/315.png",
-        "guide_overview": []
+        "icon": "icon/relic/315.png"
     },
     "316": {
         "id": "316",
@@ -642,13 +622,85 @@
         ],
         "properties": [
             [
-                {
-                    "type": "SpeedAddedRatio",
-                    "value": 0.06
-                }
+                { "type": "SpeedAddedRatio", "value": 0.06 }
             ]
         ],
-        "icon": "icon/relic/316.png",
-        "guide_overview": []
+        "icon": "icon/relic/316.png"
+    },
+    "317": {
+        "id": "317",
+        "name": "Lushaka, os Mares Submersos",
+        "desc": [
+            "Aumenta a Taxa de Regeneração de Energia do usuário em 5%. Se o usuário não for o primeiro personagem na Formação de Equipe, então aumenta o ATQ do primeiro personagem na Formação de Equipe em 12%."
+        ],
+        "properties": [
+            [
+                { "type": "SPRatioBase", "value": 0.05 }
+            ]
+        ],
+        "icon": "icon/relic/317.png"
+    },
+    "318": {
+        "id": "318",
+        "name": "O Maravilhoso Parque Bananalândia",
+        "desc": [
+            "Aumenta o Dano CRIT do usuário em 16%. Quando um alvo invocado pelo usuário está em campo, o Dano CRIT aumenta adicionalmente em 32%."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalDamageBase", "value": 0.16 }
+            ]
+        ],
+        "icon": "icon/relic/318.png"
+    },
+    "319": {
+        "id": "319",
+        "name": "Domínio Sereno da Coleção de Ossos",
+        "desc": [
+            "Aumenta os PV máximos do usuário em 12%. Quando os PV máximos do usuário forem 5000 ou mais, aumenta o Dano CRIT do usuário e de seu Memoespírito em 28%."
+        ],
+        "properties": [
+            [
+                { "type": "HPAddedRatio", "value": 0.12 }
+            ]
+        ],
+        "icon": "icon/relic/319.png"
+    },
+    "320": {
+        "id": "320",
+        "name": "Árvore Gigante da Reflexão Arrebatadora",
+        "desc": [
+            "Aumenta a VEL do usuário em 6%. Quando a VEL do usuário é 135/180 ou maior, a Cura Realizada do usuário e de seu Memoespírito aumenta em 12%/20%."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/320.png"
+    },
+    "321": {
+        "id": "321",
+        "name": "Arcádia dos Sonhos Tecidos",
+        "desc": [
+            "Quando o número de aliados-alvo no campo não for igual a 4, para cada aliado-alvo adicional/ausente, aumenta o Dano causado pelo usuário e seu Memoespírito em 9%/12%, acumulando até 4/3 vez(es)."
+        ],
+        "properties": [
+            []
+        ],
+        "icon": "icon/relic/321.png"
+    },
+    "322": {
+        "id": "322",
+        "name": "Folia à Beira-Mar",
+        "desc": [
+            "Aumenta o ATQ do usuário em 12%. Quando o ATQ do usuário for maior ou igual a 2400/3600, aumenta o Dano Contínuo causado em 12%/24%."
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.12 }
+            ]
+        ],
+        "icon": "icon/relic/322.png"
     }
 }

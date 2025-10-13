@@ -452,12 +452,12 @@
     "10091": {
         "id": "10091",
         "title": "ATQ Básico",
-        "desc": "Use o ATQ Básico de um personagem para atacar um inimigo e recuperar Pontos de Perícia."
+        "desc": "Use o ATQ Básico de um personagem para atacar inimigos-alvo e recuperar Pontos de Perícia."
     },
     "10092": {
         "id": "10092",
         "title": "Pontos de Perícia",
-        "desc": "Pontos de Perícia são compartilhados pela equipe. Usar Perícias consumirá Pontos de Perícia. \nUsar o ATQ básico os recuperará.\nPara vencer, você precisa alocar os recursos com sabedoria!"
+        "desc": "Pontos de Perícia são compartilhados pela equipe. Usar Perícias consumirá Pontos de Perícia. \nUsar o ATQ Básico os recuperará.\nPara vencer, você precisa alocar os recursos com sabedoria!"
     },
     "10093": {
         "id": "10093",
@@ -502,7 +502,7 @@
     "10101": {
         "id": "10101",
         "title": "Quebra de Fraqueza: Gelo",
-        "desc": "Usar ataques de Gelo para ativar a Quebra de Fraqueza aplicará Congelamento.\nCongelamento impede que inimigos ajam e causa Dano de Gelo Contínuo."
+        "desc": "Usar ataques de Gelo para ativar a Quebra de Fraqueza aplicará \"Congelamento\".\nO \"Congelamento\" impede que inimigos ajam e causa Dano de Gelo Adicional."
     },
     "10102": {
         "id": "10102",
@@ -912,7 +912,7 @@
     "10184": {
         "id": "10184",
         "title": "Momento da Brasareia",
-        "desc": "O momento em que os vendos selvagens passam. Um dos doze Mundoníricos de Penacony.\nFerrovias, pastos, animais e vastas planícies que já foram destruídas por desastres.\nApós a sua reconstrução, se tornou um local de realização das \"Audições Festivas\", patrocinadas e promovidas pela Empresa FelizAlma."
+        "desc": "O momento em que os ventos selvagens sopram. Um dos doze Mundoníricos de Penacony.\nFerrovias, pastos, animais e vastas planícies que já foram destruídas por desastres.\nApós a sua reconstrução, se tornou um local de realização das \"Audições Festivas\", patrocinadas e promovidas pela Empresa FelizAlma."
     },
     "10185": {
         "id": "10185",
@@ -957,7 +957,432 @@
     "10206": {
         "id": "10206",
         "title": "Hoolay",
-        "desc": "Um oponente formidável do povo Xianzhouita. Um Senhor da Ninhada dos Borisins.\nDerrotado há 700 anos, ele foi mantido aprisionado na Prisão dos Grilhões, condenado ao sofrimento eterno."
+        "desc": "Um oponente formidável do povo Xianzhouita. Um Senhor da Ninhada dos Borisins.\nDerrotado há 700 anos, ele foi mantido encarcerado na Prisão dos Grilhões do Luofu do Xianzhou, condenado ao sofrimento eterno."
+    },
+    "10210": {
+        "id": "10210",
+        "title": "Yao Guang",
+        "desc": "O Árbitro-General do Yuque do Xianzhou, conhecido como Estrategista Vidente, supervisiona a disciplina militar.\nUm general não-marcial raramente visto pessoalmente na Aliança, constantemente operando das sombras e performando divinações para a marechal."
+    },
+    "10211": {
+        "id": "10211",
+        "title": "Barreira de Reflexão de Deca-Luz",
+        "desc": "A matriz de divinação construída pelo Yuque do Xianzhou.\nDizem que ela opera de forma similar à Matriz de Presciência Ultima, com escrituras computacionais e inspiração derivadas da Sabedoria Errante, Nous."
+    },
+    "10212": {
+        "id": "10212",
+        "title": "Cruzador Celeste",
+        "desc": "O local da Dança da Guerra Luminar do Luofu do Xianzhou, um lugar remanejado a partir de um jato de combate reformado.\nQuando os canhões cerimoniais rugem, os guerreiros convidados de diferentes planetas se reúnem para competir."
+    },
+    "10213": {
+        "id": "10213",
+        "title": "A Prisão dos Grilhões",
+        "desc": "O sistema carcerário utilizado na Aliança Xianzhou para aprisionar e suprimir criminosos.\nA Prisão dos Grilhões do Luofu do Xianzhou foi construída em uma parceria enter os Xianzhouitas e os Vidyadharas, enterrada profundamente nos domínios e sob as águas abissais."
+    },
+    "10214": {
+        "id": "10214",
+        "title": "Borisin",
+        "desc": "Os caçadores enlouquecidos das estrelas, os inimigos mortais da Aliança Xianzhou, e a facção mais poderosa e próspera dos Cidadãos da Abundância.\nOs Borisins, parecidos com grandes lobos bípedes, são brutais e ferozes, e respeitam apenas a força. Eles invadiram planetas, extorquiram recursos e destruíram inúmeras civilizações."
+    },
+    "10215": {
+        "id": "10215",
+        "title": "Batalha do Fanghu",
+        "desc": "O ponto de virada da Terceira Guerra dos Cidadãos da Abundância. Sob a luz do planeta demoníaco, as Abominações da Abundância, guiadas pelos Borisins, quase superaram o Fanghu do Xianzhou diversas vezes.\nGraças aos sacrifícios de incontáveis guerreiros do Xianzhou nas linhas de frente, o Telescópio Entre Nuvens conseguiu transmitir uma mensagem, convocando a Flecha do Destino e virando o jogo durante a batalha."
+    },
+    "10216": {
+        "id": "10216",
+        "title": "\"Lua Carmesim\"",
+        "desc": "A marca da praga que foi devorada e passada de geração em geração pelos gladiadores na cerimônia para determinar o Muhtar da Guerra dos Borisins. Um \"coração\" parecido com uma lua cheia sanguinária.\n\"Consuma sua presa para ficar mais forte.\" Esse é o segredo supremo da imortalidade dos Borisins, o motivo fundamental por trás de sua força duradoura."
+    },
+    "10217": {
+        "id": "10217",
+        "title": "\"Aureus Voador\"",
+        "desc": "O espírito concedido pela Flecha do Destino, uma besta de velocidade divina escondida sob a carne da \"Garra de Merlin\" Feixiao.\nOs olhos dos mortais não são capazes de perceber. Somente no momento fugaz em que os seres se encontram diante da morte, congelados no tempo, os olhares de meros humanos são capazes de testemunhar sua aparição.\nPara Feixiao, é a flecha que guia suas ações, a morte que persegue e devora sua vida, e a presa que ela busca através de sua existência."
+    },
+    "10220": {
+        "id": "10220",
+        "title": "Rappa",
+        "desc": "Uma garota peculiar, que aparece em Penacony como uma granada de luz na hora mais escura da noite, identificando-se como uma ninja e atribuindo tudo no mundo ao \"ninjutsu\".\nEla vaga pelas terras do sonho do mundo Mappô, lutando pela justiça com um foco único em caçar um vilão conhecido como Ninja do Mal Osaru."
+    },
+    "10221": {
+        "id": "10221",
+        "title": "Rappa",
+        "desc": "A Vigia da Galáxia, que se refere a si mesma como a Ninja Deslumbrante, se infectou com um vírus memético devido a um experimento atavístico, fazendo com que ela visse tudo no mundo como parte de um mundo \"ninja\".\nPara acertar as contas de um passado sangrento e triste, e também para seguir o caminho do Ninja Deslumbrante, ela se dedica a caçar o vilão \"Ninja do Mal Osaru\", conhecido pelos outros como Dr. Primitivo."
+    },
+    "10222": {
+        "id": "10222",
+        "title": "Dr. Primitivo",
+        "desc": "Membro nº 64 da Sociedade de Gênios, um cientista que cometeu inúmeros crimes contra a humanidade, de identidade desconhecida.\nEle causou um caos universal com seus experimentos atavísticos e, desde então, se tornou um inimigo dos Vigias da Galáxia. Seu paradeiro permanece desconhecido."
+    },
+    "10223": {
+        "id": "10223",
+        "title": "Floresta BuscaAtavi",
+        "desc": "Um grupo de pesquisa fanático composto por eruditos que reverenciam o Dr. Primitivo. Essa facção obsessiva de humanos e símios segue os passos de seu ídolo e tenta espalhar seus experimentos atavísticos pelo cosmos."
+    },
+    "10224": {
+        "id": "10224",
+        "title": "Faculdade da Academia Dobradura de Penacony",
+        "desc": "Famosa faculdade de Penacony, localizada no Momento de Sol. É o berço de talentos extraordinários que emana continuamente a luz e o calor do conhecimento dentro e fora do Mundonírico."
+    },
+    "10225": {
+        "id": "10225",
+        "title": "Sunday",
+        "desc": "O antigo líder da Família Carvalho e irmão mais velho de Robin.\nApós a agitação do Festival Carismonia ser contida, ele se despediu da Ordem e de sua terra natal, embarcando no Expresso Astral em busca de um novo caminho."
+    },
+    "10226": {
+        "id": "10226",
+        "title": "Tingyun",
+        "desc": "Amoraxadora da Comissão de Exploração do Céu do Luofu do Xianzhou.\nApós um encontro devastador com uma Senhora Devastadora, ela ficou quebrada tanto em corpo quanto em espírito, apenas para ser salva por um gênio, transformando infortúnio em bênção e retornando à luta."
+    },
+    "10227": {
+        "id": "10227",
+        "title": "\"Shiu\"",
+        "desc": "O robô coquetelista do Expresso Astral, que se considera engenhoso e engraçado.\nCriado há várias Eras de Âmbar, foi esquecido com o passar do tempo.\nAcabou sendo restaurado pelos Arquivos do Vazio depois que o Expresso partiu novamente."
+    },
+    "10228": {
+        "id": "10228",
+        "title": "Aglaea",
+        "desc": "A Herdeira de Chrysos de Okhema, a semidivindade do Romance, e a líder da Jornada de Perseguição às Chamas.\nComo uma tecelã, ela manuseia a agulha pessoalmente, reunindo heróis do mundo para embarcar novamente em uma árdua e longa jornada."
+    },
+    "10229": {
+        "id": "10229",
+        "title": "Tribbie, Trianne e Trinnon",
+        "desc": "As Herdeiras de Chrysos de Janusópolis, as semidivindades da Passagem e pequenas mensageiras e sacerdotisas de Okhema.\nAs três, com suas profecias, lideram os Herdeiros de Chrysos adiante, mas cada uma delas tem responsabilidades diferentes."
+    },
+    "10230": {
+        "id": "10230",
+        "title": "Mydei",
+        "desc": "Príncipe herdeiro de Castrum Kremnos, filho de Gorgo e um guerreiro valente como um leão.\nAinda que ele aparente ser orgulhoso e desmedido, ele valoriza e lealdade e demonstra compaixão pelo seu povo."
+    },
+    "10231": {
+        "id": "10231",
+        "title": "Castorice",
+        "desc": "A Donzela da Guerra de Aidonia e agente funerária de Okhema.\nSuportando a maldição conhecida como \"Toque da Morte\", qualquer vida que seus dedos toquem definha e retorna ao nada."
+    },
+    "10232": {
+        "id": "10232",
+        "title": "Phainon",
+        "desc": "O Herdeiro de Chrysos de Aedes Elysiae, um guerreiro de Okhema.\nUm jovem gentil e alegre com uma mente detalhista e uma busca pela perfeição em tudo o que faz."
+    },
+    "10233": {
+        "id": "10233",
+        "title": "Mem",
+        "desc": "Uma criatura misteriosa com pelagem rosa, aparentemente intimamente ligada com Amphoreus."
+    },
+    "10234": {
+        "id": "10234",
+        "title": "Áquila, Olho Crepuscular",
+        "desc": "O Titã do Céu.\nQuando os olhos de Áquila recaem sobre a terra, o mundo dá boas-vindas à luz, e quando os olhos do Áquila se fecham, o mundo mergulha nas trevas."
+    },
+    "10235": {
+        "id": "10235",
+        "title": "Georios, Pilar de Pedra",
+        "desc": "O Titã da Terra.\nTodas as cordilheiras já foram manifestações de Georios, que é o maior e mais benevolente entre os Titãs, e a proteção do mundo mortal."
+    },
+    "10236": {
+        "id": "10236",
+        "title": "Phagousa, Cálice da Abundância",
+        "desc": "O Titã do Oceano.\nPhagousa aprecia vagar em meio aos mortais, irrompendo por entre as ondas do oceano, nas turbulências do rios e nos cálices avinhados dos banquetes, trazendo música, dança e alegria."
+    },
+    "10237": {
+        "id": "10237",
+        "title": "Mnestia, Crisálida de Ouro",
+        "desc": "O Titã do Romance.\nMnestia e seus Titâneos buscam a beleza do mundo, tecendo-a em fios dourados para criar o romance da existência, concedendo aos habitantes de Amphoreus o presente do amor e da afeição."
+    },
+    "10238": {
+        "id": "10238",
+        "title": "Kephale, Trono dos Mundos",
+        "desc": "O Titã Sustenta-Mundo.\nKephale Recebeu das divindades o fardo da vida, e então, somente para legar um filete de luminosidade à humanidade, renunciou ao seu trono de grande potestade do mundo."
+    },
+    "10239": {
+        "id": "10239",
+        "title": "Cerces, Ramo da Fenda",
+        "desc": "O Titã da Razão.\nCerces se manifestou no mundo como uma grande árvore sagrada, permitindo que os humanos caminhassem ao seu lado, despertassem a iluminação e refletissem profundamente para obter conhecimento."
+    },
+    "10240": {
+        "id": "10240",
+        "title": "Zagreus, Moeda do Capricho",
+        "desc": "O Titã da Trapaça.\nSem a veleidade para exercer suas responsabilidades divinas, Zagreus sente prazer em criar contenda entre as divindades, enganando-as e criando todos os tipos de caos e desordens."
+    },
+    "10241": {
+        "id": "10241",
+        "title": "Nikador, Lança da Fúria",
+        "desc": "O Titã do Conflito.\nDeclarou guerra ao panteão, mergulhando o mundo em um conflito sem fim. Nas odes dos poetas, a lâmina divina da retribuição que brandia era capaz arrasar céu e terra com um único golpe."
+    },
+    "10242": {
+        "id": "10242",
+        "title": "Thanatos, Mão das Sombras",
+        "desc": "O Titã da Morte.\nQuando incontáveis almas não encontram nenhum lugar para descansar, então as marés do Rio das Almas avançam em direção à terra, e Thanatos direcionará sua embarcação para guiar os mortos na vida após a morte."
+    },
+    "10243": {
+        "id": "10243",
+        "title": "Oronyx, Véu da Noite Eterna",
+        "desc": "O Titã do Tempo.\nOronyx tece os fios do tempo, sustentando o passado, o presente e o futuro do mundo, garantindo o fluxo de todas as coisas."
+    },
+    "10244": {
+        "id": "10244",
+        "title": "Talanton, Balança da Justiça",
+        "desc": "O Titã da Lei.\nTalanton não permite nem o favoritismo, nem a injustiça, protegendo os tabus e os limites de Amphoreus enquanto determina a lógica e a lei para todas as coisas."
+    },
+    "10245": {
+        "id": "10245",
+        "title": "Janus, Portão da Infinidade",
+        "desc": "O Titã da Passagem.\nJanus conhece a existência e o destino de todos os caminhos. Governa não apenas as passagens pelas quais as pessoas atravessam, mas também as jornadas que vinculam seus destinos."
+    },
+    "10246": {
+        "id": "10246",
+        "title": "Titãs",
+        "desc": "Os Titãs de Amphoreus são as forças que sustentam os céus e a terra, os destinos de tempos antigos ao presente, e as regras que governam todas as coisas no mundo.\nMortais vivem em suas alegrias e sofrimentos. Conhecimento, guerra, amor, vida e morte estão intimamente interligados com sua autoridade divina."
+    },
+    "10247": {
+        "id": "10247",
+        "title": "Herdeiros de Chrysos",
+        "desc": "Dizem que a radiância divina de Kephale esmaeceu após oferecer sua própria Chama Primordial e deixar para trás o Oráculo da Criação.\nDepois, heróis imbuídos com um grande poder começaram a caminhar nesta terra. Eles carregam em suas veias o sangue dourado divino e são conhecidos como \"Herdeiros de Chrysos\"."
+    },
+    "10248": {
+        "id": "10248",
+        "title": "Semidivindades",
+        "desc": "Tribios assumiu a Chama Primordial de Janus, se tornando a primeira semidivindade.\nDesde então, muitos outros heróis dos Herdeiros de Chrysos passaram por testes, receberam a autoridade dos Titãs e se tornaram semidivindades, mantendo a ordem do mundo."
+    },
+    "10249": {
+        "id": "10249",
+        "title": "Okhema",
+        "desc": "A humanidade estabeleceu assentamentos nos pés de Kephale, dando à luz à predecessora de \"Okhema\".\nHoje, é tanto o santuário no final dos tempos e o ponto inicial da jornada da nova era."
+    },
+    "10250": {
+        "id": "10250",
+        "title": "Castrum Kremnos",
+        "desc": "Uma fortaleza móvel massiva, a pólis dos guerreiros que adoram Nikador.\nOs Kremnoanos se orgulham de lutar até a morte e são renomados por toda Amphoreus pela sua disciplina absoluta."
+    },
+    "10251": {
+        "id": "10251",
+        "title": "Abismo do Destino",
+        "desc": "Janusópolis, um santuário religioso transcendendo a geopolítica das pólis.\nAgora, apenas alguns templos permanecem de pé, e eles são conhecidos como \"Abismo do Destino\" ou \"Templo dos Três Destinos\"."
+    },
+    "10252": {
+        "id": "10252",
+        "title": "Maré Negra",
+        "desc": "A água que dissolve almas, a escuridão engolindo Amphoreus.\nA maré negra e suas criações são a causa direta da iminente destruição de Amphoreus."
+    },
+    "10253": {
+        "id": "10253",
+        "title": "Salteador de Chamas",
+        "desc": "Um mestre espadachim inominado que veio com a maré negra e está caçando as Chamas Primordiais dos Titãs. Ninguém conhece sua verdadeira identidade.\nSeu poder é incrível e sua habilidade com a espada é praticamente impecável."
+    },
+    "10254": {
+        "id": "10254",
+        "title": "Salteador de Chamas",
+        "desc": "Um mestre espadachim inominado que veio com a maré negra e está caçando as Chamas Primordiais dos Titãs. Ninguém conhece sua verdadeira identidade.\nLutou várias batalhas contra os heróis na armadilha montada dentro de Castrum Kremnos antes de finalmente sofrer a derrota. Seu paradeiro atual é desconhecido."
+    },
+    "10255": {
+        "id": "10255",
+        "title": "Bosque da Epifania",
+        "desc": "Uma estrutura parecida com um pátio, intercalada com jardins, construída ao redor da manifestação de Cerces e uma das principais instituições acadêmicas de Amphoreus.\nAtualmente, é uma pólis aliada de Okhema, e a líder em pesquisas sobre ocorrências misteriosas, como a maré negra e os Titãs."
+    },
+    "10256": {
+        "id": "10256",
+        "title": "Bosque da Epifania",
+        "desc": "Uma estrutura parecida com um pátio, intercalada com jardins, construída ao redor da manifestação de Cerces e uma das principais instituições acadêmicas de Amphoreus.\nFoi destruído em um ataque da maré negra."
+    },
+    "10257": {
+        "id": "10257",
+        "title": "Tribbie, Trianne e Trinnon",
+        "desc": "A Herdeira de Chrysos de Janusópolis, a semidivindade da \"Passagem\". Antigamente uma Donzela Sagrada tímida e bela, ela regrediu para a forma de uma criança. Esse foi o preço que pago pela Chama Primordial.\nTrianne se sacrificou no ataque do Salteador de Chamas. Sua alma se dissipou completamente, e ela se transformou em uma boneca que se parece exatamente com ela."
+    },
+    "10258": {
+        "id": "10258",
+        "title": "Mydei",
+        "desc": "O Herdeiro de Chrysos de Castrum Kremnos, a semidivindade do \"Conflito\". Ele também é filho de Gorgo e o último rei-divindade de Kremnos.\nEle liderou seu povo para se unir à grande obra da Perseguição às Chamas e depois retornou sozinho para casa, permanecendo firme na defesa contra a maré negra que rasga este mundo."
+    },
+    "10259": {
+        "id": "10259",
+        "title": "Hyacine",
+        "desc": "A Herdeira de Chrysos do Pátio do Crepúsculo, a descendente do Céu.\nEla tem uma disposição otimista e alegre e é uma boa ouvinte. Neste mundo instável e moribundo, ela faz o seu melhor para criar um lugar isolado de cura para os outros."
+    },
+    "10260": {
+        "id": "10260",
+        "title": "Cipher",
+        "desc": "A Herdeira de Chrysos de Dolos, a Semidivindade do \"Truque\". Ela há muito abandonou seu dever de Perseguição às Chamas e partiu da pólis sagrada.\nEla tem o poder de dominar uma velocidade divina, mas só a usa para roubar. Cheia de truques e conspirações, ela prefere viver sua própria boa vida do que assumir a vida de uma heroína."
+    },
+    "10261": {
+        "id": "10261",
+        "title": "Anaxa",
+        "desc": "O Herdeiro de Chrysos do Bosque da Epifania. Um dos Sete Sábios e o fundador do Nousporismo. Chamado por outros de \"blasfemo\" devido à sua insistência de que humanos e divindades são iguais.\nEle sobreviveu milagrosamente à calamidade no Bosque e a Chama Primordial do Titã da Razão atualmente reside em seu corpo."
+    },
+    "10262": {
+        "id": "10262",
+        "title": "Castorice",
+        "desc": "A Donzela da Guerra de Aidonia e a Semidivindade da \"Morte\". Como a mão esquerda de Thanatos, ela domina o poder de \"conceder a morte\".\nApós descobrir suas origens, ela superou o teste, unindo as mãos gêmeas da morte e garantindo o fluxo ordenado da vida e da morte no mundo."
+    },
+    "10263": {
+        "id": "10263",
+        "title": "Anaxa",
+        "desc": "O Herdeiro de Chrysos do Bosque da Epifania e a Semidivindade da \"Razão\". Um dos Sete Sábios e fundador do Nousporismo.\nEmbora tenha falecido há muito tempo durante a calamidade do Bosque, ele viajou ao lado de um Titã após sua morte, superando o teste e revelando a verdadeira natureza do mundo de Amphoreus."
+    },
+    "10264": {
+        "id": "10264",
+        "title": "Cipher",
+        "desc": "A Herdeira de Chrysos de Dolos e a Semidivindade da \"Trapaça\". Apesar de ter abandonado seu dever na Perseguição às Chamas, ela retornou silenciosamente à pólis sagrada.\nEla possui o poder de comandar uma velocidade divina, mas só a usa para roubar. Cheia de truques e métodos, ela prefere viver sua própria vida de maneira simples do que participar de uma jornada heroica."
+    },
+    "10265": {
+        "id": "10265",
+        "title": "Nebulaurora",
+        "desc": "O lugar mais próximo de Kephale, o Titã Sustenta-Mundo, em Okhema. É este lugar santo que serve como ponte entre os Herdeiros de Chrysos e os Titãs.\nMajestoso e reverenciado, é o local de reunião dos dignatários mais nobres de Okhema e o coração de seus assuntos políticos e culturais."
+    },
+    "10266": {
+        "id": "10266",
+        "title": "Pólis do Osso de Dragão",
+        "desc": "Styxia, a Pólis dos Dragões e das Ondas, agora está em ruínas.\nInúmeras almas perdidas permanecem incapazes de atravessar para a costa oposta, enquanto o Rio das Almas avança e nunca recua. Thanatos, cujo destino permanece desconhecido, está intimamente ligado a este lugar."
+    },
+    "10267": {
+        "id": "10267",
+        "title": "Seliose, Cavaleira do Trovão Diurno",
+        "desc": "A guerreira solitária que, segundo a lenda, desafiou o \"Olho Crepuscular\" e deu início à Jornada de Perseguição às Chamas da humanidade, também é considerada a ancestral dos Urianos atuais.\nSeu brilho era tão deslumbrante que se tornou o ponto central de todas as crônicas celestes de sua era."
+    },
+    "10268": {
+        "id": "10268",
+        "title": "Seliose, Cavaleira do Trovão Diurno",
+        "desc": "Nas lendas, uma guerreira solitária se ergueu contra o Olho Crepuscular. Incapaz de despertar seu povo da ignorância, perdeu toda a esperança nos Urianos.\nDeclarando juízo sobre seu povo, ela se fundiu com Áquila e agora repousa na Fortaleza Celeste."
+    },
+    "10269": {
+        "id": "10269",
+        "title": "\"Fortaleza do Domo\", Olho Crepuscular",
+        "desc": "A pólis nas nuvens, batizada em homenagem a um Titã e outrora lar de Áquila, observa o mundo do alto dos céus.\nMurais em seu interior refletem os céus mutáveis de Amphoreus, insinuando segredos há muito enterrados no brilho estelar."
+    },
+    "10270": {
+        "id": "10270",
+        "title": "Olho Crepuscular, Ruínas da Fortaleza das Nuvens Errantes",
+        "desc": "Após a queda de Áquila, a Fortaleza Celeste oscila à beira da ruína.\nSeus sistemas engasgam e falham, moribundos, quase todos destruídos."
+    },
+    "10271": {
+        "id": "10271",
+        "title": "Nebulaurora, Capela Desalumiada",
+        "desc": "O Santuário de Okhema, após a queda do Dispositivo do Alvorecer, está agora submerso na maré negra.\nO núcleo administrativo ainda se agarra ao funcionamento. Perto do salão do parlamento, um punhado de civis resiste ao lado dos guardas, lutando contra os monstros."
+    },
+    "10272": {
+        "id": "10272",
+        "title": "Okhema, Pólis do Crepúsculo Decaído",
+        "desc": "A pólis sagrada permanece em silêncio após a desativação do Dispositivo do Alvorecer. Seu povo, abalado pela reviravolta repentina, está tomado pelo medo e pela confusão.\nA Herdeira de Chrysos dos Céus os observa, protegendo a pólis com uma barreira prismática."
+    },
+    "10273": {
+        "id": "10273",
+        "title": "Áquila, Carma de Trovão Diurno",
+        "desc": "Após um confronto brutal, o \"Olho Crepuscular\", há muito devorado pela maré negra, alça voo mais uma vez sob a vontade de uma alma escolhida.\nEle abandonou a glória dos céus. O que agora se ergue é uma divindade imponente, governada pela ira."
+    },
+    "10274": {
+        "id": "10274",
+        "title": "Aedes Elysiae",
+        "desc": "Aedes Elysiae, uma pequena vila cercada pelo Véu da Noite Eterna e destruída pela maré negra.\nO herói saiu das ondas douradas de trigo de sua terra natal e nunca mais olhou para trás."
+    },
+    "10275": {
+        "id": "10275",
+        "title": "Labirinto das Memórias",
+        "desc": "A vila das fadas é um pequeno mundo escondido nas florestas densas de Aedes Elysiae.\nDizem que apenas crianças puras e inocentes podem entrar."
+    },
+    "10276": {
+        "id": "10276",
+        "title": "Lygus",
+        "desc": "O operador da extrapolação Amphoreana que se autodenomina o Theoros.\nEle trilha o Caminho da Erudição, mas pretende gerar Destruição."
+    },
+    "10277": {
+        "id": "10277",
+        "title": "Túmulo de Ferro",
+        "desc": "Um Emanador da Destruição, um dos Senhores Devastadores. Foi criado para incinerar as raízes dos Caminhos e, em seguida, queimar o próprio cosmos.\nO Túmulo de Ferro é o destruidor da Erudição."
+    },
+    "10278": {
+        "id": "10278",
+        "title": "Phainon",
+        "desc": "O Herdeiro de Chrysos vindo de Aedes Elysiae, um guerreiro de Okhema e a Semidivindade do Sustenta-Mundo segundo a profecia.\nSeu nome experimental é \"NeiKos496\". Conforme sua jornada tortuosa o levou ao fim do mundo, a verdade cruel o expôs ao olhar da Destruição."
+    },
+    "10279": {
+        "id": "10279",
+        "title": "Salteador de Chamas",
+        "desc": "Um espadachim sem nome que veio com a maré negra e caça as Chamas Primordiais dos Titãs. O rosto sob a máscara é idêntico ao de Phainon.\nTendo sobrevivido a recorrências eternas e sido queimado por trilhões de Chamas Primordiais, resta-lhe pouco mais que um carvão ósseo, prestes a virar cinzas após passar seu último desejo para Phainon."
+    },
+    "10280": {
+        "id": "10280",
+        "title": "Cyrene",
+        "desc": "Uma garota misteriosa de Aedes Elysiae, sacerdotisa do Pátio do Sacramento e Semidivindade do Tempo na profecia.\nSeu nome experimental é \"PhiLia093\". Seu paradeiro é desconhecido."
+    },
+    "10281": {
+        "id": "10281",
+        "title": "Mem",
+        "desc": "Uma criatura misteriosa de pelo rosa, aparentemente ligada intrinsecamente a Amphoreus.\nEla viajou ao lado de {NICKNAME} até o fim do mundo e recuperou mais \"memórias\"."
+    },
+    "10282": {
+        "id": "10282",
+        "title": "Era Nova",
+        "desc": "O modo de iteração de Amphoreus, e também a provação de Kephale.\nA Semidivindade do Sustenta-Mundo deve criar e sustentar um novo mundo por meio das memórias, até colapsar sob o peso ou ter sua autoridade divina tomada."
+    },
+    "10283": {
+        "id": "10283",
+        "title": "Era Nova",
+        "desc": "O modo de iteração de Amphoreus, e a forma como o Cetro δ-me13 \"Amphoreus\" extrapola.\nBusca resolver a equação da Destruição alimentando-a continuamente com dados de aprendizado em forma de resistência.\nA última \"Era Nova\" teórica foi frustrada por Phainon e Cyrene, e desde então o ciclo se repetiu 33.550.336 vezes."
+    },
+    "10284": {
+        "id": "10284",
+        "title": "Recorrência Eterna",
+        "desc": "Um ciclo morto induzido por dois agrupamentos de dados nas extrapolações do Cetro δ-me13 \"Amphoreus\", com o objetivo de impedir a conclusão da equação da Destruição.\nDevido à influência do poder da Recordação, fundir as doze Chamas Primordiais na lâmina cerimonial fará o tempo retornar ao início e regredirá o processo de extrapolação."
+    },
+    "10285": {
+        "id": "10285",
+        "title": "Hysilens",
+        "desc": "Uma Herdeira de Chrysos do antigo reino sob o mar, barda das marés, cavaleira conhecida como Gladiatorum e a lâmina mais formidável da Imperatriz.\nAntigamente a última descendente das sereias, ela vagou pelo mundo da superfície antes de jurar lealdade a Cerydra e se juntar ao Exército da Perseguição às Chamas."
+    },
+    "10286": {
+        "id": "10286",
+        "title": "Cerydra",
+        "desc": "Herdeira de Chrysos de Hyperion, mestra do Império do Norte, Portadora da Chama que pôs fim às guerras e única Imperatriz de Amphoreus.\nDepois de unir as terras fragmentadas, ela convocou heróis de todos os cantos para embarcar na Jornada de Perseguição às Chamas, jurando quebrar a antiga ordem e escrever uma nova."
+    },
+    "10287": {
+        "id": "10287",
+        "title": "Noite Eterna",
+        "desc": "Uma figura misteriosa que aparece nas brechas entre memórias, idêntica em aparência à 7 de Março, mas sua identidade permanece desconhecida.\nProfundamente ligada ao Caminho da Recordação, ela parece seguir um propósito muito diferente do dos Memoriadores comuns."
+    },
+    "10288": {
+        "id": "10288",
+        "title": "Lygus",
+        "desc": "O operador da extrapolação Amphoreana que se autodenomina o Theoros.\nEle também se autodenomina Zandar, membro N.º 1 da Sociedade de Gênios. Busca tomar emprestado o poder de Amphoreus para criar o poder de destruir Nous.\nEle trilha o Caminho da Erudição, mas pretende gerar a Destruição."
+    },
+    "10289": {
+        "id": "10289",
+        "title": "Exomito",
+        "desc": "Onde Amphoreus encontra o universo real, ergue-se o complexo de hardware do Cetro δ-me13.\nEsta é a câmara de audiência das epopeias heroicas, onde dados e códigos fluem livremente, transformados em sinais elétricos que impulsionam a extrapolação da Força Motriz."
+    },
+    "10290": {
+        "id": "10290",
+        "title": "Margens Ondulantes",
+        "desc": "Depois que a maré negra recuou, Styxia, a outrora afogada, deu lugar a um banquete eterno.\nNa verdade, é um sonho tecido pelos cantos das sereias, onde os que partiram vivem novamente como convidados do banquete."
+    },
+    "10291": {
+        "id": "10291",
+        "title": "Noite Eterna",
+        "desc": "Uma visitante misteriosa que surge nas fendas da memória, idêntica em aparência a 7 de Março, como duas faces da mesma moeda.\n7 de Março entrega as suas memórias e cai em sono profundo, enquanto a Noite Eterna se oculta, libertando ondas de Esquecimento."
+    },
+    "10292": {
+        "id": "10292",
+        "title": "Terravox",
+        "desc": "O Rei dos Dromas, criação de Georios, a Semidivindade profetizada da Terra.\nTenaz por natureza, ele colabora com inúmeras formas de vida e com a Noite Eterna para proteger o mundo da maré de Memória, selando os segredos do Grande Túmulo."
+    },
+    "10293": {
+        "id": "10293",
+        "title": "Dan Heng - Permansor Terrae",
+        "desc": "Uma nova divindade que recebeu a Chama Primordial da Terra de Terravox, sendo guardião do Expresso Astral.\nAo abandonar as escamas marcadas do dragão, ele abraça o passado e futuro com a Permanência, aguardando o instante em que a jornada recomeçará."
+    },
+    "10294": {
+        "id": "10294",
+        "title": "Floresta dos Vestígios Luminosos",
+        "desc": "Um feixe dourado da Destruição atravessa o Bosque da Epifania, apontando para as profundezas do Grande Túmulo.\nAgora, afetadas pela maré de Memória, incontáveis lembranças caóticas convergem neste lugar."
+    },
+    "10295": {
+        "id": "10295",
+        "title": "Grande Túmulo do Titã Sem Nome",
+        "desc": "O Grande Túmulo selado nas profundezas da Terra, na camada do núcleo do Cetro δ-me13.\nA colossal matriz de armazenamento cintila incessantemente, registrando um passado desconhecido."
+    },
+    "10296": {
+        "id": "10296",
+        "title": "Era Nova",
+        "desc": "A forma pela qual as gerações Amphoreanas são substituídas, servindo também como base computacional para o Cetro δ-me13 \"Amphoreus.\"\nAgora, {NICKNAME} forjará um desfecho sem precedentes para Amphoreus em nome do Sustenta-Mundo."
     },
     "20000": {
         "id": "20000",
@@ -1078,5 +1503,165 @@
         "id": "20028",
         "title": "Mudando para o ponto de vista de Robin...",
         "desc": "Robin e Sunday decidem convencer Gopher Wood, o Mestre dos Sonhos, e seu antigo benfeitor. Com sorte, tudo dará certo..."
+    },
+    "20051": {
+        "id": "20051",
+        "title": "Mudando para o ponto de vista de Lingsha...",
+        "desc": "Na Prisão dos Grilhões, Lingsha, Dan Heng e Jing Yuan estão tentando analisar pistas dos ataques dos Borisins..."
+    },
+    "20052": {
+        "id": "20052",
+        "title": "Mudando para o ponto de vista de Jiaoqiu...",
+        "desc": "Sob o controle dos Borisins, Jiaoqiu está tentando encontrar uma chance de sobrevivência... mas não é sua própria sobrevivência que ele procura."
+    },
+    "20053": {
+        "id": "20053",
+        "title": "Mudando para o ponto de vista de 7 de Março...",
+        "desc": "Sob as ordens de Huaiyan, 7 de Março e Yunli sobem a bordo do Cruzador Celeste, para participar da Dança da Guerra conforme o combinado..."
+    },
+    "20054": {
+        "id": "20054",
+        "title": "Mudando para o ponto de vista de Feixiao...",
+        "desc": "\"Cerque três e deixe apenas um\". A Garra de Merlin inicia sua caçada contra a alcateia..."
+    },
+    "20055": {
+        "id": "20055",
+        "title": "Mudando para o ponto de vista de Yunli...",
+        "desc": "No Cruzador Celeste, a atmosfera de uma tempestade vindoura deixa Yunli ansiosa e desconfortável..."
+    },
+    "20056": {
+        "id": "20056",
+        "title": "Mudando para o ponto de vista de 7 de Março...",
+        "desc": "7 de Março pressente os sinais do perigo iminente. O momento para testar suas habilidades com a espada finalmente chegou..."
+    },
+    "20057": {
+        "id": "20057",
+        "title": "Mudando para o ponto de vista de Lingsha...",
+        "desc": "No Desfiladeiro Escamado Aquático, Dan Heng e Lingsha vão se encontrar com os Preceptores Vidyadharas..."
+    },
+    "20058": {
+        "id": "20058",
+        "title": "Mudando para a cena de Boothill...",
+        "desc": "Sem que ninguém soubesse, o caubói cósmico que ficou fora de contato está se escondendo nas sombras do Mundonírico..."
+    },
+    "20059": {
+        "id": "20059",
+        "title": "Mudando para o ponto de vista de Sunday...",
+        "desc": "Não são somente os convidados que retornam a este belo sonho. Existe também o \"mestre\" do sonho..."
+    },
+    "20060": {
+        "id": "20060",
+        "title": "Mudando para o ponto de vista de Sunday...",
+        "desc": "O asceta ainda recorda o resplendor dos seus dias passados. Porém, dos anos mais notáveis de sua existência, logo virá o adeus derradeiro..."
+    },
+    "20061": {
+        "id": "20061",
+        "title": "Mudando para o ponto de vista de Aglaea...",
+        "desc": "Aglaea começa uma investigação pessoal após descobrir que Okhema pode ter sido infiltrada, removendo a corrupção oculta nos cantos da pólis..."
+    },
+    "20062": {
+        "id": "20062",
+        "title": "Mudando para o ponto de vista de Herta...",
+        "desc": "Herta está se preparando na Estação Espacial para conversar com Nous, mas não parece que o processo correu tão bem."
+    },
+    "20063": {
+        "id": "20063",
+        "title": "Mudando para o ponto de vista de Mydei...",
+        "desc": "O povo de Mydei, os Kremnoanos, parecem ter outros planos para a autoridade da divindade do Conflito. Antes de superar o teste, ele deve primeiro ganhar a confiança de seu povo..."
+    },
+    "20064": {
+        "id": "20064",
+        "title": "Mudando para o ponto de vista de Tribbie...",
+        "desc": "Tribbie percebeu que Trianne, atualmente localizada no Bosque da Epifania, havia aberto o Portão Secular mais uma vez. Tribbie agora está profundamente ansiosa..."
+    },
+    "20065": {
+        "id": "20065",
+        "title": "Mudando para o ponto de vista de Tribbie...",
+        "desc": "Para reconciliar os Kremnoanos e os Okhemanos, Tribbie, Trianne e Trinnon decidiram visitar o Titã e recuperar suas memórias..."
+    },
+    "20066": {
+        "id": "20066",
+        "title": "Mudando para o ponto de vista de Mydei...",
+        "desc": "Mydei organizou todos os seus assuntos. Agora é hora de ir para casa..."
+    },
+    "20067": {
+        "id": "20067",
+        "title": "Mudando para o ponto de vista de Anaxa...",
+        "desc": "A busca pelo conhecimento deve seguir alguns princípios básicos, como \"aproveitar ao máximo as pessoas e as coisas\"..."
+    },
+    "20068": {
+        "id": "20068",
+        "title": "Mudando para o ponto de vista de Anaxa...",
+        "desc": "O conhecimento é o segundo sol de um erudito, e é justo que ele brilhe sua luz igualmente sobre todos os tolos sentados diante dele..."
+    },
+    "20069": {
+        "id": "20069",
+        "title": "Mudando para o ponto de vista de Dan Heng...",
+        "desc": "A melhor maneira de manter um banco de dados é visitar o banco de dados local. Dan Heng sabe muito bem disso..."
+    },
+    "20070": {
+        "id": "20070",
+        "title": "Mudando para o ponto de vista de Herta...",
+        "desc": "Claramente, Amphoreus faz uma \"pergunta\" intrigante: uma que é convincente o bastante para impulsionar AQUELA gênio a ação..."
+    },
+    "20071": {
+        "id": "20071",
+        "title": "Mudando para o ponto de vista de Castorice...",
+        "desc": "Anaxa mostrou a Castorice a memória que havia sido enterrada profundamente na alma de um Titã. Era a continuação das ilusões no caminho da montanha..."
+    },
+    "20072": {
+        "id": "20072",
+        "title": "Mudando para o ponto de vista de Castorice...",
+        "desc": "Rostos desconhecidos falavam sobre os testes da Jornada de Perseguição às Chamas. Onde e quando isso aconteceu...?"
+    },
+    "20073": {
+        "id": "20073",
+        "title": "Mudando para o ponto de vista de Castorice...",
+        "desc": "Um guerreiro chamado Gnaeus partiu sua alma ao meio. Esse é... o passado de Nikador..."
+    },
+    "20074": {
+        "id": "20074",
+        "title": "Mudando para o ponto de vista de Castorice...",
+        "desc": "O destino final de Polyxia e de Castorice revelarão o paradeiro de Thanatos..."
+    },
+    "20075": {
+        "id": "20075",
+        "title": "Mudando para o ponto de vista de Cipher...",
+        "desc": "Enquanto isso, Cipher estava se agarrando ao \"Ladrão Espiritual\" Bartholos, procurando tesouros ao longo da Margem Inferior..."
+    },
+    "20076": {
+        "id": "20076",
+        "title": "Mudando para o ponto de vista de Cipher...",
+        "desc": "Para cumprir sua promessa, Cipher recentemente correu para a Margem Inferior, enfrentando sozinha os inimigos que cobiçavam a Chama Primordial..."
+    },
+    "20077": {
+        "id": "20077",
+        "title": "Mudando para o ponto de vista de Hyacine...",
+        "desc": "Para alcançar os céus, é preciso primeiro conquistar a bênção do céu..."
+    },
+    "20078": {
+        "id": "20078",
+        "title": "A memória de \"Khaslana\" surge, como marés...",
+        "desc": "Em nome de \"Sustenta-Mundo\", Kephale jamais se esquecerá disso."
+    },
+    "20080": {
+        "id": "20080",
+        "title": "Mudando para o ponto de vista de Dan Heng...",
+        "desc": "Dan Heng retornou ao Expresso Astral através de um salto hiperespacial espiritual, apenas para descobrir que muita coisa havia mudado durante sua ausência..."
+    },
+    "20081": {
+        "id": "20081",
+        "title": "Mudando para o ponto de vista de Cisne Negro...",
+        "desc": "Caminhando ao lado de Noite Eterna, Cisne Negro testemunharia como a Recordação se entrelaça ao destino de Amphoreus..."
+    },
+    "20082": {
+        "id": "20082",
+        "title": "Mudando para o ponto de vista de Cisne Negro...",
+        "desc": "Durante um breve instante entre Noite Eterna e Sunday, Cisne Negro viajou rio acima pelos fluxos do Caminho..."
+    },
+    "20083": {
+        "id": "20083",
+        "title": "Mudando para o ponto de vista de Dan Heng...",
+        "desc": "Dan Heng retornou a Amphoreus, determinado a encontrar {NICKNAME} e se reunir com 7 de Março..."
     }
 }

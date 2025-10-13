@@ -113,6 +113,12 @@
         "type": "神秘",
         "image": "image/simulated_event/HoshinoKami_013.png"
     },
+    "20": {
+        "id": "20",
+        "name": "波爾卡•卡卡目",
+        "type": "天才俱樂部#4",
+        "image": "image/simulated_event/HoshinoKami_Herta6.png"
+    },
     "139": {
         "id": "139",
         "name": "開端•星際和平公司",
@@ -340,6 +346,522 @@
         "name": "無用學者",
         "type": "方程式",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "177": {
+        "id": "177",
+        "name": "幻影怪盜",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "178": {
+        "id": "178",
+        "name": "傷痕塚",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "179": {
+        "id": "179",
+        "name": "聚合者",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "180": {
+        "id": "180",
+        "name": "紡生救主",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "181": {
+        "id": "181",
+        "name": "滅絕學人",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "182": {
+        "id": "182",
+        "name": "軀殼遷移•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "183": {
+        "id": "183",
+        "name": "軀殼遷移•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "184": {
+        "id": "184",
+        "name": "軀殼遷移•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "185": {
+        "id": "185",
+        "name": "記住他們•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "186": {
+        "id": "186",
+        "name": "記住他們•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "187": {
+        "id": "187",
+        "name": "記住他們•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "188": {
+        "id": "188",
+        "name": "發條世界•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "189": {
+        "id": "189",
+        "name": "發條世界•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "190": {
+        "id": "190",
+        "name": "發條世界•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "191": {
+        "id": "191",
+        "name": "列印真實•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "192": {
+        "id": "192",
+        "name": "列印真實•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "193": {
+        "id": "193",
+        "name": "列印真實•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "194": {
+        "id": "194",
+        "name": "偉大謊言•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "195": {
+        "id": "195",
+        "name": "偉大謊言•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "196": {
+        "id": "196",
+        "name": "偉大謊言•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "197": {
+        "id": "197",
+        "name": "熄滅火焰•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "198": {
+        "id": "198",
+        "name": "熄滅火焰•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "199": {
+        "id": "199",
+        "name": "熄滅火焰•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "200": {
+        "id": "200",
+        "name": "天才與預言•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "201": {
+        "id": "201",
+        "name": "天才與預言•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "202": {
+        "id": "202",
+        "name": "未來學大會•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "203": {
+        "id": "203",
+        "name": "未來學大會•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "204": {
+        "id": "204",
+        "name": "未來學大會•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "205": {
+        "id": "205",
+        "name": "全能性破產•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "206": {
+        "id": "206",
+        "name": "全能性破產•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "207": {
+        "id": "207",
+        "name": "全能性破產•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "208": {
+        "id": "208",
+        "name": "反有機病毒•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "209": {
+        "id": "209",
+        "name": "反有機病毒•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "210": {
+        "id": "210",
+        "name": "反有機病毒•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "211": {
+        "id": "211",
+        "name": "伊斯梅爾遊行•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "212": {
+        "id": "212",
+        "name": "伊斯梅爾遊行•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "213": {
+        "id": "213",
+        "name": "伊斯梅爾遊行•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "214": {
+        "id": "214",
+        "name": "崩塌的認知•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "215": {
+        "id": "215",
+        "name": "崩塌的認知•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "216": {
+        "id": "216",
+        "name": "崩塌的認知•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "217": {
+        "id": "217",
+        "name": "窺視高天者•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "218": {
+        "id": "218",
+        "name": "窺視高天者•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "219": {
+        "id": "219",
+        "name": "窺視高天者•其三",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "220": {
+        "id": "220",
+        "name": "神所期待的",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "221": {
+        "id": "221",
+        "name": "不可知域•其一",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "222": {
+        "id": "222",
+        "name": "不可知域•其二",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "相對描摹者",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "224": {
+        "id": "224",
+        "name": "摶星蠕蟲",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "225": {
+        "id": "225",
+        "name": "無心巨人",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "226": {
+        "id": "226",
+        "name": "採藥人",
+        "type": "方程式",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "227": {
+        "id": "227",
+        "name": "蝴蝶駐足在枝頭",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "228": {
+        "id": "228",
+        "name": "蝴蝶曾掠過窗前",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "229": {
+        "id": "229",
+        "name": "蝴蝶已悄然離去",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "230": {
+        "id": "230",
+        "name": "當命運果實墜地",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "231": {
+        "id": "231",
+        "name": "當命運駐足不前",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "當命運揭露指引",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "233": {
+        "id": "233",
+        "name": "天與地狂歡之歌",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "234": {
+        "id": "234",
+        "name": "雨與雪歡騰之歌",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "235": {
+        "id": "235",
+        "name": "海與風起舞之歌",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "236": {
+        "id": "236",
+        "name": "愚弄眾神之神",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "戲耍人間之神",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "流離紛亂之神",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "239": {
+        "id": "239",
+        "name": "未曾落幕的戰爭",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "240": {
+        "id": "240",
+        "name": "生生不息的戰爭",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "241": {
+        "id": "241",
+        "name": "失去榮耀的戰爭",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "242": {
+        "id": "242",
+        "name": "孩提的睡前故事",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "警世的睡前故事",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "244": {
+        "id": "244",
+        "name": "歸鄉的睡前故事",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "245": {
+        "id": "245",
+        "name": "遮蔽大地的巨鳥",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "246": {
+        "id": "246",
+        "name": "跨越海洋的智慧",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "247": {
+        "id": "247",
+        "name": "誇耀完美的眷屬",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "248": {
+        "id": "248",
+        "name": "頌揚其睿智",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "249": {
+        "id": "249",
+        "name": "唏噓其冷漠",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "250": {
+        "id": "250",
+        "name": "感喟其賜福",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "251": {
+        "id": "251",
+        "name": "巨人的行進",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "252": {
+        "id": "252",
+        "name": "巨人的使命",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "253": {
+        "id": "253",
+        "name": "巨人的死敵",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "254": {
+        "id": "254",
+        "name": "黃金的預言",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "255": {
+        "id": "255",
+        "name": "白金的預言",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "256": {
+        "id": "256",
+        "name": "鉛鐵的預言",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "257": {
+        "id": "257",
+        "name": "約束萬物之法",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "258": {
+        "id": "258",
+        "name": "約束人德之法",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "259": {
+        "id": "259",
+        "name": "約束神明之法",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "260": {
+        "id": "260",
+        "name": "最沉重之物",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "261": {
+        "id": "261",
+        "name": "最頑固之物",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "262": {
+        "id": "262",
+        "name": "最溫柔之物",
+        "type": "秘聞",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
     },
     "398": {
         "id": "398",
@@ -658,6 +1180,12 @@
         "name": "螺絲咕姆商店",
         "type": "交易",
         "image": "image/simulated_event/HoshinoKami_Herta3.png"
+    },
+    "110007": {
+        "id": "110007",
+        "name": "阮•梅方程式商店",
+        "type": "交易",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
     },
     "110101": {
         "id": "110101",
@@ -1481,12 +2009,6 @@
         "type": "事件",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
-    "390101": {
-        "id": "390101",
-        "name": "",
-        "type": "",
-        "image": "image/simulated_event/PicRogueEvent_Normal.png"
-    },
     "410101": {
         "id": "410101",
         "name": "遊牧礦工",
@@ -1670,6 +2192,12 @@
     "412801": {
         "id": "412801",
         "name": "雙樂透體驗",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "412802": {
+        "id": "412802",
+        "name": "超樂透體驗",
         "type": "事件",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
     },
@@ -1985,10 +2513,370 @@
         "type": "事件",
         "image": "image/simulated_event/PicRogueEvent_17.png"
     },
-    "490701": {
-        "id": "490701",
-        "name": "測試",
-        "type": "",
+    "421801": {
+        "id": "421801",
+        "name": "語義不符",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Battle.png"
+    },
+    "421901": {
+        "id": "421901",
+        "name": "鳳梨麵包",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_19.png"
+    },
+    "422001": {
+        "id": "422001",
+        "name": "像你這樣的蒼猿",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_21.png"
+    },
+    "422101": {
+        "id": "422101",
+        "name": "垃圾交響曲",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_20.png"
+    },
+    "422201": {
+        "id": "422201",
+        "name": "垂釣儀式",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "422301": {
+        "id": "422301",
+        "name": "熔岩",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422401": {
+        "id": "422401",
+        "name": "特別優惠",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422501": {
+        "id": "422501",
+        "name": "金屬生活",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "422601": {
+        "id": "422601",
+        "name": "一抹色彩",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_profiteer.png"
+    },
+    "422701": {
+        "id": "422701",
+        "name": "造物單元",
+        "type": "事件",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "422801": {
+        "id": "422801",
+        "name": "時間銀行（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "422811": {
+        "id": "422811",
+        "name": "時間銀行（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "423001": {
+        "id": "423001",
+        "name": "紅色誘惑",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "423101": {
+        "id": "423101",
+        "name": "選擇困難（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423102": {
+        "id": "423102",
+        "name": "選擇困難（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423501": {
+        "id": "423501",
+        "name": "跳蚤市場",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "423601": {
+        "id": "423601",
+        "name": "聯名產品",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Toy.png"
+    },
+    "424201": {
+        "id": "424201",
+        "name": "銷售藍海",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "424301": {
+        "id": "424301",
+        "name": "多數派報告",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "424401": {
+        "id": "424401",
+        "name": "妙筆生花",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424501": {
+        "id": "424501",
+        "name": "緘默之殿",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "424601": {
+        "id": "424601",
+        "name": "假未來",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_11.png"
+    },
+    "424701": {
+        "id": "424701",
+        "name": "駭客與水手",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_28.png"
+    },
+    "424801": {
+        "id": "424801",
+        "name": "商店街一番戰",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424901": {
+        "id": "424901",
+        "name": "人生如菜（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424902": {
+        "id": "424902",
+        "name": "人生如菜（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424903": {
+        "id": "424903",
+        "name": "人生如菜（其三）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "510004": {
+        "id": "510004",
+        "name": "史帝芬",
+        "type": "事件",
+        "image": "image/simulated_event/HoshinoKami_Herta4.png"
+    },
+    "510005": {
+        "id": "510005",
+        "name": "阮•梅",
+        "type": "事件",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
+    "519401": {
+        "id": "519401",
+        "name": "像素世界•隱藏關",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Pixel.png"
+    },
+    "523801": {
+        "id": "523801",
+        "name": "速度與引擎",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_25.png"
+    },
+    "523901": {
+        "id": "523901",
+        "name": "培養皿",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_23.png"
+    },
+    "524001": {
+        "id": "524001",
+        "name": "修補匠（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524002": {
+        "id": "524002",
+        "name": "修補匠（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524101": {
+        "id": "524101",
+        "name": "愚人船",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_26.png"
+    },
+    "625001": {
+        "id": "625001",
+        "name": "沉吟者",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625101": {
+        "id": "625101",
+        "name": "冒牌眷屬",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625201": {
+        "id": "625201",
+        "name": "觀星機器",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625301": {
+        "id": "625301",
+        "name": "多洛斯骰子",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625401": {
+        "id": "625401",
+        "name": "鏡裡逃生",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625501": {
+        "id": "625501",
+        "name": "成功的標準比",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "625601": {
+        "id": "625601",
+        "name": "腐敗交易",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625701": {
+        "id": "625701",
+        "name": "海之聲",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625801": {
+        "id": "625801",
+        "name": "祈禱正匆忙",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625901": {
+        "id": "625901",
+        "name": "英雄的誕生（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625902": {
+        "id": "625902",
+        "name": "英雄的誕生（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625903": {
+        "id": "625903",
+        "name": "英雄的誕生（其三）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626001": {
+        "id": "626001",
+        "name": "生命分岔（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626002": {
+        "id": "626002",
+        "name": "生命分岔（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626101": {
+        "id": "626101",
+        "name": "棋中戲",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "626201": {
+        "id": "626201",
+        "name": "出手時機",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626301": {
+        "id": "626301",
+        "name": "巨獅競技",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_35.png"
+    },
+    "626401": {
+        "id": "626401",
+        "name": "異種收容",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "626501": {
+        "id": "626501",
+        "name": "願望天平",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626601": {
+        "id": "626601",
+        "name": "棉花糖號",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_38.png"
+    },
+    "626701": {
+        "id": "626701",
+        "name": "賢人之路（其一）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626702": {
+        "id": "626702",
+        "name": "賢人之路（其二）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626703": {
+        "id": "626703",
+        "name": "賢人之路（其三）",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626801": {
+        "id": "626801",
+        "name": "運輸任務",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626901": {
+        "id": "626901",
+        "name": "迷宮雙門",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_37.png"
+    },
+    "627001": {
+        "id": "627001",
+        "name": "昔漣",
+        "type": "事件",
+        "image": "image/simulated_event/PicRogueEvent_39.png"
     }
 }

@@ -209,6 +209,26 @@
         "preview": "image/light_cone_preview/20020.png",
         "portrait": "image/light_cone_portrait/20020.png"
     },
+    "20021": {
+        "id": "20021",
+        "name": "Shadowburn",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "The delicate power distilled from time itself. It's all the seemingly insignificant moments that weave together a magnificent destiny. \n\"People always attempt to erase unpleasant pasts. Such is the nature of memory.\"",
+        "icon": "icon/light_cone/20021.png",
+        "preview": "image/light_cone_preview/20021.png",
+        "portrait": "image/light_cone_portrait/20021.png"
+    },
+    "20022": {
+        "id": "20022",
+        "name": "Reminiscence",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "The delicate power distilled from time itself. It's all the seemingly insignificant moments that weave together a magnificent destiny. \n\"In the fleeting sweet dream, it was as if the old soul had returned to the colorful waters of childhood.\"",
+        "icon": "icon/light_cone/20022.png",
+        "preview": "image/light_cone_preview/20022.png",
+        "portrait": "image/light_cone_portrait/20022.png"
+    },
     "21000": {
         "id": "21000",
         "name": "Post-Op Conversation",
@@ -679,6 +699,146 @@
         "preview": "image/light_cone_preview/21046.png",
         "portrait": "image/light_cone_portrait/21046.png"
     },
+    "21047": {
+        "id": "21047",
+        "name": "Shadowed by Night",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "\"Footprints.\"\n\"Scratches.\"\n\"Scents.\"\nAfter everything has been appropriately handled, he picks up a crow feather and gracefully leaps onto the roof.\nIn the vast city, a pitch-black shadow shuttles through the corners unseen.\n\"I shall merge into shadows and keep vigil over you all.\"",
+        "icon": "icon/light_cone/21047.png",
+        "preview": "image/light_cone_preview/21047.png",
+        "portrait": "image/light_cone_portrait/21047.png"
+    },
+    "21048": {
+        "id": "21048",
+        "name": "Dream's Montage",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"The City of Dreams, the Breeding Ground of Sin, or the Promised Land...\"\nExtracting the memories of many, he scrutinizes the spectacular moments, disrupting, reorganizing, and splicing them together.\n\"Most people's memories are but a collection of trivial and monotonous fragments, where only a handful of precious moments stand out, while the existences of the rest are utterly unnecessary.\"\nFrame by frame, the images flow through his grasp, gradually woven into a tapestry of brilliance.\n\"We don't transport memories. We only create the past.\"",
+        "icon": "icon/light_cone/21048.png",
+        "preview": "image/light_cone_preview/21048.png",
+        "portrait": "image/light_cone_portrait/21048.png"
+    },
+    "21050": {
+        "id": "21050",
+        "name": "Victory In a Blink",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "The Titankins' all-consuming roars sweep across the battlefield. Two lightning-quick figures slaughter their way out of combat.\n\"I alone will be enough to handle them.\"\nEvery punch unleashed by the warrior sends spears of blood through the bodies of the enemy.\n\"Brute force and nothing more. Watch my blade!\"\nAs a blade of pale silver slices in a curve, monsters drop like falling leaves.\n\"A contest of speed?\"\nThe two charge at the other side simultaneously.\nHowls of anguish sound as the stealthy beasts behind them are struck down at once.\nTwo voices can be heard at the same time.\n\"That was my kill!\"",
+        "icon": "icon/light_cone/21050.png",
+        "preview": "image/light_cone_preview/21050.png",
+        "portrait": "image/light_cone_portrait/21050.png"
+    },
+    "21051": {
+        "id": "21051",
+        "name": "Geniuses' Greetings",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "\"Congratulations. Experiment failed again, didn't it?\"\n\"...\"\n\"I told you before that there are mistakes in your method.\"\n\"...\"\n\"I gotta tell you, I've been getting some big breakthroughs recently...\"\nThe aloof woman lifts her head from her book...\n\"I'm sorry. What did you say?\"\nShe waves her hand.\n\"Well, I can't say how great these breakthroughs are. They might only affect half the cosmos.\"\nThe woman closes her book.\n\"Let's hear it, then.\"\n\"Hmph. A genius of my caliber... it's not something you'll just get to hear randomly...\"\n\"I understand. I'll make some pastries. We can talk and eat at the same time.\"",
+        "icon": "icon/light_cone/21051.png",
+        "preview": "image/light_cone_preview/21051.png",
+        "portrait": "image/light_cone_portrait/21051.png"
+    },
+    "21052": {
+        "id": "21052",
+        "name": "Sweat Now, Cry Less",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Resounding impacts echo through the training room and a thunderous kick follows, practically folding the sandbag in two.\n\"General... isn't this level of training too much for you?\" Such is the question asked by a nearby soldier.\nSmiling, she shakes her head and hangs a new sandbag in place.\n\"This? No. Not even close!\"\nHer glistening sweat reflects the glow of the moon, trailing down her body like crystalline pearls. The memory of that departed general re-surfaces in her mind... \"Sweat more when training, so you might weep less in battle.\"",
+        "icon": "icon/light_cone/21052.png",
+        "preview": "image/light_cone_preview/21052.png",
+        "portrait": "image/light_cone_portrait/21052.png"
+    },
+    "21053": {
+        "id": "21053",
+        "name": "Journey, Forever Peaceful",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "The boy ran amongst the star-like raindrops and cheered for the blissful rain that arrived after a long drought.\nThe rain fell for a long, long time, and the covered wagon stopped on the land covered by budding green.\n\"Mom! Big sis! We'll never go cold or hungry again!\"\nThe Avgins' campfire warmed the long night, as the boy listened to his big sister's stories and waited for the dawn.\n\"Kakavasha... You, too, will go forth with your good luck blessed by the Mother Goddess, and achieve what we could not achieve... May your journey be forever peaceful, and your schemes forever concealed...\"\nGolden sunlight reflects from his dreams into his real-life abode, and transactions and numbers are once again mirrored in his eyes.\nHe lets go of the hand that was clutched into a fist —\nIt's as if he did not manage to grab onto anything... yet there's still a throbbing, lingering warmth.",
+        "icon": "icon/light_cone/21053.png",
+        "preview": "image/light_cone_preview/21053.png",
+        "portrait": "image/light_cone_portrait/21053.png"
+    },
+    "21054": {
+        "id": "21054",
+        "name": "The Story's Next Page",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "The breeze stirs the wheat fields as the girl, clutching a blank journal, strolls through the golden waves.\nBeyond Aedes Elysiae, in a city both unfamiliar and eerily familiar, companions of all kinds will cross paths, and a journey like a song, like a dream, is about to begin...\n\"This time, together with me...\"\nAt the edge of the field, the girl who has waited so long closes her book and extends a hand toward the \"future\"—\n\"Let's write a new chapter of the story ♪\"",
+        "icon": "icon/light_cone/21054.png",
+        "preview": "image/light_cone_preview/21054.png",
+        "portrait": "image/light_cone_portrait/21054.png"
+    },
+    "21055": {
+        "id": "21055",
+        "name": "Unto Tomorrow's Morrow",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"See you tomorrow, Tribios...\"\nThe girl wiped the tears on her cheeks when her mother went somewhere far, far away.\nShe waited one tomorrow after another, till she grew up to be someone like her mother.\nShe stands before the passage and grasps the Coreflame tight as she recalled her mother's words.\n\"There are no blizzards, colds, or rain at that place...\"\n\"But if we can't see you tomorrow, then...\"\nShe falls towards the earth, leaving her young figure behind, like a shooting star across the sky —\n\"Then, see you on tomorrow's morrow!\"",
+        "icon": "icon/light_cone/21055.png",
+        "preview": "image/light_cone_preview/21055.png",
+        "portrait": "image/light_cone_portrait/21055.png"
+    },
+    "21056": {
+        "id": "21056",
+        "name": "In Pursuit of the Wind",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "\"Heh. This one can go to that unlucky brat. It'll shut her money-owing parents up, and maybe they'll hit her less.\"\n\"This can go to the granny selling pickle candies to help her out in a pitch. She really needs to see a doctor for all her pains. I don't wanna see a day when I can't buy such tasty candies anymore...\"\nBent over the rucksack, the girl meticulously counts the jewels in there, and suddenly sneezes.\n\"Who's missed me?\"\n\"There you are, Cifera.\"\nThe threads wind around her back, as if hesitating where to start.\n\"From now on, when you're chasing the wind...\"\nThe icy golden thread wraps around her wrists, holding her in place.\n\"Don't forget to look after yourself as well.\"\nShe runs, escaping far away. It's only when she turns around that she discovers the corner of her cloak that's starting to fray had already been stitched up, as if it were new.",
+        "icon": "icon/light_cone/21056.png",
+        "preview": "image/light_cone_preview/21056.png",
+        "portrait": "image/light_cone_portrait/21056.png"
+    },
+    "21057": {
+        "id": "21057",
+        "name": "The Flower Remembers",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "In spring, they sowed seeds.\nIn summer, they irrigated the fields.\nIn autumn, they harvested the fruits.\nIn winter, they sang as they walked in the snow.\n...\nThe land that was originally barren now blooms with flowers, and butterflies are drawn by the peals of laughter and land on the girls' fingertips.\n\"Big sis! We'll keep working together to turn this into a huge sea of flowers!\"\n\"See. Our promise...\"\nThe butterfly flies to the other shore. The rather taciturn girl softly caresses the warm flower petals as if her little sister is still there with her.\n\"...Wasn't forgotten by me or the flowers we once attended.\"",
+        "icon": "icon/light_cone/21057.png",
+        "preview": "image/light_cone_preview/21057.png",
+        "portrait": "image/light_cone_portrait/21057.png"
+    },
+    "21058": {
+        "id": "21058",
+        "name": "A Trail of Bygone Blood",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "A storm broods in the distance. Tentacles extend from the Sea of Souls, as if intending to toy with that floating, fragile life.\nThe broken limbs of the sea beast hammer giant sprays skyward, and sink into the oceanic abyss after shattering like rubble.\nThey say that the roar of the fight lasted for ten days and nights, overwhelming even the thunder and lightning.\nThey say that even if a man had ten thousand lives, he would not be enough to resist the Sea of Souls's erosion.\nThen, courage washes away the immaturity and cold pride tempered timidity —\nAnd that thin figure stumbled onto the shore. The first ray of the morning sun shines down upon the sea's waters, dyeing it like past blood.",
+        "icon": "icon/light_cone/21058.png",
+        "preview": "image/light_cone_preview/21058.png",
+        "portrait": "image/light_cone_portrait/21058.png"
+    },
+    "21060": {
+        "id": "21060",
+        "name": "A Dream Scented in Wheat",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "The breeze blows past the youth's fingertips and sends the letter, still wet with ink, to the distant beyond.\n\"What would my future look like...\"\nDreams grow wings in his mind and fly towards the ends of the sky.\nEars of wheat dance in the wind and form ripples, as if responding to his boyish and earnest wish.\n\"Even if I only have a single sword in my hand, I want to protect this place no matter what!\"\nThe youth made this silent vow in his mind —\nA vow as deep as a brand, eternally etched into his heart.",
+        "icon": "icon/light_cone/21060.png",
+        "preview": "image/light_cone_preview/21060.png",
+        "portrait": "image/light_cone_portrait/21060.png"
+    },
+    "21061": {
+        "id": "21061",
+        "name": "Holiday Thermae Escapade",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "\"Cinny, let's go try out that new special bath that recently opened.\"\nAfter finishing her medical duties in Okhema, the girl followed the curious child into the eclectic set of pools.\n\"How about a Tomato Juice Massage?\"\nStaring at the attendant's crimson-stained hands, she hugged the eager Little Ica and retreated—\n\"I prefer something... drinkable....\"\n\"Dromas back massage, limited-time discount!\"\nA curious dromas lowered its head, its hot breath tousling her hair.\n\"N—Next time, maybe!\"\n\"Herbal Bath — strengthens body and soul! How many in your party?\"\nLured by the fragrant herbs, she tentatively dipped a foot into the pool.\n\"This... seems healthy...\"\n\"Doot, doot-doot!\"\nLittle Ica floated blissfully on its back.\n\"Guess even you needed a break from all we've been doing recently...\"\nOn this rare day off, sipping grape juice, the girl chatted with the red-haired child about everything from sleep tips to pastry recipes.\n\"Oh no—Little Ica!\"\nThe child's shriek shattered the bathhouse's calm.\n\"Doot...\"\n\"Hold on, Little Ica!\"",
+        "icon": "icon/light_cone/21061.png",
+        "preview": "image/light_cone_preview/21061.png",
+        "portrait": "image/light_cone_portrait/21061.png"
+    },
+    "21062": {
+        "id": "21062",
+        "name": "See You at the End",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "Unwilling tears trailed down his cheeks. At the heart of the shattered ritual array lingered not just death's shadow, but an abyss of silence and emptiness.\nThen, a sigh trembled through the darkness — a ripple from the \"soul's\" deepest recesses.\n\"Is that you... Sister...\"\nThe boy lifted his hand, a weak light flickering in his eyes. The silhouette of his loved one lingered but a breath, yet its imprint etched a millennium into his heart.\n\"I see... Thank you... for this final farewell.\"\nHe rose slowly. Dawn's first rays caressed his resolute face, still streaked with tears.\n\"The path of seeking is a solitary one... Let us meet again at the journey's end.\"",
+        "icon": "icon/light_cone/21062.png",
+        "preview": "image/light_cone_preview/21062.png",
+        "portrait": "image/light_cone_portrait/21062.png"
+    },
     "22000": {
         "id": "22000",
         "name": "Before the Tutorial Mission Starts",
@@ -708,6 +868,36 @@
         "icon": "icon/light_cone/22002.png",
         "preview": "image/light_cone_preview/22002.png",
         "portrait": "image/light_cone_portrait/22002.png"
+    },
+    "22003": {
+        "id": "22003",
+        "name": "Ninja Record: Sound Hunt",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "In the realm of Cosmic Ninjutsu, ever-changing grace,\nHear the echoes of my hunting chase!\nFeel the beat, my rhythm's call,\nGuitar strums, the atmospheres enthrall.\nBass notes with a tender hue,\nElectro-acoustic kindles anew.\nSweat's testament, truth untold,\nEvery twist and turn, melodies unfold.\nMy sound ascends, reaching high,\nThrough bruises and battles, I never shy.\nThe Dazzling! The Dazzling! A chant so bold.\nThe Dazzling! The Dazzling! In tales untold,\nThe Dazzling! The Dazzling! An epic foretold!\nYo. Yo. In this wild world. Let the hearts go ablaze.\nSing out loud, chant your soul, and let's embrace the utter craze!",
+        "icon": "icon/light_cone/22003.png",
+        "preview": "image/light_cone_preview/22003.png",
+        "portrait": "image/light_cone_portrait/22003.png"
+    },
+    "22004": {
+        "id": "22004",
+        "name": "The Great Cosmic Enterprise",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "In a virtual exhibition hall sculpted from data, the exhibition representatives exchanged opinions.\nTwo figures moved between the booths, delivering everything needed by each party.\n\"Hmm, are you...?\"\n\"I've seen you on TV.\"\nThey talked about games, food, each other's morphologies, and all the beautiful things in the universe.\nThough their meetings were few and far between, they were as close as old friends—\n\"By the way, have you thought about my proposal...\"\n\"The Express is not for sale!\"",
+        "icon": "icon/light_cone/22004.png",
+        "preview": "image/light_cone_preview/22004.png",
+        "portrait": "image/light_cone_portrait/22004.png"
+    },
+    "22005": {
+        "id": "22005",
+        "name": "The Forever Victual",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "*BOOM*...\nOutside the Maze, a storm rages endlessly.\n*gurgle*...\nThe fairies' magical cauldron burns with an eternal flame.\n\"Sprinkle in the special spices...\"\n\"Add some fresh vegetables!\"\n\"This time, we'll succeed for sure!\"\nThe huge cauldron bubbled up again as the fairies watched eagerly.\n\"Here it comes, here it comes!\"\nA brilliant light burst forth from the bottom of the pot...\nLook, everyone's gathering around!\n...\nAt the fragrant feast, guests raised their glasses to toast to these wonderful times...\nMay this dreamy paradise stay warm and joyful forever!",
+        "icon": "icon/light_cone/22005.png",
+        "preview": "image/light_cone_preview/22005.png",
+        "portrait": "image/light_cone_portrait/22005.png"
     },
     "23000": {
         "id": "23000",
@@ -1019,6 +1209,206 @@
         "preview": "image/light_cone_preview/23030.png",
         "portrait": "image/light_cone_portrait/23030.png"
     },
+    "23031": {
+        "id": "23031",
+        "name": "I Venture Forth to Hunt",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "\"Pitiful, laughable slaves...\"\nThe Denizens of Abundance's legions come crashing upon the border like an avalanche, with Lupitoxin rushing toward the Verdant Knights like a tide, trying to arouse the deep-set fear hidden in the soldiers' hearts. Illusions of dread came forth, striking the wills of the warriors, compelling them to drop their blades and be seized by hesitation.\nBut the front remains stalwart like a bronze wall, unstirred by the borisins' disdainful words. From among the soldiers, a single figure saunters forth.\nShe moves her body at a slow pace, and the flags behind her rustle under the unseen killing intent.\n\"The general... it's the general...\"\n\"General Feixiao...\"\n\"The Merlin's Claw!\"\nThese small cheers and calls then come together into a thunderous battle cry.\n\"Always soaring! Forever triumphant!\"\nShe stands there, alone. A single figure, but imbued with the might of an entire army.",
+        "icon": "icon/light_cone/23031.png",
+        "preview": "image/light_cone_preview/23031.png",
+        "portrait": "image/light_cone_portrait/23031.png"
+    },
+    "23032": {
+        "id": "23032",
+        "name": "Scent Alone Stays True",
+        "rarity": 5,
+        "path": "Priest",
+        "desc": "\"First, overhaul the department's work habits.\"\n\"Then, strictly implement rewards and penalties.\"\n\"Of course, the most important part is figuring out everyone's tangled web of personal interests as soon as possible...\"\nThough she was originally here to admire the scenery, her mind had unknowingly drifted toward work, with stress and trouble naturally following.\nShe hurriedly ignites the soothing incense she always carried with her.\n\"The world is so beautiful, yet I am so irritable... Best not to think of such miserable matters while on vacation...\"",
+        "icon": "icon/light_cone/23032.png",
+        "preview": "image/light_cone_preview/23032.png",
+        "portrait": "image/light_cone_portrait/23032.png"
+    },
+    "23033": {
+        "id": "23033",
+        "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Somewhere in the Ninja Realm, a shroud of dreary gray veils the city.\n\"Hiyaaa!\"\nA young lady darts through the monsters, her vibrant silhouette cutting through the darkness like a stroke of paint against a moonless earth.\nIn the midst of smoke, the Evil Ninjas wince in both agony and disbelief.\n\"Who...are you...?\"\n\"I'm Ninja Rappa! A beacon of determination, eradicating evil and upholding justice.\"\nThe Evil Ninjas exchange hesitant glances, eyes wide as they attempt to flee.\n\"Are you prepared to recite your final rhymes?\"\nHer shuriken dances through the air, a flurry of light and steel, overwhelming her adversaries with its blinding swiftness.\n\"Secret Technique: Dazzling Obliteration!\"\nThe explosion behind her shatters the night, unveiling the city's wounds.\nWith a breath drawn deep, she launches herself into the neon-lit distance, where the vibrant lights scream like a heavy metal chorus.\n\"Such loathsome evil spirits. The Dazzling Ninja's ultimate hunt shall continue...\"",
+        "icon": "icon/light_cone/23033.png",
+        "preview": "image/light_cone_preview/23033.png",
+        "portrait": "image/light_cone_portrait/23033.png"
+    },
+    "23034": {
+        "id": "23034",
+        "name": "A Grounded Ascent",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "Those delusions and fallacies have been shattered. He wanted to be the sun of the whole world, yet he fell from the sky.\n\"Now, do you feel what pain is?\"\nAnother voice in his heart spoke thus.\n\"Yes. And that is what I deserve to feel.\"\nHe fell into dust and answered himself with his heavy footsteps.\nHe walked on the earth and once again beheld the agony that covers the mortal realm like a never-ending font.\nHe stepped over the thorns that blocked the road and listened to the calls of humanity. He experienced anguish, through which he obtained tranquility.\n\"Falling was originally just another name for flying.\"\nAnd on this eighth day, he granted himself \"departure.\"",
+        "icon": "icon/light_cone/23034.png",
+        "preview": "image/light_cone_preview/23034.png",
+        "portrait": "image/light_cone_portrait/23034.png"
+    },
+    "23035": {
+        "id": "23035",
+        "name": "Long Road Leads Home",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "\"Who... Is she?\" The girl caresses the unfamiliar self.\nShe recalls how the fire that day had swallowed her whole, and how her bejeweled fan turned into ash.\nShe had once walked on a never-ending road, looking for the light ahead.\nThe sounds outside were calling for her, leading her forward, guiding her through the layers of night.\nThe sounds within reminded her of those unfulfilled promises, unexecuted plans, and unrealized wishes... They were all still waiting for her.\nThey never dissipated in the fire, but instead, glowed ever brighter in the flames.\n\"That is me...\"\nShe stands at the end of the road and no longer looks back in reminiscence —\n\"It's the original me, and also the brand-new me.\"",
+        "icon": "icon/light_cone/23035.png",
+        "preview": "image/light_cone_preview/23035.png",
+        "portrait": "image/light_cone_portrait/23035.png"
+    },
+    "23036": {
+        "id": "23036",
+        "name": "Time Woven Into Gold",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "\"This strand, a soldier's sacrifice.\"\n\"This strand, a hero's growth.\"\n\"This strand, the city's prosperity.\"\n....\nThe Garmentmaker pulls at the threads using a needle, everything held between her fingers.\n\"The destiny of certain heroes has already been severed...\"\nShe scoops up another set of golden threads and continues her mending.\n\"The fates of certain heroes must continue...\"\nThe divine loom weaves on, and the Garmentmakers dance with lively grace. Eons of time had already passed through the loom, and she has long been accustomed to such waiting....\nFor the sake of turning time to golden \"inspiration.\"",
+        "icon": "icon/light_cone/23036.png",
+        "preview": "image/light_cone_preview/23036.png",
+        "portrait": "image/light_cone_portrait/23036.png"
+    },
+    "23037": {
+        "id": "23037",
+        "name": "Into the Unreachable Veil",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "\"The Intelligentsia Guild's letters have been handled.\"\n\"The Simulated Universe is functioning normally...\"\n\"Literary collections have been reprinted.\"\n\"Hey. Shhh. Don't bother Madam Herta...\"\n...Within a great tower on the edge of the cosmos, puppets work methodically, dealing with all manner of chores in anticipation of her arrival.\nTime passes. Countless people drift through the canvas of time like meteors streaking across the night sky, bright for an instant, before ultimately returning to silence.\n\"Madam Herta hasn't shown herself in a long time...\"\n\"Is she still thinking...?\"\n\"Hmmm. Thought this would all be done after discovering a few axioms?\"\nShe stretches, lifting her head from the calculations, and another thought surfaces in her mind...\n\"Nothing is irrefutable. I will chase these questions to the end!\"",
+        "icon": "icon/light_cone/23037.png",
+        "preview": "image/light_cone_preview/23037.png",
+        "portrait": "image/light_cone_portrait/23037.png"
+    },
+    "23038": {
+        "id": "23038",
+        "name": "If Time Were a Flower",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "\"Mama, I want to hear another story!\"\n\"My sweet girl, how about a story about time?\"\n\"Time... what is it?\"\n\"Time, my dear, is like a flower.\"\n\"Like the dandelions blooming in the fields?\"\n\"Yes, just like dandelions. Time grows, blossoms, and bears fruit. We call its petals 'moments.'\"\n\"And then what happens?\"\n\"Then, it withers into a thousand pieces, leaving seeds that drift everywhere...\"\n\"Mama, does that mean it becomes the 'future'?\"\n\"Guess what it turns into after that?\"\n\"It turns into so many flowers, blooming into a vibrant sea of blossoms, right?\"\nThe mother didn't have time to answer as the sunlight from the window warmed the girl's face. That gentle figure vanished once more into her dream.\nShe opened her eyes—\n\"If time were a flower...\" she murmured.\n\"It would surely become a sea of flowers,\" said the serene girl.\n\"Of course it would!\" Exclaimed the playful girl, cheering at her masterpiece.",
+        "icon": "icon/light_cone/23038.png",
+        "preview": "image/light_cone_preview/23038.png",
+        "portrait": "image/light_cone_portrait/23038.png"
+    },
+    "23039": {
+        "id": "23039",
+        "name": "Flame of Blood, Blaze My Path",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Cold dew congealed on the blade, sliding down in crimson streaks.\nThe rust-tainted wilderness still flickered with embers of battle, flames leaping upon the ashes.\n\"Mydeimos, that was a godlike fight just now!\"\nA bare-chested warrior wiped his weapon clean, shouting in exhilaration.\n\"Mydei, one day, I'll be as invincible as you!\"\nA child gazed at him with reverence, clutching a broken sword in small hands.\n\"Crown Prince, our return to Castrum Kremnos is within sight.\"\nAn aged man smiled, raising his cup in a toast to him.\nHe nodded silently and walked to the edge of the camp.\nThe pain of rebirth still coursed across his skin. Tomorrow, he would lead the Kremnoan Detachment forth once again, migrating to foreign lands.\nWhere this wandering would end, he did not know. The only certainty was this — he would bear the duty of a king until the blood and flames consumed him.\nAs night deepened, he drank the bloodwine alone. A passing bard plucked at his strings, a wandering melody drifting through the air—\n\"Home is the land of dreams, not a place one can ever reach.\"",
+        "icon": "icon/light_cone/23039.png",
+        "preview": "image/light_cone_preview/23039.png",
+        "portrait": "image/light_cone_portrait/23039.png"
+    },
+    "23040": {
+        "id": "23040",
+        "name": "Make Farewells More Beautiful",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Another farewell ceremony was underway.\nA young girl, stepping on broken moonlight, wove a garland of parting by the riverbank.\nAncient laments crystallized in the cold air, while the quiet river flowed into a distant land of blossoms.\nBlood-stained scrolls, rusted long swords, handkerchiefs embroidered with poetry... She accepted their remains, along with the tales of their lives.\n\"My eyes are like lenses, forever longing for the starry sky.\"\n—An epitaph dedicated to the departed scholar.\n\"For life and for death, the knight grants only a cold glance.\"\n—The maxim that the nameless warrior upheld all his life.\n\"Life is nothing but death, aglow with shimmering light.\"\n—The final verse penned by the eternal-seeking poet with his life.\n...\n\"Every flower once bloomed with pride...\"\nAccompanied by the river's soft lament, she offered the departed poems, garlands, and remembrances—\n\"If withering is inevitable, at least let our farewell be... a little more beautiful.\"",
+        "icon": "icon/light_cone/23040.png",
+        "preview": "image/light_cone_preview/23040.png",
+        "portrait": "image/light_cone_portrait/23040.png"
+    },
+    "23041": {
+        "id": "23041",
+        "name": "Life Should Be Cast to Flames",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "In that hidden experiment, various illusions constantly surged forward, pulling at his steps.\nThe seductive whispers beckoned him to give up on that treacherous topic, for what reason was there to gamble his life?\nThe cold, threatening voice declared that those who walk the edge of life and death will ultimately burn their lives away.\nThen there were the angry accusations, shouting to cast the blasphemer — the one who had desecrated the gods — into an execution grounds most cruel.\n\"The performance of life, too, must eventually reach the curtain call.\"\nHe closed his eyes, grasped the divine flame, and let the pain drown his fading soul.\nFirst, his resolute gaze. Then, his beating heart. The complete soul... He threw himself willingly into that most pure and intense flame to be used for the smelting—\nThe voices bubbled and then became silent.\nIn the darkness, the brilliant truth began to take shape in his hands.",
+        "icon": "icon/light_cone/23041.png",
+        "preview": "image/light_cone_preview/23041.png",
+        "portrait": "image/light_cone_portrait/23041.png"
+    },
+    "23042": {
+        "id": "23042",
+        "name": "Long May Rainbows Adorn the Sky",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "\"Emotions are like clouds, and we are the sky that carries them. If the sky is overcast, then our emotions will fluctuate all over.\"\nThe physician listens with care to the visitor's sorrows, offering words of gentle solace.\n\"Please close your eyes and breathe slowly... Imagine yourself in a warm and soft place...\"\nAs if infused with magic, a seven-colored rainbow radiance spills from beneath the wings of the winged beast.\n\"A breeze would drift across the plains, carrying the fragrance of wildflowers. Moist clouds would pass by, laden with sunlight...\"\nThe visitor gradually sinks into a peaceful dream, responding only with the quiet rhythm of steady breaths.\nAfter seeing the last patient, the physician gently closes the door of the ward.\nIn the distance, the boundless evernight still surges, with many ruins standing like the scars of the earth.\n\"In the next life, may dawn shine upon all...\"\nBefore departing, she makes a wish to the sky —\n\"May the sky forever hold that rainbow radiance.\"",
+        "icon": "icon/light_cone/23042.png",
+        "preview": "image/light_cone_preview/23042.png",
+        "portrait": "image/light_cone_portrait/23042.png"
+    },
+    "23043": {
+        "id": "23043",
+        "name": "Lies Dance on the Breeze",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "The cat-eared girl stretches her limbs on the rooftop, slinking into the night.\nIn the treasure vault that had slumbered for a thousand years, she glides effortlessly, gathering precious treasures into her embrace before vanishing without a sound.\n\"Foolish fate could never catch me!\"\nThe wind through the ruins carries the scent of the wild, rustling her hood.\nResting her head against the cold stone, she swallows a bite of rough, dry rations, idly tossing a gold coin between her fingers.\nA faint sound from afar reaches her ears. In that holy city bathed in dawn's light, the bustling crowds still revel in warmth and celebration.\n\"How much longer... a year, or ten thousand?\"\nShe stretches with a lazy yawn, casting her restless thoughts aside.\n\"Hah, Cifera always has the last laugh!\"\nA golden streak of lightning cuts across the sky, and her proclamation lingers in the wind—\nJust as it had a thousand years ago.",
+        "icon": "icon/light_cone/23043.png",
+        "preview": "image/light_cone_preview/23043.png",
+        "portrait": "image/light_cone_portrait/23043.png"
+    },
+    "23044": {
+        "id": "23044",
+        "name": "Thus Burns the Dawn",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Once again, at the journey's end, the man's silhouette was swallowed by the sweltering golden sun.\n\"So... that golden blood, the last hope of deliverance, was really...\"\nHis tears never had the chance to fall — they vanished into steam.\n\"Snowy, see you tomorrow!\"\n\"Deliverer, remember to stay alive till the final act!\"\n\"Go be the dawn of Amphoreus...\"\n...\nThe people's wishes echoed in the void. The Nameless Hero crumbled, his fierce and tragic death laid bare.\n\"If rage can't burn this twisted fate to ashes...\"\nHe climbed toward the peak, over and over, only to fall and be shattered, again and again—\n\"Then let me burn with it!\"",
+        "icon": "icon/light_cone/23044.png",
+        "preview": "image/light_cone_preview/23044.png",
+        "portrait": "image/light_cone_portrait/23044.png"
+    },
+    "23045": {
+        "id": "23045",
+        "name": "A Thankless Coronation",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "The girl's ears rang in the fantasia with the words conversed on that day.\n\"This sword wasn't hard to pull out at all, Merlin.\"\n\"Indeed. Becoming the king everyone wishes for won't be hard for you at all, given that I'm guiding you. However, Altria... The hard part is that you can't always meet everyone's expectations.\"\n\"Then they can choose a more fitting king by that time. I won't protest.\"\n\"But what if such a person will never exist?\"\n\"...Then I'll do my best to meet everyone's expectations.\"\nNow, the girl had long since become aware of how profound that tragedy would be. Would she have chosen to give up if she were to return to that moment where everything began?\nThe king does not speak and simply grasps the sword tightly.\nThe stone again gives out a thundering roar as the sword is pulled out.",
+        "icon": "icon/light_cone/23045.png",
+        "preview": "image/light_cone_preview/23045.png",
+        "portrait": "image/light_cone_portrait/23045.png"
+    },
+    "23046": {
+        "id": "23046",
+        "name": "The Hell Where Ideals Burn",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "The flames of karma ignite the plains. The ideals of unknowns turn to ashes, as the ideals of others burn passionately.\nThe Guardian traverses between bullets and arrowheads.\nHe can save no one here. He can save everyone here.\nKill one person to save one person. Kill ten thousand to save ten thousand. The fate of trampling over our peers is one part of humanity's continued existence.\nThe Guardian had already grown used to all this, and his steps never hesitated.\nThe determination that covers his legs is like wind. The determination that covers his arms is like fire.\nHe is still seeking a miracle that can bring forth salvation.",
+        "icon": "icon/light_cone/23046.png",
+        "preview": "image/light_cone_preview/23046.png",
+        "portrait": "image/light_cone_portrait/23046.png"
+    },
+    "23047": {
+        "id": "23047",
+        "name": "Why Does the Ocean Sing",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Waves surge forth, their roar echoing across the heavens.\nFish swim through the empty seas, where ancient foam churns and that melody seems to still linger.\n\"Noble Princess, feast with us!\"\nAnswering the deep sea's call, she danced with the black tide until she alone remained on that grand stage.\n\"Swordmaster of the seas, why do you stay silent, what makes you sing?\"\nWith every step upon the Earth, she endured the pain, rarely singing, only her crimson blade sang the lament of life.\n\"Dux Gladiorum, come with me to conquer the starry seas!\"\nWhen she found this blazing light, she finally took up her bow, believing it to be the start of the celebration.\n...\n\"Helektra... Helektra... when your song ends, where will you swim to next?\"\nWhen futile hopes shatter, she always answers their questions with a solitary melody, yet it enchants all who hear it.\nOr perhaps... whether in the mortal realm or the deep sea, the only true listener is the performer herself.",
+        "icon": "icon/light_cone/23047.png",
+        "preview": "image/light_cone_preview/23047.png",
+        "portrait": "image/light_cone_portrait/23047.png"
+    },
+    "23048": {
+        "id": "23048",
+        "name": "Epoch Etched in Golden Blood",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "\"How will history remember Cerydra a thousand years from now?\"\nShe was once asked.\nTo some, she was the eminent \"Imperator.\"\nThat cold and cruel tyrant, that ambitious \"Flamecrowned,\" that empress who burned the Old Era with blood and fire...\nOthers argued she was merely a pitiful \"pawn.\"\nThis forsaken ruler was but a prisoner of ambition, destined to lose everything in that game of chess against the gods.\nAnd some said that in the depths of her heart, darker than the ocean's abyss, she was just a mortal named \"Cerydra.\"\nOne who mourned for fallen comrades, who hesitated and feared before her heavy fate, unable to move forward...\n\"Heh. There is no need for history to remember me...\"\nSwallowing the bitterness in her heart, she continued down that path of Flame-Chase paved with sacrifice.\n\"It is our burning golden blood that shall engrave it!\"",
+        "icon": "icon/light_cone/23048.png",
+        "preview": "image/light_cone_preview/23048.png",
+        "portrait": "image/light_cone_portrait/23048.png"
+    },
+    "23049": {
+        "id": "23049",
+        "name": "To Evernight's Stars",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "In the crevices of time, only her heartbeat echoes.\nLike many nights before, watching in the darkness and resting in dormancy.\nShe treasures the memories entrusted to her.\nThe girl sets forth from a blank starting point, painting each stop she lingered at with vibrant colors. A cozy Express, companions each with their unique personalities, dazzling and magnificent planets... like a dream too beautiful to leave behind.\n\"My real journey starts now!\"\nThe girl's declaration seems to whisper right beside her ear.\nShe gazes toward the distant starry sky, as a beam of light approaches.\nIt's the Express's headlight, like a shooting star.\n\"Good night, March... When you awaken, continue on your Trailblaze journey ♭\"\nAs the memoria tide surges, she buries her wish deep in her heart, those tiny whispers and that light\n—she has never forgotten.",
+        "icon": "icon/light_cone/23049.png",
+        "preview": "image/light_cone_preview/23049.png",
+        "portrait": "image/light_cone_portrait/23049.png"
+    },
+    "23051": {
+        "id": "23051",
+        "name": "Though Worlds Apart",
+        "rarity": 5,
+        "path": "Knight",
+        "desc": "In the boundless ancient lands, a young man walks alone on his quest.\nHe seems to return to those wandering days, wading through surging waves, weathering wind and frost, battling behemoths, struggling against raging tides.\nYet in those moments of respite, he is not alone.\nThough worlds apart, he can still see the light ahead...\nIt is the light of hope of all living beings.\nThe shattered earth can no longer sustain new life, and the newborn creatures gather around him, seeking comfort and shelter.\nThose are the words his companions left in his heart, like an endless voyage connecting them firmly together.\nThe troubles of his past may stir with the wind, but the path he's traveled will become the strength for his metamorphosis.\n\"I will stand guard for the Path of the Trailblaze.\"\nThe young man leaps forth with his spear, advancing toward the light\n\"And I shall defend all hope that threatens to fade away!\"",
+        "icon": "icon/light_cone/23051.png",
+        "preview": "image/light_cone_preview/23051.png",
+        "portrait": "image/light_cone_portrait/23051.png"
+    },
     "24000": {
         "id": "24000",
         "name": "On the Fall of an Aeon",
@@ -1044,7 +1434,7 @@
         "name": "Texture of Memories",
         "rarity": 5,
         "path": "Knight",
-        "desc": "The universe was like a badland filled with rubbish.\nThere were the occasional treasure that lies undiscovered.\nTHEY looked through the cracks of the past, choosing seeds of memory.\n...If a new life was to be born, its seed has to be dead.\nPrecious stones of pink, blue, and white were brought forth,\ntwinkling gently in THEIR seed plot,\neven though the universe held onto its enigmatic silence.",
+        "desc": "The universe is like a wasteland filled with rubbish,\nwhere occasional treasures lie undiscovered.\nTHEY sift through the cracks of yesterday, seeking seeds of memory.\n...If a new life is to be born, its seed has to be dead.\nPrecious stones of pink, blue, and white are brought forth,\ntwinkling gently in THEIR seed plot,\neven though the universe holds onto its enigmatic silence.",
         "icon": "icon/light_cone/24002.png",
         "preview": "image/light_cone_preview/24002.png",
         "portrait": "image/light_cone_portrait/24002.png"
@@ -1068,5 +1458,15 @@
         "icon": "icon/light_cone/24004.png",
         "preview": "image/light_cone_preview/24004.png",
         "portrait": "image/light_cone_portrait/24004.png"
+    },
+    "24005": {
+        "id": "24005",
+        "name": "Memory's Curtain Never Falls",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Be it bustling, desolate, fleeting, or enduring... every planet and every instant is brimming with countless events.\nThat condensed history melts at a single touch, flowing as tears from the world's gaze—\nSome say: How heavy those tears must be, the amassed years capable of fading eternity.\nSome say: How wondrous the stories they tell, sorrow so clear, joy so serene, unmarred by even a hint of falsehood.\nThe Cosmos flows in silent stillness, and THEY speak not, only watching—\nWatching and waiting for them to become \"memories.\"",
+        "icon": "icon/light_cone/24005.png",
+        "preview": "image/light_cone_preview/24005.png",
+        "portrait": "image/light_cone_portrait/24005.png"
     }
 }

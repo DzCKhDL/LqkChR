@@ -113,6 +113,12 @@
         "type": "O Enigmata",
         "image": "image/simulated_event/HoshinoKami_013.png"
     },
+    "20": {
+        "id": "20",
+        "name": "Polka Kakamond",
+        "type": "Sociedade de Gênios #4",
+        "image": "image/simulated_event/HoshinoKami_Herta6.png"
+    },
     "139": {
         "id": "139",
         "name": "Início: Corporação da Paz Interastral",
@@ -340,6 +346,522 @@
         "name": "Erudito Inútil",
         "type": "Equação",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "177": {
+        "id": "177",
+        "name": "Ladrão Fantasma",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "178": {
+        "id": "178",
+        "name": "Mausoléu das Feridas",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "179": {
+        "id": "179",
+        "name": "Agregador",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "180": {
+        "id": "180",
+        "name": "Salvador Biônico",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "181": {
+        "id": "181",
+        "name": "Erudito da Aniquilação",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "182": {
+        "id": "182",
+        "name": "Nova Capa (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "183": {
+        "id": "183",
+        "name": "Nova Capa (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "184": {
+        "id": "184",
+        "name": "Nova Capa (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "185": {
+        "id": "185",
+        "name": "Nunca Esquecidos (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "186": {
+        "id": "186",
+        "name": "Nunca Esquecidos (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "187": {
+        "id": "187",
+        "name": "Nunca Esquecidos (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "188": {
+        "id": "188",
+        "name": "Mundo de Dar Corda (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "189": {
+        "id": "189",
+        "name": "Mundo de Dar Corda (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "190": {
+        "id": "190",
+        "name": "Mundo de Dar Corda (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "191": {
+        "id": "191",
+        "name": "Verdades Impressas (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "192": {
+        "id": "192",
+        "name": "Verdades Impressas (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "193": {
+        "id": "193",
+        "name": "Verdades Impressas (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "194": {
+        "id": "194",
+        "name": "A Grande Mentira (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "195": {
+        "id": "195",
+        "name": "A Grande Mentira (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "196": {
+        "id": "196",
+        "name": "A Grande Mentira (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "197": {
+        "id": "197",
+        "name": "Extinção das Chamas (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "198": {
+        "id": "198",
+        "name": "Extinção das Chamas (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "199": {
+        "id": "199",
+        "name": "Extinção das Chamas (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "200": {
+        "id": "200",
+        "name": "Gênio e Profecia (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "201": {
+        "id": "201",
+        "name": "Gênio e Profecia (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "202": {
+        "id": "202",
+        "name": "Congresso Futurológico (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "203": {
+        "id": "203",
+        "name": "Congresso Futurológico (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "204": {
+        "id": "204",
+        "name": "Congresso Futurológico (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "205": {
+        "id": "205",
+        "name": "Falência Onipotente (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "206": {
+        "id": "206",
+        "name": "Falência Onipotente (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "207": {
+        "id": "207",
+        "name": "Falência Onipotente (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "208": {
+        "id": "208",
+        "name": "Vírus Antiorgânico (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "209": {
+        "id": "209",
+        "name": "Vírus Antiorgânico (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "210": {
+        "id": "210",
+        "name": "Vírus Antiorgânico (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "211": {
+        "id": "211",
+        "name": "Protesto de Izmael (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "212": {
+        "id": "212",
+        "name": "Protesto de Izmael (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "213": {
+        "id": "213",
+        "name": "Protesto de Izmael (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "214": {
+        "id": "214",
+        "name": "Cognição Desmoronada (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "215": {
+        "id": "215",
+        "name": "Cognição Desmoronada (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "216": {
+        "id": "216",
+        "name": "Cognição Desmoronada (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "217": {
+        "id": "217",
+        "name": "Espiando o Paraíso (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "218": {
+        "id": "218",
+        "name": "Espiando o Paraíso (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "219": {
+        "id": "219",
+        "name": "Espiando o Paraíso (III)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "220": {
+        "id": "220",
+        "name": "Expectativa de Aeons",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "221": {
+        "id": "221",
+        "name": "Domínio Incógnito (I)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "222": {
+        "id": "222",
+        "name": "Domínio Incógnito (II)",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "Traçador Relativo",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "224": {
+        "id": "224",
+        "name": "Verme Distorcestrelas",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "225": {
+        "id": "225",
+        "name": "Gigante Sem Coração",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "226": {
+        "id": "226",
+        "name": "Catador de Ervas",
+        "type": "Equação",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "227": {
+        "id": "227",
+        "name": "Borboleta Em Um Galho",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "228": {
+        "id": "228",
+        "name": "Borboleta Voa Pela Janela",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "229": {
+        "id": "229",
+        "name": "Borboleta Parte Em Silêncio",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "230": {
+        "id": "230",
+        "name": "Quando o Fruto do Destino Caiu",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "231": {
+        "id": "231",
+        "name": "Quando os Passos do Destino Cessaram",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "Quando o Destino Revelou o Caminho",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "233": {
+        "id": "233",
+        "name": "Carnaval do Céu e Terra",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "234": {
+        "id": "234",
+        "name": "Canção da Chuva e da Neve",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "235": {
+        "id": "235",
+        "name": "Valsa do Vento e das Marés",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "236": {
+        "id": "236",
+        "name": "A Divindade que Enganou as Divindades",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "A Divindade que Zombou dos Mortais",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "A Divindade da Desordem e do Caos",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "239": {
+        "id": "239",
+        "name": "A Guerra que Nunca Cessou",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "240": {
+        "id": "240",
+        "name": "A Guerra Que Continua Ardendo",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "241": {
+        "id": "241",
+        "name": "A Guerra que Perdeu Sua Glória",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "242": {
+        "id": "242",
+        "name": "Canção de Ninar para Acalmar Crianças",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "Canção de Ninar para Alertar o Mundo",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "244": {
+        "id": "244",
+        "name": "Canção de Ninar para Voltar Ao Lar",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "245": {
+        "id": "245",
+        "name": "Ave Gigante Que Cobre a Terra",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "246": {
+        "id": "246",
+        "name": "Sabedoria Que Transcende o Mar",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "247": {
+        "id": "247",
+        "name": "Louvor ao Familiar Perfeito",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "248": {
+        "id": "248",
+        "name": "Elogie Sua Sabedoria",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "249": {
+        "id": "249",
+        "name": "Suspire Diante de Sua Indiferença",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "250": {
+        "id": "250",
+        "name": "Suspiro por Suas Bênçãos",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "251": {
+        "id": "251",
+        "name": "Marcha do Gigante",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "252": {
+        "id": "252",
+        "name": "Missão do Gigante",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "253": {
+        "id": "253",
+        "name": "Nêmesis do Gigante",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "254": {
+        "id": "254",
+        "name": "Profecia Dourada",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "255": {
+        "id": "255",
+        "name": "Profecia Platina",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "256": {
+        "id": "256",
+        "name": "Profecia de Liderança e Aço",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "257": {
+        "id": "257",
+        "name": "Lei Que Une Todas as Coisas",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "258": {
+        "id": "258",
+        "name": "Lei Que Regula a Virtude Humana",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "259": {
+        "id": "259",
+        "name": "Lei Que Regula as Divindades",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "260": {
+        "id": "260",
+        "name": "A Coisa Mais Pesada",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "261": {
+        "id": "261",
+        "name": "A Coisa Mais Obstinada",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "262": {
+        "id": "262",
+        "name": "A Coisa Mais Gentil",
+        "type": "Segredo",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
     },
     "398": {
         "id": "398",
@@ -658,6 +1180,12 @@
         "name": "Loja do Screwllum",
         "type": "Transação",
         "image": "image/simulated_event/HoshinoKami_Herta3.png"
+    },
+    "110007": {
+        "id": "110007",
+        "name": "Loja de Equações da Ruan Mei",
+        "type": "Transação",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
     },
     "110101": {
         "id": "110101",
@@ -1481,12 +2009,6 @@
         "type": "Ocorrência",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
-    "390101": {
-        "id": "390101",
-        "name": "",
-        "type": "",
-        "image": "image/simulated_event/PicRogueEvent_Normal.png"
-    },
     "410101": {
         "id": "410101",
         "name": "Mineradores Nômades",
@@ -1670,6 +2192,12 @@
     "412801": {
         "id": "412801",
         "name": "A Experiência de Loteria Dupla",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "412802": {
+        "id": "412802",
+        "name": "A Experiência da Super Loteria",
         "type": "Ocorrência",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
     },
@@ -1985,10 +2513,370 @@
         "type": "Ocorrência",
         "image": "image/simulated_event/PicRogueEvent_17.png"
     },
-    "490701": {
-        "id": "490701",
-        "name": "Teste",
-        "type": "",
+    "421801": {
+        "id": "421801",
+        "name": "Incompatibilidade Semântica",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Battle.png"
+    },
+    "421901": {
+        "id": "421901",
+        "name": "Pão e Abacaxi",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_19.png"
+    },
+    "422001": {
+        "id": "422001",
+        "name": "Macacos Como Você",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_21.png"
+    },
+    "422101": {
+        "id": "422101",
+        "name": "Sinfonia do Lixo",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_20.png"
+    },
+    "422201": {
+        "id": "422201",
+        "name": "Cerimônia de Pesca",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "422301": {
+        "id": "422301",
+        "name": "Lava",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422401": {
+        "id": "422401",
+        "name": "Desconto Especial",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422501": {
+        "id": "422501",
+        "name": "Vida de Metal",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "422601": {
+        "id": "422601",
+        "name": "Uma Pitada de Cor",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_profiteer.png"
+    },
+    "422701": {
+        "id": "422701",
+        "name": "Unidade de Criação",
+        "type": "Ocorrência",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "422801": {
+        "id": "422801",
+        "name": "Banco de Tempo (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "422811": {
+        "id": "422811",
+        "name": "Banco de Tempo (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "423001": {
+        "id": "423001",
+        "name": "Tentação Vermelha",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "423101": {
+        "id": "423101",
+        "name": "Dificuldades de Seleção (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423102": {
+        "id": "423102",
+        "name": "Dificuldades de Seleção (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423501": {
+        "id": "423501",
+        "name": "Mercado de Pulgas",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "423601": {
+        "id": "423601",
+        "name": "Produto de Colaboração",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Toy.png"
+    },
+    "424201": {
+        "id": "424201",
+        "name": "Estratégia do Oceano Azul",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "424301": {
+        "id": "424301",
+        "name": "Majority Report - A Velha Lei",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "424401": {
+        "id": "424401",
+        "name": "Bateu a Inspiração",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424501": {
+        "id": "424501",
+        "name": "Templo da Reticência",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "424601": {
+        "id": "424601",
+        "name": "Futuro Falso",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_11.png"
+    },
+    "424701": {
+        "id": "424701",
+        "name": "Hackers e Marinheiros",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_28.png"
+    },
+    "424801": {
+        "id": "424801",
+        "name": "A Primeira Batalha da Rua Comercial",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424901": {
+        "id": "424901",
+        "name": "A Vida É Como um Legume (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424902": {
+        "id": "424902",
+        "name": "A Vida É Como um Legume (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424903": {
+        "id": "424903",
+        "name": "A Vida É Como um Legume (III)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "510004": {
+        "id": "510004",
+        "name": "Stephen",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/HoshinoKami_Herta4.png"
+    },
+    "510005": {
+        "id": "510005",
+        "name": "Ruan Mei",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
+    "519401": {
+        "id": "519401",
+        "name": "Mundo Pixelado: Estágio Oculto",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Pixel.png"
+    },
+    "523801": {
+        "id": "523801",
+        "name": "Velozes & Motorizados",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_25.png"
+    },
+    "523901": {
+        "id": "523901",
+        "name": "Incubadora",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_23.png"
+    },
+    "524001": {
+        "id": "524001",
+        "name": "Faz Tudo (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524002": {
+        "id": "524002",
+        "name": "Faz Tudo (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524101": {
+        "id": "524101",
+        "name": "Navio dos Tolos",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_26.png"
+    },
+    "625001": {
+        "id": "625001",
+        "name": "Murmurador",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625101": {
+        "id": "625101",
+        "name": "Familiar Impostor",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625201": {
+        "id": "625201",
+        "name": "Dispositivo de Observação de Estrelas",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625301": {
+        "id": "625301",
+        "name": "Dado de Dolos",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625401": {
+        "id": "625401",
+        "name": "Fugitivo do Espelho",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625501": {
+        "id": "625501",
+        "name": "Proporção Ideal de Sucesso",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "625601": {
+        "id": "625601",
+        "name": "Acordo Corrompido",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625701": {
+        "id": "625701",
+        "name": "Voz do Mar",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625801": {
+        "id": "625801",
+        "name": "Oração Apressada",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625901": {
+        "id": "625901",
+        "name": "O Nascimento de um Herói (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625902": {
+        "id": "625902",
+        "name": "O Nascimento de um Herói (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625903": {
+        "id": "625903",
+        "name": "O Nascimento de um Herói (III)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626001": {
+        "id": "626001",
+        "name": "Divergência da Vida (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626002": {
+        "id": "626002",
+        "name": "Divergência da Vida (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626101": {
+        "id": "626101",
+        "name": "Teatro de Tabuleiro",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "626201": {
+        "id": "626201",
+        "name": "Momento de Oportunidade",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626301": {
+        "id": "626301",
+        "name": "A Arena do Leão",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_35.png"
+    },
+    "626401": {
+        "id": "626401",
+        "name": "Contenção de Xenomorfos",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "626501": {
+        "id": "626501",
+        "name": "Balança dos Desejos",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626601": {
+        "id": "626601",
+        "name": "O Marshmallow",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_38.png"
+    },
+    "626701": {
+        "id": "626701",
+        "name": "Caminho do Sábio (I)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626702": {
+        "id": "626702",
+        "name": "Caminho do Sábio (II)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626703": {
+        "id": "626703",
+        "name": "Caminho do Sábio (III)",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626801": {
+        "id": "626801",
+        "name": "Missão de Escolta",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626901": {
+        "id": "626901",
+        "name": "Portões do Labirinto",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_37.png"
+    },
+    "627001": {
+        "id": "627001",
+        "name": "Cyrene",
+        "type": "Ocorrência",
+        "image": "image/simulated_event/PicRogueEvent_39.png"
     }
 }

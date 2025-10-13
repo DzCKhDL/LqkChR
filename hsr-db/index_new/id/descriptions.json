@@ -452,12 +452,12 @@
     "10091": {
         "id": "10091",
         "title": "Basic Attack",
-        "desc": "Gunakan \"Basic Attack\" karakter untuk menyerang musuh dan memulihkan \"Poin Skill\"."
+        "desc": "Gunakan \"Basic Attack\" karakter untuk menyerang target musuh dan memulihkan \"Poin Skill\"."
     },
     "10092": {
         "id": "10092",
         "title": "Poin Skill",
-        "desc": "\"Poin Skill\" dibagikan bersama seluruh tim. Melancarkan \"Skill\" akan mengonsumsi Poin Skill, dan melancarkan \"Basic Attack\" dapat memulihkan Poin Skill.\nKoordinasi yang strategis akan menjadi kunci kemenangan pertempuran!"
+        "desc": "\"Poin Skill\" dibagikan bersama seluruh anggota tim. Melancarkan \"Skill\" akan mengonsumsi Poin Skill, dan melancarkan \"Basic Attack\" dapat memulihkan Poin Skill.\nKoordinasi yang strategis akan menjadi kunci kemenangan pertempuran!"
     },
     "10093": {
         "id": "10093",
@@ -467,7 +467,7 @@
     "10094": {
         "id": "10094",
         "title": "Tipe",
-        "desc": "Setiap karakter memiliki \"tipe\" yang berbeda.\nGunakan serangan yang tipenya sama dengan \"Weakness\" musuh untuk memenangkan pertempuran."
+        "desc": "Setiap karakter memiliki \"Tipe\" yang berbeda.\nGunakan serangan yang Tipenya sama dengan \"Weakness\" musuh untuk memenangkan pertempuran."
     },
     "10095": {
         "id": "10095",
@@ -502,7 +502,7 @@
     "10101": {
         "id": "10101",
         "title": "Weakness Break: Ice",
-        "desc": "Saat menggunakan Ice untuk mengakibatkan \"Weakness Break\" akan menambah status \"Frozen\" pada musuh.\n\"Frozen\" membuat musuh tidak dapat beraksi dan mengakibatkan Ice DoT."
+        "desc": "Saat menggunakan serangan Ice untuk mengakibatkan \"Weakness Break\", akan menambah status \"Frozen\" pada musuh.\n\"Frozen\" membuat musuh tidak dapat beraksi dan mengakibatkan Ice DMG Tambahan."
     },
     "10102": {
         "id": "10102",
@@ -777,7 +777,7 @@
     "10157": {
         "id": "10157",
         "title": "Penacony (Dunia Nyata)",
-        "desc": "Megastruktur di galaksi Asdana. \"Reverie Hotel\" yang menjulang tinggi adalah bangunan yang ikonik di tempat ini.\nDi bawah pembangunan Family, bekas penjara perbatasan IPC ini sudah menjadi gerbang menuju taman mimpi indah sekaligus pusat lalu lintas antarbintang."
+        "desc": "Megastruktur di sistem bintang Asdana. \"Reverie Hotel\" yang menjulang tinggi adalah bangunan yang ikonik di tempat ini.\nDi bawah pembangunan Family, bekas penjara perbatasan IPC ini sudah menjadi gerbang menuju taman mimpi indah sekaligus pusat lalu lintas antarbintang."
     },
     "10158": {
         "id": "10158",
@@ -959,6 +959,431 @@
         "title": "Hoolay",
         "desc": "Musuh utama orang Xianzhou – Brood Lord Borisin.\nDia dikalahkan dalam pertempuran 700 tahun yang lalu dan kemudian ditahan di Shackling Prison Xianzhou Luofu, dihukum untuk menderita selamanya."
     },
+    "10210": {
+        "id": "10210",
+        "title": "Yao Guang",
+        "desc": "Jenderal Arbiter Xianzhou \"Yuque\", orang-orang menyebut dia sebagai \"Seer Strategist\".\nJenderal yang jarang terlihat di Alliance, dia selalu sembunyi di balik layar dan melakukan ramalan untuk marsekal."
+    },
+    "10211": {
+        "id": "10211",
+        "title": "Barier Pantulan Cahaya Deca",
+        "desc": "Matriks peramalan yang dibangun oleh Xianzhou Yuque.\nDikatakan bahwa prinsip matriks ini mirip dengan \"Matrix of Prescience Ultima\", dan penyusunannya berasal dari pengetahuan dan inspirasi Nous sang \"Wisdomwalker\"."
+    },
+    "10212": {
+        "id": "10212",
+        "title": "Skysplitter",
+        "desc": "Tempat yang digunakan untuk Ritual Bela Diri Xianzhou \"Luofu\", merupakan kapal perang besar yang sudah pensiun dan dimodifikasi.\nSaat suara meriam berbunyi, para petarung yang diundang dari berbagai dunia akan berkumpul di sini untuk bertarung."
+    },
+    "10213": {
+        "id": "10213",
+        "title": "Shackling Prison",
+        "desc": "Sistem penjara yang digunakan oleh Xianzhou Alliance untuk mengurung dan menaklukkan kriminal.\nShackling Prison di Xianzhou \"Luofu\" dibangun oleh orang Xianzhou dan Vidyadhara, terkubur di kedalaman kawasan dan di bawah laut."
+    },
+    "10214": {
+        "id": "10214",
+        "title": "Borisin",
+        "desc": "Pemburu antargalaksi, musuh bebuyutan Xianzhou, salah satu cabang Denizens of Abundance yang paling kuat.\nBorisin berwujud serigala raksasa yang menjunjung tinggi kekuatan, kekejaman, dan keganasan. Mereka menyerang planet-planet, menghabiskan sumber daya mereka, dan menghancurkan banyak peradaban."
+    },
+    "10215": {
+        "id": "10215",
+        "title": "Perang Fanghu",
+        "desc": "Titik balik dari perang Denizens of Abundance yang ketiga. Di bawah cahaya bintang iblis, Abominations of Abundance yang dipimpin oleh Borisin nyaris berhasil menaklukkan Xianzhou \"Fanghu\".\nBerkat jasa para pejuang Xianzhou yang gugur, \"Cloudpeer Telescope\" berhasil mengirimkan pesan yang memanggil Reignbow untuk membalikkan keadaan."
+    },
+    "10216": {
+        "id": "10216",
+        "title": "\"Bulan Merah\"",
+        "desc": "Pada upacara pemilihan Warhead Borisin, para petarung saling menelan dan mewarisi jejak wabah keabadian dari generasi ke generasi, \"jantung\" yang berwarna merah darah seperti bulan purnama.\n\"Mengonsumsi mangsanya untuk menjadi lebih kuat\", inilah teknik rahasia utama Borisin untuk menjadi abadi, dan juga alasan mendasar kekuatan mereka yang tidak pernah pudar."
+    },
+    "10217": {
+        "id": "10217",
+        "title": "\"Flying Aureus\"",
+        "desc": "Roh kuat yang diberikan oleh Reignbow Arbiter, hewan buas dengan kecepatan luar biasa yang bersembunyi di dalam tubuh Feixiao sang \"Merlin's Claw\".\nMata duniawi tidak dapat melihatnya, orang-orang cuma bisa menyaksikan kedatangannya dalam sekejap sesaat sebelum kematian.\nBagi Feixiao, dia adalah anak panah yang memandu aksinya, kematian yang melahap hidupnya, dan juga mangsa yang terus dia kejar sepanjang hidupnya."
+    },
+    "10220": {
+        "id": "10220",
+        "title": "Rappa",
+        "desc": "Seorang gadis ajaib yang muncul di Penacony bagaikan granat setrum di kegelapan dini hari. Dia menganggap dirinya sebagai seorang ninja, dan mengaitkan segala sesuatu di dunia ini dengan \"teknik ninja\".\nDia berkelana di negeri mimpi Era Kekacauan untuk menegakkan keadilan, dan bertekad untuk memburu seorang penjahat bernama \"Ninja Jahat Osaru\"."
+    },
+    "10221": {
+        "id": "10221",
+        "title": "Rappa",
+        "desc": "Galaxy Ranger yang menyebut dirinya sebagai \"Ninja Dazzling\". Dia terinfeksi virus meme karena eksperimen atavistis, sehingga memandang segala sesuatu di dunia dalam konteks \"ninja\".\nUntuk menebus darah dan air mata masa lalu serta menerapkan jalan ninja Dazzling, dia mengabdikan dirinya untuk memburu penjahat bernama \"Ninja Jahat Osaru\", yang juga dikenal sebagai \"Dr. Primitive\"."
+    },
+    "10222": {
+        "id": "10222",
+        "title": "Dr. Primitive",
+        "desc": "Anggota ke-64 \"Genius Society\", seorang ilmuwan yang melakukan pelanggaran terhadap kemanusiaan. Identitasnya tidak diketahui.\nKekejaman \"eksperimen atavistis\" yang dijalaninya menyebabkan kekacauan di seluruh alam semesta, dan karena itulah dia berseteru dengan para Galaxy Ranger. Sampai saat ini, keberadaannya tidak diketahui."
+    },
+    "10223": {
+        "id": "10223",
+        "title": "AtaviSearch Forest",
+        "desc": "Kelompok riset fanatik yang terdiri dari para sarjana yang memuja-muja \"Dr. Primitive\". Sekelompok manusia dan kera obsesif ini mengikuti jejak idola mereka, dan berusaha menyebarkan \"eksperimen atavistis\" ke seluruh alam semesta."
+    },
+    "10224": {
+        "id": "10224",
+        "title": "Penacony Paperfold University College",
+        "desc": "Sebuah universitas terkenal di Penacony yang terletak di \"Moment of Sol\". Tempat lahirnya bakat-bakat luar biasa, yang terus mengirimkan cahaya dan gelora pengetahuan ke dalam dan luar dunia mimpi."
+    },
+    "10225": {
+        "id": "10225",
+        "title": "Sunday",
+        "desc": "Mantan kepala Oak Family, kakak laki-laki Robin.\nSetelah meredanya gejolak di Festival Charmony, dia pun mengucapkan selamat tinggal pada \"Order\" dan kampung halamannya. Dia menaiki Astral Express untuk mencari jalan baru."
+    },
+    "10226": {
+        "id": "10226",
+        "title": "Tingyun",
+        "desc": "Utusan dari Sky-Faring Commission Xianzhou \"Luofu\".\nSetelah bertemu dengan Lord Ravager, tubuh dan pikirannya menjadi hancur. Kemudian, dia diselamatkan oleh seorang jenius, mengubah kemalangan menjadi berkah, dan hidup kembali."
+    },
+    "10227": {
+        "id": "10227",
+        "title": "\"Bacot\"",
+        "desc": "Robot pembuat minuman di Astral Express, yang menganggap dirinya jenaka dan lucu.\nDiciptakan beberapa Era Amber yang lalu, dan perlahan-lahan terlupakan.\nSetelah Express berangkat kembali, diperbaiki oleh Void Archives."
+    },
+    "10228": {
+        "id": "10228",
+        "title": "Aglaea",
+        "desc": "Keturunan Chrysos dari Okhema, \"setengah dewa\" dari \"Romansa\", dan juga pemimpin perjalanan mengejar api.\nSebagai seorang penenun, dia secara pribadi memasangkan jarum dan benang, mengumpulkan para pahlawan di dunia untuk sekali lagi menapaki perjalanan panjang yang tiada akhir."
+    },
+    "10229": {
+        "id": "10229",
+        "title": "Tribbie, Trianne, Trinnon",
+        "desc": "Keturunan Chrysos dari Janusopolis, \"setengah dewa\" dari \"Perjalanan\", utusan kecil dan imam Okhema.\nKetiganya memimpin Keturunan Chrysos dengan ramalannya untuk melangkah maju, masing-masing memikul tanggung jawab yang berbeda."
+    },
+    "10230": {
+        "id": "10230",
+        "title": "Mydei",
+        "desc": "Putra mahkota Castrum Kremnos, putra Gorgo, seorang pejuang yang hebat dan tajam bagaikan singa.\nMeskipun dia tampak sombong dan sulit diatur, tapi sebenarnya dia mengutamakan kesetiaan dan peduli pada rakyatnya."
+    },
+    "10231": {
+        "id": "10231",
+        "title": "Castorice",
+        "desc": "Maiden Perang dari Aidonia, \"pengurus jenazah\" Okhema.\nMenyandang kutukan yang dikenal sebagai \"Sentuhan Kematian\", kehidupan apa pun yang disentuh oleh ujung jarinya akan sirna dan binasa."
+    },
+    "10232": {
+        "id": "10232",
+        "title": "Phainon",
+        "desc": "Keturunan Chrysos dari Aedes Elysiae, pejuang Okhema.\nSeorang pemuda yang lembut dan ceria dengan pikiran yang berorientasi pada detail dan mengejar kesempurnaan dalam segala hal yang dilakukannya."
+    },
+    "10233": {
+        "id": "10233",
+        "title": "Mem",
+        "desc": "Makhluk misterius berbulu pink, sepertinya memiliki hubungan erat dengan Amphoreus."
+    },
+    "10234": {
+        "id": "10234",
+        "title": "Mata Fajar Senja, Aquila",
+        "desc": "Titan Langit\nSaat mata Aquila yang mengawasi dunia terbuka, dunia menyambut datangnya cahaya. Saat mata Aquila terpejam, dunia tenggelam dalam kegelapan."
+    },
+    "10235": {
+        "id": "10235",
+        "title": "Pilar Batu, Georios",
+        "desc": "Titan Bumi\nSemua pegunungan dulunya adalah manifestasi Georios. Dia adalah Titan paling besar, juga paling lembut dan baik hati. Dewa pelindung dunia."
+    },
+    "10236": {
+        "id": "10236",
+        "title": "Cawan Kelimpahan, Phagousa",
+        "desc": "Titan Samudra\nPhagousa senang berkelana di dunia, muncul di tengah ombak lautan, arus deras sungai, dan gelas anggur perjamuan, membawakan nyanyian, tarian, dan tawa."
+    },
+    "10237": {
+        "id": "10237",
+        "title": "Kepompong Emas, Mnestia",
+        "desc": "Titan Romansa\nDia dan kerabat Titannya mengejar segala keindahan dunia, menenunnya ke dalam benang emas untuk menciptakan romansa di dunia, membuat semua makhluk di Amphoreus memiliki cinta dan kasih sayang."
+    },
+    "10238": {
+        "id": "10238",
+        "title": "Takhta Dunia, Kephale",
+        "desc": "Titan Penopang Dunia\nKephale diberi tanggung jawab oleh para dewa untuk memikul beban kehidupan. Dia meninggalkan takhta kekuasaannya atas dunia, hanya untuk meninggalkan secercah cahaya bagi umat manusia."
+    },
+    "10239": {
+        "id": "10239",
+        "title": "Cabang Keretakan, Cerces",
+        "desc": "Titan Rasionalitas\nCerces datang ke dunia dalam wujud Pohon Suci raksasa, mengizinkan manusia untuk berjalan, merenung, dan berdiskusi di sekitarnya untuk memperoleh pengetahuan."
+    },
+    "10240": {
+        "id": "10240",
+        "title": "Koin Muslihat, Zagreus",
+        "desc": "Titan Tipu Muslihat\nZagreus tidak berminat melaksanakan tugas ilahinya. Dia senang menciptakan perselisihan di antara para dewa, mempermainkan mereka, dan menciptakan segala macam kekacauan dan ketidakteraturan."
+    },
+    "10241": {
+        "id": "10241",
+        "title": "Tombak Hukuman Langit, Nikador",
+        "desc": "Titan Pertikaian\nDia mendeklarasikan perang terhadap para dewa dan menjerumuskan dunia ke dalam pertikaian tanpa akhir. Dalam balada para penyair, Pedang Hukuman Langit miliknya bisa meratakan langit dan bumi hanya dengan satu tebasan."
+    },
+    "10242": {
+        "id": "10242",
+        "title": "Tangan Kelabu, Thanatos",
+        "desc": "Titan Kematian\nSaat banyak jiwa tidak menemukan tempat untuk berlabuh, ombak Sungai Jiwa akan meluap ke bumi, dan Thanatos akan datang mengemudikan perahunya untuk menuntun jiwa-jiwa tersebut menuju alam berikutnya."
+    },
+    "10243": {
+        "id": "10243",
+        "title": "Tirai Malam Abadi, Oronyx",
+        "desc": "Titan Waktu\nOronyx menata alur waktu, menopang masa lalu, masa kini, dan masa depan dunia, memastikan segala sesuatu mengalir."
+    },
+    "10244": {
+        "id": "10244",
+        "title": "Neraca Keadilan, Talanton",
+        "desc": "Titan Hukum\nTalanton tidak pernah menoleransi keberpihakan dan ketidakadilan. Dia melindungi tabu dan batasan Amphoreus sambil menetapkan logika dan hukum untuk segala hal."
+    },
+    "10245": {
+        "id": "10245",
+        "title": "Gerbang Seribu Jalan, Janus",
+        "desc": "Titan Perjalanan\nJanus mengetahui keberadaan dan tujuan akhir setiap jalan. Dia tidak hanya menguasai jalur yang dilalui manusia, tapi juga perjalanan yang menghubungkan takdir."
+    },
+    "10246": {
+        "id": "10246",
+        "title": "Titan",
+        "desc": "Para Titan di Amphoreus adalah kekuatan yang menopang langit dan bumi, takdir dari zaman kuno hingga saat ini, dan pengatur yang mengatur segala sesuatu di dunia.\nManusia hidup dalam suka dan duka, pengetahuan, perang, cinta, hidup dan mati — semuanya berkaitan erat dengan kekuatan ilahi mereka."
+    },
+    "10247": {
+        "id": "10247",
+        "title": "Keturunan Chrysos",
+        "desc": "Menurut legenda, cahaya ilahi Kephale meredup, dia mengorbankan benih apinya sendiri dan meninggalkan \"Ramalan Penciptaan Dunia\".\nSetelah itu, para pahlawan dengan kekuatan besar mulai berjalan di atas bumi, darah emas keilahian mengalir melalui nadi mereka, dan mereka dikenal sebagai \"Keturunan Chrysos\"."
+    },
+    "10248": {
+        "id": "10248",
+        "title": "Setengah Dewa",
+        "desc": "Tribios mengambil benih api Janus dan menjadi manusia \"setengah dewa\" pertama.\nSejak itu, banyak pahlawan Keturunan Chrysos yang telah melewati ujian, menerima kuasa ilahi Titan, menjadi \"setengah dewa\" dan menjaga ketertiban di dunia."
+    },
+    "10249": {
+        "id": "10249",
+        "title": "Okhema",
+        "desc": "Manusia mendirikan pemukiman di kaki Kephale, dan dengan demikian lahirlah pendahulu \"Okhema\".\nSaat ini, tempat ini bukan hanya tempat perlindungan di akhir zaman, tapi juga titik awal perjalanan \"Era Penciptaan Ulang\"."
+    },
+    "10250": {
+        "id": "10250",
+        "title": "Castrum Kremnos",
+        "desc": "Benteng bergerak raksasa, kota pejuang yang memuja Nikador.\nOrang-orang Kremnos bangga bertarung sampai mati, dan mereka terkenal di Amphoreus karena disiplin ketat mereka."
+    },
+    "10251": {
+        "id": "10251",
+        "title": "Jurang Takdir",
+        "desc": "Janusopolis, tempat suci kepercayaan yang melampaui geopolitik negara-kota.\nSaat ini, hanya beberapa kuil yang masih berdiri, dan orang-orang menyebutnya \"Jurang Takdir\" atau \"Kuil Tiga Takdir\"."
+    },
+    "10252": {
+        "id": "10252",
+        "title": "Gelombang Hitam",
+        "desc": "Wujud air yang melarutkan jiwa, kegelapan yang menyelimuti Amphoreus.\nGelombang hitam dan ciptaannya adalah penyebab langsung Amphoreus berada di ambang kehancuran."
+    },
+    "10253": {
+        "id": "10253",
+        "title": "Pencuri Api",
+        "desc": "Pendekar pedang tak bernama yang datang bersama gelombang hitam dan berburu benih api Titan. Tidak ada yang mengetahui wujud aslinya.\nMemiliki kekuatan yang tak terbayangkan dan keahlian pedang yang tak tertandingi."
+    },
+    "10254": {
+        "id": "10254",
+        "title": "Pencuri Api",
+        "desc": "Pendekar pedang tak bernama yang datang bersama gelombang hitam dan berburu benih api Titan. Tidak ada yang mengetahui wujud aslinya.\nDia bertarung mati-matian melawan orang-orang di pengepungan Castrum Kremnos, tapi akhirnya kalah dan keberadaannya kini tidak diketahui."
+    },
+    "10255": {
+        "id": "10255",
+        "title": "Grove of Epiphany",
+        "desc": "Taman yang dibangun di sekitar jelmaan Cerces, salah satu pusat akademis suci di Amphoreus.\nSaat ini, tempat ini merupakan sekutu Okhema sekaligus garda terdepan dalam penelitian gelombang hitam, Titan, dan berbagai fenomena misterius lainnya."
+    },
+    "10256": {
+        "id": "10256",
+        "title": "Grove of Epiphany",
+        "desc": "Taman yang dibangun di sekitar jelmaan Cerces, salah satu pusat akademis suci di Amphoreus.\nKini telah dihancurkan oleh serangan gelombang hitam."
+    },
+    "10257": {
+        "id": "10257",
+        "title": "Tribbie, Trianne, Trinnon",
+        "desc": "Keturunan Chrysos dari Janusopolis, setengah dewa \"Perjalanan\". Dulunya adalah seorang Maiden yang cantik, tapi kini kembali ke wujud anak-anak sebagai bayaran atas benih api.\nTrianne mengorbankan dirinya dalam serangan Pencuri Api. Jiwanya pun lenyap sepenuhnya dan dia berubah menjadi boneka yang memiliki rupanya."
+    },
+    "10258": {
+        "id": "10258",
+        "title": "Mydei",
+        "desc": "Keturunan Chrysos dari Castrum Kremnos, setengah dewa \"Pertikaian\", anak dari Gorgo, dan raja dewa terakhir Castrum Kremnos.\nMemimpin rakyatnya ke dalam perjuangan mengejar api, lalu kembali ke kampung halamannya seorang diri, melawan gelombang hitam yang melanda seluruh dunia dengan kekuatan satu orang."
+    },
+    "10259": {
+        "id": "10259",
+        "title": "Hyacine",
+        "desc": "Keturunan Chrysos dari Pelataran Cahaya Senja, keturunan Langit.\nMemiliki kepribadian yang optimis dan ceria dan seorang pendengar yang baik. Di tengah ketidakpastian akhir zaman, dia berusaha membangun sebuah taman penyembuhan yang terisolasi dari dunia bagi orang-orang."
+    },
+    "10260": {
+        "id": "10260",
+        "title": "Cipher",
+        "desc": "Keturunan Chrysos dari Dolos, setengah dewa \"Tipu Muslihat\". Dia sudah lama meninggalkan misi Pengejaran Api dan menjauh dari Kota Suci.\nMemiliki kekuatan untuk mengerahkan kecepatan dewa, tapi malah menggunakannya untuk mencuri. Dia memiliki banyak tipu muslihat dan lebih suka menjalani kehidupannya yang sederhana daripada menjadi pahlawan."
+    },
+    "10261": {
+        "id": "10261",
+        "title": "Anaxa",
+        "desc": "Keturunan Chrysos dari Grove of Epiphany, salah satu dari Tujuh Orang Bijak, pendiri Sekolah Benih Kecerdasan. Dia dijuluki \"Penista\" karena berkukuh bahwa manusia dan dewa tidak berbeda.\nDia secara ajaib berhasil selamat dari bencana Grove, dan benih api Titan Rasionalitas saat ini menetap di dalam tubuhnya."
+    },
+    "10262": {
+        "id": "10262",
+        "title": "Castorice",
+        "desc": "Maiden Perang Aidonia, setengah dewa \"Kematian\". Sebagai tangan kiri Thanatos, dia mengendalikan kekuatan untuk \"memberikan kematian\".\nSetelah mengetahui asal-usulnya dan melewati ujian, dia menyatukan kedua tangan kematian untuk menjaga tatanan hidup dan mati di dunia."
+    },
+    "10263": {
+        "id": "10263",
+        "title": "Anaxa",
+        "desc": "Keturunan Chrysos dari Grove of Epiphany, setengah dewa \"Rasional\". Salah satu dari Tujuh Orang Bijak dan merupakan pendiri Sekolah Benih Kecerdasan.\nDia sudah meninggal saat bencana terjadi di Grove of Epiphany, tapi kini dia berjalan bersama Titan setelah mati, menyelesaikan ujian dan mengungkapkan esensi sebenarnya dari dunia Amphoreus."
+    },
+    "10264": {
+        "id": "10264",
+        "title": "Cipher",
+        "desc": "Keturunan Chrysos dari Dolos, setengah dewa \"Tipu Muslihat\". Meskipun dia sudah meninggalkan tugasnya dalam Perjalanan Pengejaran Api, tapi dia diam-diam kembali ke Kota Suci.\nMemiliki kekuatan untuk mengerahkan kecepatan dewa, tapi malah menggunakannya untuk mencuri. Dia memiliki banyak tipu muslihat dan lebih suka menjalani kehidupannya yang sederhana daripada menjadi pahlawan."
+    },
+    "10265": {
+        "id": "10265",
+        "title": "Tebing Awan Fajar",
+        "desc": "Okhema adalah tempat yang paling dekat dengan Kephale sang \"Titan Penopang Dunia\", tempat suci bagi Keturunan Chrysos dan Titan membangun hubungan.\nTempat ini sakral dan megah, merupakan tempat berkumpulnya orang-orang bangsawan di Kota Okhema, serta pusat budaya dan politik Okhema."
+    },
+    "10266": {
+        "id": "10266",
+        "title": "Kota Kuno Tulang Naga",
+        "desc": "Styxia adalah kota naga dan ombak raksasa, tapi sekarang yang tersisa hanya reruntuhannya.\nBanyak jiwa tidak bisa menyeberang ke tepi, dan Sungai Jiwa tidak pernah surut. Mungkin Thanatos yang tidak diketahui keberadaannya terkait erat dengan tempat ini."
+    },
+    "10267": {
+        "id": "10267",
+        "title": "Seliose sang \"Kesatria Guntur Matahari\"",
+        "desc": "Pahlawan legendaris yang menantang \"Mata Fajar Senja\" seorang diri dan memulai Perjalanan Pengejaran Api untuk umat manusia. Dia juga dianggap sebagai leluhur Klan Langit.\nPencapaiannya sangat mulia, sehingga dia menjadi tokoh utama dalam setiap catatan yang berhubungan dengan langit di era itu."
+    },
+    "10268": {
+        "id": "10268",
+        "title": "Seliose sang \"Kesatria Guntur Matahari\"",
+        "desc": "Pahlawan legendaris yang menantang \"Mata Fajar Senja\" seorang diri. Dia tidak berhasil menyadari kaumnya, dan kedunguan mereka membuatnya sepenuhnya putus asa terhadap Anak Langit.\nSetelah menjatuhkan hukuman mati kepada kaumnya sendiri, dia menyatu dengan Aquila dan berdiam di Benteng Langit."
+    },
+    "10269": {
+        "id": "10269",
+        "title": "\"Benteng Kubah\" Mata Fajar Senja",
+        "desc": "Pusat kota di antara awan yang diberi nama sang Titan. Tempat Aquila bersemayam dan memandang bumi dari atas langit.\nMural di tempat ini mencerminkan fenomena langit Amphoreus, seolah menyembunyikan suatu rahasia."
+    },
+    "10270": {
+        "id": "10270",
+        "title": "\"Benteng Terbengkalai di Ujung Awan\" Mata Fajar Senja",
+        "desc": "Setelah kejatuhan Aquila, benteng langit pun perlahan runtuh.\nMeskipun beberapa mekanismenya masih bisa dioperasikan secara paksa, tapi sebagian besarnya sudah rusak dan nyaris tak berfungsi."
+    },
+    "10271": {
+        "id": "10271",
+        "title": "\"Kapel Tanpa Cahaya\" Tebing Awan Fajar",
+        "desc": "Wilayah suci Okhema setelah Perangkat Fajar padam. Sebagian besar wilayahnya telah dikuasai oleh gelombang hitam.\nTempat ini masih belum sepenuhnya kehilangan fungsinya sebagai pusat administrasi. Beberapa warga berlindung di sekitar gedung parlemen, melawan serangan monster bersama para pengawal."
+    },
+    "10272": {
+        "id": "10272",
+        "title": "\"Kota Senja yang Runtuh\" Okhema",
+        "desc": "Kota Suci setelah Perangkat Fajar padam. Para penduduk menyaksikan sendiri perubahan yang dramatis, sementara kegelisahan dan kekacauan menyebar ke segala penjuru.\nKeturunan Chrysos Langit menaungi kota ini, melindungi para penduduk dengan penghalang pelangi."
+    },
+    "10273": {
+        "id": "10273",
+        "title": "\"Karma Guntur Matahari\" Aquila",
+        "desc": "Mata Fajar Senja yang akhirnya ditelan oleh gelombang hitam dalam sebuah pertempuran sengit, kini kembali mengepakkan sayapnya di bawah dorongan kehendak seseorang.\nKemuliaan langit telah dilupakan, dan yang kini berdiri di sini hanyalah sosok dewa raksasa yang dikendalikan penuh oleh hasrat membunuh."
+    },
+    "10274": {
+        "id": "10274",
+        "title": "Aedes Elysiae",
+        "desc": "Aedes Elysiae, sebuah desa kecil yang dikelilingi oleh Tirai Malam Abadi dan dihancurkan oleh gelombang hitam.\nSang pahlawan berjalan keluar dari ladang gandum keemasan di kampung halamannya dan tidak pernah menoleh ke belakang."
+    },
+    "10275": {
+        "id": "10275",
+        "title": "Labirin Misteri",
+        "desc": "Desa para peri, sebuah dunia kecil yang tersembunyi di tengah hutan lebat hutan Aedes Elysiae.\nKonon hanya anak-anak berhati murni yang dapat memasukinya."
+    },
+    "10276": {
+        "id": "10276",
+        "title": "Lygus",
+        "desc": "Operator di balik ekstrapolasi Amphoreus yang menyebut dirinya sebagai \"Penonton Ilahi\".\nDia melangkah di Path \"Erudition\", tetapi malah berniat menciptakan \"Destruction\"."
+    },
+    "10277": {
+        "id": "10277",
+        "title": "Irontomb",
+        "desc": "Emanator \"Destruction\", salah satu Lord Ravager. Dia terlahir untuk membakar akar dari segala Path dan akhirnya menghancurkan segenap alam semesta.\nIrontomb adalah penghancur \"Erudition\"."
+    },
+    "10278": {
+        "id": "10278",
+        "title": "Phainon",
+        "desc": "Keturunan Chrysos dari Aedes Elysiae. Prajurit Okhema sekaligus setengah dewa \"Penopang Dunia\" yang diramalkan.\nNamanya dalam eksperimen adalah \"NeiKos496\". Menempuh perjalanan yang penuh penderitaan ke ujung dunia, dan di sanalah kebenaran yang kejam membuatnya menerima lirikan \"Destruction\"."
+    },
+    "10279": {
+        "id": "10279",
+        "title": "Pencuri Api",
+        "desc": "Pendekar pedang tak bernama yang datang bersama gelombang hitam dan berburu benih api Titan. Wajah di balik topengnya sama persis dengan Phainon.\nSetelah melalui pengulangan abadi dan dibakar oleh miliaran benih api, dia kini tak lebih dari sekadar tulang belulang yang hangus dalam duka dan derita. Setelah menyampaikan permintaan terakhirnya kepada Phainon, dia pun hancur menjadi abu."
+    },
+    "10280": {
+        "id": "10280",
+        "title": "Cyrene",
+        "desc": "Gadis misterius dari Aedes Elysiae, imam Pelataran Persembahan, setengah dewa \"Waktu\" yang diramalkan.\nNamanya dalam eksperimen adalah \"PhiLia093\". Saat ini, keberadaannya tidak diketahui."
+    },
+    "10281": {
+        "id": "10281",
+        "title": "Mem",
+        "desc": "Makhluk misterius berbulu pink, memiliki hubungan erat dengan Amphoreus.\nIa mengembara bersama {NICKNAME} hingga ke ujung dunia dan memulihkan lebih banyak \"memori\"."
+    },
+    "10282": {
+        "id": "10282",
+        "title": "Era Penciptaan Ulang",
+        "desc": "Bentuk iterasi generasi Amphoreus sekaligus Ujian Kephale.\nSetengah dewa \"Penopang Dunia\" harus menciptakan dan memikul dunia baru melalui memori, hingga dia roboh karena tak mampu lagi menanggung bebannya, atau sampai seseorang datang untuk mewarisi kuasa ilahinya."
+    },
+    "10283": {
+        "id": "10283",
+        "title": "Era Penciptaan Ulang",
+        "desc": "Bentuk iterasi generasi Amphoreus, sekaligus mekanisme ekstrapolasi Tongkat Kuasa δ-me13 \"Amphoreus\".\nIa bertujuan untuk memecahkan persamaan \"Destruction\" dengan terus-menerus memasukkan sampel berlawanan dan pembelajaran ke dalam siklusnya.\n\"Era Penciptaan Ulang\" yang terakhir secara teoretis telah digagalkan oleh Phainon dan Cyrene, dan sejak itu terperangkap dalam siklus kematian sebanyak 33.550.336 putaran."
+    },
+    "10284": {
+        "id": "10284",
+        "title": "Pengulangan Abadi",
+        "desc": "Siklus kematian yang dipicu oleh dua gugus sinyal dalam ekstrapolasi Tongkat Kuasa δ-me13 \"Amphoreus\", bertujuan untuk menggagalkan penyelesaian persamaan \"Destruction\".\nDi bawah pengaruh kekuatan \"Remembrance\", menanam 12 benih api ke dalam pedang ritual berhasil memutar kembali arus waktu ke titik awal dan meregresi progres ekstrapolasi."
+    },
+    "10285": {
+        "id": "10285",
+        "title": "Hysilens",
+        "desc": "Keturunan Chrysos dari kerajaan kuno di bawah laut, musisi yang berasal dari samudra, kesatria yang dikenal sebagai \"Gladius\", pedang terkuat di sisi Kaisar.\nDulu dia adalah keturunan terakhir dari suku siluman laut. Dia bergabung di bawah komando Cerydra saat mengembara di dunia manusia dan menjadi anggota Pengejaran Api."
+    },
+    "10286": {
+        "id": "10286",
+        "title": "Cerydra",
+        "desc": "Keturunan Chrysos dari Hyperborea, penguasa Kekaisaran Utara, Pemangku Mahkota Api yang menghentikan peperangan, dan satu-satunya Kaisar dari Amphoreus.\nSetelah menyatukan seluruh negeri, dia mengumpulkan para pahlawan dari seluruh dunia untuk memulai Perjalanan Pengejaran Api, bersumpah untuk menghancurkan hukum lama dan menuliskan hukum baru."
+    },
+    "10287": {
+        "id": "10287",
+        "title": "Evernight",
+        "desc": "Tamu misterius yang muncul di celah memori, penampilannya sama persis dengan March 7th, tetapi identitasnya tidak diketahui.\nBerkaitan erat dengan Path \"Remembrance\", dan sepertinya memiliki tujuan yang berbeda dari Memokeeper lain."
+    },
+    "10288": {
+        "id": "10288",
+        "title": "Lygus",
+        "desc": "Operator di balik ekstrapolasi Amphoreus yang menyebut dirinya sebagai \"Penonton Ilahi\".\nDia menyebut dirinya Zandar, Genius Society #1, dan meminjam kekuatan Amphoreus demi menciptakan kekuatan untuk menghancurkan Nous.\nDia melangkah di Path \"Erudition\", tetapi malah berniat menciptakan \"Destruction\"."
+    },
+    "10289": {
+        "id": "10289",
+        "title": "Melampaui Mitologi",
+        "desc": "Fasilitas perangkat keras Tongkat Kuasa δ-me13 yang berdiri di perbatasan antara Amphoreus dan alam semesta nyata.\nBangku penonton kisah kepahlawanan. Tempat data dan karakter mengalir bebas, lalu berubah menjadi sinyal elektro yang mengekstrapolasi \"Primum Mobile\"."
+    },
+    "10290": {
+        "id": "10290",
+        "title": "Laut Bernyanyi",
+        "desc": "Setelah gelombang hitam mereda, Styxia mengadakan perjamuan yang tidak pernah berakhir.\nNyatanya merupakan sebuah ilusi yang dirajut oleh nyanyian siluman laut, dan tamu-tamu di perjamuan itu adalah rekan-rekan yang telah meninggal."
+    },
+    "10291": {
+        "id": "10291",
+        "title": "Evernight",
+        "desc": "Tamu misterius yang muncul di celah memori. Penampilannya sama dengan March 7th, bak pinang dibelah dua.\nMarch 7th menyerahkan memorinya dan memasuki tidur lelap, sementara Evernight menyembunyikan dirinya dengan melepaskan gelombang \"Oblivion\"."
+    },
+    "10292": {
+        "id": "10292",
+        "title": "Terravox",
+        "desc": "Raja Dromas, ciptaan Georios, Setengah Dewa \"Bumi\" yang diramalkan.\nBerkarakter teguh, bekerja sama dengan Evernight demi jutaan makhluk hidup, menjaga dunia gelombang memoria dan menyegel rahasia Makam Agung."
+    },
+    "10293": {
+        "id": "10293",
+        "title": "Dan Heng • Permansor Terrae",
+        "desc": "Dewa baru yang menerima Benih Api Bumi dari Terravox, sekaligus juga penjaga Astral Express.\nMenanggalkan sisik naga yang penuh luka, dia merangkul masa lalu dan masa depan dengan \"Permanence\" dan kembali memulai perjalanan baru."
+    },
+    "10294": {
+        "id": "10294",
+        "title": "Rimba Jejak Pendar",
+        "desc": "Sinar keemasan \"Destruction\" yang mengarah ke kedalaman Makam Agung menembus Grove of Epiphany.\nKini setelah dipengaruhi oleh gelombang memoria, memori kacau yang tak terhitung jumlahnya bertemu dan berjalin di sini."
+    },
+    "10295": {
+        "id": "10295",
+        "title": "Makam Agung Titan Tanpa Nama",
+        "desc": "Makam agung yang disegel oleh \"Bumi\" di kedalaman bawah tanah, lapisan inti dari Tongkat Kuasa δ-me13.\nDeretan penyimpanan raksasa berkedip tanpa henti, merekam masa lalu yang tak diketahui siapa pun."
+    },
+    "10296": {
+        "id": "10296",
+        "title": "Era Penciptaan Ulang",
+        "desc": "Bentuk iterasi generasi Amphoreus sekaligus mekanisme kalkulasi Tongkat Kuasa δ-me13 \"Amphoreus\".\nKini, atas nama \"Penopang Dunia\", {NICKNAME} akan menciptakan bagi Amphoreus akhir yang belum pernah terjadi sebelumnya."
+    },
     "20000": {
         "id": "20000",
         "title": "Sedang kembali ke sudut pandang Trailblazer ....",
@@ -1078,5 +1503,165 @@
         "id": "20028",
         "title": "Sedang berganti ke sudut pandang \"Robin\" ....",
         "desc": "Robin dan Sunday memutuskan untuk meyakinkan Tuan Gopher Wood, sang \"Pemilik Mimpi\" dan penyelamat mereka sebelumnya. Semoga semuanya berjalan lancar ...."
+    },
+    "20051": {
+        "id": "20051",
+        "title": "Sedang berganti ke sudut pandang \"Lingsha\"",
+        "desc": "Di Shackling Prison, Lingsha, Dan Heng, dan Jing Yuan sedang mencoba mencari petunjuk dari serangan Borisin ...."
+    },
+    "20052": {
+        "id": "20052",
+        "title": "Sedang berganti ke sudut pandang \"Jiaoqiu\"",
+        "desc": "Setelah jatuh ke tangan Borisin, Jiaoqiu mencoba mencari kesempatan untuk bertahan hidup ... tapi bukan kesempatan bertahan hidup untuk dirinya sendiri."
+    },
+    "20053": {
+        "id": "20053",
+        "title": "Sedang berganti ke sudut pandang \"March 7th\"",
+        "desc": "Atas perintah Huaiyan, March 7th dan Yunli naik ke atas Skysplitter untuk mengikuti Ritual Bela Diri ...."
+    },
+    "20054": {
+        "id": "20054",
+        "title": "Sedang berganti ke sudut pandang \"Feixiao\"",
+        "desc": "\"Tutup semua jalan tapi biarkan satu sisi terbuka\". Merlin's Claw mulai berburu kawanan serigala ...."
+    },
+    "20055": {
+        "id": "20055",
+        "title": "Sedang berganti ke sudut pandang \"Yunli\"",
+        "desc": "Di atas Skysplitter, atmosfer badai yang datang membuat Yunli jadi cemas ...."
+    },
+    "20056": {
+        "id": "20056",
+        "title": "Sedang berganti ke sudut pandang \"March 7th\"",
+        "desc": "March 7th bisa merasakan tanda-tanda krisis yang akan datang, momen untuk mencoba ilmu pedangnya akhirnya tiba ...."
+    },
+    "20057": {
+        "id": "20057",
+        "title": "Sedang berganti ke sudut pandang \"Lingsha\"",
+        "desc": "Di Scalegorge Waterscape, Dan Heng dan Lingsha bertemu dengan sesepuh Vidyadhara ...."
+    },
+    "20058": {
+        "id": "20058",
+        "title": "Sedang berganti ke sudut pandang \"Boothill\" ....",
+        "desc": "Semua orang tidak tahu bahwa koboi luar angkasa yang tidak bisa dihubungi kini sedang bersembunyi dalam bayangan dunia mimpi ...."
+    },
+    "20059": {
+        "id": "20059",
+        "title": "Sedang berganti ke sudut pandang \"Sunday\" ....",
+        "desc": "Dan di dalam mimpi indah ini, yang pergi dan datang kembali bukan hanya para pengunjung, tapi juga sang \"pemilik\" ...."
+    },
+    "20060": {
+        "id": "20060",
+        "title": "Sedang berganti ke sudut pandang \"Sunday\" ....",
+        "desc": "Sang petapa masih memandang jiwa masa lalunya, sementara keberadaan yang paling penting di antaranya, juga akan menyambut perpisahan ...."
+    },
+    "20061": {
+        "id": "20061",
+        "title": "Sedang berganti ke sudut pandang \"Aglaea\" ....",
+        "desc": "Mengetahui bahwa mungkin ada yang \"menyusup\" ke Okhema, Aglaea pun secara pribadi melakukan penyelidikan untuk mengungkap kotoran yang tersembunyi di sudut dan celah kota ...."
+    },
+    "20062": {
+        "id": "20062",
+        "title": "Sedang berganti ke sudut pandang \"Herta\" ....",
+        "desc": "Herta sedang bersiap-siap untuk bertemu dengan Aeon \"Nous\" di Stasiun Luar Angkasa, tapi sepertinya tidak begitu lancar?"
+    },
+    "20063": {
+        "id": "20063",
+        "title": "Sedang berganti ke sudut pandang \"Mydei\" ....",
+        "desc": "Rakyat Mydei, orang-orang Kremnos, sepertinya memiliki niat lain terhadap kuasa ilahi \"Pertikaian\". Sebelum melewati ujian, dia harus terlebih dulu mendapatkan kepercayaan dari rakyatnya sendiri ...."
+    },
+    "20064": {
+        "id": "20064",
+        "title": "Sedang berganti ke sudut pandang \"Tribbie\" ....",
+        "desc": "Tribbie menyadari Trianne yang pergi jauh ke Grove of Epiphany membuka \"Gerbang Ratusan Dunia\" lagi. Dia merasa sangat cemas ...."
+    },
+    "20065": {
+        "id": "20065",
+        "title": "Sedang berganti ke sudut pandang \"Tribbie\" ....",
+        "desc": "Demi mengembalikan perdamaian antara orang Kremnos dengan orang Okhema, Tribbie, Trianne, dan Trinnon memutuskan untuk menghadap Titan dan mencari kembali ingatan mereka ...."
+    },
+    "20066": {
+        "id": "20066",
+        "title": "Sedang berganti ke sudut pandang \"Mydei\" ....",
+        "desc": "Mydei telah menyelesaikan segala yang perlu diurus: Saatnya kembali ke kampung halaman ...."
+    },
+    "20067": {
+        "id": "20067",
+        "title": "Sedang berganti ke sudut pandang \"Anaxa\" ....",
+        "desc": "Perjalanan mengejar pengetahuan harus mengikuti beberapa prinsip sederhana, seperti \"manfaatkan potensi setiap orang dan benda secara optimal\" ...."
+    },
+    "20068": {
+        "id": "20068",
+        "title": "Sedang berganti ke sudut pandang \"Anaxa\" ....",
+        "desc": "Pengetahuan adalah matahari kedua bagi orang berpendidikan, dan para pelajar tidak akan ragu menyinari semua orang bodoh di depan mereka ...."
+    },
+    "20069": {
+        "id": "20069",
+        "title": "Sedang berganti ke sudut pandang \"Dan Heng\" ....",
+        "desc": "Cara paling efisien untuk memelihara arsip adalah dengan mengakses arsip lokal. Dan Heng sangat ahli dalam hal ini ...."
+    },
+    "20070": {
+        "id": "20070",
+        "title": "Sedang berganti ke sudut pandang \"Herta\" ....",
+        "desc": "Amphoreus mengajukan \"pertanyaan\" yang menarik — cukup untuk membuat orang jenius itu bertindak ...."
+    },
+    "20071": {
+        "id": "20071",
+        "title": "Sedang berganti ke sudut pandang \"Castorice\" ....",
+        "desc": "Anaxa menunjukkan memori yang terkubur di dalam jiwa Titan kepada Castorice — itu adalah kelanjutan ilusi di jalan setapak pegunungan ...."
+    },
+    "20072": {
+        "id": "20072",
+        "title": "Sedang berganti ke sudut pandang \"Castorice\" ....",
+        "desc": "Wajah-wajah asing membicarakan ujian dari Perjalanan Pengejaran Api — Kapan dan di mana hal itu terjadi ...?"
+    },
+    "20073": {
+        "id": "20073",
+        "title": "Sedang berganti ke sudut pandang \"Castorice\" ....",
+        "desc": "Seorang pejuang bernama Gnaeus membelah jiwanya — itu adalah ... masa lalu Nikador ...."
+    },
+    "20074": {
+        "id": "20074",
+        "title": "Sedang berganti ke sudut pandang \"Castorice\" ....",
+        "desc": "Akhir dari takdir Polyxia dan \"Castorice\" akan mengungkap keberadaan Thanatos ...."
+    },
+    "20075": {
+        "id": "20075",
+        "title": "Sedang berganti ke sudut pandang \"Cipher\" ....",
+        "desc": "Pada saat yang sama, Cipher sedang berpegangan pada \"Roh Pencuri\" Bartholos, bersama-sama sibuk mengais harta karun di Nethershore ...."
+    },
+    "20076": {
+        "id": "20076",
+        "title": "Sedang berganti ke sudut pandang \"Cipher\" ....",
+        "desc": "Untuk menepati janjinya, beberapa waktu lalu Cipher bergegas menuju Nethershore, menghadapi musuh yang mengincar benih api itu seorang diri ...."
+    },
+    "20077": {
+        "id": "20077",
+        "title": "Sedang berganti ke sudut pandang \"Hyacine\" ....",
+        "desc": "Mereka yang ingin menyentuh langit, harus terlebih dahulu mendapatkan restu dari langit ...."
+    },
+    "20078": {
+        "id": "20078",
+        "title": "Memori \"Khaslana\" datang menerjang seperti gelombang pasang ....",
+        "desc": "Atas nama \"Penopang Dunia\", Kephale tidak akan pernah melupakan."
+    },
+    "20080": {
+        "id": "20080",
+        "title": "Sedang berganti ke sudut pandang \"Dan Heng\" ....",
+        "desc": "Dan Heng kembali ke Astral Express dengan menggunakan \"Lompatan Mental\", tapi selama itu ada begitu banyak hal yang terjadi ...."
+    },
+    "20081": {
+        "id": "20081",
+        "title": "Sedang berganti ke sudut pandang \"Black Swan\" ....",
+        "desc": "Bersama dengan \"Evernight\", Black Swan akan menyaksikan bagaimana \"Remembrance\" terlibat dalam jalinan takdir Amphoreus ...."
+    },
+    "20082": {
+        "id": "20082",
+        "title": "Sedang berganti ke sudut pandang \"Black Swan\" ....",
+        "desc": "Dengan memanfaatkan pertemuan singkat antara Evernight dan Sunday, Black Swan pun berenang melawan arus sungai Path ...."
+    },
+    "20083": {
+        "id": "20083",
+        "title": "Sedang berganti ke sudut pandang \"Dan Heng\" ....",
+        "desc": "Dan Heng telah kembali ke Amphoreus. Dia bertekad untuk menemukan {NICKNAME} dan berkumpul kembali dengan March 7th ...."
     }
 }

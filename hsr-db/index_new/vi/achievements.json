@@ -159,6 +159,14 @@
         "hide_desc": "",
         "hide": true
     },
+    "4014001": {
+        "id": "4014001",
+        "series_id": "1",
+        "title": "Gặp Lại Hôm Qua",
+        "desc": "Nhà Khai Phá bước lên Vận Mệnh Ký Ức",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -276,6 +284,14 @@
         "series_id": "4",
         "title": "Học Cao Hiểu Rộng",
         "desc": "Thu thập 80 Tài Liệu từ Xianzhou Luofu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4023501": {
+        "id": "4023501",
+        "series_id": "2",
+        "title": "Đồng Hành Cùng Tôi",
+        "desc": "Nhận 1 Thú Cưng",
         "hide_desc": "",
         "hide": false
     },
@@ -572,7 +588,7 @@
         "series_id": "3",
         "title": "Tất Cả Những Bông Hoa Đang Chết (All the Flowers are Dying)",
         "desc": "Cạn ly vì người đã khuất, kính chúc hiện thực đau khổ",
-        "hide_desc": "※ Thức uống pha chế đặc biệt \"Giấc Mộng Cay Đắng\"",
+        "hide_desc": "※Thức uống pha chế đặc biệt \"Giấc Mộng Cay Đắng\"",
         "hide": true
     },
     "4033302": {
@@ -580,7 +596,7 @@
         "series_id": "3",
         "title": "Cuộc Sống Thật Tuyệt Vời (It's a Wonderful Life)",
         "desc": "Cạn ly vì người đã khuất, kính chúc ngày mai ngọt ngào",
-        "hide_desc": "※ Thức uống pha chế đặc biệt \"Ngọt Ngấy\"",
+        "hide_desc": "※Thức uống pha chế đặc biệt \"Ngọt Ngấy\"",
         "hide": true
     },
     "4033303": {
@@ -588,7 +604,7 @@
         "series_id": "3",
         "title": "Đồng Hành Với Tôi (Going My Way)",
         "desc": "Bất ngờ gặp gỡ Đội Tàu Astral",
-        "hide_desc": "※ Bằng góc nhìn của Firefly, nhìn thấy Đội Tàu Astral trên Tàu Radiant Feldspar",
+        "hide_desc": "※Bằng góc nhìn của Firefly, nhìn thấy Đội Tàu Astral trên Tàu Radiant Feldspar",
         "hide": true
     },
     "4033304": {
@@ -596,7 +612,7 @@
         "series_id": "3",
         "title": "Đang Trên Đường (On the Road)",
         "desc": "Lướt qua Đội Tàu Astral",
-        "hide_desc": "※ Bằng góc nhìn của Firefly, tập trung tìm kiếm Hiệu Cầm Đồ Bonajade trên Tàu Radiant Feldspar",
+        "hide_desc": "※Bằng góc nhìn của Firefly, tập trung tìm kiếm Hiệu Cầm Đồ Bonajade trên Tàu Radiant Feldspar",
         "hide": true
     },
     "4033305": {
@@ -604,7 +620,7 @@
         "series_id": "3",
         "title": "Thuyền Của Những Kẻ Ngốc (Ship of Fools)",
         "desc": "Thêm một chú thích mới cho vận mệnh của chúng ta",
-        "hide_desc": "※ Giải quyết thành công nguy cơ về \"bom\", thưởng thức màn pháo hoa hoành tráng",
+        "hide_desc": "※Giải quyết thành công nguy cơ về \"bom\", thưởng thức màn pháo hoa hoành tráng",
         "hide": false
     },
     "4033306": {
@@ -669,6 +685,614 @@
         "title": "Giờ Săn Đã Điểm",
         "desc": "Trò chơi giữa thợ săn và con mồi vẫn chưa bắt đầu",
         "hide_desc": "※Các tướng quân... chuẩn bị xuất chinh",
+        "hide": false
+    },
+    "4033501": {
+        "id": "4033501",
+        "series_id": "3",
+        "title": "Bích Vũ Phi Hoàng Xạ Thiên Lang",
+        "desc": "Mũi tên rơi xuống, con thú thu lại móng vuốt, thợ săn thu cung",
+        "hide_desc": "※Dẹp yên sóng gió của Lễ Diễn Võ",
+        "hide": false
+    },
+    "4033502": {
+        "id": "4033502",
+        "series_id": "3",
+        "title": "Thủy Triều Rút Xuống Ở Cổ Hải",
+        "desc": "Đi ngược dòng và tạo nên những cơn sóng, vẫn sẽ không thoát khỏi có lúc bị cơn sóng nuốt chửng...",
+        "hide_desc": "※Khuất phục Long Sư",
+        "hide": false
+    },
+    "4033503": {
+        "id": "4033503",
+        "series_id": "3",
+        "title": "Chốn Về Của Thợ Săn",
+        "desc": "Kẻ địch của tôi, vĩnh viễn chỉ có bản thân tôi",
+        "hide_desc": "※Đánh thức Feixiao đang rơi vào cơn thịnh nộ",
+        "hide": false
+    },
+    "4033504": {
+        "id": "4033504",
+        "series_id": "3",
+        "title": "Thử Thách Kiếm Sắc Bị Thời Gian Mài Mòn",
+        "desc": "700 năm có thể thay đổi rất nhiều thứ...",
+        "hide_desc": "※Chứng Kiến Hoolay Thất Bại",
+        "hide": false
+    },
+    "4033601": {
+        "id": "4033601",
+        "series_id": "3",
+        "title": "Cuộc Săn Bắn-Tráng Lệ: Kết Thúc",
+        "desc": "Kiếp Hỏa-Hủy Diệt Mạt Pháp, hoàn thành Cuộc Săn Bắn-Tráng Lệ, việc này cũng được ghi chép trong Bí Kíp Nhẫn Pháp Vũ Trụ",
+        "hide_desc": "※Tiêu diệt Nhóm Nghiên Cứu Chúi trong Rừng Kỳ Ảo",
+        "hide": false
+    },
+    "4033602": {
+        "id": "4033602",
+        "series_id": "3",
+        "title": "Kết Bạn Nhé!",
+        "desc": "Chúi? Chúi chúi, chúi chúi chúi chúi!",
+        "hide_desc": "※Lần đầu gặp Khỉ Ngủ Say Chúi",
+        "hide": false
+    },
+    "4033603": {
+        "id": "4033603",
+        "series_id": "3",
+        "title": "Bụng Của Kiến Trúc Sư",
+        "desc": "Chút khổ cực này cũng không chịu nổi, làm việc khác chắc chắn cũng không được",
+        "hide_desc": "※Trở thành sinh viên của Học Viện Xây Mộng",
+        "hide": true
+    },
+    "4033604": {
+        "id": "4033604",
+        "series_id": "3",
+        "title": "Âm Nhạc Thanh Xuân",
+        "desc": "Cùng nhóm thưởng thức 12 Hộp Cơm Cõi Mộng, lên hình thu thập Mảnh Steinway Falcon",
+        "hide_desc": "※Trở thành sinh viên của Học Viện Hòa Hợp",
+        "hide": true
+    },
+    "4033605": {
+        "id": "4033605",
+        "series_id": "3",
+        "title": "Giấc Mơ Của Yuppie",
+        "desc": "SWOT vào buổi sáng, bổ sung PEST vào buổi chiều, buổi tối bắt đầu ăn dưa PPT",
+        "hide_desc": "※Trở thành sinh viên của Học Viện Tài Phú",
+        "hide": true
+    },
+    "4033606": {
+        "id": "4033606",
+        "series_id": "3",
+        "title": "Dây Thừng Và Gậy",
+        "desc": "Trên thế giới có 2 loại người, một là không nói lý lẽ, một là thích nói dóc",
+        "hide_desc": "※Dưới góc nhìn của Boothill, dùng giấy tờ cướp được để gia nhập Hội Ngủ Say Chúi",
+        "hide": true
+    },
+    "4033607": {
+        "id": "4033607",
+        "series_id": "3",
+        "title": "Không có ai hiểu rõ Ngủ Say Chúi hơn tôi",
+        "desc": "Trên thế giới có 2 loại tay súng, một là biết cách bắn súng, một là biết cách tránh bắn súng",
+        "hide_desc": "※Dưới góc nhìn của Boothill, thông qua kiểm tra để gia nhập Hội Ngủ Say Chúi",
+        "hide": true
+    },
+    "4033608": {
+        "id": "4033608",
+        "series_id": "3",
+        "title": "Câu Chuyện Chúi Học",
+        "desc": "Ồ, muốn người khác tôn trọng mình, trước tiên phải học cách tôn trọng người khác",
+        "hide_desc": "※Lần đầu đánh bại Giáo Viên Chúi trong trường",
+        "hide": false
+    },
+    "4033609": {
+        "id": "4033609",
+        "series_id": "3",
+        "title": "Bạn Của Tôi, Boothill",
+        "desc": "Loài khỉ tôn sùng sự man rợ, cũng sẽ chết theo cách man rợ",
+        "hide_desc": "※Dưới góc nhìn của Boothill, đánh bại Trợ Giảng Chúi của Rạn Đá Ngầm Lưu Mộng đang làm loạn",
+        "hide": false
+    },
+    "4033610": {
+        "id": "4033610",
+        "series_id": "3",
+        "title": "Nhẫn Hiệp-Quá Khứ",
+        "desc": "Nhìn Thấu Nhẫn Giới-Sự Thật Đen Tối, quét Bụi Trần-Tơ Nhện trong ký ức của Nhẫn Hiệp-Dazzling",
+        "hide_desc": "※Chứng kiến hình ảnh quá khứ của Rappa",
+        "hide": false
+    },
+    "4033611": {
+        "id": "4033611",
+        "series_id": "3",
+        "title": "Tà Ác: Phát Hiện",
+        "desc": "Từ bi thực tế, trận chiến này giống như một tấm mạng nhện mỏng manh mà vị thần vĩ đại Yaoshi phủ lên tà vật đang cận kề cái chết, dừng lại trước khi đi quá xa",
+        "hide_desc": "※Trong Thời Khắc Ngủ Say Chúi, đánh bại lượng nhỏ Khỉ Ngủ Say Chúi",
+        "hide": true
+    },
+    "4033612": {
+        "id": "4033612",
+        "series_id": "3",
+        "title": "Tà Ác: Phá Hủy",
+        "desc": "Thực tế vô tình, trận chiến này giống như ngọn lửa tà ác dữ dội, nuốt chửng tà ma, Gió Cuốn-Tàn Vân",
+        "hide_desc": "※Đánh bại nhiều Khỉ Ngủ Say Chúi trong Thời Khắc Ngủ Say Chúi",
+        "hide": true
+    },
+    "4033613": {
+        "id": "4033613",
+        "series_id": "3",
+        "title": "Tà Ác: Không Dấu Vết",
+        "desc": "Thực tế đáng sợ, trận chiến này giống như chính tay Thần Lan Vĩ Đại ném ra hàng tỷ Nhẫn-Thần-Tên Ánh Sáng, Thanh Tẩy-Loại Bỏ",
+        "hide_desc": "※Đánh bại nhiều Khỉ Ngủ Say Chúi trong Thời Khắc Ngủ Say Chúi",
+        "hide": true
+    },
+    "4033701": {
+        "id": "4033701",
+        "series_id": "3",
+        "title": "Giữa Lời Hứa Và Lãng Quên",
+        "desc": "\"Quy tắc sinh ra là để phá vỡ\" - nhất định phải bảo vệ thật tốt châm ngôn của mình, tránh bị người khác đánh cắp",
+        "hide_desc": "※Dưới góc nhìn của Sunday, xoa dịu dư âm của Công Viên Aideen",
+        "hide": false
+    },
+    "4033702": {
+        "id": "4033702",
+        "series_id": "3",
+        "title": "Đừng Gọi Cô Ấy Là Chị Đại",
+        "desc": "Đã đến lúc rồi, chúng ta hãy ghép thành...",
+        "hide_desc": "※Giúp Tingyun khôi phục nguyên trạng",
+        "hide": false
+    },
+    "4033703": {
+        "id": "4033703",
+        "series_id": "3",
+        "title": "Hóa Thân Chuyển Thế",
+        "desc": "Đây vẫn chưa phải là kết thúc, hãy trải qua thời gian im lặng trong nụ cười",
+        "hide_desc": "※Trả lời câu hỏi chia tay của Tingyun",
+        "hide": false
+    },
+    "4033704": {
+        "id": "4033704",
+        "series_id": "3",
+        "title": "Hãy Nói Đi, Ký Ức",
+        "desc": "Tôi rời đi là để trở về, trở về sẽ giải thích cho việc tôi rời đi",
+        "hide_desc": "※Gặp mặt sứ giả Xianzhou",
+        "hide": false
+    },
+    "4033705": {
+        "id": "4033705",
+        "series_id": "3",
+        "title": "Lông Vũ Vĩnh Hằng, Bầu Trời Hoàn Chỉnh",
+        "desc": "Không phải vì ánh sáng của cô ấy, chỉ vì chúng tôi hiểu nhau, có thể cùng nhau vượt qua bóng tối",
+        "hide_desc": "※Dưới góc nhìn của Sunday, từ biệt Robin",
+        "hide": false
+    },
+    "4033706": {
+        "id": "4033706",
+        "series_id": "3",
+        "title": "Khởi Hành Vào Ngày Thứ 8",
+        "desc": "Thiên đường bị mất chưa bao giờ bị bỏ lại phía sau, nó ở phía trước",
+        "hide_desc": "※Dưới góc nhìn của Sunday, hoàn thành lời từ biệt cuối cùng",
+        "hide": false
+    },
+    "4034001": {
+        "id": "4034001",
+        "series_id": "3",
+        "title": "Đứa Trẻ Mặt Sơn Vàng",
+        "desc": "Lần này, những gì các bạn làm sẽ khiến Akivili cảm thấy tự hào",
+        "hide_desc": "※Cắm Mỏ Neo Không Gian đầu tiên ở Amphoreus",
+        "hide": false
+    },
+    "4034002": {
+        "id": "4034002",
+        "series_id": "3",
+        "title": "Tôi Thích Trói Buộc Người Trong Giấc Mơ",
+        "desc": "Tin tưởng, là người bạn đồng hành tốt nhất của khai phá",
+        "hide_desc": "※Sống sót dưới sự tra khảo của Aglaea",
+        "hide": false
+    },
+    "4034003": {
+        "id": "4034003",
+        "series_id": "3",
+        "title": "300",
+        "desc": "Lấy một ngàn vết sẹo và một trăm cái mạng, đổi lấy cái chết vinh quang nhất",
+        "hide_desc": "※Chứng kiến cơ thể bất tử của Ngọn Giáo Thần Phạt",
+        "hide": false
+    },
+    "4034004": {
+        "id": "4034004",
+        "series_id": "3",
+        "title": "Đom Đóm Trong Chai",
+        "desc": "※Tạm biệt Firefly trong ký ức không tồn tại",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034005": {
+        "id": "4034005",
+        "series_id": "3",
+        "title": "Tơ Nhện Dao Động",
+        "desc": "※Tạm biệt Kafka trong ký ức không tồn tại",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4034006": {
+        "id": "4034006",
+        "series_id": "3",
+        "title": "Trở về đi, hỡi ảo ảnh của quá khứ!",
+        "desc": "Những mảnh ký ức vụn vỡ lại hiện lên theo tiếng trống trận",
+        "hide_desc": "※Trở về Thành Kremnos thời kỳ thịnh vượng",
+        "hide": false
+    },
+    "4034007": {
+        "id": "4034007",
+        "series_id": "3",
+        "title": "Ba Lần Đón Hoàng Hôn",
+        "desc": "Đi theo tiếng gọi của lý trí, dập tắt ánh sáng thần tính",
+        "hide_desc": "※Thu hồi Ngọn Lửa của Ngọn Giáo Thần Phạt",
+        "hide": false
+    },
+    "4034008": {
+        "id": "4034008",
+        "series_id": "3",
+        "title": "Các Thế Hệ Như Lá Rụng",
+        "desc": "Mở ra sử thi anh hùng của bạn ở Amphoreus",
+        "hide_desc": "※Trả lại Ngọn Lửa Phân Tranh, chờ Phainon trở về",
+        "hide": false
+    },
+    "4034009": {
+        "id": "4034009",
+        "series_id": "3",
+        "title": "Bình Minh Của Người Chết Đi Sống Lại",
+        "desc": "Quay về điểm bắt đầu Khai Phá ở Amphoreus",
+        "hide_desc": "※Quay lại nơi đoàn tàu bị rơi xem thử",
+        "hide": false
+    },
+    "4034101": {
+        "id": "4034101",
+        "series_id": "3",
+        "title": "Hỡi Nữ Thần, Hãy Hát Vang Sự Phẫn Nộ Của Hắn",
+        "desc": "Người anh hùng trẻ tuổi cuối cùng đã vực dậy từ trong \"Phân Tranh\"...",
+        "hide_desc": "※...Anh ấy đã không làm được, nhưng ít nhất thì anh ấy đã được cứu",
+        "hide": false
+    },
+    "4034102": {
+        "id": "4034102",
+        "series_id": "3",
+        "title": "Thần Linh Vô Hình Là Thứ Hữu Hình Nhất",
+        "desc": "Nhặt hoa làm củi, để Ngọn Lửa lý trí cháy lên lần nữa",
+        "hide_desc": "※Cùng Titan đánh lui kiếm sĩ vô danh",
+        "hide": false
+    },
+    "4034103": {
+        "id": "4034103",
+        "series_id": "3",
+        "title": "Đặt Mình Trong Thần Linh Bất Tử",
+        "desc": "Thanatos, xin hãy ban cho cô ấy một đêm yên giấc",
+        "hide_desc": "※Thử tìm lại quá khứ của Tribbie trong cơn ác mộng...",
+        "hide": false
+    },
+    "4034104": {
+        "id": "4034104",
+        "series_id": "3",
+        "title": "Dũng Sĩ, Sao Phải Hỏi Gia Thế?",
+        "desc": "Di ngôn của quân vương cho hậu thế: \"Vương triều của trẫm, dành cho người mạnh nhất.\"",
+        "hide_desc": "※Giành chiến thắng trong cuộc chiến cùng với vị thần \"Phân Tranh\" mới",
+        "hide": false
+    },
+    "4034105": {
+        "id": "4034105",
+        "series_id": "3",
+        "title": "Nhân Thế Tựa Cây Lá Khô Héo Rồi Hồi Sinh",
+        "desc": "Sư tử đi xa quê hương, đến được điểm cuối cùng của cuộc hành trình",
+        "hide_desc": "※Chứng kiến chặng cuối con đường trở về của người thừa kế Kremnos",
+        "hide": false
+    },
+    "4034106": {
+        "id": "4034106",
+        "series_id": "3",
+        "title": "Lá Khô Rơi Xuống Đất, Cây Mới Vươn Mầm Sống",
+        "desc": "Khi bình minh dùng những ngón tay màu hoa hồng đem ánh ban mai đến",
+        "hide_desc": "※Chứng kiến Trianne dang cánh bay về phía ngày mai đã định",
+        "hide": false
+    },
+    "4034107": {
+        "id": "4034107",
+        "series_id": "3",
+        "title": "Nhân Gian Chính Là Như Vậy: Một Đời Sinh Ra, Một Đời Lụi Tàn",
+        "desc": "Mở lá thư từ quá khứ gửi đến tương lai",
+        "hide_desc": "※Chứng kiến khởi đầu của Tribios và hành trình Săn Đuổi Lửa",
+        "hide": false
+    },
+    "4034201": {
+        "id": "4034201",
+        "series_id": "3",
+        "title": "Mẹ, Là Mẹ Đã Ban Cho Con Sự Sống",
+        "desc": "Nhận lời mời của Hậu Duệ Chrysos, cùng trở thành anh hùng",
+        "hide_desc": "※Hoàn thành thử thách của Oronyx",
+        "hide": false
+    },
+    "4034202": {
+        "id": "4034202",
+        "series_id": "3",
+        "title": "Dùng con thuyền màu gỉ sét để dẫn lối vong hồn",
+        "desc": "Nó từng đưa cô ấy đến nhân gian, và nó sẽ đưa cô ấy đến cõi u minh",
+        "hide_desc": "※ Đánh bại \"Rồng Tử Vong\" Pollux",
+        "hide": false
+    },
+    "4034203": {
+        "id": "4034203",
+        "series_id": "3",
+        "title": "Đêm Đen U Ám, Bao Trùm Phàm Nhân Bất Hạnh",
+        "desc": "\"Tử Vong\" từng ẩn mình trong thành bang của Rồng Khổng Lồ và sóng biển",
+        "hide_desc": "※ Đến Thành Cổ Xương Rồng Styxia",
+        "hide": false
+    },
+    "4034204": {
+        "id": "4034204",
+        "series_id": "3",
+        "title": "Vương Miện Lấy Pháp Luật Làm Hòa Bình",
+        "desc": "Người dân sẽ dùng cách bỏ phiếu để quyết định tương lai của Amphoreus",
+        "hide_desc": "※ Chứng kiến kết quả cuối cùng của Đại Hội Công Dân",
+        "hide": false
+    },
+    "4034205": {
+        "id": "4034205",
+        "series_id": "3",
+        "title": "Ôm Lấy Ngón Tay Của Bạn",
+        "desc": "Một ngày hạnh phúc như vậy, có một món quà chỉ dành riêng cho bạn",
+        "hide_desc": "※ Nhặt chiếc nhẫn do Castorice tỉ mỉ chế tác",
+        "hide": false
+    },
+    "4034206": {
+        "id": "4034206",
+        "series_id": "3",
+        "title": "Mở Dây Thừng, Rời Khỏi Âm Giới",
+        "desc": "Đừng ngoảnh đầu lại, dù đó là sự níu kéo ngọt ngào và yên bình",
+        "hide_desc": "※ Nhận sự giúp đỡ của đồng đội, rời khỏi âm giới",
+        "hide": false
+    },
+    "4034301": {
+        "id": "4034301",
+        "series_id": "3",
+        "title": "Bình Minh Trầm Mặc",
+        "desc": "Tưởng niệm sự ra đi của một phàm nhân vĩ đại",
+        "hide_desc": "※Lắng nghe bài diễn thuyết của Phainon",
+        "hide": false
+    },
+    "4034302": {
+        "id": "4034302",
+        "series_id": "3",
+        "title": "Mạ Vàng, Gãy Cánh",
+        "desc": "Rơi xuống hồ vàng nóng bỏng...",
+        "hide_desc": "※Đánh bại hóa thân của Titan Bầu Trời",
+        "hide": false
+    },
+    "4034303": {
+        "id": "4034303",
+        "series_id": "3",
+        "title": "Bầu Trời Của Chúng Ta",
+        "desc": "Dùng ý chí phàm nhân, đặt dấu chấm hết cho thời đại thần linh",
+        "hide_desc": "※Chiến thắng ý chí của Seliose",
+        "hide": false
+    },
+    "4034304": {
+        "id": "4034304",
+        "series_id": "3",
+        "title": "Cô Gái Phản Bội Thế Giới",
+        "desc": "Chứng kiến hồi kết của một lời dối trá",
+        "hide_desc": "※Chứng kiến thời khắc lời dối trá ngàn năm bị vạch trần",
+        "hide": false
+    },
+    "4034305": {
+        "id": "4034305",
+        "series_id": "3",
+        "title": "Khởi Đầu Của Mọi Kết Thúc",
+        "desc": "Trên đời chẳng có thứ hoàn mỹ",
+        "hide_desc": "※Hoàn thành hành trình Săn Đuổi Lửa",
+        "hide": false
+    },
+    "4034401": {
+        "id": "4034401",
+        "series_id": "3",
+        "title": "Cánh Cửa Hé Mở, Ngai Vàng Kết Thúc",
+        "desc": "Hỡi anh hùng, hãy thực hiện khát vọng nhuốm máu đó",
+        "hide_desc": "※Hoàn thành hành trình \"Tái Sáng Thế\"...?",
+        "hide": false
+    },
+    "4034402": {
+        "id": "4034402",
+        "series_id": "3",
+        "title": "Đi Qua Miền Hoa Vùng Say Giấc",
+        "desc": "Hỡi anh hùng, hãy trở về quê hương bình yên",
+        "hide_desc": "※Gặp người đã khuất tại Aedes Elysiae",
+        "hide": false
+    },
+    "4034403": {
+        "id": "4034403",
+        "series_id": "3",
+        "title": "Sự Sụp Đổ Lúc Bình Minh",
+        "desc": "Hỡi anh hùng, hãy phá hủy bức tượng bi thương đó",
+        "hide_desc": "※Chém rớt mặt nạ của Hành Giả Trộm Lửa",
+        "hide": false
+    },
+    "4034404": {
+        "id": "4034404",
+        "series_id": "3",
+        "title": "Vì Mặt Trời Sắp Bị Phá Hủy",
+        "desc": "Hỡi anh hùng, hãy thắp sáng mặt trời đầu tiên",
+        "hide_desc": "※Nhận ngọn đuốc được truyền qua ba mươi triệu kiếp",
+        "hide": false
+    },
+    "4034405": {
+        "id": "4034405",
+        "series_id": "3",
+        "title": "Khúc Khải Hoàn Tái Sáng Thế",
+        "desc": "Hỡi Anh Hùng, Hãy Tấu Lên Khúc Khải Hoàn Sáng Thế",
+        "hide_desc": "※Bước lên hành trình \"Tái Sáng Thế\" cuối cùng",
+        "hide": false
+    },
+    "4034406": {
+        "id": "4034406",
+        "series_id": "3",
+        "title": "Cưỡi B",
+        "desc": "Ngày Vua Kỵ Sĩ cưỡi lên \"chiến mã\" lần nữa",
+        "hide_desc": "※Cùng với Saber đánh bại Bà Lão Nốt Nhạc",
+        "hide": false
+    },
+    "4034407": {
+        "id": "4034407",
+        "series_id": "3",
+        "title": "Đêm định mệnh, dừng lại ở thời khắc này",
+        "desc": "Người bảo vệ Cán Cân, vượt qua thời gian và không gian để đến đây",
+        "hide_desc": "※Thành công triệu hồi Servant của bạn",
+        "hide": false
+    },
+    "4034408": {
+        "id": "4034408",
+        "series_id": "3",
+        "title": "Chuông Nguyện Hồn Ai",
+        "desc": "Hàng giả có lợi ích của hàng giả, hàng thật có ưu điểm của hàng thật",
+        "hide_desc": "※Chiến thắng Ông Già Đồng Hồ tà ác",
+        "hide": false
+    },
+    "4034409": {
+        "id": "4034409",
+        "series_id": "3",
+        "title": "Grady Giỏi Giang",
+        "desc": "Một thời đại chảy trong trái tim tan vỡ của vua phim rác",
+        "hide_desc": "※Phá hủy Bảo Khí của Grady",
+        "hide": false
+    },
+    "4034410": {
+        "id": "4034410",
+        "series_id": "3",
+        "title": "Hỡi những vì sao, hãy thắp sáng con đường phía trước",
+        "desc": "Hãy bước về phía trước, chỉ vậy thôi cũng đủ để xưng danh anh hùng",
+        "hide_desc": "※Đột phá xiềng xích \"tầm thường\"",
+        "hide": false
+    },
+    "4034411": {
+        "id": "4034411",
+        "series_id": "3",
+        "title": "Thời Hiện Đại",
+        "desc": "Sâu bọ gặm nhấm tiền vàng, tham lam làm hỏng kỳ tích",
+        "hide_desc": "※Chiến thắng kẻ đứng sau Cuộc Chiến Chén Thánh",
+        "hide": false
+    },
+    "4034412": {
+        "id": "4034412",
+        "series_id": "3",
+        "title": "Tạm Biệt, Bạn Của Tôi",
+        "desc": "Đứa trẻ canh giữ mặt trăng, cuối cùng cũng gặp lại cố nhân",
+        "hide_desc": "※Khi đội tàu đón tiếp vị khách bất ngờ",
+        "hide": false
+    },
+    "4034501": {
+        "id": "4034501",
+        "series_id": "3",
+        "title": "Tế Phẩm Bất Khuất",
+        "desc": "Mong bình minh mang về tin thắng trận, như tục ngữ vẫn nói, bình minh là con của màn đêm",
+        "hide_desc": "※Lao đến thời đại của Hành Trình Săn Đuổi Lửa đầu tiên",
+        "hide": false
+    },
+    "4034502": {
+        "id": "4034502",
+        "series_id": "3",
+        "title": "Prometheus Bị Trói Buộc",
+        "desc": "Ta đã gieo vào lòng họ niềm hy vọng mù quáng. Ngoài ra, ta còn ban ngọn lửa cho họ",
+        "hide_desc": "※Rơi vào ngục tù của Lygus",
+        "hide": false
+    },
+    "4034503": {
+        "id": "4034503",
+        "series_id": "3",
+        "title": "Thành Phố Mà Ngươi Không Thể Hủy Diệt",
+        "desc": "Chúng ta hãy dâng lên những bài ca chói tai cho Thần Báo Thù, dâng lên khúc khải hoàn phiền muộn cho vua của âm giới",
+        "hide_desc": "※Chứng kiến lòng dũng cảm của các Á Thần, sau đó tiếp tục tiến về phía trước",
+        "hide": false
+    },
+    "4034504": {
+        "id": "4034504",
+        "series_id": "3",
+        "title": "Dâng Cạn Máu Vàng Cho Quá Khứ",
+        "desc": "Hãy lắng nghe, hỡi sức mạnh cực lạc dưới lòng đất... Hãy đáp lại lời kêu gọi và ban ơn giúp đỡ. Phù hộ con cái, ban cho chúng chiến thắng và hy vọng",
+        "hide_desc": "※Rưới rượu tưởng nhớ sự hy sinh của các anh hùng, sau đó tiếp tục tiến về phía trước",
+        "hide": false
+    },
+    "4034505": {
+        "id": "4034505",
+        "series_id": "3",
+        "title": "Thần Báo Thù",
+        "desc": "Hắn cứ như vậy mà hủy hoại hạnh phúc của cả đời mình trên vách đá chính nghĩa, không ai rơi lệ, không ai chứng kiến",
+        "hide_desc": "※Chứng kiến và đánh bại chân thân của \"Khán Giả Thần Lễ\"",
+        "hide": false
+    },
+    "4034506": {
+        "id": "4034506",
+        "series_id": "3",
+        "title": "Trước Khi Anh Hùng Gục Ngã",
+        "desc": "Lắng nghe khúc ca xa xăm và u buồn, hát về tên người mẹ của sự tồn tại: Ảo Giác, Ý Chí, Đau Khổ",
+        "hide_desc": "※Kế thừa tất cả trước khi anh hùng gục ngã",
+        "hide": false
+    },
+    "4034601": {
+        "id": "4034601",
+        "series_id": "3",
+        "title": "Hãy Lắng Nghe Tôi, Bóng Tối Ngọt Ngào",
+        "desc": "Nếu đằng sau cánh cửa này chính là Amphoreus...",
+        "hide_desc": "※Chứng kiến Evernight bước lên sân khấu",
+        "hide": false
+    },
+    "4034602": {
+        "id": "4034602",
+        "series_id": "3",
+        "title": "Thế Là, Máu Vàng Tuôn Chảy",
+        "desc": "Đôi khi có những \"Ký Ức\" phải trả giá bằng cách bị thiêu cháy",
+        "hide_desc": "※Đánh bại Linh Hồn Ký Ức Máu Vàng và nói chuyện trực tiếp với Evernight",
+        "hide": false
+    },
+    "4034603": {
+        "id": "4034603",
+        "series_id": "3",
+        "title": "Bạn Sẽ Không Bao Giờ Độc Hành",
+        "desc": "Thăm dò, tìm hiểu, xây dựng, liên kết... Sau đó, chúng ta sẽ cùng nhau về nhà",
+        "hide_desc": "※ Tập hợp với March 7th",
+        "hide": false
+    },
+    "4034604": {
+        "id": "4034604",
+        "series_id": "3",
+        "title": "Trước Khi Vận Mệnh Cất Tiếng Khóc",
+        "desc": "Nghe tôi nói, ghi nhớ những lời này, rồi quên nó đi",
+        "hide_desc": "※Một lần nữa đánh thức \"ký ức không tồn tại\"",
+        "hide": false
+    },
+    "4034605": {
+        "id": "4034605",
+        "series_id": "3",
+        "title": "Tôi Đứng Tại Đây, Gánh Vác Vạn Vật",
+        "desc": "Công bố tên vị thần mới cho \"Mặt Đất\"",
+        "hide_desc": "※Dan Heng đã nhận được Ngọn Lửa của \"Mặt Đất\"",
+        "hide": false
+    },
+    "4034606": {
+        "id": "4034606",
+        "series_id": "3",
+        "title": "Linh Hồn Nhận Ra Nhau Qua Hồi Ức",
+        "desc": "Lấy thiên địa làm trục ngang, lấy thời gian làm trục dọc, đưa bạn về nhà",
+        "hide_desc": "※Dan Heng đã tìm thấy bạn trong thủy triều ký ức",
+        "hide": false
+    },
+    "4034607": {
+        "id": "4034607",
+        "series_id": "3",
+        "title": "Mảnh Ký Ức",
+        "desc": "Thủ phạm khiến thẻ nhớ máy ảnh bị đầy...",
+        "hide_desc": "※Cyrene đã tìm thấy March 7th thật sự",
+        "hide": false
+    },
+    "4034608": {
+        "id": "4034608",
+        "series_id": "3",
+        "title": "Câu Chuyện Về Anh Hùng Amphoreus",
+        "desc": "Hãy đồng hành cùng tôi, cùng trở thành anh hùng nhé",
+        "hide_desc": "※Hoàn thành \"Tái Sáng Thế\" cuối cùng",
         "hide": false
     },
     "4040101": {
@@ -1115,7 +1739,7 @@
         "id": "4043019",
         "series_id": "4",
         "title": "Chạy Nhanh Như Chớp",
-        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, thời gian dịch chuyển bằng Hỏa Tiễn vượt quá #1 giây",
+        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, thời gian dịch chuyển bằng Hỏa Tiễn vượt quá 4 giây",
         "hide_desc": "",
         "hide": true
     },
@@ -1171,7 +1795,7 @@
         "id": "4043026",
         "series_id": "4",
         "title": "Đường Đua Không Đạt Chuẩn",
-        "desc": "Trong chế độ bất kỳ của Ngoại Truyện Cậu Bé Đồng Hồ, liên tục dừng lại giữa đường ray #1 giây",
+        "desc": "Trong chế độ bất kỳ của Ngoại Truyện Cậu Bé Đồng Hồ, liên tục dừng lại giữa đường ray 10 giây",
         "hide_desc": "",
         "hide": true
     },
@@ -1315,7 +1939,7 @@
         "id": "4043209",
         "series_id": "4",
         "title": "Vua Tuyển Chọn Huyền Thoại",
-        "desc": "Thành công kích hoạt tổng cộng #1 khiêu chiến ẩn của Bóng Vận Chuyển",
+        "desc": "Thành công kích hoạt tổng cộng 6 khiêu chiến ẩn của Bóng Vận Chuyển",
         "hide_desc": "",
         "hide": true
     },
@@ -1379,7 +2003,7 @@
         "id": "4043217",
         "series_id": "4",
         "title": "Đạn Xuyên Giáp",
-        "desc": "Trong \"Chiến Tuyến Hanu\" 1 phát bắn trúng #1 bia",
+        "desc": "Trong \"Chiến Tuyến Hanu\" 1 phát bắn trúng 7 bia",
         "hide_desc": "",
         "hide": true
     },
@@ -1419,7 +2043,7 @@
         "id": "4043222",
         "series_id": "4",
         "title": "Za Warudo!",
-        "desc": "Trong Chiến Tuyến Hanu bắn trúng #1 bia thông qua Thời Gian Đồng Hồ",
+        "desc": "Trong Chiến Tuyến Hanu bắn trúng 20 bia thông qua Thời Gian Đồng Hồ",
         "hide_desc": "",
         "hide": true
     },
@@ -1427,7 +2051,7 @@
         "id": "4043224",
         "series_id": "4",
         "title": "Oanh Tạc Bão Hòa",
-        "desc": "Tham gia 1 Cuộc Phiêu Lưu Của Hanu, đánh bại #1 Tay Sai Ông Chủ Đá trong 1 lần",
+        "desc": "Tham gia 1 Cuộc Phiêu Lưu Của Hanu, đánh bại 5 Tay Sai Ông Chủ Đá trong 1 lần",
         "hide_desc": "",
         "hide": false
     },
@@ -1443,7 +2067,7 @@
         "id": "4043301",
         "series_id": "4",
         "title": "Bong Bóng, Bay Đến Ngày Mai",
-        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong {TEXTJOIN#87}",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -1451,7 +2075,7 @@
         "id": "4043302",
         "series_id": "4",
         "title": "Tiếc Là Không Phải Một Ban Nhạc",
-        "desc": "Giải cứu \"Sếp\" Đồng Hồ trên {TEXTJOIN#87}",
+        "desc": "Giải cứu \"Sếp\" Đồng Hồ trên Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": false
     },
@@ -1478,6 +2102,998 @@
         "desc": "Bị cửa Nhà Giam Xiềng Xích kẹp vào đầu",
         "hide_desc": "",
         "hide": true
+    },
+    "4043501": {
+        "id": "4043501",
+        "series_id": "4",
+        "title": "Vượt Qua Mây Trời, Nơi Ta Hẹn Ước",
+        "desc": "Trên Tàu Phá Thiên, lần đầu hoàn thành La Bàn Điều Hướng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043502": {
+        "id": "4043502",
+        "series_id": "4",
+        "title": "Bàn Tay Của Thần",
+        "desc": "Trong Tàu Phá Thiên, tích lũy nhận 15 lần phần thưởng Tìm Đường Chỉ Lối",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043503": {
+        "id": "4043503",
+        "series_id": "4",
+        "title": "Thuyền Lắc Lư, Sao Đổi Ngôi Trên Bầu Trời Tím",
+        "desc": "Trên Tàu Phá Thiên, thông qua Chim Robot để vào sâu trong Khu Neo Đậu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043601": {
+        "id": "4043601",
+        "series_id": "4",
+        "title": "Bong Bóng Không Bao Giờ Hạ Màn",
+        "desc": "Phá vỡ tất cả Bong Bóng Ông Chủ Đá Đặc Biệt của Học Viện Gấp Giấy",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043602": {
+        "id": "4043602",
+        "series_id": "4",
+        "title": "Tạm Biệt, Chim Giấy!",
+        "desc": "Giúp tất cả Chim Giấy trở về Cây Đại Thụ và Lớp Học",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044001": {
+        "id": "4044001",
+        "series_id": "4",
+        "title": "Á Thần Quản Lý Rương Báu Amphoreus",
+        "desc": "Mở 120 lần Chiến Lợi Phẩm Amphoreus",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044002": {
+        "id": "4044002",
+        "series_id": "4",
+        "title": "Đi Theo Cột Sáng Này",
+        "desc": "Lần đầu bước vào phạm vi chiếu sáng của Ngọc Kỳ Tích",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044003": {
+        "id": "4044003",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Hành Trình Vàng",
+        "desc": "Những con bướm sẽ bay về đâu?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Thánh Thành Vĩnh Hằng\" Okhema",
+        "hide": false
+    },
+    "4044004": {
+        "id": "4044004",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Nghịch Lý Nhanh Chân",
+        "desc": "Các chiến binh luôn chạy sao?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Tàn Tích Phân Tranh\" Thành Kremnos",
+        "hide": false
+    },
+    "4044005": {
+        "id": "4044005",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Vết Nhơ Của Ánh Sáng",
+        "desc": "Ánh mặt trời có thể chiếu rọi đến mọi ngóc ngách không?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Mặt Trận Tắm Máu\" Thành Kremnos",
+        "hide": false
+    },
+    "4044006": {
+        "id": "4044006",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Mặt Nạ Nhiều Mặt",
+        "desc": "Liệu vận mệnh có thể được giải mã chỉ bởi một người duy nhất?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Vực Thẳm Định Mệnh\" Janusopolis",
+        "hide": false
+    },
+    "4044007": {
+        "id": "4044007",
+        "series_id": "4",
+        "title": "Bướm Và Linh Hồn",
+        "desc": "Lần đầu gặp gỡ những người thợ dệt của Titan",
+        "hide_desc": "※Thu thập 1 Chúc Phúc của Nhộng Tiên Sáng Thế",
+        "hide": false
+    },
+    "4044008": {
+        "id": "4044008",
+        "series_id": "4",
+        "title": "Vẻ Đẹp Trong Hộp",
+        "desc": "Xây dựng một thiên đường nhỏ cho những người thợ dệt",
+        "hide_desc": "※Thu thập 70 Chúc Phúc của Nhộng Tiên Sáng Thế",
+        "hide": false
+    },
+    "4044009": {
+        "id": "4044009",
+        "series_id": "4",
+        "title": "Dự Báo Thời Tiết",
+        "desc": "Dùng Tấm Bia Tiên Tri khiến sấm sét trên những sợi xích sắt ở Thành Kremnos biến mất",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044010": {
+        "id": "4044010",
+        "series_id": "4",
+        "title": "Vương Miện Gai Góc Đội Ngược",
+        "desc": "Một số người đeo vương miện gai. Một số khác thì...",
+        "hide_desc": "※Trong Con Dê Gánh Tội Vàng, sẩy chân ngã lên bụi gai",
+        "hide": false
+    },
+    "4044011": {
+        "id": "4044011",
+        "series_id": "4",
+        "title": "Ngọn Lửa Không Bị Đánh Cắp",
+        "desc": "Dù đi trên con đường hoang đường, thì phần thưởng vật chất cũng rất quan trọng",
+        "hide_desc": "※Trong Con Dê Gánh Tội Vàng, nhận 1 lần rương thưởng sau khi chiến thắng",
+        "hide": false
+    },
+    "4044012": {
+        "id": "4044012",
+        "series_id": "4",
+        "title": "Máu Thịt Đã Thành Câu Chữ",
+        "desc": "Có lẽ, trong quá khứ xa xôi, cũng từng có người đẩy đá lên núi",
+        "hide_desc": "※Trong Con Dê Gánh Tội Vàng, thu thập tất cả Lời Thì Thầm Của Con Dê Gánh Tội Vàng",
+        "hide": false
+    },
+    "4044013": {
+        "id": "4044013",
+        "series_id": "4",
+        "title": "Bước Vào Dòng Chảy Của Năm Tháng",
+        "desc": "Học Lời Nguyện Oronyx",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044014": {
+        "id": "4044014",
+        "series_id": "4",
+        "title": "Bằng Chứng Ngoại Phạm",
+        "desc": "Sử dụng những vật thể còn chứa ký ức trong cảnh để đánh bại kẻ địch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044015": {
+        "id": "4044015",
+        "series_id": "4",
+        "title": "Bằng Chứng Ngoại Phạm Hoàn Hảo",
+        "desc": "Sử dụng những vật thể còn chứa ký ức trong cảnh để đánh bại kẻ địch, đồng thời đánh bại cả địch và bản thân",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044016": {
+        "id": "4044016",
+        "series_id": "4",
+        "title": "Củ Khoai Nóng Bỏng Tay",
+        "desc": "Đọc sai Lời Nguyện có thể đọc lại, nhưng phải có giới hạn...",
+        "hide_desc": "※Dùng Lời Nguyện Oronyx để giữ một vật thể ở trạng thái tua lại lâu hơn 30 giây",
+        "hide": false
+    },
+    "4044017": {
+        "id": "4044017",
+        "series_id": "4",
+        "title": "Khoảnh Khắc Mãi Mãi",
+        "desc": "Điều gì sẽ xảy ra khi thời gian tua lại va chạm với việc đóng băng thời gian?",
+        "hide_desc": "※Dùng khả năng tạm dừng thời gian để đóng băng vật thể đang tua lại",
+        "hide": false
+    },
+    "4044018": {
+        "id": "4044018",
+        "series_id": "4",
+        "title": "Dũng Tướng Thời Không",
+        "desc": "Quay ngược toàn bộ Tượng Chiến Hồn trong \"Tàn Tích Phân Tranh\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044019": {
+        "id": "4044019",
+        "series_id": "4",
+        "title": "Quyền Phá Hủy Bức Tượng",
+        "desc": "Phá hủy tất cả các bức tượng trong Thành Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044020": {
+        "id": "4044020",
+        "series_id": "4",
+        "title": "Thời Gian Tiết Kiệm Ánh Mặt Trời",
+        "desc": "Quay ngược hoàn hảo tất cả vật thể còn chứa ký ức trong Thành Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044021": {
+        "id": "4044021",
+        "series_id": "4",
+        "title": "Ném Đá Xuống Hồ",
+        "desc": "Trong quá trình kích hoạt Lời Nguyện Oronyx, bị một vật thể khác còn chứa ký ức đập trúng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044022": {
+        "id": "4044022",
+        "series_id": "4",
+        "title": "Nhộng Mùa Hè Không Nên Nhớ Đến Băng",
+        "desc": "Khiến nhộng tiên bị vật thể còn chứa ký ức đập trúng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044023": {
+        "id": "4044023",
+        "series_id": "4",
+        "title": "Đồng Bộ Góc Nhìn Từ Trên Cao",
+        "desc": "Đến nơi cao nhất của Chợ Vân Thạch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044024": {
+        "id": "4044024",
+        "series_id": "4",
+        "title": "Sông Ngừng Chảy, Núi Tiến Bước",
+        "desc": "Dừng chân lắng nghe tiếng Đàn Lyre Nước",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044025": {
+        "id": "4044025",
+        "series_id": "4",
+        "title": "Chạy Quay Đầu Trên Không",
+        "desc": "Vượt qua sợi xích lơ lửng của Thành Kremnos",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044026": {
+        "id": "4044026",
+        "series_id": "4",
+        "title": "Trong Sự Cân Bằng",
+        "desc": "Vượt qua phán quyết của Talanton trong \"Vực Thẳm Định Mệnh\" Janusopolis, đến khu vực tầng 3",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044027": {
+        "id": "4044027",
+        "series_id": "4",
+        "title": "Tai Họa Điêu Khắc",
+        "desc": "Vượt qua cơ quan của Chính Điện Phân Tranh trong \"Mặt Trận Tắm Máu\" Thành Kremnos, đến Khu Đúc Hồn dưới lòng đất",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044028": {
+        "id": "4044028",
+        "series_id": "4",
+        "title": "Kẻ Yếu Đuối, Không Thể Nhún Nhường",
+        "desc": "Dùng động tác đấm của Tay Của Zagreus đánh bại Thân Quyến Titan trong Mỏ Khai Thác Đá",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044029": {
+        "id": "4044029",
+        "series_id": "4",
+        "title": "Tự Phê Bình",
+        "desc": "Dùng động tác đấm của Tay Của Zagreus tấn công chính mình",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044030": {
+        "id": "4044030",
+        "series_id": "4",
+        "title": "Nguyên Tắc Tự Nhất Quán Của Novikov",
+        "desc": "Dùng Tay Của Zagreus vào phạm vi chiếu sáng của Ngọc Kỳ Tích, và dừng lại trong một khoảng thời gian",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044031": {
+        "id": "4044031",
+        "series_id": "4",
+        "title": "Cú Đấm Phá Khiên",
+        "desc": "Dùng động tác đấm của Tay Của Zagreus phá hủy khiên nhỏ trong khung cảnh",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044032": {
+        "id": "4044032",
+        "series_id": "4",
+        "title": "Initial D",
+        "desc": "Trong phòng Tay Của Zagreus thuộc sự kiện Địa Cung Bí Ẩn, đụng tường không quá 3 lần khi vượt ải",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044033": {
+        "id": "4044033",
+        "series_id": "4",
+        "title": "Khu Vực Cấm Bay",
+        "desc": "Phá vỡ 1 Amphora Bay",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044034": {
+        "id": "4044034",
+        "series_id": "4",
+        "title": "Bình Amphora Nổ Tung",
+        "desc": "Phá vỡ Amphora Bay siêu tốc trong \"Mặt Trận Tắm Máu\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044035": {
+        "id": "4044035",
+        "series_id": "4",
+        "title": "Quà Tặng Của Janus",
+        "desc": "Dưới sự chỉ dẫn của Giáo Ngắn Vàng, nhận 1 Chiến Lợi Phẩm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044101": {
+        "id": "4044101",
+        "series_id": "4",
+        "title": "Thiết Kế Như Sách Giáo Khoa",
+        "desc": "Mở cánh cổng tri thức cho các học giả",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044102": {
+        "id": "4044102",
+        "series_id": "4",
+        "title": "Định Lý Cerces Dang Dở",
+        "desc": "Ngăn chặn Tinh Linh Trộm Cắp trộm đồ dưới mắt Cerces 2 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044103": {
+        "id": "4044103",
+        "series_id": "4",
+        "title": "Nhặt Nhạnh Biển Học Thức",
+        "desc": "Nhận được chiến lợi phẩm chôn sâu dưới nước trong \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044104": {
+        "id": "4044104",
+        "series_id": "4",
+        "title": "Thang Máy Adonis",
+        "desc": "Khi thám hiểm \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ, lần đầu tiên đứng trên Hoa Tri Thức",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044105": {
+        "id": "4044105",
+        "series_id": "4",
+        "title": "Thuật Bắt Ruồi",
+        "desc": "Đừng tưởng trốn trên cây là an toàn...",
+        "hide_desc": "※Dùng động tác đấm của Tay Của Zagreus, đánh bại kẻ địch trên một cái cây ở Điện Cây Giác Ngộ",
+        "hide": false
+    },
+    "4044107": {
+        "id": "4044107",
+        "series_id": "4",
+        "title": "Trái Tim Kích Động",
+        "desc": "Dâng hiến lời thề tình yêu sâu đậm",
+        "hide_desc": "※Kích hoạt lại Trái Tim Tụ Sương",
+        "hide": false
+    },
+    "4044108": {
+        "id": "4044108",
+        "series_id": "4",
+        "title": "Tín Ngưỡng Của Hạt Giống",
+        "desc": "Khi thám hiểm trong Giếng Trời Săn Đuổi Tinh Tú của \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ, dùng Hạt Giống Tri Thức phá vỡ thùng hàng dưới đáy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044109": {
+        "id": "4044109",
+        "series_id": "4",
+        "title": "Bướm Yêu Hoa",
+        "desc": "Tơ vàng và lá dệt thành khúc nhạc tình yêu",
+        "hide_desc": "※Vượt qua thử thách của Cánh Bướm Thần Thức",
+        "hide": false
+    },
+    "4044110": {
+        "id": "4044110",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Trí Tuệ Đan Xen",
+        "desc": "Có bao nhiêu tượng người mất đi khuôn mặt?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide": false
+    },
+    "4044111": {
+        "id": "4044111",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Luật Lệ Cánh Cổng",
+        "desc": "Cô ấy từng đi qua con đường thế nào?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
+        "hide": false
+    },
+    "4044112": {
+        "id": "4044112",
+        "series_id": "4",
+        "title": "Khởi Đầu Của Vạn Lối",
+        "desc": "Phát hiện mật đạo thoát hiểm của Tribios",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044113": {
+        "id": "4044113",
+        "series_id": "4",
+        "title": "Điểm Cuối Của Cầu Vồng",
+        "desc": "Cánh Cổng, xin hãy chỉ dẫn tôi",
+        "hide_desc": "※Giải quyết tất cả ủy thác còn tồn đọng của \"Mê Cung Janus\"",
+        "hide": false
+    },
+    "4044114": {
+        "id": "4044114",
+        "series_id": "4",
+        "title": "Chúng Ta Vẫn Đang Trên Đường",
+        "desc": "Cánh Cổng, xin hãy chỉ dẫn chúng tôi",
+        "hide_desc": "※Giải quyết 3 ủy thác cuộn sách cũ còn sót lại cuối cùng của \"Mê Cung Janus\"",
+        "hide": false
+    },
+    "4044115": {
+        "id": "4044115",
+        "series_id": "4",
+        "title": "Tân Thủ Nhập Môn",
+        "desc": "Điều khiển Tay Của Zagreus, đánh bại Cánh Cổng Vạn Lối của \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044116": {
+        "id": "4044116",
+        "series_id": "4",
+        "title": "Tất Cả Vận Mệnh Đã Được Định Giá",
+        "desc": "Ở \"Thánh Địa Lời Sấm Truyền\" Janusopolis, dùng quyền năng của Titan Định Mệnh hoàn thành khiêu chiến và nhận chiến lợi phẩm.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044117": {
+        "id": "4044117",
+        "series_id": "4",
+        "title": "Võ Sĩ Quyền Anh Thành Phố Ngầm",
+        "desc": "Dùng động tác Đấm Tay Của Zagreus, đánh bại kẻ địch ẩn nấp dưới cây cầu của \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044201": {
+        "id": "4044201",
+        "series_id": "4",
+        "title": "Kẻ Trộm Lén Lút",
+        "desc": "Tìm Tuyển Tập Khai Sáng bị Tinh Linh Trộm Cắp nhắm tới",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044202": {
+        "id": "4044202",
+        "series_id": "4",
+        "title": "The World!",
+        "desc": "Lần đầu dùng Lời Nguyện Oronyx tạm dừng vật thể đang quay ngược",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044203": {
+        "id": "4044203",
+        "series_id": "4",
+        "title": "Thời Gian Đột Phá",
+        "desc": "Sẽ tạm dừng tạm dừng, tiếp tục hay tạm dừng lâu hơn nữa?",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044204": {
+        "id": "4044204",
+        "series_id": "4",
+        "title": "Để tôi thử xem có thể chạm tới thần linh không",
+        "desc": "Điều khiển Tay Của Zagreus, thử đánh vào thần thể của Kephale.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044205": {
+        "id": "4044205",
+        "series_id": "4",
+        "title": "Đi Ra Khỏi... Nơi Đây!",
+        "desc": "Đừng tưởng trốn trên cao là an toàn...",
+        "hide_desc": "※ Dùng động tác đấm của Tay Của Zagreus, đánh bại kẻ địch ở chỗ trên cao của Thành Cổ Xương Rồng Styxia",
+        "hide": false
+    },
+    "4044206": {
+        "id": "4044206",
+        "series_id": "4",
+        "title": "Sự Trỗi Dậy Của Oronyx",
+        "desc": "Quay ngược tất cả vật thể còn chứa ký ức trong Thành Cổ Xương Rồng Styxia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044207": {
+        "id": "4044207",
+        "series_id": "4",
+        "title": "Hai Vầng Trăng Tựa Vào Nhau",
+        "desc": "Bước đi trên xiềng xích của thời không cũ, ngẩng đầu nhìn lên bầu trời đêm...",
+        "hide_desc": "※ Bạn đã nhìn thấy hai vầng trăng treo trên bầu trời cao",
+        "hide": false
+    },
+    "4044208": {
+        "id": "4044208",
+        "series_id": "4",
+        "title": "Bên Trên Tartarus",
+        "desc": "Dựa vào Kỳ Tích Của Oronyx đi sâu vào Sông Styx",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044209": {
+        "id": "4044209",
+        "series_id": "4",
+        "title": "Góp Nhặt Dưới Biển Âm Ty",
+        "desc": "Mở chiến lợi phẩm ở vị trí bí mật trong kho báu Thành Cổ Xương Rồng Styxia.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044210": {
+        "id": "4044210",
+        "series_id": "8",
+        "title": "Hoa Ở Đây Biết Cử Động",
+        "desc": "Bị Tạo Vật Thủy Triều Đen ẩn mình trong bụi hoa tấn công",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044211": {
+        "id": "4044211",
+        "series_id": "4",
+        "title": "Vậy Thì, Tiến Lên Đi.",
+        "desc": "Bạn nhớ cô ấy nói \"Vậy nên, hãy tiến về phía trước. Đừng dừng bước...\"",
+        "hide_desc": "※ Bạn đã ra khỏi âm giới, có thể ở lại trong bụi hoa của cô ấy một lúc",
+        "hide": false
+    },
+    "4044212": {
+        "id": "4044212",
+        "series_id": "8",
+        "title": "Thang Máy Hôm Qua, Con Người Hôm Nay",
+        "desc": "Bị bệ nâng của một không gian khác đập trúng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044213": {
+        "id": "4044213",
+        "series_id": "4",
+        "title": "Hiệu Ứng Đèn Sân Khấu",
+        "desc": "Lần đầu tiên sử dụng Phù Văn Hồi Ức, được Kỳ Tích Của Oronyx soi sáng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044214": {
+        "id": "4044214",
+        "series_id": "4",
+        "title": "Thời Gian Không Phải Bạn Của Bạn",
+        "desc": "Mang theo Phù Văn Hồi Ức đến gần rương, nhưng lại phát hiện rương ở một không gian khác",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044216": {
+        "id": "4044216",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Lời Nguyện Thất Lạc",
+        "desc": "Dưới mặt nước của thời gian ẩn giấu điều gì?",
+        "hide_desc": "※ Giải câu đố tiên tri của Thành Cổ Xương Rồng Styxia",
+        "hide": false
+    },
+    "4044217": {
+        "id": "4044217",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Con Đường Hành Hương",
+        "desc": "Thần linh có cần quỳ bái không?",
+        "hide_desc": "※ Giải câu đố tiên tri của \"Vách Mây Bình Minh\" Okhema",
+        "hide": false
+    },
+    "4044218": {
+        "id": "4044218",
+        "series_id": "4",
+        "title": "Căn Phòng Kén Vàng",
+        "desc": "Xây dựng một thiên đường cỡ vừa cho những người Thợ Dệt",
+        "hide_desc": "※Thu thập 120 Chúc Phúc của Nhộng Tiên Sáng Thế",
+        "hide": false
+    },
+    "4044301": {
+        "id": "4044301",
+        "series_id": "4",
+        "title": "Hãy Nhận Phiếu Phạt Giao Thông",
+        "desc": "Phá vỡ Amphora Bay siêu tốc trong \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044302": {
+        "id": "4044302",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Nấc Thang Vô Hình",
+        "desc": "Là thứ gì đã che đi con đường rực lửa?",
+        "hide_desc": "※Giải mã câu đố tiên tri của \"Điện Cầu Nguyện U Tối\" Vách Mây Bình Minh",
+        "hide": false
+    },
+    "4044303": {
+        "id": "4044303",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Hành Trình Gian Khổ Dưới Gió Tây",
+        "desc": "Nhanh chân liệu có thoát khỏi vận rủi?",
+        "hide_desc": "※Giải mã câu đố tiên tri của \"Thành Phố Chìm Vào Hoàng Hôn\" Okhema",
+        "hide": false
+    },
+    "4044304": {
+        "id": "4044304",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Bí Ẩn Thần Cơ",
+        "desc": "Làm sao để chế ngự Thần Cơ?",
+        "hide_desc": "※Giải mã câu đố tiên tri của \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm",
+        "hide": false
+    },
+    "4044305": {
+        "id": "4044305",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Phía Cuối Cầu Vồng",
+        "desc": "Làm sao để chạm tới cuối cầu vồng?",
+        "hide_desc": "※Giải mã câu đố tiên tri của \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm",
+        "hide": false
+    },
+    "4044306": {
+        "id": "4044306",
+        "series_id": "4",
+        "title": "Dùng Tơ Vàng Dệt Tàu Lớn",
+        "desc": "Thu thập đủ toàn bộ 16 Phiến Đá Chúc Phúc và trò chuyện với Thợ May Nguyên Mẫu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044307": {
+        "id": "4044307",
+        "series_id": "4",
+        "title": "Tạm Biệt Nhé, Tất Cả Amphora Bay",
+        "desc": "Đập vỡ tất cả Amphora Bay trên con đường cầu vồng siêu dài",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044308": {
+        "id": "4044308",
+        "series_id": "4",
+        "title": "Cây Khung Nhỏ Nhất",
+        "desc": "Giải xong một câu đố của La Bàn Gió Tây mà không xoay chuyển quá hai lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4044309": {
+        "id": "4044309",
+        "series_id": "4",
+        "title": "Thủy Triều Lên Rồi Lại Xuống",
+        "desc": "Giải tất cả câu đố La Bàn Gió Tây trong Con Mắt Ngày Và Đêm và nhận lấy chiến lợi phẩm.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044310": {
+        "id": "4044310",
+        "series_id": "4",
+        "title": "Tri Thức Vô Tận",
+        "desc": "Tìm được \"Bọ Biết Tuốt\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044311": {
+        "id": "4044311",
+        "series_id": "4",
+        "title": "Hạt Boson Bartholos",
+        "desc": "Tìm được một Tinh Linh Trộm Cắp đang quay vòng tại chỗ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044312": {
+        "id": "4044312",
+        "series_id": "4",
+        "title": "Bartholos Không Biết Gì Cả",
+        "desc": "Chứng kiến Tinh Linh Trộm Cắp tiêu diệt quái vật bên cạnh rương báu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044313": {
+        "id": "4044313",
+        "series_id": "4",
+        "title": "Biển Báo Trên Bầu Trời",
+        "desc": "Dùng La Bàn Gió Tây để đến một khu thiên tượng đặc biệt nào đó tại \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044314": {
+        "id": "4044314",
+        "series_id": "4",
+        "title": "Nắm Đấm Trời Xanh",
+        "desc": "Đừng tưởng trốn trên trời là an toàn...",
+        "hide_desc": "※Tại \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm, dùng Bàn Tay Của Zagreus đánh bại kẻ địch đang ẩn nấp",
+        "hide": false
+    },
+    "4044315": {
+        "id": "4044315",
+        "series_id": "4",
+        "title": "Tổng Hợp Quang Hóa Học",
+        "desc": "Kẻ mạnh thực sự, có thể bước giữa không trung...",
+        "hide_desc": "※Tại \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm, dùng \"Ngọc Kỳ Tích\" vượt sang phía bên kia của bệ đỡ",
+        "hide": false
+    },
+    "4044316": {
+        "id": "4044316",
+        "series_id": "4",
+        "title": "Vừng Ơi Mở Ra",
+        "desc": "Tại \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm, giải mã câu đố giành lấy chiến lợi phẩm ẩn giấu trong khu lưu trữ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044317": {
+        "id": "4044317",
+        "series_id": "4",
+        "title": "Jack Và Cây Đậu Thần",
+        "desc": "Tại \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm, giải mã câu đố giành lấy chiến lợi phẩm ẩn giấu trong khu thiên tượng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044318": {
+        "id": "4044318",
+        "series_id": "4",
+        "title": "Máy Điều Khiển Thời Tiết",
+        "desc": "Tại \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm, lần đầu kích hoạt Bích Họa Thiên Tượng...",
+        "hide_desc": "※Bạn sẽ nhận ra: bầu trời cũng có thể nhào nặn như đất sét trong tay",
+        "hide": false
+    },
+    "4044401": {
+        "id": "4044401",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Giai Điệu Cổ Trong Chuông",
+        "desc": "Chuông gió có giai điệu như thế nào?",
+        "hide_desc": "※Giải câu đố tiên tri của Aedes Elysiae",
+        "hide": false
+    },
+    "4044402": {
+        "id": "4044402",
+        "series_id": "4",
+        "title": "El Dorado",
+        "desc": "Xây dựng một thiên đường cỡ lớn cho những người Thợ Dệt",
+        "hide_desc": "※Thu thập 190 Chúc Phúc của Nhộng Tiên Sáng Thế",
+        "hide": false
+    },
+    "4044501": {
+        "id": "4044501",
+        "series_id": "4",
+        "title": "Chào Mừng Sử Dụng Câu Lệnh GOTO",
+        "desc": "Khi người chăn cừu đi xuyên qua thời không...",
+        "hide_desc": "※Trong lối chơi Con Dê Gánh Tội Vàng, điều khiển Con Dê Gánh Tội đi qua cổng dịch chuyển",
+        "hide": false
+    },
+    "4044502": {
+        "id": "4044502",
+        "series_id": "4",
+        "title": "Tôi Là Mê Cung Của Bạn",
+        "desc": "Hãy trao cho tôi đôi tay nóng bỏng, trao cho tôi chậu than hồng của tâm hồn, trao cho kẻ cô đơn nhất này băng giá, ha! Bảy lần băng giá",
+        "hide_desc": "※Tìm lối đi bí mật dẫn đến cung điện dưới nước Styxia",
+        "hide": false
+    },
+    "4044503": {
+        "id": "4044503",
+        "series_id": "4",
+        "title": "Thế Giới Nước Tương Lai",
+        "desc": "Các tư tế của Phagousa thường nói, đừng bơi trong dòng sông Styx...",
+        "hide_desc": "※Trong quá trình khám phá Amphoreus, bị cuốn vào vực nước đầy biến động",
+        "hide": false
+    },
+    "4044504": {
+        "id": "4044504",
+        "series_id": "4",
+        "title": "Cái Chết Của Aeschylus",
+        "desc": "Các tư tế của Phagousa thường nói, hãy cẩn thận với vật rơi từ trên cao...",
+        "hide_desc": "※Trong quá trình khám phá Amphoreus, bị trần đèn chùm đổ sập đè trúng",
+        "hide": false
+    },
+    "4044505": {
+        "id": "4044505",
+        "series_id": "4",
+        "title": "Hai Mươi Mét Dưới Đáy Biển",
+        "desc": "Trong \"Biển Cả Rền Vang\" Styxia, sử dụng cơ quan trong cảnh để hoàn thành khiêu chiến và nhận chiến lợi phẩm",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044506": {
+        "id": "4044506",
+        "series_id": "4",
+        "title": "Khủng Hoảng Độ Mặn Messinan",
+        "desc": "Trong \"Biển Cả Rền Vang\" Styxia, làm mực nước của cung điện rút xuống mức thấp nhất",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044507": {
+        "id": "4044507",
+        "series_id": "4",
+        "title": "Chiến Binh Ẩn Mình Nơi Biển Lãng Quên",
+        "desc": "Trong \"Biển Cả Rền Vang\" Styxia, bước vào di tích bí ẩn dưới đáy biển đã bị phủ bụi thời gian",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044508": {
+        "id": "4044508",
+        "series_id": "4",
+        "title": "Tấm Thảm Bay Của Vua Solomon",
+        "desc": "Trong \"Biển Cả Rền Vang\" Styxia, di chuyển xuống tầng dưới bằng cách ngồi trên lá sen",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044509": {
+        "id": "4044509",
+        "series_id": "4",
+        "title": "Người Cô Độc Nhất",
+        "desc": "Khoảnh khắc này, ban ngày đã chán ghét ban ngày, suối nhỏ lại bắt đầu róc rách ngân nga",
+        "hide_desc": "※Bước vào đáy biển xương cốt lấp lánh nơi thời gian ngưng đọng trong tiếng ca",
+        "hide": false
+    },
+    "4044510": {
+        "id": "4044510",
+        "series_id": "4",
+        "title": "Hà Cớ Gì Lại Uống Rượu Một Mình?",
+        "desc": "Sự sụp đổ của mọi đỉnh cao, sự rò rỉ của mọi vực sâu, sư say khướt của mọi kẻ say",
+        "hide_desc": "※Trong ảo cảnh của Styxia, giải phóng Thủy Triều Đen từ trong Chiếc Cốc Tràn Đầy",
+        "hide": false
+    },
+    "4044511": {
+        "id": "4044511",
+        "series_id": "4",
+        "title": "Hướng Tới Đại Dương Mới",
+        "desc": "Vạn vật lấp lánh ánh sáng mới mẻ, chìm trong giấc ngủ trưa trên không gian và thời gian...",
+        "hide_desc": "※Sử dụng Chậu Linh Thủy do \"Tinh Linh Trộm Cắp\" Bartholos trả lại để đi đến Tâm Vòng Xoáy Sáng Thế",
+        "hide": false
+    },
+    "4044512": {
+        "id": "4044512",
+        "series_id": "4",
+        "title": "Công Viên Bóng Biển",
+        "desc": "Trong \"Biển Cả Rền Vang\" Styxia, hoàn thành tất cả các câu đố của \"Mê Cung Janus\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044513": {
+        "id": "4044513",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Sự Nghiệp Chưa Thành",
+        "desc": "Nhộng tiên đẩy đá lên núi đã thất bại bao nhiêu lần?",
+        "hide_desc": "※Giải mã câu đố tiên tri của \"Biển Cả Rền Vang\" Styxia",
+        "hide": false
+    },
+    "4044514": {
+        "id": "4044514",
+        "series_id": "4",
+        "title": "Không Phải Tất Cả Nho Đều Thích Hợp Để Ủ Rượu",
+        "desc": "Đến bể nho tìm một người bạn cũ cô đơn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044515": {
+        "id": "4044515",
+        "series_id": "4",
+        "title": "Vụ Án Đồ Cổ",
+        "desc": "Vào nơi sâu thẳm nhất của thời gian để tìm lại chậu nước bị đánh cắp",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044601": {
+        "id": "4044601",
+        "series_id": "4",
+        "title": "Thành Phố Ánh Sáng Nhạt",
+        "desc": "Gạt bỏ màu sắc thần thoại của Quyền Trượng δ-me13, bước vào Đại Lăng Mộ Titan Vô Danh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044602": {
+        "id": "4044602",
+        "series_id": "4",
+        "title": "Đi Đến Nơi Sâu Nhất",
+        "desc": "Bước lên Bệ Truy Cập Trung Tâm Đại Lăng Mộ, đi đến nơi sâu nhất của thế giới",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044603": {
+        "id": "4044603",
+        "series_id": "4",
+        "title": "Eureka!",
+        "desc": "Hoàn thành bí ẩn cuối cùng của \"Ma Trận Toàn Thế\" Đại Lăng Mộ Titan Vô Danh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044604": {
+        "id": "4044604",
+        "series_id": "4",
+        "title": "Tản Nhiệt Kém",
+        "desc": "Dùng phương pháp \"tạm dừng thời gian\" để dừng tất cả quạt thông gió trong phòng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044605": {
+        "id": "4044605",
+        "series_id": "4",
+        "title": "Không Ngờ Tới Nước Đi Này Đúng Không",
+        "desc": "Không dùng phương pháp \"tạm dừng thời gian\" vượt qua quạt thông gió và thành công",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044606": {
+        "id": "4044606",
+        "series_id": "4",
+        "title": "Đây Không Phải Là Cửa Xoay",
+        "desc": "Không dùng phương pháp \"tạm dừng thời gian\" vượt qua quạt thông gió và thất bại",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044607": {
+        "id": "4044607",
+        "series_id": "4",
+        "title": "Bong Bóng Nuốt Thức Ăn và Enzym Tiêu Hóa",
+        "desc": "Sử dụng Góc Nhìn Của Bartholos để nuốt một rương báu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044608": {
+        "id": "4044608",
+        "series_id": "4",
+        "title": "Thần Uy Của Zagreus",
+        "desc": "Sử dụng Góc Nhìn Của Bartholos, tiêu diệt 1 quái vật bằng cách tấn công",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044609": {
+        "id": "4044609",
+        "series_id": "4",
+        "title": "Động Lực Học Chất Lưu Bị Đánh Cắp",
+        "desc": "Sử dụng Góc Nhìn Của Bartholos, bơi trong nước 5 giây trở lên",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044610": {
+        "id": "4044610",
+        "series_id": "4",
+        "title": "Sự Tu Dưỡng Của Heo Đất",
+        "desc": "Sử dụng Góc Nhìn Của Bartholos, hoàn thành Khiêu Chiến Cuối Cùng ẩn giấu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044611": {
+        "id": "4044611",
+        "series_id": "4",
+        "title": "Tôi Đang Tu Sửa Văn Vật Trong Điện Cây",
+        "desc": "Sử dụng \"Lời Nguyện Oronyx\" khôi phục bức tượng bị vỡ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044612": {
+        "id": "4044612",
+        "series_id": "4",
+        "title": "Cú Móc Ngược Dưới",
+        "desc": "Đừng tưởng trốn ở khu vực bên ngoài là an toàn...",
+        "hide_desc": "※Dùng động tác đấm của Tay Của Zagreus để đánh bại kẻ địch trong góc \"Ma Trận Toàn Thế\" Đại Lăng Mộ Titan Vô Danh",
+        "hide": false
+    },
+    "4044613": {
+        "id": "4044613",
+        "series_id": "4",
+        "title": "Thu Hồi Và Phân Loại Ký Ức",
+        "desc": "Tại \"Ma Trận Toàn Thế\" Đại Lăng Mộ Titan Vô Danh, phát hiện một cái thùng có vẻ quen thuộc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044614": {
+        "id": "4044614",
+        "series_id": "4",
+        "title": "Heo! Heo! Heo!",
+        "desc": "Tại \"Ma Trận Toàn Thế\" Đại Lăng Mộ Titan Vô Danh, phát hiện một khung tranh có vẻ quen thuộc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4044615": {
+        "id": "4044615",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Hệ Thống Bốn",
+        "desc": "Bốn câu đúng là những câu nào?",
+        "hide_desc": "※Giải câu đố tiên tri của \"Ma Trận Toàn Thế\" Đại Lăng Mộ Titan Vô Danh",
+        "hide": false
+    },
+    "4044616": {
+        "id": "4044616",
+        "series_id": "4",
+        "title": "Bí Mật Tiếng Côn Trùng: Sự Giác Ngộ Trong Ngục Tù",
+        "desc": "Làm sao để cúng tế vô hạn?",
+        "hide_desc": "※Giải câu đố tiên tri của Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\"",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -2427,7 +4043,7 @@
         "id": "4052718",
         "series_id": "5",
         "title": "Chiến Thắng, Sau Đó Là Tạm Biệt",
-        "desc": "Sau khi mọi chuyện lắng xuống, trả lại {TEXTJOIN#54}",
+        "desc": "Sau khi mọi chuyện lắng xuống, trả lại Heo Đất Không Gian",
         "hide_desc": "",
         "hide": true
     },
@@ -2435,7 +4051,7 @@
         "id": "4052719",
         "series_id": "5",
         "title": "Kết Thúc, Sau Đó Là Bắt Đầu",
-        "desc": "Sau khi mọi chuyện lắng xuống, giữ lại {TEXTJOIN#54}",
+        "desc": "Sau khi mọi chuyện lắng xuống, giữ lại Heo Đất Không Gian",
         "hide_desc": "",
         "hide": true
     },
@@ -2547,7 +4163,7 @@
         "id": "4052803",
         "series_id": "5",
         "title": "Xin Chào Thế Giới Mới!",
-        "desc": "Đạt #1[m] Fan trên trang Luobiz",
+        "desc": "Đạt 100000000 Fan trên trang Luobiz",
         "hide_desc": "",
         "hide": false
     },
@@ -2931,7 +4547,7 @@
         "id": "4053008",
         "series_id": "5",
         "title": "Nhà Động Vật Học Hư Cấu",
-        "desc": "Xua đuổi #1 tượng Bloodhound",
+        "desc": "Xua đuổi 5 tượng Bloodhound",
         "hide_desc": "",
         "hide": true
     },
@@ -2964,7 +4580,7 @@
         "series_id": "5",
         "title": "Tận Hưởng Cảm Xúc",
         "desc": "\"Thủ Thuật Đồng Hồ\" có thể đem lại những gì?",
-        "hide_desc": "※Dẫn dắt cảm xúc của #1 người trong Cõi Mộng",
+        "hide_desc": "※Dẫn dắt cảm xúc của 1 người trong Cõi Mộng",
         "hide": false
     },
     "4053014": {
@@ -2972,7 +4588,7 @@
         "series_id": "5",
         "title": "Cảm Nhận Sự Ấm Áp",
         "desc": "\"Thủ Thuật Đồng Hồ\" có thể giúp con người tìm lại chính mình",
-        "hide_desc": "※Giải quyết #1 lần Sự Kiện Bất Ngờ của Thủ Thuật Đồng Hồ",
+        "hide_desc": "※Giải quyết 1 lần Sự Kiện Bất Ngờ của Thủ Thuật Đồng Hồ",
         "hide": false
     },
     "4053015": {
@@ -2980,7 +4596,7 @@
         "series_id": "5",
         "title": "Trái Tim Đập Thình Thịch",
         "desc": "Trong mơ, ngay cả cảm xúc cũng có thực thể",
-        "hide_desc": "※Thu thập #1 Bánh Răng Cảm Xúc",
+        "hide_desc": "※Thu thập 1 Bánh Răng Cảm Xúc",
         "hide": false
     },
     "4053016": {
@@ -2988,7 +4604,7 @@
         "series_id": "5",
         "title": "Tôi Hiểu Tâm Tư Bạn",
         "desc": "Bạn có thể cưỡng lại cám dỗ của việc tư vấn tâm lý không?",
-        "hide_desc": "※Dẫn dắt cảm xúc của ít nhất #1 người trong Cõi Mộng",
+        "hide_desc": "※Dẫn dắt cảm xúc của ít nhất 5 người trong Cõi Mộng",
         "hide": false
     },
     "4053017": {
@@ -3171,7 +4787,7 @@
         "id": "4053039",
         "series_id": "5",
         "title": "Kẻ May Mắn Kỳ Lạ",
-        "desc": "Tích lũy nhận được hơn #1 Xu Aideen",
+        "desc": "Tích lũy nhận được hơn 77 Xu Aideen",
         "hide_desc": "",
         "hide": true
     },
@@ -3307,7 +4923,7 @@
         "id": "4053056",
         "series_id": "5",
         "title": "Vì Những Thứ Tốt Đẹp Hơn",
-        "desc": "Nhận được toàn bộ #1 quà lưu niệm Cậu Bé Đồng Hồ",
+        "desc": "Nhận được toàn bộ 4 quà lưu niệm Cậu Bé Đồng Hồ",
         "hide_desc": "",
         "hide": true
     },
@@ -3387,7 +5003,7 @@
         "id": "4053066",
         "series_id": "5",
         "title": "Ai Cũng Có Đồ Uống Riêng",
-        "desc": "Đưa thức uống chính xác cho khách #1 lần",
+        "desc": "Đưa thức uống chính xác cho khách 10 lần",
         "hide_desc": "",
         "hide": true
     },
@@ -3395,7 +5011,7 @@
         "id": "4053067",
         "series_id": "5",
         "title": "Omakase",
-        "desc": "Đưa thức uống không đúng cho khách #1 lần",
+        "desc": "Đưa thức uống không đúng cho khách 5 lần",
         "hide_desc": "",
         "hide": false
     },
@@ -3595,7 +5211,7 @@
         "id": "4053222",
         "series_id": "5",
         "title": "Top 100 Cõi Mộng",
-        "desc": "Trong Tuyển Tập \"Hồi Ký Mộng Đẹp\", đánh giá của khán giả đạt #1 điểm",
+        "desc": "Trong Tuyển Tập \"Hồi Ký Mộng Đẹp\", đánh giá của khán giả đạt 2000 điểm",
         "hide_desc": "",
         "hide": false
     },
@@ -3603,7 +5219,7 @@
         "id": "4053223",
         "series_id": "5",
         "title": "Cảm Xúc Vượt Khỏi Ống Kính",
-        "desc": "Trong \"Hồi Ký Mộng Đẹp\" 3 loại cảm xúc của khán giả đồng thời cao hơn #1",
+        "desc": "Trong \"Hồi Ký Mộng Đẹp\" 3 loại cảm xúc của khán giả đồng thời cao hơn 50",
         "hide_desc": "",
         "hide": false
     },
@@ -3619,7 +5235,7 @@
         "id": "4053225",
         "series_id": "5",
         "title": "Bộ Phim Kinh Phí Cao",
-        "desc": "Trong \"Hồi Ký Mộng Đẹp\", cùng 1 hiệp tối thiểu nhận #1 Xúc Xắc Thời Gian #2 trở lên",
+        "desc": "Trong \"Hồi Ký Mộng Đẹp\", cùng 1 hiệp tối thiểu nhận 3 Xúc Xắc Thời Gian 6 trở lên",
         "hide_desc": "",
         "hide": true
     },
@@ -3731,7 +5347,7 @@
         "id": "4053307",
         "series_id": "5",
         "title": "Không Làm Khó Được Đâu",
-        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận kích hoạt #1 lần kỹ năng Chim",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận kích hoạt 30 lần kỹ năng Chim",
         "hide_desc": "",
         "hide": true
     },
@@ -3739,7 +5355,7 @@
         "id": "4053308",
         "series_id": "5",
         "title": "Chim Giấy Giận Dữ",
-        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận tự tay kích hoạt #1 lần tổ hợp Bom",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận tự tay kích hoạt 15 lần tổ hợp Bom",
         "hide_desc": "",
         "hide": true
     },
@@ -3747,7 +5363,7 @@
         "id": "4053309",
         "series_id": "5",
         "title": "Chim! Chim! Chim!",
-        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận, lực chiến cao nhất của Chim đạt #1",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận, lực chiến cao nhất của Chim đạt 300",
         "hide_desc": "",
         "hide": true
     },
@@ -3763,7 +5379,7 @@
         "id": "4053311",
         "series_id": "5",
         "title": "Sự Ra Đời Của Một Ngôi Sao (A Star Is Born)",
-        "desc": "Bố trí diễn viên phù hợp trên sân khấu của {TEXTJOIN#87}",
+        "desc": "Bố trí diễn viên phù hợp trên sân khấu của Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -3771,7 +5387,7 @@
         "id": "4053312",
         "series_id": "5",
         "title": "Xe Bay Siêu Cấp (Need For Speed)",
-        "desc": "Đậu xe tại vị trí dành riêng của {TEXTJOIN#87}",
+        "desc": "Đậu xe tại vị trí dành riêng của Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -3779,7 +5395,7 @@
         "id": "4053313",
         "series_id": "5",
         "title": "Rạp Chiếu Phim Gia Đình",
-        "desc": "Dùng máy chiếu trên {TEXTJOIN#87}, và mời thành viên Đội Tàu Astral đến xem",
+        "desc": "Dùng máy chiếu trên Tàu Radiant Feldspar, và mời thành viên Đội Tàu Astral đến xem",
         "hide_desc": "",
         "hide": true
     },
@@ -3787,7 +5403,7 @@
         "id": "4053315",
         "series_id": "5",
         "title": "Mười Tám Thùng Quý Tộc",
-        "desc": "Hoàn thành tất cả khiêu chiến Thùng Thí Luyện trên {TEXTJOIN#87}",
+        "desc": "Hoàn thành tất cả khiêu chiến Thùng Thí Luyện ở Penacony",
         "hide_desc": "",
         "hide": true
     },
@@ -3795,7 +5411,7 @@
         "id": "4053316",
         "series_id": "5",
         "title": "Vận Chuyển Nhanh May Mắn",
-        "desc": "Ký tên nhận bưu kiện của Aventurine gửi đến trên {TEXTJOIN#87}",
+        "desc": "Ký tên nhận bưu kiện của Aventurine gửi đến trên Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -3835,7 +5451,7 @@
         "id": "4053321",
         "series_id": "8",
         "title": "Chủ Sao Khách Vậy",
-        "desc": "Trước khi nhận được quyền sở hữu {TEXTJOIN#87}, nghịch nước hồ bơi và bị khiển trách",
+        "desc": "Trước khi nhận được quyền sở hữu Tàu Radiant Feldspar, nghịch nước hồ bơi và bị khiển trách",
         "hide_desc": "",
         "hide": true
     },
@@ -3843,7 +5459,7 @@
         "id": "4053322",
         "series_id": "5",
         "title": "Dưới Chiếc Kính Đen",
-        "desc": "Trong phòng điều khiển, kích hoạt camera giám sát, quan sát thân tàu {TEXTJOIN#87}",
+        "desc": "Trong phòng điều khiển, kích hoạt camera giám sát, quan sát thân tàu Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -3859,7 +5475,7 @@
         "id": "4053324",
         "series_id": "5",
         "title": "Thành Phố Vô Hình (Invisible Cities)",
-        "desc": "Dùng kính quan sát trên {TEXTJOIN#87}",
+        "desc": "Dùng kính quan sát trên Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -3867,7 +5483,7 @@
         "id": "4053325",
         "series_id": "5",
         "title": "Trái Tim Vĩnh Hằng (My Heart Will Go On)",
-        "desc": "Từ phía đầu tàu của {TEXTJOIN#87}, nhìn về nơi xa",
+        "desc": "Từ phía đầu tàu của Tàu Radiant Feldspar, nhìn về nơi xa",
         "hide_desc": "",
         "hide": true
     },
@@ -3899,7 +5515,7 @@
         "id": "4053329",
         "series_id": "5",
         "title": "Captain! My Captain!",
-        "desc": "Lần đầu vào không gian riêng của tàu trưởng {TEXTJOIN#87}",
+        "desc": "Lần đầu vào không gian riêng của tàu trưởng Tàu Radiant Feldspar",
         "hide_desc": "",
         "hide": true
     },
@@ -3939,7 +5555,7 @@
         "id": "4053405",
         "series_id": "5",
         "title": "Anh Hùng Thận Trọng",
-        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", #1 thuộc tính huấn luyện của March 7th đạt từ #2 trở lên",
+        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", 4 thuộc tính huấn luyện của March 7th đạt từ 1000 trở lên",
         "hide_desc": "",
         "hide": false
     },
@@ -3947,7 +5563,7 @@
         "id": "4053407",
         "series_id": "5",
         "title": "Vượt Qua Giai Đoạn Ổn Định",
-        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", trong 1 hiệp tăng thuộc tính huấn luyện đến #1 điểm",
+        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", trong 1 hiệp tăng thuộc tính huấn luyện đến 300 điểm",
         "hide_desc": "",
         "hide": false
     },
@@ -3955,7 +5571,7 @@
         "id": "4053408",
         "series_id": "5",
         "title": "Sơ Hoa Lữ Du Lục",
-        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", trong Lịch Trình Luyện Kiếm chỉ có Du Ngoạn là không huấn luyện",
+        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", trong Lịch Trình Luyện Kiếm chỉ có Du Ngoạn, không có huấn luyện",
         "hide_desc": "",
         "hide": false
     },
@@ -3963,7 +5579,7 @@
         "id": "4053409",
         "series_id": "5",
         "title": "Học Không Chơi, March Thiên Tài Cũng Bị Lú",
-        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", liên tục huấn luyện đến khi tâm trạng March 7th là #1",
+        "desc": "Trong \"Sơ Hoa Tập Kiếm Lục\", liên tục huấn luyện đến khi tâm trạng March 7th là 0",
         "hide_desc": "",
         "hide": false
     },
@@ -4027,7 +5643,7 @@
         "id": "4053417",
         "series_id": "5",
         "title": "Tuần Tra Phòng Giam",
-        "desc": "Khởi động Chim Robot, và điều tra phòng giam ở #1 tầng cao với tư cách là một vị khách",
+        "desc": "Khởi động Chim Robot, và điều tra phòng giam ở 3 tầng cao với tư cách là một vị khách",
         "hide_desc": "",
         "hide": true
     },
@@ -4054,6 +5670,2094 @@
         "desc": "Hoàn thành tất cả câu đố \"Khối Lục Giác - Remake\" trong Nhà Giam Xiềng Xích",
         "hide_desc": "",
         "hide": true
+    },
+    "4053501": {
+        "id": "4053501",
+        "series_id": "5",
+        "title": "Đừng Dập Tắt Ngọn Lửa Đang Âm Ỉ",
+        "desc": "Dù tiếng reo hò có lắng xuống, thì tiếng nói của kẻ im lặng cũng sẽ không biến mất",
+        "hide_desc": "※Giúp Luka bước lên sân khấu Võ Đài Vô Địch",
+        "hide": false
+    },
+    "4053502": {
+        "id": "4053502",
+        "series_id": "5",
+        "title": "Kẻ Quyết Đấu Bên Lề",
+        "desc": "Giúp Luka chiến thắng tất cả vòng loại của Lễ Diễn Võ Trời Sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053503": {
+        "id": "4053503",
+        "series_id": "5",
+        "title": "Đấu Sĩ Không Ra Trận",
+        "desc": "Trước đây bạn luôn đích thân ra trận chiến đấu, giờ cũng nên thử làm \"người đứng đằng sau\" rồi",
+        "hide_desc": "※Trở thành huấn luyện viên của Luka",
+        "hide": false
+    },
+    "4053504": {
+        "id": "4053504",
+        "series_id": "5",
+        "title": "Mục Tiêu Là Bậc Thầy Diễn Võ",
+        "desc": "Nắm vững toàn bộ chiến thuật trong Lễ Diễn Võ Trời Sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053505": {
+        "id": "4053505",
+        "series_id": "5",
+        "title": "Đấu Sĩ Và Bò Tót Trong Mơ",
+        "desc": "Hoàn thành tất cả khiêu chiến của Huấn Luyện Mộng Cảnh trong Lễ Diễn Võ Trời Sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053506": {
+        "id": "4053506",
+        "series_id": "5",
+        "title": "Kỵ Sĩ Cũng Có Thể Bại Dưới Tay Không",
+        "desc": "Dùng nhân vật Luka của phe ta giành chiến thắng khi chiến đấu với Argenti trong Lễ Diễn Võ Trời Sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053507": {
+        "id": "4053507",
+        "series_id": "5",
+        "title": "Lineal Champion",
+        "desc": "Dùng nhân vật Luka của phe ta giành chiến thắng khi chiến đấu với Yanqing trong Lễ Diễn Võ Trời Sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053508": {
+        "id": "4053508",
+        "series_id": "5",
+        "title": "Hôm Nay Cuối Cùng Tôi Đã Biết Tôi Là Ai",
+        "desc": "Chứng kiến sức mạnh vĩ đại nhất của sinh mệnh hữu tình - Lựa chọn sức mạnh của \"thiện\"",
+        "hide_desc": "※Gặp tăng lữ của Đan Luân Tự trong Lễ Diễn Võ",
+        "hide": false
+    },
+    "4053509": {
+        "id": "4053509",
+        "series_id": "5",
+        "title": "Thời Đại Hậu Chân Tướng",
+        "desc": "Đối mặt với làn sóng dư luận dưới võ đài của Lễ Diễn Võ",
+        "hide_desc": "※Giúp Luka chiến thắng \"chiêu trò\" của Shuojin",
+        "hide": false
+    },
+    "4053510": {
+        "id": "4053510",
+        "series_id": "5",
+        "title": "Không Bao Giờ Giống Thời Vô Tư Tuổi Trẻ",
+        "desc": "Tại Viện Bảo Tàng Lịch Sử Belobog, chứng kiến một đoạn hồi ức xưa cũ đến từ Xianzhou",
+        "hide_desc": "※Đời người từ xưa ai không từng chết? Hãy để một trái tim trung thành ghi dấu ấn trong lịch sử.",
+        "hide": false
+    },
+    "4053511": {
+        "id": "4053511",
+        "series_id": "5",
+        "title": "Nữ Hoàng Tin Tức",
+        "desc": "Trong \"Dù Tiếng Vỗ Tay Dừng Lại\", mỗi lần phỏng vấn sau trận đấu đều chọn Carmella đặt câu hỏi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053512": {
+        "id": "4053512",
+        "series_id": "5",
+        "title": "Hôm Nay Không Có Tin",
+        "desc": "Trong \"Dù Tiếng Vỗ Tay Dừng Lại\", có 1 lần phỏng vấn sau trận đấu không chọn Carmella đặt câu hỏi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053513": {
+        "id": "4053513",
+        "series_id": "5",
+        "title": "Bảy Bông Hoa Trên Một Cây Dây Leo",
+        "desc": "Trên Tàu Phá Thiên, chứng kiến 7 đứa cháu có tuyệt kỹ giải cứu người già",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053514": {
+        "id": "4053514",
+        "series_id": "5",
+        "title": "Lễ Diễn Võ: 21 Phát Pháo",
+        "desc": "Trên Tàu Phá Thiên, giúp Lão Bai và Renke hoàn thành tâm nguyện",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053515": {
+        "id": "4053515",
+        "series_id": "5",
+        "title": "Bánh Răng Kim Loại",
+        "desc": "Trên Tàu Phá Thiên, ngụy trang thành hành lý, và thành công vượt qua băng chuyền",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053516": {
+        "id": "4053516",
+        "series_id": "5",
+        "title": "Chỉ Là Một Huấn Luyện Viên Võ Thuật Đi Ngang Qua",
+        "desc": "Trên Tàu Phá Thiên, hướng dẫn võ sĩ đang tập luyện ở hậu trường hoàn thành huấn luyện",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053517": {
+        "id": "4053517",
+        "series_id": "5",
+        "title": "Đi Trong Bóng Tối, Phục Vụ Ánh Sáng",
+        "desc": "Trên Tàu Phá Thiên, thông qua Chim Robot tìm thấy bóng dáng ẩn nấp trong bóng tối",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053518": {
+        "id": "4053518",
+        "series_id": "5",
+        "title": "Một Bình Rượu Cho Niềm Vui Còn Lại",
+        "desc": "Trong Nhiệm Vụ Thám Hiểm \"Dọc Theo Con Đường Cổ\", tiễn khách quý của Xianzhou và đón Fu Xuan trở về sau chuyến công tác",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053519": {
+        "id": "4053519",
+        "series_id": "5",
+        "title": "Giải Cứu Trên Không",
+        "desc": "Trên Tàu Phá Thiên, trải nghiệm một vụ tai nạn tàu trong tưởng tượng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053520": {
+        "id": "4053520",
+        "series_id": "5",
+        "title": "Xây Dựng Từ Vật Liệu Thừa",
+        "desc": "Trên Tàu Phá Thiên, phát triển tiềm năng vô hạn của đồ chơi Phi Kiếm",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053521": {
+        "id": "4053521",
+        "series_id": "5",
+        "title": "Đối Tượng Cao Thượng Có Thể Giao Dịch",
+        "desc": "Dùng tiền đổi đạo đức... là có đạo đức không?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053522": {
+        "id": "4053522",
+        "series_id": "5",
+        "title": "Vứt Bỏ Thế Sự, Cắt Đứt Muộn Phiền",
+        "desc": "Cho Bắc Cái thấy kết thúc của Nam Đế",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053601": {
+        "id": "4053601",
+        "series_id": "5",
+        "title": "Trực Tiếp Đêm Chủ Nhật",
+        "desc": "Tìm đủ 3 Đồng Hồ Mộng Mị \"hơi khác biệt\", và chụp ảnh kỷ niệm với chúng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053602": {
+        "id": "4053602",
+        "series_id": "5",
+        "title": "Chào Mừng Đến Với Lớp Học Chủ Nghĩa Tự Do Học Thuật",
+        "desc": "Tham gia dự thính 3 lớp học chuyên môn tại Học Viện Gấp Giấy",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053603": {
+        "id": "4053603",
+        "series_id": "5",
+        "title": "Tạm Biệt Bình Rượu",
+        "desc": "Giúp các thành viên Câu Lạc Bộ Phim Ảnh hoàn thành việc quay phim",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053604": {
+        "id": "4053604",
+        "series_id": "5",
+        "title": "Thiện Ác Đều Có Hồi Báo",
+        "desc": "Gặp lại sinh viên Pepeshi đấu giá ảnh có chữ ký của bạn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053605": {
+        "id": "4053605",
+        "series_id": "5",
+        "title": "Bong Bóng To Quá",
+        "desc": "Ngước nhìn Bong Bóng Chim Giấy bay lơ lửng trên Sân Khấu Trung Tâm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053606": {
+        "id": "4053606",
+        "series_id": "5",
+        "title": "Đã Thành Thật...?",
+        "desc": "Nói chuyện với sinh viên đứng phạt ở hành lang",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053607": {
+        "id": "4053607",
+        "series_id": "5",
+        "title": "Nhạc House Gấp Giấy",
+        "desc": "Phát hiện Chim Giấy đang hát theo nhạc sân khấu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053608": {
+        "id": "4053608",
+        "series_id": "5",
+        "title": "Sổ Liên Lạc Tốt Nghiệp",
+        "desc": "Giúp tất cả bạn học cần viết kỷ yếu, và để lại bình luận của bạn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053610": {
+        "id": "4053610",
+        "series_id": "5",
+        "title": "Bút Tự Vẽ!",
+        "desc": "Để lại Graffiti của riêng bạn trên Tường Graffiti một lần nữa",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053611": {
+        "id": "4053611",
+        "series_id": "5",
+        "title": "'39",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc tất cả cảm xúc của Harrison",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053612": {
+        "id": "4053612",
+        "series_id": "5",
+        "title": "Bảo Hộ Học Viện Gấp Giấy!",
+        "desc": "Nghe đoạn đối thoại giữa hai sinh viên nhiệt tình",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053613": {
+        "id": "4053613",
+        "series_id": "5",
+        "title": "Giấc Mơ Tuổi Thơ",
+        "desc": "Nghe đoạn đối thoại giữa Thầy Cú Mèo và lũ chim",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053614": {
+        "id": "4053614",
+        "series_id": "5",
+        "title": "Tốc Độ Và Người Nhà",
+        "desc": "Nghe đoạn đối thoại của các thành viên Câu Lạc Bộ Đua Xe",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053615": {
+        "id": "4053615",
+        "series_id": "5",
+        "title": "Mộng Đẹp Muôn Màu, Lý Tưởng Tự Do",
+        "desc": "Giúp đỡ hiệu trưởng \"thật sự\" của Học Viện Gấp Giấy",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053616": {
+        "id": "4053616",
+        "series_id": "5",
+        "title": "Chiếc Cốc Lửa",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc tất cả cảm xúc của Prema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053617": {
+        "id": "4053617",
+        "series_id": "5",
+        "title": "Câu Lạc Bộ Sinh Viên Vọng Tưởng",
+        "desc": "Xây dựng câu lạc bộ sinh viên của riêng bạn trong tưởng tượng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053618": {
+        "id": "4053618",
+        "series_id": "5",
+        "title": "Thật Hả?",
+        "desc": "Tìm thấy gian hàng của Câu Lạc Bộ Nhạc Hơi Học Viện Gấp Giấy",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053621": {
+        "id": "4053621",
+        "series_id": "5",
+        "title": "Factory Library",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, tích lũy thu thập 3 Cảm Hứng Sáng Tác",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053623": {
+        "id": "4053623",
+        "series_id": "5",
+        "title": "Phải Phải Phải Phải Phải Phải Phải",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, nhận 3 sao trong Thử Thách Âm Nhạc độ khó bất kỳ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053624": {
+        "id": "4053624",
+        "series_id": "5",
+        "title": "Remix 10",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, mở khóa nhạc khúc thứ 4 trên sân khấu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053625": {
+        "id": "4053625",
+        "series_id": "5",
+        "title": "Người Đo Lường Tâm Lý",
+        "desc": "Giúp tất cả những người mất đi cảm xúc trong Cõi Mộng bổ sung đầy đủ Mặt Đồng Hồ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053626": {
+        "id": "4053626",
+        "series_id": "5",
+        "title": "Ban Nhạc Rhapsody",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, đặt tên cho ban nhạc mà bạn thành lập",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053627": {
+        "id": "4053627",
+        "series_id": "5",
+        "title": "Lễ Hội Mùa Hè",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, cùng ban nhạc của bạn hoàn thành buổi biểu diễn đầu tiên của Bữa Tiệc Âm Nhạc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053628": {
+        "id": "4053628",
+        "series_id": "5",
+        "title": "Thiên Đường Và Địa Ngục",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, cùng ban nhạc của bạn hoàn thành buổi biểu diễn thứ hai của Bữa Tiệc Âm Nhạc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053629": {
+        "id": "4053629",
+        "series_id": "5",
+        "title": "Testify",
+        "desc": "Trong Bí Kíp Nhẫn Pháp Săn Bắn Âm Luật, cùng ban nhạc của bạn hoàn thành buổi biểu diễn bế mạc của Bữa Tiệc Âm Nhạc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053630": {
+        "id": "4053630",
+        "series_id": "5",
+        "title": "Tuyển Tập Truyện Kinh Dị",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc tất cả cảm xúc của Ligeia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053701": {
+        "id": "4053701",
+        "series_id": "5",
+        "title": "Tiến Vào Hành Trình Dài Trong Màn Đêm",
+        "desc": "Khi lên giường đi ngủ, chọn tắt đèn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053702": {
+        "id": "4053702",
+        "series_id": "5",
+        "title": "Tắm Thật Thoải Mái",
+        "desc": "Lần đầu tiên sử dụng bồn tắm",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053703": {
+        "id": "4053703",
+        "series_id": "5",
+        "title": "Vua Tắm Rửa",
+        "desc": "Khi tắm trong bồn, thử sử dụng 3 loại tinh chất tắm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053704": {
+        "id": "4053704",
+        "series_id": "5",
+        "title": "Bỗng Nhiên Nhìn Lại",
+        "desc": "Ngắm nhìn tất cả vật sưu tầm trong phòng mình",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053705": {
+        "id": "4053705",
+        "series_id": "5",
+        "title": "Đêm Không Tồn Tại",
+        "desc": "Ngủ say trong giấc ngủ ngắn cho đến tận cùng của thời gian",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053706": {
+        "id": "4053706",
+        "series_id": "5",
+        "title": "Vấn Đề Hóc Búa Của Đèn Điện",
+        "desc": "Tắt mở đèn điện nhiều lần cho tới khi bóng đèn bị chập mạch trong phòng của mình",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053707": {
+        "id": "4053707",
+        "series_id": "5",
+        "title": "Quản Gia Bánh Mèo Rác",
+        "desc": "Trong phòng mình, tình cờ gặp Bánh Kem Rác",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053708": {
+        "id": "4053708",
+        "series_id": "5",
+        "title": "Máy Tính Cũ Đáng Tin Cậy",
+        "desc": "Hoàn thành 3 di nguyện của Virus Siêu Thông Minh",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053709": {
+        "id": "4053709",
+        "series_id": "5",
+        "title": "Giữa Đóng Băng Và Tan Chảy",
+        "desc": "Xây dựng \"Quy Định Mới Về Việc Sử Dụng Tủ Lạnh\" để sử dụng tủ lạnh hợp lý",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053710": {
+        "id": "4053710",
+        "series_id": "5",
+        "title": "Đêm Nay Không Có Gì Xảy Ra",
+        "desc": "Trong căn phòng thuộc về bạn, trải qua một đêm nhàn nhã vô sự",
+        "hide_desc": "※Hoàn thành sự kiện \"Hướng Dẫn Trang Trí Nhà Vũ Trụ\"",
+        "hide": false
+    },
+    "4053711": {
+        "id": "4053711",
+        "series_id": "5",
+        "title": "Phù Thủy Xứ Oz Mini",
+        "desc": "{F#Cô}{M#Anh} hiểu chưa? Hướng Dẫn Hoa, Robot Cơm Chiên, Bánh Kem Mèo, Peppy, vừa khéo tương ứng với Dorothy, Người Thiếc... Không đúng, tại sao tôi lại giải thích chuyện cười?",
+        "hide_desc": "※Trong sự kiện \"Hướng Dẫn Trang Trí Nhà Vũ Trụ\" gặp tất cả 4 trợ thủ trực nhật",
+        "hide": false
+    },
+    "4053712": {
+        "id": "4053712",
+        "series_id": "5",
+        "title": "Biển Quá Khứ Đã Qua",
+        "desc": "Nghe Chú Yang kể về câu chuyện trong quá khứ",
+        "hide_desc": "※Trở thành Khách Vô Danh, đồng nghĩa với việc bạn phải tạm biệt cuộc sống quen thuộc, đến với thế giới chưa biết, để mở ra những cuộc thám hiểm",
+        "hide": false
+    },
+    "4053713": {
+        "id": "4053713",
+        "series_id": "5",
+        "title": "Rèn Thép Lạnh",
+        "desc": "Đã hiểu chưa? Vì cơ thể tôi được làm từ sắt thép, mà sắt thép thì lạnh lẽo và nhạt nhẽo, cho nên những câu chuyện cười của tôi rất nhạt",
+        "hide_desc": "※Nghe \"Im Miệng\" kể chuyện cười nhạt, thật buồn cười quá đi",
+        "hide": false
+    },
+    "4053714": {
+        "id": "4053714",
+        "series_id": "5",
+        "title": "Tôi Yêu Nhà Tôi",
+        "desc": "Trong \"Hướng Dẫn Trang Trí Nhà Vũ Trụ\", độ cống hiến công việc của nhân vật bất kỳ đạt 99",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053715": {
+        "id": "4053715",
+        "series_id": "5",
+        "title": "Cuộc Họp Không Thể Dừng Lại",
+        "desc": "Trong \"Hướng Dẫn Trang Trí Nhà Vũ Trụ\", đánh giá của Pom-Pom trong 1 lần họp đạt 30000",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053716": {
+        "id": "4053716",
+        "series_id": "5",
+        "title": "Nhà Cải Tạo Trong Mơ",
+        "desc": "Trong \"Hướng Dẫn Trang Trí Nhà Vũ Trụ\", hoàn thành xây dựng của tất cả khu vực",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053717": {
+        "id": "4053717",
+        "series_id": "5",
+        "title": "Thảm Họa Nhanh Hơn Tôi Một Bước",
+        "desc": "Trong \"Hướng Dẫn Trang Trí Nhà Vũ Trụ\", tích lũy vào Ô Vận Rủi 3 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054001": {
+        "id": "4054001",
+        "series_id": "5",
+        "title": "Rung Chuông",
+        "desc": "Rung chuông triệu hồi Thú Đại Địa 5 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054002": {
+        "id": "4054002",
+        "series_id": "5",
+        "title": "Tôi Gọi Tên Bình Minh Của Vĩnh Hằng",
+        "desc": "Đọc tất cả khai sáng của \"Thánh Thành Vĩnh Hằng\" Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054003": {
+        "id": "4054003",
+        "series_id": "5",
+        "title": "Tôi Gọi Tên Vị Vua Mới",
+        "desc": "Đọc tất cả khai sáng của \"Tàn Tích Phân Tranh\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054004": {
+        "id": "4054004",
+        "series_id": "5",
+        "title": "Tôi Gọi Tên Hòa Bình Thịnh Vượng",
+        "desc": "Đọc tất cả khai sáng của \"Mặt Trận Tắm Máu\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054005": {
+        "id": "4054005",
+        "series_id": "5",
+        "title": "Tôi Gọi Tên Bóng Đêm Cổ Xưa",
+        "desc": "Đọc tất cả khai sáng của \"Vực Thẳm Định Mệnh\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054006": {
+        "id": "4054006",
+        "series_id": "5",
+        "title": "Câu Chuyện Thành Phố",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Thánh Thành Vĩnh Hằng\" Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054007": {
+        "id": "4054007",
+        "series_id": "5",
+        "title": "Đêm Phân Tranh",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Tàn Tích Phân Tranh\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054008": {
+        "id": "4054008",
+        "series_id": "5",
+        "title": "Bình Minh Của Chiến Tranh",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Mặt Trận Tắm Máu\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054009": {
+        "id": "4054009",
+        "series_id": "5",
+        "title": "Cái Chết Của Hươu Thánh",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Vực Thẳm Định Mệnh\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054010": {
+        "id": "4054010",
+        "series_id": "5",
+        "title": "Chơi Đùa Với Sóng Biển Và Thú",
+        "desc": "Nhận bản ghi âm Tiếng Vọng Thần Tính: Biển Cả",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054011": {
+        "id": "4054011",
+        "series_id": "5",
+        "title": "Chấm Dứt Bất Hòa Điên Cuồng",
+        "desc": "Nhận bản ghi âm Tiếng Vọng Thần Tính: Phân Tranh",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054012": {
+        "id": "4054012",
+        "series_id": "5",
+        "title": "Đuổi Theo Ánh Sáng Bên Dưới",
+        "desc": "Nhận bản ghi âm Tiếng Vọng Thần Tính: Thời Gian",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054013": {
+        "id": "4054013",
+        "series_id": "5",
+        "title": "Thế Giới Bình Thường",
+        "desc": "Nhìn lại, có lẽ bạn đã khơi dậy một gợn sóng lớn trong cuộc đời của nhiều người",
+        "hide_desc": "※Xem những người bình thường từng được Đội Tàu Astral giúp đỡ bây giờ sống thế nào",
+        "hide": false
+    },
+    "4054014": {
+        "id": "4054014",
+        "series_id": "5",
+        "title": "Vũ Trụ Rộng Lớn, Nhân Gian Bé Nhỏ",
+        "desc": "Sau khi hoàn thành nhiệm vụ Nhật Ký Tìm Người, nói chuyện với Robot trên Đội Tàu Astral",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054015": {
+        "id": "4054015",
+        "series_id": "5",
+        "title": "Tình Yêu Thời Kỳ Thủy Triều Đen",
+        "desc": "Chứng kiến kết cục của Aelius và Nympha",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054016": {
+        "id": "4054016",
+        "series_id": "5",
+        "title": "Cây Không Quả",
+        "desc": "Hoàn thành sự kiện tương tác nghi thức thần bí ở Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054017": {
+        "id": "4054017",
+        "series_id": "5",
+        "title": "Nghịch Lý Của {NICKNAME}",
+        "desc": "Chứng kiến kết cục của Khiên Mạnh Nhất và Ngọn Giáo Mạnh Nhất",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054018": {
+        "id": "4054018",
+        "series_id": "5",
+        "title": "Ngày Mai Lại Là Một Ngày Mới",
+        "desc": "※Và chứng kiến sự thay đổi của một đứa trẻ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054019": {
+        "id": "4054019",
+        "series_id": "5",
+        "title": "Thuyết Định Mệnh",
+        "desc": "Giúp Demetria điều tra manh mối mất tích của con gái và trình bày suy luận của mình",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054020": {
+        "id": "4054020",
+        "series_id": "5",
+        "title": "Hoàng Hôn Của Thần Tượng",
+        "desc": "Bảo vệ quan điểm của Zeno trong buổi tranh luận tu từ học",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054021": {
+        "id": "4054021",
+        "series_id": "5",
+        "title": "Tất Cả Là Một",
+        "desc": "Bảo vệ quan điểm của Parmenides trong buổi tranh luận tu từ học",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054022": {
+        "id": "4054022",
+        "series_id": "5",
+        "title": "Cái Chết Của Siêu Hình",
+        "desc": "Mọi thứ chỉ dựa vào trí tuệ tạo ra đều là giả dối",
+        "hide_desc": "※Nhận Đồng Xu Sấp Ngửa đầu tiên",
+        "hide": false
+    },
+    "4054023": {
+        "id": "4054023",
+        "series_id": "5",
+        "title": "Đường Chưa Chọn",
+        "desc": "Điều tra Ngựa Của Janus trong \"Tàn Tích Phân Tranh\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054024": {
+        "id": "4054024",
+        "series_id": "5",
+        "title": "Ngày Trở Thành Thần",
+        "desc": "Điều tra Ngựa Của Janus trong \"Mặt Trận Tắm Máu\" Thành Kremnos",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054025": {
+        "id": "4054025",
+        "series_id": "5",
+        "title": "Lông Vũ Trong Tay",
+        "desc": "Điều tra Ngựa Của Janus trong \"Vực Thẳm Định Mệnh\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054026": {
+        "id": "4054026",
+        "series_id": "5",
+        "title": "Bí Mật Chưa Tiết Lộ",
+        "desc": "Ngăn cản tất cả hành vi trộm cắp của Tinh Linh Trộm Cắp trong \"Thánh Thành Vĩnh Hằng\" Okhema, \"Tàn Tích Phân Tranh\" Thành Kremnos, \"Mặt Trận Tắm Máu\" Thành Kremnos, \"Vực Thẳm Định Mệnh\" Janusopolis.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054027": {
+        "id": "4054027",
+        "series_id": "5",
+        "title": "Ngọn Lửa Đã Tắt",
+        "desc": "Hoàn thành nhiệm vụ Con Dê Gánh Tội Vàng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054029": {
+        "id": "4054029",
+        "series_id": "5",
+        "title": "Nhà Triết Học",
+        "desc": "Tìm tất cả Lửa Georios trong Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054030": {
+        "id": "4054030",
+        "series_id": "5",
+        "title": "Vua Triết Học",
+        "desc": "Tìm 4 Sư Tử Chân Ngôn trong Okhema và trả lời câu hỏi của chúng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054031": {
+        "id": "4054031",
+        "series_id": "5",
+        "title": "Hành Giả Ánh Sáng",
+        "desc": "Tìm 8 Sư Tử Chân Ngôn trong Okhema và trả lời câu hỏi của chúng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054032": {
+        "id": "4054032",
+        "series_id": "5",
+        "title": "Ốc Mượn Hồn",
+        "desc": "Tìm tất cả Nến Thánh trong Okhema kích hoạt tương tác",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054033": {
+        "id": "4054033",
+        "series_id": "5",
+        "title": "Ký Ức Khách Quan Tuyệt Đối",
+        "desc": "Điều tra Ngựa Của Janus trong \"Thánh Thành Vĩnh Hằng\" Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054034": {
+        "id": "4054034",
+        "series_id": "5",
+        "title": "Quyền Tái Tạo Bức Tượng",
+        "desc": "Thu thập Mảnh Ký Ức đầu tiên",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054035": {
+        "id": "4054035",
+        "series_id": "5",
+        "title": "Kẻ Làm Đồng Xu Giả",
+        "desc": "Tích lũy tu sửa 3 bức tượng trong Thành Okhema",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054036": {
+        "id": "4054036",
+        "series_id": "5",
+        "title": "Chúng Thần Và Người",
+        "desc": "Tiết lộ nhiều bí mật ẩn giấu trong các chòm sao",
+        "hide_desc": "※Xem Sổ Tay Chòm Sao Titan trong Tâm Vòng Xoáy Sáng Thế",
+        "hide": false
+    },
+    "4054037": {
+        "id": "4054037",
+        "series_id": "5",
+        "title": "Vì sao lại có niềm vui thầm lặng này?",
+        "desc": "Điểm khởi đầu của thế giới từng là biển cả",
+        "hide_desc": "※Lắng nghe tiếng thủy triều trong Tâm Vòng Xoáy Sáng Thế",
+        "hide": false
+    },
+    "4054038": {
+        "id": "4054038",
+        "series_id": "5",
+        "title": "Núi, Thợ Rèn, Khách Quen",
+        "desc": "Cảm ơn quý khách",
+        "hide_desc": "※Mua tất cả các loại vũ khí do Chartonus rèn",
+        "hide": false
+    },
+    "4054039": {
+        "id": "4054039",
+        "series_id": "5",
+        "title": "Chúng Tôi Ngồi Dưới Đất",
+        "desc": "Mua Rượu Mật từ Bacchus, và kích hoạt sự kiện say rượu chỉ định",
+        "hide_desc": "※Mua Rượu Mật từ Bacchus, và kích hoạt sự kiện say rượu liên quan đến Thú Đại Địa 1 lần",
+        "hide": false
+    },
+    "4054040": {
+        "id": "4054040",
+        "series_id": "5",
+        "title": "Người Anh Em Ngủ Giường Trên",
+        "desc": "Mua Rượu Mật từ Bacchus, và kích hoạt sự kiện say rượu chỉ định",
+        "hide_desc": "※Mua Rượu Mật từ Bacchus, và kích hoạt sự kiện say rượu liên quan đến Dan Heng 1 lần",
+        "hide": false
+    },
+    "4054041": {
+        "id": "4054041",
+        "series_id": "5",
+        "title": "Ánh Trăng Trong Chai",
+        "desc": "Mua Rượu Mật từ Bacchus, và kích hoạt tất cả sự kiện say rượu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054042": {
+        "id": "4054042",
+        "series_id": "5",
+        "title": "Giai Điệu Thoáng Qua Và Nốt Nhạc Ngưng Đọng",
+        "desc": "Âm thanh ngoài bầu trời có thể vang vọng",
+        "hide_desc": "※Nhớ lại âm thanh ngoài bầu trời trong quá khứ ở Pasithea",
+        "hide": false
+    },
+    "4054043": {
+        "id": "4054043",
+        "series_id": "5",
+        "title": "Nguyệt Quế mang đến thông điệp...",
+        "desc": "Có thể xem trước vận mệnh, nhưng đừng tin một cách mù quáng",
+        "hide_desc": "※Để Pasithea xem vận mệnh cho bạn một lần",
+        "hide": false
+    },
+    "4054044": {
+        "id": "4054044",
+        "series_id": "5",
+        "title": "Âm Thanh Của Túi Da",
+        "desc": "Tin tức của Akmonides luôn niêm yết giá cả rõ ràng, tuyệt đối không lừa bạn bè đâu...",
+        "hide_desc": "※Mua hết phiếu giảm giá của Akmonides",
+        "hide": false
+    },
+    "4054045": {
+        "id": "4054045",
+        "series_id": "5",
+        "title": "Kiểu Tốt Bụng",
+        "desc": "Anh đang làm nghề gì vậy?",
+        "hide_desc": "※Quấy rầy công việc của người phục vụ nhà tắm, để Daros nói chuyện với bạn",
+        "hide": false
+    },
+    "4054046": {
+        "id": "4054046",
+        "series_id": "5",
+        "title": "Dạ Dày Thứ Hai Cho Đất",
+        "desc": "Ăn được, nhưng không khuyến khích",
+        "hide_desc": "※Trong lúc nói chuyện với Ctesias, đích thân thử món ăn mà anh ấy làm cho Thú Đại Địa",
+        "hide": false
+    },
+    "4054047": {
+        "id": "4054047",
+        "series_id": "5",
+        "title": "Lý Trí Của Động Vật Lý Trí",
+        "desc": "Tìm một người có sở thích giống bạn...",
+        "hide_desc": "※Tìm được Diogena sống trong thùng",
+        "hide": false
+    },
+    "4054049": {
+        "id": "4054049",
+        "series_id": "5",
+        "title": "Trò Chuyện Với Đá",
+        "desc": "Đôi khi người ta chỉ hơi ngại ngùng",
+        "hide_desc": "※Kiên trì nói chuyện với Petros, và thành công thu hút sự chú ý của anh ấy",
+        "hide": false
+    },
+    "4054050": {
+        "id": "4054050",
+        "series_id": "5",
+        "title": "Anh trai, táo không?",
+        "desc": "Ghé thăm tất cả tiểu thương trong Thành Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054051": {
+        "id": "4054051",
+        "series_id": "5",
+        "title": "Vớt Dòng Sông Quá Khứ",
+        "desc": "Trong nhà tắm riêng của bạn có thêm gì?",
+        "hide_desc": "※Sau khi có được sức mạnh của ký ức, phát hiện tinh thể kỳ lạ",
+        "hide": false
+    },
+    "4054052": {
+        "id": "4054052",
+        "series_id": "5",
+        "title": "Mặt Đất Đang Rung Chuyển",
+        "desc": "Sinh mệnh mới đang được sinh ra",
+        "hide_desc": "※Chạm vào quả trứng kỳ lạ trong Xưởng Thú Đại Địa",
+        "hide": false
+    },
+    "4054053": {
+        "id": "4054053",
+        "series_id": "5",
+        "title": "Hư Vinh Của Nhà Lữ Hành",
+        "desc": "Đoán xem ai là người yêu thích Thú Đại Địa nhất Okhema?",
+        "hide_desc": "※Ngăn chặn đội buôn Thú Đại Địa Argo và trò chuyện với Iason 1 lần",
+        "hide": false
+    },
+    "4054054": {
+        "id": "4054054",
+        "series_id": "5",
+        "title": "Bài Thơ Trên Lưng",
+        "desc": "Chặn nhà thơ hát rong trên lưng Thú Đại Địa lại và trò chuyện với anh ta",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054055": {
+        "id": "4054055",
+        "series_id": "5",
+        "title": "Bí Mật Thú Cưng",
+        "desc": "Mua Chimera ở chỗ Ngựa Của Janus trong \"Thánh Thành Vĩnh Hằng\" Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054056": {
+        "id": "4054056",
+        "series_id": "5",
+        "title": "Bụi Thời Gian",
+        "desc": "Lần đầu tiên nhận được Mảnh Tinh Thể Ký Ức.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054057": {
+        "id": "4054057",
+        "series_id": "5",
+        "title": "Đồng Cỏ Hôm Qua Khóc Lóc",
+        "desc": "Tích lũy nhận 100 Mảnh Tinh Thể Ký Ức",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054059": {
+        "id": "4054059",
+        "series_id": "5",
+        "title": "Ngôi Nhà Ấm Áp Ở Nơi Nào?",
+        "desc": "※Chúng ta nên đi về đâu? Đối mặt với câu hỏi vĩnh hằng này, bạn chọn cách trả lời một cách nhân từ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054060": {
+        "id": "4054060",
+        "series_id": "5",
+        "title": "Lửa Và Kiếm Sắt Ở Nơi Đâu?",
+        "desc": "※Chúng ta nên đi về đâu? Đối mặt với câu hỏi vĩnh hằng này, bạn chọn trả lời một cách cứng rắn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054061": {
+        "id": "4054061",
+        "series_id": "5",
+        "title": "Còn Tuyết Năm Xưa Đang Ngự Ở Phương Nào?",
+        "desc": "※Chúng ta nên đi về đâu? Đối mặt với câu hỏi vĩnh hằng này, bạn chọn trả lời một cách im lặng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054062": {
+        "id": "4054062",
+        "series_id": "5",
+        "title": "Bóp Nghẹt Sầu Muộn",
+        "desc": "Trước tiên anh ấy yêu dòng nước, sau đó là yêu những gì bản thân còn thiếu",
+        "hide_desc": "※Biết được sự thật về Arcadia",
+        "hide": false
+    },
+    "4054063": {
+        "id": "4054063",
+        "series_id": "5",
+        "title": "Không Huyên Náo Nữa",
+        "desc": "Dù định mệnh lạnh lẽo vô tình, nhưng vẫn có những chuyện sẽ thay đổi",
+        "hide_desc": "※Tìm kiếm linh hồn gọi tên Pasithea trong mơ",
+        "hide": false
+    },
+    "4054064": {
+        "id": "4054064",
+        "series_id": "5",
+        "title": "Trong Sách Có...",
+        "desc": "Một tinh linh trong sách rất \"hồng\"!",
+        "hide_desc": "※Phát hiện tinh linh trong sách",
+        "hide": false
+    },
+    "4054065": {
+        "id": "4054065",
+        "series_id": "5",
+        "title": "Tập Hư Cấu Hoặc Lịch Sử Vĩnh Hằng",
+        "desc": "Đó là câu chuyện ai đã viết?",
+        "hide_desc": "※Sau khi đọc xong 7 đoạn đầu câu chuyện, bạn suy nghĩ miên man",
+        "hide": false
+    },
+    "4054066": {
+        "id": "4054066",
+        "series_id": "5",
+        "title": "Công Dân Amphoreus",
+        "desc": "Nghe mọi người nói chuyện ở Amphoreus",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054067": {
+        "id": "4054067",
+        "series_id": "5",
+        "title": "Bao Đánh Tiếng Amphoreus",
+        "desc": "Nghe mọi người nói chuyện ở Amphoreus 10 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054069": {
+        "id": "4054069",
+        "series_id": "5",
+        "title": "Người Truyền Lửa Mới",
+        "desc": "Sửa chữa 1 Ngọn Lửa Georios bất kỳ và đáp ứng yêu cầu của nó",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054070": {
+        "id": "4054070",
+        "series_id": "5",
+        "title": "Chuyên Gia Đi Tắm",
+        "desc": "Thử bể tắm nhiệt cao, bể tắm nhiệt thấp và bể thử nhiệt trong Thiên Cung Vân Thạch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054071": {
+        "id": "4054071",
+        "series_id": "5",
+        "title": "Xin Chào, Bạn Tôi",
+        "desc": "Làm quen với Dân Núi Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054072": {
+        "id": "4054072",
+        "series_id": "5",
+        "title": "Biết Tuốt Về Amphoreus",
+        "desc": "Nghe mọi người nói chuyện ở Amphoreus 30 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054101": {
+        "id": "4054101",
+        "series_id": "5",
+        "title": "Sếp Xấu Xa",
+        "desc": "Trong \"Văn Phòng Gào\", đạt đánh giá 30 ở chế độ Tăng Ca",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054102": {
+        "id": "4054102",
+        "series_id": "5",
+        "title": "Doanh Nghiệp Lớn",
+        "desc": "Trong \"Văn Phòng Gào\", sắp xếp Chimera trong đội ngũ tích lũy nhận 60 Bánh Quy Gào",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054103": {
+        "id": "4054103",
+        "series_id": "5",
+        "title": "Bốn Gánh Một",
+        "desc": "Trong \"Văn Phòng Gào\", có một Chimera đạt hiệu suất 30",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054104": {
+        "id": "4054104",
+        "series_id": "5",
+        "title": "...Bạn Là Người Phe Đối Lập?",
+        "desc": "Trong \"Văn Phòng Gào\", có một Chimera đạt hiệu suất -10",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054105": {
+        "id": "4054105",
+        "series_id": "5",
+        "title": "Trò Chơi Nhân Vật Lớn",
+        "desc": "Trong \"Văn Phòng Gào\", chiêu mộ Chimera của người đàn ông ăn mặc quý tộc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054106": {
+        "id": "4054106",
+        "series_id": "5",
+        "title": "Chủ Công Ty Nhỏ",
+        "desc": "Trong \"Văn Phòng Gào\", sở hữu tên đội của riêng bạn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054107": {
+        "id": "4054107",
+        "series_id": "5",
+        "title": "Doanh Nghiệp Kỳ Lân",
+        "desc": "Trong \"Văn Phòng Gào\", đánh bại tất cả đội còn lại, nhận danh hiệu vô địch cuối cùng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054108": {
+        "id": "4054108",
+        "series_id": "5",
+        "title": "Hung Thủ Đến Từ Bên Ngoài",
+        "desc": "Giúp Periphas xem kết cục của bạn bè",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054111": {
+        "id": "4054111",
+        "series_id": "5",
+        "title": "An Lành Cho Người Sống",
+        "desc": "Đến thăm người thân của nạn nhân Điện Cây, hoàn thành tâm nguyện của họ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054112": {
+        "id": "4054112",
+        "series_id": "5",
+        "title": "Thánh Địa Vận Mệnh Âm Thầm",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054113": {
+        "id": "4054113",
+        "series_id": "5",
+        "title": "Tia Sáng Dưới Bóng Râm",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054114": {
+        "id": "4054114",
+        "series_id": "5",
+        "title": "Những Con Thuyền Khác Lại Vượt Biển Bình Yên",
+        "desc": "Điều tra Ngựa Của Janus trong \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054115": {
+        "id": "4054115",
+        "series_id": "5",
+        "title": "Chân Dung Linh Hồn",
+        "desc": "Điều tra Ngựa Của Janus trong \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054116": {
+        "id": "4054116",
+        "series_id": "5",
+        "title": "Hệ Thống Định Vị Amphoreus",
+        "desc": "Tại \"Thánh Địa Lời Sấm Truyền\" Janusopolis, hoàn thành tất cả câu đố trong \"Mê Cung Janus\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054117": {
+        "id": "4054117",
+        "series_id": "5",
+        "title": "Biến!",
+        "desc": "Nghe hiểu lời nói của Chimera trong nhà tắm riêng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054118": {
+        "id": "4054118",
+        "series_id": "5",
+        "title": "Hoa Và Lá Thánh Vô Tận",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Lý Trí\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054119": {
+        "id": "4054119",
+        "series_id": "5",
+        "title": "Lễ Tế Đằng Đẵng Của Đêm Tình Yêu",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Lãng Mạn\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054120": {
+        "id": "4054120",
+        "series_id": "5",
+        "title": "Con Đường Vinh Quang",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Cánh Cổng\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054121": {
+        "id": "4054121",
+        "series_id": "5",
+        "title": "Thế Giới Bên Ngoài Hang Động",
+        "desc": "Sắp xếp lại tâm trạng trong Tâm Vòng Xoáy Sáng Thế",
+        "hide_desc": "※Trong quá trình khai phá Amphoreus, bạn thực sự đã trải qua rất nhiều chuyện...",
+        "hide": false
+    },
+    "4054122": {
+        "id": "4054122",
+        "series_id": "5",
+        "title": "Tiên... Tiên Phong Ngoài Bầu Trời?",
+        "desc": "Dùng Tribbie điều tra bảng đen trong phòng Thánh Nữ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054123": {
+        "id": "4054123",
+        "series_id": "5",
+        "title": "Nhìn Về Cung Điện Của Chúng Thần",
+        "desc": "Ai mà chưa từng nghe nói?",
+        "hide_desc": "※Ở \"Thánh Địa Lời Sấm Truyền\" Janusopolis, nói chuyện với tất cả những người liên quan đến Thánh Nữ",
+        "hide": false
+    },
+    "4054124": {
+        "id": "4054124",
+        "series_id": "5",
+        "title": "Tôi Kêu Gọi Kỳ Tích Của Lý Trí",
+        "desc": "Đọc tất cả sách khai sáng của \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054125": {
+        "id": "4054125",
+        "series_id": "5",
+        "title": "Tôi Kêu Gọi Bình Minh Cuối Cùng",
+        "desc": "Đọc tất cả sách khai sáng của \"Thánh Địa Lời Sấm Truyền\" Janusopolis",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054126": {
+        "id": "4054126",
+        "series_id": "5",
+        "title": "Bài Thơ Của Người Phương Xa",
+        "desc": "Lắng nghe nhà thơ Lipos làm bài thơ thứ hai cho bạn.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054127": {
+        "id": "4054127",
+        "series_id": "5",
+        "title": "Mẹ, Con Đã Về",
+        "desc": "Đọc đoạn cuối vận mệnh của Gorgo - mẹ Mydei",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054128": {
+        "id": "4054128",
+        "series_id": "5",
+        "title": "Ta Đã Xây Dựng Thành Bang Của Chính Mình",
+        "desc": "Tìm thấy ghi chép cuối cùng của vương triều Kremnos",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054129": {
+        "id": "4054129",
+        "series_id": "5",
+        "title": "Trồng Mặt Trời",
+        "desc": "Giải quyết ủy thác của học giả Điện Cây trong \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054130": {
+        "id": "4054130",
+        "series_id": "5",
+        "title": "Chúa Tể Rừng Sâu",
+        "desc": "Ngồi trên ngai vàng của \"Rừng Cây Thầm Thì\" Điện Cây Giác Ngộ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054201": {
+        "id": "4054201",
+        "series_id": "5",
+        "title": "Cô Ấy Từng Mượn Hơi Ấm Của Bạn",
+        "desc": "Khám phá Tàn Ảnh Hồi Ức của Tháp Song Nguyệt",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054202": {
+        "id": "4054202",
+        "series_id": "5",
+        "title": "Talanton Một Ngày",
+        "desc": "Đi ngang qua một buổi diễn tập bi kịch, chứng kiến quá trình \"sát thần\"",
+        "hide_desc": "※ Bạn đưa ra phán quyết mà bạn cho là công bằng",
+        "hide": false
+    },
+    "4054203": {
+        "id": "4054203",
+        "series_id": "5",
+        "title": "Con Đường Đá Yên Tĩnh Lúc Bình Minh",
+        "desc": "Cùng cô bé Serena trò chuyện với Kephale",
+        "hide_desc": "※ Và bảo vệ một lời nói dối ấm áp",
+        "hide": false
+    },
+    "4054204": {
+        "id": "4054204",
+        "series_id": "5",
+        "title": "Kẻ Báng Bổ Thần Linh",
+        "desc": "Xem tất cả Tàn Ảnh Hồi Ức ở Nghị Viện Á Thần \"Vách Mây Bình Minh\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054205": {
+        "id": "4054205",
+        "series_id": "5",
+        "title": "Trên Con Đường Ngày Ấy Không Quay Lại",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Thành Cổ Xương Rồng\" Styxia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054206": {
+        "id": "4054206",
+        "series_id": "5",
+        "title": "Người Nông Dân Và Ngựa Gỗ",
+        "desc": "Điều tra Ngựa Của Janus tại Nghị Viện Á Thần \"Vách Mây Bình Minh\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054207": {
+        "id": "4054207",
+        "series_id": "5",
+        "title": "Ngựa Đưa Đò Trên Sông Styx",
+        "desc": "Điều tra Ngựa Của Janus trong \"Thành Cổ Xương Rồng\" Styxia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054208": {
+        "id": "4054208",
+        "series_id": "5",
+        "title": "Đường Về Cùng Bọ",
+        "desc": "Giải câu đố do cựu tư tế Oronyx sắp đặt trong căn phòng tại \"Thành Cổ Xương Rồng\" Styxia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054209": {
+        "id": "4054209",
+        "series_id": "5",
+        "title": "Khởi Đầu Và Kết Thúc Của Vạn Vật",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Phụ Thế\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054210": {
+        "id": "4054210",
+        "series_id": "5",
+        "title": "Giấc Mộng Dài Và Vĩnh Hằng",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Tử Vong\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054211": {
+        "id": "4054211",
+        "series_id": "5",
+        "title": "Tiết Lộ Chính Nghĩa Thần Bí",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Luật Pháp\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054213": {
+        "id": "4054213",
+        "series_id": "5",
+        "title": "Vừa Sinh Đã Chết",
+        "desc": "Lắng nghe nhà thơ Lipos sáng tác bài thơ thứ ba cho bạn.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054214": {
+        "id": "4054214",
+        "series_id": "5",
+        "title": "Sự Tự Do Thoáng Qua Trong Ly",
+        "desc": "Uống một ly thức uống Hộp Bí Ẩn Phagousa của Amorphis, sau đó...",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054215": {
+        "id": "4054215",
+        "series_id": "5",
+        "title": "Ngàn Lời Trước Khi Chết",
+        "desc": "Trò chuyện với tất cả Bướm Vong Ngữ của \"Thành Cổ Xương Rồng\" Styxia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054216": {
+        "id": "4054216",
+        "series_id": "5",
+        "title": "Gân Akivili!",
+        "desc": "Ngâm chân của mình vào dòng nước của Sông Styx, nhận được đôi mắt cá chân vô địch.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054217": {
+        "id": "4054217",
+        "series_id": "5",
+        "title": "Bước Chân Điên Cuồng Vì Nỗi Nhớ",
+        "desc": "Giải quyết phiền não của Thú Đại Địa mất kiểm soát",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054218": {
+        "id": "4054218",
+        "series_id": "5",
+        "title": "Lông Mày Hạt Đậu Đáng Yêu Nhất!",
+        "desc": "Trong Hải Cẩu Cưng Đụng Độ, nói chuyện với tất cả hải cẩu nhỏ trong nhà tắm một lần sẽ có chuyện tốt xảy ra sao?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054219": {
+        "id": "4054219",
+        "series_id": "5",
+        "title": "Tiêu Bản Im Lặng Vì Ai",
+        "desc": "Để lại chiến lợi phẩm của bạn trên bức tường Viện Nguyên Lão, nhưng...",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054220": {
+        "id": "4054220",
+        "series_id": "5",
+        "title": "Lưu Kim Dâng Tặng Nhân Vật Chính",
+        "desc": "Tìm tất cả nến thánh trong Vách Mây Bình Minh và kích hoạt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054221": {
+        "id": "4054221",
+        "series_id": "5",
+        "title": "Tôi Kêu Gọi Giấc Ngủ Say",
+        "desc": "Đọc tất cả Tuyển Tập Khai Sáng của \"Thành Cổ Xương Rồng\" Styxia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054222": {
+        "id": "4054222",
+        "series_id": "5",
+        "title": "Tôi Kêu Gọi Màn Kết Của Tranh Luận",
+        "desc": "Đọc tất cả Tuyển Tập Khai Sáng của Nghị Viện Á Thần \"Vách Mây Bình Minh\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054223": {
+        "id": "4054223",
+        "series_id": "5",
+        "title": "Người Đứng Trên Mọi Người",
+        "desc": "Trong cuộc trò chuyện, tìm hiểu sâu hơn về Vách Mây Bình Minh",
+        "hide_desc": "※ Nói chuyện với tất cả công dân Vách Mây Bình Minh",
+        "hide": false
+    },
+    "4054225": {
+        "id": "4054225",
+        "series_id": "5",
+        "title": "Siêu Trộm Thì Đã Sao, Tôi Là Nhà Khai Phá!",
+        "desc": "Đánh bại tên siêu trộm đó, giành lại Cúp Hải Cẩu Vàng của quán quân",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054226": {
+        "id": "4054226",
+        "series_id": "5",
+        "title": "Sổ Tay Thánh Thú Phagousa",
+        "desc": "Thu thập tất cả các mẫu hải cẩu nhỏ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054227": {
+        "id": "4054227",
+        "series_id": "5",
+        "title": "Thủy Triều Hải Cẩu Dâng Trào",
+        "desc": "Vượt ải \"Hải Cẩu Cưng Đụng Độ-Bản Tiến Hóa Cuối Cùng\" độ khó khiêu chiến",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054228": {
+        "id": "4054228",
+        "series_id": "5",
+        "title": "Xin Lỗi, Bạn Cũng Muốn Nhảy Múa?",
+        "desc": "Trong Hải Cẩu Cưng Đụng Độ, đánh bay hai hải cẩu nhỏ một lúc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054229": {
+        "id": "4054229",
+        "series_id": "5",
+        "title": "Chân - Hải Cẩu Vô Song",
+        "desc": "Trong một trận đấu của Hải Cẩu Cưng Đụng Độ, dùng cùng một hải cẩu nhỏ đánh bay hải cẩu nhỏ của đối thủ 4 lần trở lên",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054230": {
+        "id": "4054230",
+        "series_id": "5",
+        "title": "Giành Ba Điểm Là Chìa Khóa",
+        "desc": "Trong một trận đấu của Hải Cẩu Cưng Đụng Độ, giành chiến thắng với ưu thế dẫn trước đối thủ 3 điểm trở lên",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054231": {
+        "id": "4054231",
+        "series_id": "5",
+        "title": "Chào mừng đến với Học viện Chiến Hạm Hành Tinh",
+        "desc": "Nhận tài liệu \"Sổ Tay Kiến Thức Cơ Bản Về Hạm Đội\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054301": {
+        "id": "4054301",
+        "series_id": "5",
+        "title": "Kiếp Phù Du Của Ngọn Lửa",
+        "desc": "Đưa \"tàn lửa\" nhận được từ Alain vào ngọn lửa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054302": {
+        "id": "4054302",
+        "series_id": "5",
+        "title": "Giá Như Cho Tôi Ba Ngày Ấm Áp",
+        "desc": "Tại \"Thành Phố Chìm Vào Hoàng Hôn\" Okhema và \"Điện Cầu Nguyện U Tối\" Vách Mây Bình Minh, thắp sáng lại tất cả Lửa Georios đã tắt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054303": {
+        "id": "4054303",
+        "series_id": "5",
+        "title": "Vua Sư Tử",
+        "desc": "Trong \"Thành Phố Chìm Vào Hoàng Hôn\" Okhema và \"Điện Cầu Nguyện U Tối\" Vách Mây Bình Minh, sửa tất cả Sư Tử Chân Ngôn bị hỏng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054304": {
+        "id": "4054304",
+        "series_id": "5",
+        "title": "Đang Khôi Phục Điện Toán Đám Mây",
+        "desc": "Xem biên bản cuộc họp nghiên cứu Amphoreus của các thiên tài",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054305": {
+        "id": "4054305",
+        "series_id": "5",
+        "title": "Một Ngày Làm Kephale",
+        "desc": "Cải trang thành Kephale để mang lại nụ cười cho lũ trẻ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054306": {
+        "id": "4054306",
+        "series_id": "5",
+        "title": "Sinh Quyển Số 2",
+        "desc": "Với sự giúp đỡ của mọi người thiết lập một nơi lánh nạn mới",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054307": {
+        "id": "4054307",
+        "series_id": "5",
+        "title": "Tôi Gọi Ánh Bình Minh Dịu Dàng",
+        "desc": "Đọc toàn bộ loạt sách khai sáng tại \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054308": {
+        "id": "4054308",
+        "series_id": "5",
+        "title": "Tôi Gọi Chương Mới Của Sự Khởi Hành",
+        "desc": "Lần đầu đọc sách khai sáng sau khi giành được Ngọn Lửa của Aquila",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054309": {
+        "id": "4054309",
+        "series_id": "5",
+        "title": "Di Vật Của Tàn Tích",
+        "desc": "Tại \"Thành Phố Chìm Vào Hoàng Hôn\" Okhema, đến chỗ Ngựa Của Janus mua tất cả công thức ghép đặc sản của các thành bang đã bị hủy diệt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054311": {
+        "id": "4054311",
+        "series_id": "5",
+        "title": "Bia Mộ Gió Tây",
+        "desc": "Chứng kiến cái kết của một cư dân Okhema và ghi lại câu chuyện của họ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054312": {
+        "id": "4054312",
+        "series_id": "5",
+        "title": "Hoàng Hôn Của Nhân Loại",
+        "desc": "Khám phá tất cả Tàn Ảnh Hồi Ức của \"Thành Phố Chìm Vào Hoàng Hôn\" Okhema",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054313": {
+        "id": "4054313",
+        "series_id": "5",
+        "title": "Con Mèo Sống Một Triệu Lần",
+        "desc": "Khám phá Tàn Ảnh Hồi Ức cuối cùng của Lữ Khách Nhanh Chân",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054314": {
+        "id": "4054314",
+        "series_id": "5",
+        "title": "Vá Trời",
+        "desc": "Khám phá Tàn Ảnh Hồi Ức cuối cùng của người chữa trị ánh sáng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054315": {
+        "id": "4054315",
+        "series_id": "5",
+        "title": "Cánh Đồng Bất Tận",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Mặt Đất\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054316": {
+        "id": "4054316",
+        "series_id": "5",
+        "title": "Ngôn Từ Mang Vạn Sắc Thái",
+        "desc": "Nhận bản ghi âm \"Tiếng Vọng Thần Tính: Mưu Kế\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054317": {
+        "id": "4054317",
+        "series_id": "5",
+        "title": "Du Hành Trong Khoảnh Khắc",
+        "desc": "Nhận được bản ghi âm \"Tiếng Vọng Thần Tính: Bầu Trời\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054318": {
+        "id": "4054318",
+        "series_id": "5",
+        "title": "Tôi Chỉ Đợi Chính Mình",
+        "desc": "Điều tra hai con Ngựa Của Janus ở \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm và \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054319": {
+        "id": "4054319",
+        "series_id": "5",
+        "title": "Gậy Bóng Chày Là Chính Nghĩa!",
+        "desc": "Chế tạo cây Gậy Bóng Chày Mạnh Nhất trong sự kiện \"Huyền Thoại Hiệp Sĩ Gậy Bóng Chày Ngân Hà\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054320": {
+        "id": "4054320",
+        "series_id": "5",
+        "title": "Evil May Cry",
+        "desc": "Đánh bại Ma Vương Áo Choàng Đen trong sự kiện \"Huyền Thoại Hiệp Sĩ Gậy Bóng Chày Ngân Hà\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054321": {
+        "id": "4054321",
+        "series_id": "5",
+        "title": "Cú Đánh Sao Băng Ngân Hà",
+        "desc": "Chế tạo Vũ Khí Chí Tôn trong sự kiện \"Huyền Thoại Hiệp Sĩ Gậy Bóng Chày Ngân Hà\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054322": {
+        "id": "4054322",
+        "series_id": "5",
+        "title": "Ánh Sáng Và Bóng Tối",
+        "desc": "Chế tạo siêu Vũ Khí Song Tử trong sự kiện Huyền Thoại Hiệp Sĩ Gậy Bóng Chày Ngân Hà",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054323": {
+        "id": "4054323",
+        "series_id": "5",
+        "title": "Liên Kích Càn Quét",
+        "desc": "Dùng \"Búa Sét Cuồng Phong\" tung 16 đòn búa liên tiếp trong sự kiện \"Huyền Thoại Hiệp Sĩ Gậy Bóng Chày Ngân Hà\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054324": {
+        "id": "4054324",
+        "series_id": "5",
+        "title": "The Chosen One",
+        "desc": "Trong sự kiện \"Huyền Thoại Hiệp Sĩ Gậy Bóng Chày Ngân Hà\", quay được 5 Kim Cương chỉ với một đòn tấn công bằng \"Vòng Quay May Mắn\" hoặc \"Ván Cược May Mắn\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054401": {
+        "id": "4054401",
+        "series_id": "5",
+        "title": "Hội Bạn Yêu Tinh",
+        "desc": "Xem tất cả thư của bạn trong hộp thư của trưởng thôn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054402": {
+        "id": "4054402",
+        "series_id": "5",
+        "title": "Yesterday Once More",
+        "desc": "Dưới góc nhìn của Phainon, nói chuyện với một thôn dân bất kỳ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054403": {
+        "id": "4054403",
+        "series_id": "5",
+        "title": "Chào mừng gia nhập Aedes Elysiae",
+        "desc": "Làm phiền giấc ngủ của yêu tinh",
+        "hide_desc": "※Yêu tinh bị ép ra khỏi nhà",
+        "hide": false
+    },
+    "4054404": {
+        "id": "4054404",
+        "series_id": "5",
+        "title": "Tiếng Bước Chân Vang Vọng Trong Thung Lũng",
+        "desc": "Gửi lời tạm biệt tới người bạn qua thư của Phainon",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054405": {
+        "id": "4054405",
+        "series_id": "5",
+        "title": "Trang Ghi Lại Câu Chuyện",
+        "desc": "Trải qua khoảng thời gian tuyệt vời cùng với Cyrene tại Aedes Elysiae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054406": {
+        "id": "4054406",
+        "series_id": "5",
+        "title": "Cộng Hưởng Toàn Kênh",
+        "desc": "Nói chuyện với tất cả yêu tinh bị chuông gió thu hút",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054407": {
+        "id": "4054407",
+        "series_id": "5",
+        "title": "Bắt Cóc Thay Vì Mua",
+        "desc": "Làm quen với Chimera nhỏ bé tại Aedes Elysiae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054408": {
+        "id": "4054408",
+        "series_id": "5",
+        "title": "Công Viên Kỷ Jura",
+        "desc": "Cưỡi Thú Đại Địa ở Aedes Elysiae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054409": {
+        "id": "4054409",
+        "series_id": "5",
+        "title": "Hoa Đỏ Và Sáu Hạt Giống",
+        "desc": "Gieo hạt giống vào chậu hoa ở Đình Viện Tế Lễ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054410": {
+        "id": "4054410",
+        "series_id": "5",
+        "title": "Hai Con Hải Cẩu Bơi Rất Nhanh",
+        "desc": "Tìm bạn đồng hành cho hải cẩu nhỏ ở Aedes Elysiae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054411": {
+        "id": "4054411",
+        "series_id": "5",
+        "title": "Jingle Bells",
+        "desc": "Tiêu hao hết ma lực trong chuông gió phép thuật",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054412": {
+        "id": "4054412",
+        "series_id": "5",
+        "title": "Giấc Mộng Đêm Hè",
+        "desc": "Tham gia vũ hội của các yêu tinh",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054413": {
+        "id": "4054413",
+        "series_id": "5",
+        "title": "Một Ly Kính Anh Hùng",
+        "desc": "Chứng kiến sự trở về của một người bạn phương xa",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054414": {
+        "id": "4054414",
+        "series_id": "5",
+        "title": "Tất Cả Đều Màu Xanh",
+        "desc": "Trong sự kiện \"Chim Giấy Đại Chiến\", dùng Chim Qingque, và trong cùng 1 trận, tích lũy dùng đạo cụ 14 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054415": {
+        "id": "4054415",
+        "series_id": "5",
+        "title": "Vẫn Là Hiệp Của Tôi",
+        "desc": "Trong Đối Chiến 2 Người của sự kiện \"Chim Giấy Đại Chiến\", trong cùng 1 hiệp, số bước hành động liên tục của phe ta đạt 8",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054416": {
+        "id": "4054416",
+        "series_id": "5",
+        "title": "Chim Boeing 777",
+        "desc": "Trong Đối Chiến 2 Người của sự kiện Chim Giấy Đại Chiến, lực chiến cao nhất của chú chim phe ta đạt 777",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054417": {
+        "id": "4054417",
+        "series_id": "5",
+        "title": "Học Sinh Ba Tốt",
+        "desc": "Trong sự kiện \"Chim Giấy Đại Chiến\", cường hóa tất cả đạo cụ đến 3 sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054418": {
+        "id": "4054418",
+        "series_id": "5",
+        "title": "Hôm Nay Bắt Đầu Làm Chủ",
+        "desc": "Nhận được quyền kinh doanh Tiệm Game Thùng trong sự kiện \"Chim Giấy Đại Chiến\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054419": {
+        "id": "4054419",
+        "series_id": "5",
+        "title": "Hai Chim Đồng Hành",
+        "desc": "Trong sự kiện \"Chim Giấy Đại Chiến\", chứng kiến Boothill và Qingque biến thành Chim Giấy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054420": {
+        "id": "4054420",
+        "series_id": "5",
+        "title": "Dậy Rồi À, Làm Việc Đi!",
+        "desc": "Trong sự kiện \"Chim Giấy Đại Chiến\", chiêu mộ Chim Ma làm nhân viên Tiệm Game Thùng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054501": {
+        "id": "4054501",
+        "series_id": "5",
+        "title": "Đi Tìm Rượu Đã Mất",
+        "desc": "Xem toàn bộ Tàn Ảnh Hồi Ức của \"Biển Cả Rền Vang\" Styxia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054502": {
+        "id": "4054502",
+        "series_id": "5",
+        "title": "Đến Từ Ngày Hôm Qua Bình Yên",
+        "desc": "Hoàn thành ủy thác sửa chữa khu ủ rượu ở \"Biển Cả Rền Vang\" Styxia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054503": {
+        "id": "4054503",
+        "series_id": "5",
+        "title": "Một Giọt Linh Hồn",
+        "desc": "Sau khi khu ủ rượu mở cửa trở lại, hãy làm thêm một chai rượu ủ từ linh hồn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054504": {
+        "id": "4054504",
+        "series_id": "5",
+        "title": "Utopia Lãng Mạn",
+        "desc": "Chứng kiến câu chuyện tình yêu hư ảo giữa \"Ngâm Phong Tước\" Verginia và \"Duệ Thạch Tước\" Apollonius.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054505": {
+        "id": "4054505",
+        "series_id": "5",
+        "title": "Bốn Ly Lion's Tail",
+        "desc": "Trò chuyện với bốn con Sư Tử Chân Ngôn đang say xỉn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054506": {
+        "id": "4054506",
+        "series_id": "5",
+        "title": "Lửa Trại Và Bụi Trần",
+        "desc": "Trò chuyện với bốn Hậu Duệ Chrysos tham gia Hành Trình Săn Đuổi Lửa lần đầu tiên trong ảo ảnh của Styxia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054508": {
+        "id": "4054508",
+        "series_id": "5",
+        "title": "Bữa Cơm Nhà Của {NICKNAME}",
+        "desc": "Đặt tên cho nhà hàng của bạn trong Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054509": {
+        "id": "4054509",
+        "series_id": "5",
+        "title": "Bậc Thầy Ẩm Thực",
+        "desc": "Giành được Chứng Nhận Ẩm Thực Memchelin cuối cùng trong Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054510": {
+        "id": "4054510",
+        "series_id": "5",
+        "title": "Khu Rừng Nhỏ",
+        "desc": "Trò chuyện với tất cả nhân viên yêu tinh ở Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054511": {
+        "id": "4054511",
+        "series_id": "5",
+        "title": "Không Có Bữa Trưa Miễn Phí",
+        "desc": "Trong Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim, doanh thu cao nhất trong một ngày đạt 40000",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054512": {
+        "id": "4054512",
+        "series_id": "5",
+        "title": "Nhà Bếp Phép Thuật",
+        "desc": "Trong Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim, mở khóa toàn bộ thiết bị kinh doanh của nhà hàng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054513": {
+        "id": "4054513",
+        "series_id": "5",
+        "title": "Yêu Tinh Và Hạt Đậu Thần",
+        "desc": "Vào Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim, trồng thành công 3 loại cây khổng lồ trong vườn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054514": {
+        "id": "4054514",
+        "series_id": "5",
+        "title": "Đỉnh Cao Ẩm Thực",
+        "desc": "Trong Nhà Hàng Khu Rừng Lạc Lối Hoàng Kim, tăng cấp tất cả món ăn lên cấp cao nhất",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054601": {
+        "id": "4054601",
+        "series_id": "5",
+        "title": "Nay Đã Vươn Mình Thành Bóng Cả",
+        "desc": "Hỡi các vị thần cũ và thần mới của Mặt Đất, liệu có còn nhớ về những người bạn năm xưa chăng?",
+        "hide_desc": "※Khám phá toàn bộ Tàn Ảnh Hồi Ức của Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\"",
+        "hide": false
+    },
+    "4054602": {
+        "id": "4054602",
+        "series_id": "5",
+        "title": "Ký Ức Vô Ngã",
+        "desc": "Hoàn thành cuộc trò chuyện cuối cùng với thiếu nữ thần bí... Thật sự là lần cuối sao?",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054603": {
+        "id": "4054603",
+        "series_id": "5",
+        "title": "Làm Sao Để Ngăn Trái Tim Tôi Ngừng Đập?",
+        "desc": "Tại Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\", thương tiếc một trái tim đã bị thiêu rụi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054604": {
+        "id": "4054604",
+        "series_id": "5",
+        "title": "Bên Kia Thiện Ác",
+        "desc": "Tại Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\", nhìn chằm chằm thật lâu vào khoảng không im lặng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054605": {
+        "id": "4054605",
+        "series_id": "5",
+        "title": "Con Người, Quá Con Người",
+        "desc": "Sâu trong \"Ma Trận Toàn Thế\" Đại Lăng Mộ Titan Vô Danh, cùng đồng đội quyết tâm xuất phát một lần nữa",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054606": {
+        "id": "4054606",
+        "series_id": "5",
+        "title": "To Lớn, Nhỏ Bé, Và Ý Thức Của Con Người",
+        "desc": "Tại Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\", vào sâu hơn trong Hầm Phong Ấn để chứng kiến sự thay đổi của các điểm sáng ma trận",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4054607": {
+        "id": "4054607",
+        "series_id": "5",
+        "title": "Thú Đại Địa Xuyên Không",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", phát hiện ra điểm đặc biệt của con Thú Đại Địa nhỏ bé này",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054608": {
+        "id": "4054608",
+        "series_id": "5",
+        "title": "Gia Đình Của Thú Đại Địa",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", đồng hành cùng sự trưởng thành của Thú Đại Địa nhỏ bé",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054609": {
+        "id": "4054609",
+        "series_id": "5",
+        "title": "Biểu Đồ Radar, Tạm Biệt",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", khiến cả ba thuộc tính của Thú Đại Địa nhỏ bé trưởng thành đến mức cao nhất",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054610": {
+        "id": "4054610",
+        "series_id": "5",
+        "title": "Giáo Dục Sớm",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", Thú Đại Địa nhỏ bé tổng cộng nhận được 25 đặc tính độc đáo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054611": {
+        "id": "4054611",
+        "series_id": "5",
+        "title": "Thú Nhỏ Tự Lực Tự Cường",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", hãy để Thú Đại Địa nhỏ bé tự mình hoàn thành một lần hoạt động rèn luyện",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054612": {
+        "id": "4054612",
+        "series_id": "5",
+        "title": "Đây Không Phải Là Trò Bóng Né",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", khi đang chơi đùa với Thú Đại Địa bé nhỏ, vô tình dùng bóng đánh trúng nó",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054613": {
+        "id": "4054613",
+        "series_id": "5",
+        "title": "Không Ăn Thì Tôi Ăn",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", bị Thú Đại Địa nhỏ bé phàn nàn về hương vị đồ ăn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054614": {
+        "id": "4054614",
+        "series_id": "5",
+        "title": "Siêu Đầu Bếp Đất Đỏ",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", chưa bao giờ để Thú Đại Địa nhỏ bé phàn nàn về hương vị đồ ăn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4054615": {
+        "id": "4054615",
+        "series_id": "5",
+        "title": "Một Ngày Làm Thầy...",
+        "desc": "Trong \"Thời Tiết Đẹp Quá, Nuôi Nó Thôi!\", nhận được 9 thư cảm ơn từ Thú Đại Địa nhỏ bé",
+        "hide_desc": "",
+        "hide": false
     },
     "4060101": {
         "id": "4060101",
@@ -5218,7 +8922,7 @@
     "4072612": {
         "id": "4072612",
         "series_id": "7",
-        "title": "Ha, Xổ Số Ngân Hà?",
+        "title": "Ha, Quay Thưởng Ngân Hà?",
         "desc": "Trong 1 trận đấu, Fu Xuan tích lũy kích hoạt 4 lần hiệu ứng hồi HP của thiên phú Khổ Tận Cam Lai",
         "hide_desc": "",
         "hide": true
@@ -5259,7 +8963,7 @@
         "id": "4072801",
         "series_id": "7",
         "title": "Toàn Thể Tập Hợp! Giải Tán!",
-        "desc": "Dùng Bí Kỹ Huohuo \"Hung Sát - Trấn Áp Yêu Tà\", khiến cùng lúc 6 mục tiêu trở lên bỏ chạy",
+        "desc": "Dùng Bí Kỹ của Huohuo \"Hung Sát - Trấn Áp Yêu Tà\", khiến cùng lúc 6 mục tiêu trở lên bỏ chạy",
         "hide_desc": "",
         "hide": false
     },
@@ -5347,7 +9051,7 @@
         "id": "4072906",
         "series_id": "7",
         "title": "Khẩu Chiến",
-        "desc": "Dùng bí kỹ Hun Đúc Thần Tượng của Dr. Ratio khiêu khích cùng lúc 6 kẻ địch trở lên",
+        "desc": "Dùng bí kỹ Hun Đúc Thần Tượng của Dr. Ratio khiêu khích cùng lúc 6 mục tiêu phe địch trở lên",
         "hide_desc": "",
         "hide": true
     },
@@ -5379,7 +9083,7 @@
         "id": "4073003",
         "series_id": "7",
         "title": "Rác Độc Hại",
-        "desc": "Trong chiến đấu, #1 nhân vật phe ta bị Thùng Quý Tộc đánh bại",
+        "desc": "Trong chiến đấu, 1 nhân vật phe ta bị Thùng Quý Tộc đánh bại",
         "hide_desc": "",
         "hide": false
     },
@@ -5387,7 +9091,7 @@
         "id": "4073004",
         "series_id": "7",
         "title": "Vạn Sự Đã Định",
-        "desc": "Khi Black Swan thi triển Bí Kỹ Chân Tướng Ẩn Sau Vỏ Bọc vào chiến đấu, tổng cộng khiến kẻ địch rơi vào #1 tầng Dấu Tích Bí Ẩn trở lên",
+        "desc": "Khi Black Swan thi triển Bí Kỹ Chân Tướng Ẩn Sau Vỏ Bọc vào chiến đấu, tổng cộng khiến kẻ địch rơi vào 20 tầng Dấu Tích Bí Ẩn trở lên",
         "hide_desc": "",
         "hide": true
     },
@@ -5395,7 +9099,7 @@
         "id": "4073005",
         "series_id": "7",
         "title": "Xin... Xin... Xin... Xin Lỗi!",
-        "desc": "Khi Misha thi triển Tuyệt Kỹ \"Sắp... Sắp Trễ Rồi!\", trong 1 lần tấn công cùng lúc khiến ít nhất #1 kẻ địch khác nhau rơi vào trạng thái Đóng Băng",
+        "desc": "Khi Misha thi triển Tuyệt Kỹ \"Sắp... Sắp Trễ Rồi!\", trong 1 lần tấn công cùng lúc khiến ít nhất 4 kẻ địch khác nhau rơi vào trạng thái Đóng Băng",
         "hide_desc": "",
         "hide": true
     },
@@ -5403,7 +9107,7 @@
         "id": "4073006",
         "series_id": "7",
         "title": "Thắp Sáng Pháo Hoa",
-        "desc": "Trong 1 trận đấu, dùng Tuyệt Kỹ \"Cô Gái Nghìn Mặt\" của Sparkle tổng cộng nhận #1 điểm Chiến Kỹ",
+        "desc": "Trong 1 trận đấu, dùng Tuyệt Kỹ \"Cô Gái Nghìn Mặt\" của Sparkle tổng cộng nhận 20 điểm Chiến Kỹ",
         "hide_desc": "",
         "hide": true
     },
@@ -5411,7 +9115,7 @@
         "id": "4073007",
         "series_id": "7",
         "title": "Mất Đường Liên Tục",
-        "desc": "Trong 1 lần chiến đấu, dùng Khiên phản đòn #1 Chai Soda do Vượn Khổng Lồ của Đoàn Kịch Ác Mộng ném ra",
+        "desc": "Trong 1 lần chiến đấu, dùng Khiên phản đòn 10 Chai Soda do Vượn Khổng Lồ của Đoàn Kịch Ác Mộng ném ra",
         "hide_desc": "",
         "hide": false
     },
@@ -5435,7 +9139,7 @@
         "id": "4073010",
         "series_id": "7",
         "title": "Thiêu Đốt Trái Tim Ta, Thiêu Rụi Cơ Thể Ta",
-        "desc": "Trong chiến đấu với \"Thợ Săn Stellaron\" Sam, dùng Điểm Chiến Kỹ Thiêu Đốt khiến HP của #1 nhân vật phe ta dưới #2%",
+        "desc": "Trong chiến đấu với \"Thợ Săn Stellaron\" Sam, dùng Điểm Chiến Kỹ Thiêu Đốt khiến HP của 1 nhân vật phe ta dưới 5%",
         "hide_desc": "",
         "hide": false
     },
@@ -5443,7 +9147,7 @@
         "id": "4073011",
         "series_id": "7",
         "title": "Sugoroku",
-        "desc": "Khi chiến đấu với Aventurine Gian Trá - một trong \"10 Người Có Trái Tim Đá\", trong 1 lần tấn công khiến ít nhất #1 \"Được Ăn Cả, Ngã Về Không\" đồng thời ném ra #2 điểm",
+        "desc": "Khi chiến đấu với Aventurine Gian Trá - một trong \"10 Người Có Trái Tim Đá\", trong 1 lần tấn công khiến ít nhất 2 \"Được Ăn Cả, Ngã Về Không\" đồng thời ném ra 6 điểm",
         "hide_desc": "",
         "hide": false
     },
@@ -5451,7 +9155,7 @@
         "id": "4073012",
         "series_id": "7",
         "title": "Tất Cả Người Của Tôi",
-        "desc": "Khi chiến đấu với Aventurine Gian Trá - một trong \"10 Người Có Trái Tim Đá\", #1 nhân vật trong đội thắng tất cả trong cùng 1 ván cược",
+        "desc": "Khi chiến đấu với Aventurine Gian Trá - một trong \"10 Người Có Trái Tim Đá\", 4 nhân vật trong đội thắng tất cả trong cùng 1 ván cược",
         "hide_desc": "",
         "hide": false
     },
@@ -5467,7 +9171,7 @@
         "id": "4073014",
         "series_id": "7",
         "title": "Cướp Mù",
-        "desc": "Trong 1 trận đấu, khi \"Cược Mù\" bằng #1, dùng Tuyệt Kỹ \"Chúa Tể Vòng Quay\" của Aventurine nhận được #2 điểm \"Cược Mù\"",
+        "desc": "Trong 1 trận đấu, khi \"Cược Mù\" bằng 0, dùng Tuyệt Kỹ \"Chúa Tể Vòng Quay\" của Aventurine nhận được 7 điểm \"Cược Mù\"",
         "hide_desc": "",
         "hide": true
     },
@@ -5507,7 +9211,7 @@
         "id": "4073202",
         "series_id": "7",
         "title": "Kịch Xà Phòng",
-        "desc": "Khi chiến đấu với \"Tương Lai Trong Hợp Âm Hài Hòa\", #1 nhân vật đều đã từng vào trạng thái ngủ say",
+        "desc": "Khi chiến đấu với \"Tương Lai Trong Hợp Âm Hài Hòa\", 4 nhân vật đều đã từng vào trạng thái ngủ say",
         "hide_desc": "",
         "hide": false
     },
@@ -5523,7 +9227,7 @@
         "id": "4073204",
         "series_id": "7",
         "title": "Kịch Đồng Diễn",
-        "desc": "Trong giai đoạn 1 của \"Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi\", khiến #1 kẻ địch lần lượt trở thành \"Tư Luật\" 1 lần",
+        "desc": "Trong giai đoạn 1 của \"Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi\", khiến 3 kẻ địch lần lượt trở thành \"Tư Luật\" 1 lần",
         "hide_desc": "",
         "hide": false
     },
@@ -5548,14 +9252,14 @@
         "series_id": "7",
         "title": "Thời Gian Một Bài Hát",
         "desc": "Lắng nghe tiếng hát của Robin",
-        "hide_desc": "※ Trong chiến đấu, sau khi thi triển Tuyệt Kỹ \"Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao\" của Robin, quan sát Robin trong chiến đấu #1 giây trở lên",
+        "hide_desc": "※ Trong chiến đấu, sau khi thi triển Tuyệt Kỹ \"Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao\" của Robin, quan sát Robin trong chiến đấu 10 giây trở lên",
         "hide": false
     },
     "4073208": {
         "id": "4073208",
         "series_id": "7",
         "title": "Tay Thổi Sáo Của Hamelin",
-        "desc": "Trong thám hiểm, sau khi dùng Bí Kỹ \"Khúc Dạo Đầu Say Men\" của Robin, thu hút #1 địch trở lên đi theo",
+        "desc": "Trong thám hiểm, sau khi dùng Bí Kỹ \"Khúc Dạo Đầu Say Men\" của Robin, thu hút 6 kẻ địch trở lên đi theo",
         "hide_desc": "",
         "hide": true
     },
@@ -5571,7 +9275,7 @@
         "id": "4073210",
         "series_id": "7",
         "title": "Cò Quay Nga",
-        "desc": "Trong chiến đấu, nhân vật Boothill phe ta trong 1 hiệp tích lũy nhận #1 tầng Cú Lừa Bỏ Túi",
+        "desc": "Trong chiến đấu, nhân vật Boothill phe ta trong 1 hiệp tích lũy nhận 3 tầng Cú Lừa Bỏ Túi",
         "hide_desc": "",
         "hide": true
     },
@@ -5611,7 +9315,7 @@
         "id": "4073303",
         "series_id": "7",
         "title": "Nhà Thầu (The Contractor)",
-        "desc": "Trong 1 trận đấu, khi phe ta có hiệu ứng Chiến Kỹ \"Người Thu Nợ\" của Jade , sẽ tiêu hao HP hiện tại đến #1",
+        "desc": "Trong 1 trận đấu, khi phe ta có hiệu ứng Chiến Kỹ \"Người Thu Nợ\" của Jade , sẽ tiêu hao HP hiện tại đến 1",
         "hide_desc": "",
         "hide": true
     },
@@ -5627,7 +9331,7 @@
         "id": "4073305",
         "series_id": "7",
         "title": "Tôi Sẽ... Đốt Cháy Biển Cả!",
-        "desc": "Trong 1 trận đấu, sử dụng Chiến Giáp SAM thi triển #1 lần \"Đom Đóm IV - Sao Chết Quá Tải\" trước khi trạng thái Thiêu Đốt Hoàn Toàn kết thúc",
+        "desc": "Trong 1 trận đấu, sử dụng Chiến Giáp SAM thi triển 4 lần \"Đom Đóm IV - Sao Chết Quá Tải\" trước khi trạng thái Thiêu Đốt Hoàn Toàn kết thúc",
         "hide_desc": "",
         "hide": true
     },
@@ -5643,7 +9347,7 @@
         "id": "4073401",
         "series_id": "7",
         "title": "Tìm \"Kiếm\"",
-        "desc": "Dùng đội có Yunli đánh thắng #1 trận chiến với Thùng Quý Tộc",
+        "desc": "Dùng đội có Yunli đánh thắng 1 trận chiến với Thùng Quý Tộc",
         "hide_desc": "",
         "hide": true
     },
@@ -5683,7 +9387,7 @@
         "id": "4073406",
         "series_id": "7",
         "title": "Một Trăm Ngàn Kiến Thức Vô Tri",
-        "desc": "Dùng March 7th - Săn Bắn thi triển Chiến Kỹ \"Sư Phụ, Mời Uống Trà!\" lên #1 nhân vật khác nhau",
+        "desc": "Dùng March 7th - Săn Bắn thi triển Chiến Kỹ \"Sư Phụ, Mời Uống Trà!\" lên 20 nhân vật khác nhau",
         "hide_desc": "",
         "hide": true
     },
@@ -5699,9 +9403,729 @@
         "id": "4073408",
         "series_id": "7",
         "title": "Bánh Mật Chẻ Ba (Misandao)",
-        "desc": "Trong 1 trận đấu, dùng Yunli kích hoạt #1 lần \"Nhìn Thấu - Diệt\"",
+        "desc": "Trong 1 trận đấu, dùng Yunli kích hoạt 3 lần \"Nhìn Thấu - Diệt\"",
         "hide_desc": "",
         "hide": true
+    },
+    "4073501": {
+        "id": "4073501",
+        "series_id": "7",
+        "title": "Khi Gió Bão Dừng Lại...",
+        "desc": "Trong cuộc chiến với Ảo Ảnh \"Feixiao\", tất cả bộ phận của Thú Tâm Nguyệt Thực đều chưa từng thi triển hành động cường hóa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073502": {
+        "id": "4073502",
+        "series_id": "7",
+        "title": "Đang Buồn Sao?",
+        "desc": "Trong cuộc chiến với Ảo Ảnh \"Feixiao\", Ảo Ảnh \"Feixiao\" thi triển Bão Sét và trong thời gian tụ lực Bão Sét, phá vỡ điểm yếu của tất cả bộ phận thuộc Thú Tâm Nguyệt Thực",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073503": {
+        "id": "4073503",
+        "series_id": "7",
+        "title": "Lễ Diễn Võ: Thử Nghiệm Vũ Trang",
+        "desc": "Dùng Feixiao phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073504": {
+        "id": "4073504",
+        "series_id": "7",
+        "title": "Thanh Khâu Hành Quân",
+        "desc": "Dùng đội đồng thời có Feixiao, Jiaoqiu, Moze đánh thắng 1 trận",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073505": {
+        "id": "4073505",
+        "series_id": "7",
+        "title": "Đối Đầu Căng Thẳng",
+        "desc": "Trong cùng một trận, kích hoạt lồng tiếng Bắt Đầu Hiệp 2 của Jiaoqiu và lồng tiếng Chờ Lượt của Jing Yuan",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073506": {
+        "id": "4073506",
+        "series_id": "7",
+        "title": "Tiếng Hú Sói Cô Độc",
+        "desc": "Khi Hoolay kích hoạt trạng thái Trăng Cuồng, trong trận không có bất cứ Lính Sói nào",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073507": {
+        "id": "4073507",
+        "series_id": "7",
+        "title": "Ánh Trăng Che Khuất",
+        "desc": "Trong thời gian duy trì Trăng Cuồng, Hoolay chưa từng thi triển Sói Ác Truy Đuổi, Huyết Sắc Lan Tràn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073508": {
+        "id": "4073508",
+        "series_id": "7",
+        "title": "Chiến Tranh Điên Cuồng!",
+        "desc": "Trong một trận đấu, dùng Feixiao thi triển Tuyệt Kỹ, khi phát động Vũ Điệu Lưỡi Đao Chớp Nhoáng hoặc Chém Tách Trời Xanh lần thứ 6, khiến HP mục tiêu giảm còn 0",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073509": {
+        "id": "4073509",
+        "series_id": "7",
+        "title": "Thỏ Kẹo Bông",
+        "desc": "Trong một trận đấu, dùng Lingsha giữ Fuyuan trong trận cho đến khi giành chiến thắng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073510": {
+        "id": "4073510",
+        "series_id": "7",
+        "title": "Lưỡi Kiếm Không Máu",
+        "desc": "Trong 1 trận đấu, giành chiến thắng khi Moze chưa kích hoạt thiên phú Đòn Đánh Theo Sau",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073511": {
+        "id": "4073511",
+        "series_id": "7",
+        "title": "Tôi Là Cơn Bão",
+        "desc": "Dùng Bí Kỹ của Feixiao, liên tục thu hút 5 kẻ địch trở lên trên 30 giây",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073601": {
+        "id": "4073601",
+        "series_id": "7",
+        "title": "Cao Thủ Chúi Học",
+        "desc": "Khi chiến đấu với Nhóm Nghiên Cứu Chúi trong Rừng Kỳ Ảo, khiến nó không thi triển \"Gửi Tiến Sĩ: Báo Cáo Thành Quả Chúi Học\" dù chỉ một lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073602": {
+        "id": "4073602",
+        "series_id": "7",
+        "title": "Không Thể \"Chúi\"",
+        "desc": "Khi chiến đấu với Nhóm Nghiên Cứu Chúi trong Rừng Kỳ Ảo, khiến tất cả thành viên của Nhóm Nghiên Cứu Chúi cùng lúc vào trạng thái bị phá vỡ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073603": {
+        "id": "4073603",
+        "series_id": "7",
+        "title": "Dazzling-Nhẫn Pháp-Phá!",
+        "desc": "Trong 1 trận đấu, dùng Rappa gây 10 lần Phá Vỡ Điểm Yếu cho kẻ địch",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073604": {
+        "id": "4073604",
+        "series_id": "7",
+        "title": "Bước Chân Của Ác Quỷ",
+        "desc": "Dùng Bí Kỹ Rappa \"Nhẫn Bộ: Nhảy Vọt\", không đụng phải chướng ngại vật nào trong trạng thái trượt của Graffiti",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073701": {
+        "id": "4073701",
+        "series_id": "7",
+        "title": "Tạm Biệt, Bảy Ngày Nghỉ",
+        "desc": "Dùng nhân vật Sunday của phe ta hoàn thành đòn chiến thắng cuối cùng khi chiến đấu với Thần Vĩ Đại",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073702": {
+        "id": "4073702",
+        "series_id": "7",
+        "title": "Là Tôi Tự Giết Chính Mình?",
+        "desc": "Dùng nhân vật Fugue của phe ta thực hiện đòn chiến thắng cuối cùng khi chiến đấu với Phantylia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073703": {
+        "id": "4073703",
+        "series_id": "7",
+        "title": "Cùng Bay Lên Bầu Trời",
+        "desc": "Dùng đội có đồng thời Robin và Sunday giành 1 trận thắng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074001": {
+        "id": "4074001",
+        "series_id": "7",
+        "title": "Ý Định Thật Sự Của Pankration",
+        "desc": "Trong 1 lần tấn công, phá hủy Chiến Giáp của ít nhất 4 kẻ địch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074002": {
+        "id": "4074002",
+        "series_id": "7",
+        "title": "Ngọn Giáo Vĩnh Hằng",
+        "desc": "Trong trận chiến với Tiên Phong Thần Phạt, hoàn thành Đòn Chiến Thắng khi phá hủy Chiến Giáp của nó",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074003": {
+        "id": "4074003",
+        "series_id": "7",
+        "title": "Chiến Thuật Xiên",
+        "desc": "Trong chiến đấu với Tiên Phong Thần Phạt, ít nhất 5 mục tiêu phe ta tham gia phân tán sát thương của \"Chìm Trong Biển Máu\" và sau khi phân tán sát thương, không có bất kỳ mục tiêu phe ta nào bị đánh bại",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074004": {
+        "id": "4074004",
+        "series_id": "7",
+        "title": "Vinh Quang Vô Thượng",
+        "desc": "Trong 1 trận đấu với \"Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh\", Vinh Quang của tất cả nhân vật phe ta đạt giới hạn 2 tầng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074005": {
+        "id": "4074005",
+        "series_id": "7",
+        "title": "Hi Sinh Để Ngừng Chiến",
+        "desc": "Trong 1 trận đấu với \"Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh\", phá hủy Chiến Giáp và Thần Thể Titan của hắn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074006": {
+        "id": "4074006",
+        "series_id": "7",
+        "title": "Chiến Trường Tan Vỡ",
+        "desc": "Trong trận đấu với \"Người Ban Ơn, Thủ Lĩnh Thiên Quân, Ngọn Giáo Thần Phạt\", khi khiến hắn thi triển \"Sợ Hãi Đều Biến Thành Binh Khí\", chưa hấp thụ được \"Chinh Phục Hay Bị Chinh Phục\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074007": {
+        "id": "4074007",
+        "series_id": "7",
+        "title": "Vua Chinh Phục",
+        "desc": "Sau khi \"Người Ban Ơn, Thủ Lĩnh Thiên Quân, Ngọn Giáo Thần Phạt\" thi triển Kẻ Bị Chinh Phạt Đều Gặp Tai Ương, dùng cùng một nhân vật tiêu diệt tất cả \"Chinh Phục Hay Bị Chinh Phục\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074008": {
+        "id": "4074008",
+        "series_id": "7",
+        "title": "Nhất Định, Bạn Của Tôi!",
+        "desc": "Dùng Nhà Khai Phá vận mệnh Ký Ức triệu hồi Mem",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074009": {
+        "id": "4074009",
+        "series_id": "7",
+        "title": "Cùng Nhau, Mem!",
+        "desc": "Trong 1 trận đấu, khiến ít nhất 4 nhân vật phe ta cùng có \"Mem Cổ Vũ\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074011": {
+        "id": "4074011",
+        "series_id": "7",
+        "title": "Tơ Vàng Giáng Thần",
+        "desc": "Trong 1 trận đấu, dùng nhân vật phe ta Aglaea triệu hồi Thợ May 1 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074012": {
+        "id": "4074012",
+        "series_id": "7",
+        "title": "Vũ Điệu Cuồng Nhiệt",
+        "desc": "Trong 1 trận đấu, dùng nhân vật phe ta Aglaea ở trạng thái Tư Thế Tối Cao tích lũy thi triển 5 lần Ngàn Nụ Hôn Trên Lưỡi Kiếm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074013": {
+        "id": "4074013",
+        "series_id": "7",
+        "title": "Thiên Y Hoàn Hảo",
+        "desc": "Trong 1 trận đấu, chỉ dùng Thợ May của nhân vật phe ta Aglaea tiêu diệt tất cả mục tiêu phe địch và giành chiến thắng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074014": {
+        "id": "4074014",
+        "series_id": "7",
+        "title": "Hồi Ức Đột Nhiên Tấn Công Tôi",
+        "desc": "Dùng nhân vật vận mệnh Ký Ức chiến đấu với Kafka, Linh Hồn Ký Ức của nhân vật đó sẽ rơi vào trạng thái bị \"Chi Phối\" và tấn công lại Bậc Thầy Ký Ức",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074017": {
+        "id": "4074017",
+        "series_id": "7",
+        "title": "Sự Ngưỡng Mộ Cao Độ",
+        "desc": "Trong 1 lần chiến đấu, dùng nhân vật phe ta Sunday khiến 1 Bậc Thầy Ký Ức và Linh Hồn Ký Ức bất kỳ Ưu Tiên Hành Động 5 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074018": {
+        "id": "4074018",
+        "series_id": "7",
+        "title": "Trừng Phạt Của Quá Khứ",
+        "desc": "Tích lũy sử dụng Sát Thương Kỹ Năng Linh Hồn Ký Ức tiêu diệt 30 kẻ địch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074019": {
+        "id": "4074019",
+        "series_id": "7",
+        "title": "Chiến Tranh Người Đại Diện",
+        "desc": "Trong 1 trận đấu, trong trận cùng lúc có 4 Linh Hồn Ký Ức phe ta trở lên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074020": {
+        "id": "4074020",
+        "series_id": "7",
+        "title": "Sự Thật Là Tuyệt Kỹ Vĩnh Cửu",
+        "desc": "Tích lũy dùng Sát Thương Chuẩn tiêu diệt 10 kẻ địch",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074021": {
+        "id": "4074021",
+        "series_id": "7",
+        "title": "Đọc Hiểu",
+        "desc": "Trong 1 lần chiến đấu, dùng Đại Herta của phe ta tích lũy 5 lần cộng dồn 42 tầng Diễn Giải",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074101": {
+        "id": "4074101",
+        "series_id": "7",
+        "title": "Ánh Sáng Biến Mất",
+        "desc": "Trong 1 trận đấu, tiêu diệt mục tiêu phe địch xóa 3 \"Ký Hiệu Aquila\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074102": {
+        "id": "4074102",
+        "series_id": "7",
+        "title": "Đêm Không Trăng",
+        "desc": "Trong 1 trận đấu, thi triển Tuyệt Kỹ xóa 2 Ký Hiệu Oronyx",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074103": {
+        "id": "4074103",
+        "series_id": "7",
+        "title": "Cơn Bão Đột Nhiên Ngừng Lại",
+        "desc": "Khiến địch ở trạng thái \"Lướt Gió\" vào trạng thái Phá Vỡ Điểm Yếu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074104": {
+        "id": "4074104",
+        "series_id": "7",
+        "title": "Người Mất Đi Cái Bóng",
+        "desc": "Khi khiến Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa liên tục thi triển 2 lần Tưởng Nhớ U Minh trong một giai đoạn, không có Vật Chứa Tàn Khuyết có thể kích hoạt hợp tác",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074105": {
+        "id": "4074105",
+        "series_id": "7",
+        "title": "Người Không Có Bóng",
+        "desc": "Trong thời gian Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa thi triển Thở Than Thầm Lặng, đánh bại tất cả Vật Chứa Tàn Khuyết",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074106": {
+        "id": "4074106",
+        "series_id": "7",
+        "title": "Cánh Cổng Lửa, Quân Lực Vô Tận",
+        "desc": "Trong 1 trận đấu, nhân vật Mydei phe ta trong trạng thái Huyết Thù 1 lần, thi triển 5 lần \"Sát Vương Thành Vương\" hoặc \"Sát Thần Đăng Thần\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074107": {
+        "id": "4074107",
+        "series_id": "7",
+        "title": "Tribbie Kill",
+        "desc": "Trong 1 trận đấu, nhân vật Tribbie phe ta dùng 1 lần Tấn Công Thường tiêu diệt cùng lúc 3 kẻ địch",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074108": {
+        "id": "4074108",
+        "series_id": "7",
+        "title": "Hỏa Lực Bão Hòa Bao Phủ",
+        "desc": "Trong 1 trận đấu, dùng nhân vật Tribbie phe ta tích lũy kích hoạt 10 lần Đòn Đánh Theo Sau của Thiên Phú",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074109": {
+        "id": "4074109",
+        "series_id": "7",
+        "title": "Một Người Chống Lại Vạn Người",
+        "desc": "Trong 1 trận đấu, khi trong đội phe ta chỉ còn duy nhất Mydei sống sót, đánh bại 1 kẻ địch Tinh Anh và giành chiến thắng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074201": {
+        "id": "4074201",
+        "series_id": "7",
+        "title": "Điểm Cuối Của Phân Hình",
+        "desc": "Sử dụng nhân vật Anaxa của phe ta, dùng 1 lần tấn công thêm cho 1 mục tiêu phe địch 5 Điểm Yếu khác nhau.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074202": {
+        "id": "4074202",
+        "series_id": "7",
+        "title": "Bản Chất Trần Trụi",
+        "desc": "Trong 1 trận đấu, mục tiêu phe địch đều ở trạng thái Thăng Hoa khi bắt đầu 3 hiệp liên tục",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074203": {
+        "id": "4074203",
+        "series_id": "7",
+        "title": "Bậc Thầy Huấn Luyện Rồng",
+        "desc": "Trong 1 trận đấu, dùng nhân vật Castorice của phe ta triệu hồi Rồng Tử Vong Pollux 3 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074204": {
+        "id": "4074204",
+        "series_id": "7",
+        "title": "Anh Hùng Bất Diệt",
+        "desc": "Khi kích hoạt hiệu ứng của riêng Castorice, sẽ khiến 4 nhân vật trong đội của phe ta nhận trạng thái Kén Nguyệt cùng lúc",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074205": {
+        "id": "4074205",
+        "series_id": "7",
+        "title": "Bướm Đêm Cùng Nhảy Múa",
+        "desc": "Dùng đội có cả Castorice, {NICKNAME} đánh thắng 1 trận",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074206": {
+        "id": "4074206",
+        "series_id": "7",
+        "title": "Giấc Ngủ Trong Kén",
+        "desc": "Dùng Castorice của phe ta để ra Đòn Chiến Thắng khi đấu với \"Người Đưa Hồn, Xác Rồng Tử Vong, Pollux\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074207": {
+        "id": "4074207",
+        "series_id": "7",
+        "title": "Sau Khi Chết Sẽ Tự Biết... Sẽ Không Ngủ Mãi Mãi",
+        "desc": "Khi \"Người Đưa Hồn, Xác Rồng Tử Vong, Pollux\" thi triển Cái Chết Gọi Mời, toàn bộ nhân vật phe ta chưa rơi vào trạng thái Chìm Vào Ngủ Say",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074208": {
+        "id": "4074208",
+        "series_id": "7",
+        "title": "Nửa Mạng Sống",
+        "desc": "Khi toàn bộ nhân vật phe ta ở trạng thái Phần Trăm HP tối đa thấp hơn50%, tiêu diệt \"Người Đưa Hồn, Xác Rồng Tử Vong, Pollux\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074209": {
+        "id": "4074209",
+        "series_id": "7",
+        "title": "Thân Thể Thuần Khiết",
+        "desc": "Trong 1 trận đấu, khi Thây Ma Thủy Triều Đen thi triển Hấp Thụ Uế Khí, không hấp thụ \"Xâm Thực\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074301": {
+        "id": "4074301",
+        "series_id": "7",
+        "title": "Đổi Trắng Thay Đen",
+        "desc": "Trong một trận chiến, điểm tích lũy được ghi lại từ hiệu ứng Thiên Phú của nhân vật Cipher phe ta vượt quá 9999999 điểm.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074302": {
+        "id": "4074302",
+        "series_id": "7",
+        "title": "Đầy Máu Là Chết",
+        "desc": "Trong một trận chiến, dùng Tuyệt Kỹ của Cipher \"Mèo Tặc, Kính Bút!\" gây đòn tấn công chí tử cho 2 kẻ địch có HP 100%",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074303": {
+        "id": "4074303",
+        "series_id": "7",
+        "title": "Hoá Thành Làn Gió Bảo Vệ Bạn",
+        "desc": "Trong một trận đấu, dùng nhân vật Nhóc Ica của Hyacine phe ta, tiêu hao 10000 HP để trị liệu cho đồng đội",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074304": {
+        "id": "4074304",
+        "series_id": "7",
+        "title": "Thời Đại Đầy Hứa Hẹn",
+        "desc": "Trong một trận chiến, dùng Nhóc Ica của nhân vật Hyacine phe ta gây Đòn Đánh Cuối Cùng cho Kẻ Mời Gió hoặc Chiến Binh Hư Không - Kẻ Chà Đạp.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074305": {
+        "id": "4074305",
+        "series_id": "7",
+        "title": "Lửa Giận Dập Tắt Lửa Trời",
+        "desc": "Trong trận chiến với \"Tối Cao, Cực Dương, Hóa Thân Của Bầu Trời\", khiến \"Nhiệt Độ\" giảm 30",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074306": {
+        "id": "4074306",
+        "series_id": "7",
+        "title": "Tranh Đoạt Quyền Năng Sấm Sét",
+        "desc": "Trong trận chiến với \"Tối Cao, Cực Dương, Hóa Thân Của Bầu Trời\", làm gián đoạn \"Lôi, Núi Rung Biển Đổ\" của kẻ địch bằng cách cướp đoạt toàn bộ \"Mây Vũ Tích\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074307": {
+        "id": "4074307",
+        "series_id": "7",
+        "title": "Đối Mặt Sự Trừng Phạt Của Trời Xanh",
+        "desc": "Khi Tỷ Lệ Đồng Bộ Thủy Triều Đen của \"Kẻ Hủy Diệt, Nghiệp Quả Nắng Sấm, Con Mắt Ngày Và Đêm\" đạt tối đa, hứng chịu đòn tấn công của \"Tro Tàn Tử Vong - Diệt Thần\" mà không có nhân vật phe ta rơi vào trạng thái không thể chiến đấu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074308": {
+        "id": "4074308",
+        "series_id": "7",
+        "title": "Vạt Áo Lấm Bẩn",
+        "desc": "Chiến thắng trong trận đấu với \"Hắc Nhật Sư Ưng\" mà không nhận sát thương từ Vật Triệu Hồi của nó",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074309": {
+        "id": "4074309",
+        "series_id": "7",
+        "title": "Võ Sĩ Giác Đấu",
+        "desc": "Giành chiến thắng trong cơ chế \"Quyết Đấu\" bằng cách phá vỡ Điểm Yếu của \"Chiến Tướng Thủy Triều Đen\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074401": {
+        "id": "4074401",
+        "series_id": "7",
+        "title": "Đúng Như Kephale Đã Nói",
+        "desc": "Trong 1 trận đấu, nhân vật Phainon phe ta trở thành mục tiêu thi triển 6 loại kỹ năng khác nhau của đồng đội",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074402": {
+        "id": "4074402",
+        "series_id": "7",
+        "title": "Lửa Trời, Rút Kiếm",
+        "desc": "Nhân vật Phainon phe ta trong trạng thái Biến Thân, dùng 1 lần tấn công tiêu diệt cùng lúc 5 kẻ địch",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074403": {
+        "id": "4074403",
+        "series_id": "7",
+        "title": "Ai giành được MVP?",
+        "desc": "Dùng đội có cả Phainon và Mydei chiến thắng 1 trận, đồng thời số lượng kẻ địch bị Phainon tiêu diệt nhiều hơn Mydei",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074404": {
+        "id": "4074404",
+        "series_id": "7",
+        "title": "Ai giành được MVP?",
+        "desc": "Dùng đội có cả Phainon và Mydei chiến thắng 1 trận, đồng thời số lượng kẻ địch bị Mydei tiêu diệt nhiều hơn Phainon",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074405": {
+        "id": "4074405",
+        "series_id": "7",
+        "title": "Ma Lực Phóng Thích",
+        "desc": "Khi nhân vật phe ta Saber thi triển Búa Sắt Vua Gió, sẽ tiêu hao một lần 15 điểm Cộng Hưởng Lõi Trung Tâm để hồi Năng Lượng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074406": {
+        "id": "4074406",
+        "series_id": "7",
+        "title": "Kiếm Của Các Vì Sao, Kiếm Của Các Vị Vua",
+        "desc": "Trong 1 trận đấu, nhân vật phe ta Saber tích lũy thi triển 10 lần Excalibur",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074407": {
+        "id": "4074407",
+        "series_id": "7",
+        "title": "Trace On!",
+        "desc": "Khi dùng nhân vật phe ta Archer thi triển \"Caladbolg II: Kiếm Xoắn Ốc Giả\", trong trạng thái \"Kết Nối Mạch\" sẽ thi triển liên tục 5 lần \"Caladbolg II: Kiếm Xoắn Ốc Giả\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074408": {
+        "id": "4074408",
+        "series_id": "7",
+        "title": "Vũ Khí Dữ Trữ Có Đủ Không",
+        "desc": "Dùng nhân vật Archer phe ta thi triển 1 lần \"Vô Hạn Kiếm Chế\" đối với Yanqing",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074409": {
+        "id": "4074409",
+        "series_id": "7",
+        "title": "Dùng Cơm",
+        "desc": "Dùng đội có cả Archer, Saber đánh thắng 1 trận",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074410": {
+        "id": "4074410",
+        "series_id": "7",
+        "title": "Ai giành được MVP?",
+        "desc": "Dùng đội có cả Phainon và Mydei chiến thắng 1 trận, đồng thời số lượng kẻ địch bị Phainon và Mydei tiêu diệt bằng nhau",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074501": {
+        "id": "4074501",
+        "series_id": "7",
+        "title": "Triều Âm Ngũ Tấu",
+        "desc": "Hysilens thi triển Chiến Kỹ \"Bồi Âm, Hòa Thanh Sau Dòng Chảy Ngầm\" tích lũy đánh bay 5 kẻ địch",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074502": {
+        "id": "4074502",
+        "series_id": "7",
+        "title": "Gió Tây Trôi Dạt",
+        "desc": "Trong một trận chiến, kết giới của nhân vật Hysilens phe ta gây thêm 40 lần sát thương",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074503": {
+        "id": "4074503",
+        "series_id": "7",
+        "title": "Trung Thành Với Hoàng Đế, Mãi Mãi",
+        "desc": "Trong một trận chiến, nhân vật Cerydra phe ta ban \"tước vị\" cho đồng đội 3 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074504": {
+        "id": "4074504",
+        "series_id": "7",
+        "title": "Đại Nghiệp Chưa Thành, Vẫn Tiếp Tục Xông Pha",
+        "desc": "Nhân vật có Tước Vị sử dụng Chiến Kỹ tiêu diệt 5 kẻ địch",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074505": {
+        "id": "4074505",
+        "series_id": "7",
+        "title": "Bọt Biển Trở Về Biển Sâu",
+        "desc": "Dùng đội có cả Cerydra và Hysilens giành chiến thắng 1 trận, đồng thời Hysilens rơi vào trạng thái không thể chiến đấu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074506": {
+        "id": "4074506",
+        "series_id": "7",
+        "title": "Kiếm Kỳ, Liệu Có Bóng Dáng Ngươi?",
+        "desc": "Dùng đội có cả Cerydra và Hysilens để giành chiến thắng 1 trận, đồng thời Cerydra rơi vào trạng thái không thể chiến đấu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074507": {
+        "id": "4074507",
+        "series_id": "7",
+        "title": "Phê Phán Lý Tính Thực Hành",
+        "desc": "Trong một trận chiến, tăng tốc độ chuyển đổi thuật toán của Zandar thêm 4 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074508": {
+        "id": "4074508",
+        "series_id": "7",
+        "title": "Phê Phán Lý Tính Thuần Túy",
+        "desc": "Trong một trận chiến, nhân vật phe ta tích lũy sử dụng Tuyệt Kỹ được kích hoạt bởi \"Nghịch Lý\" Zandar 3 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074509": {
+        "id": "4074509",
+        "series_id": "7",
+        "title": "Tiệc Vui Vụt Tắt",
+        "desc": "Khi Phu Nhân Sóng Cả đang trong trạng thái Cuồng Hoan Trong Hủy Diệt, kích hoạt hiệu ứng Ưu Tiên Hành Động của cô ấy và bị tiêu diệt trước khi thực hiện hành động này",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074510": {
+        "id": "4074510",
+        "series_id": "7",
+        "title": "Phòng Bệnh Hơn Chữa Bệnh",
+        "desc": "Khi phe ta bị gắn trạng thái \"Sức Nóng Thủy Triều Đen\", loại bỏ nó trước khi Hiệu Ứng Xấu của \"Sức Nóng Thủy Triều Đen\" được kích hoạt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074601": {
+        "id": "4074601",
+        "series_id": "7",
+        "title": "Giấc Mộng Vượt Quá Khứ, Sương Mai Chở Kiếp Người",
+        "desc": "Sử dụng Đêm Dài của nhân vật Evernight phe ta, tích lũy thi triển 10 lần \"Mộng Mị, Mất Mát, Như Sương\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074602": {
+        "id": "4074602",
+        "series_id": "7",
+        "title": "Chúc Phúc Đặc Biệt",
+        "desc": "Sử dụng March 7th - Bảo Hộ thi triển Chiến Kỹ \"Dễ Thương Là Chính Nghĩa\" lên Evernight",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074603": {
+        "id": "4074603",
+        "series_id": "7",
+        "title": "Bạn Có Thể Hoàn Toàn Tin Tưởng Dan Heng",
+        "desc": "Trong 1 trận đấu, sử dụng nhân vật Dan Heng - Permansor Terrae phe ta tích lũy cung cấp 100000 điểm Khiên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074604": {
+        "id": "4074604",
+        "series_id": "7",
+        "title": "Hữu Long Tất Linh",
+        "desc": "\"Hồn Rồng\" tích lũy hành động 5 lần khi gắn kết với nhân vật có Vật Triệu Hồi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4074605": {
+        "id": "4074605",
+        "series_id": "7",
+        "title": "Ký Sự Thành Danh Của Cường Giả Khiên",
+        "desc": "\"Linh Hồn Ký Ức Máu Vàng - Hình Thái Phán Quyết Lãng Quên\" thi triển 3 lần tấn công đơn lẻ vào mục tiêu đã khóa và toàn bộ đều trúng vào Khiên",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074606": {
+        "id": "4074606",
+        "series_id": "7",
+        "title": "Xưng Công Chính Bởi Đức Tin",
+        "desc": "Nhân vật phe ta bị \"Chỉ Đích Danh Thủ Phạm\" chọn, sau khi chịu tấn công \"Bêu Đầu Huyết Tội\" của \"Linh Hồn Ký Ức Máu Vàng - Hình Thái Phán Quyết Lãng Quên\", HP hiện tại sẽ bằng Giới Hạn HP",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4074607": {
+        "id": "4074607",
+        "series_id": "7",
+        "title": "Bảo Toàn Động Lượng Góc",
+        "desc": "Sau khi \"Linh Hồn Ký Ức Máu Vàng - Rắn Cánh\" vào trạng thái Tụ Lực, kích hoạt nhiều lần \"Phản Momen Xoắn\" cho đến khi giải trừ trạng thái Tụ Lực",
+        "hide_desc": "",
+        "hide": false
     },
     "4080101": {
         "id": "4080101",
@@ -6012,7 +10436,7 @@
         "series_id": "8",
         "title": "SPAM Tin Nhắn",
         "desc": "Cho Heo Đất ăn thật nhiều vào",
-        "hide_desc": "※Dùng khung trò chuyện {TEXTJOIN#54}, gửi thật nhiều nội dung văn bản",
+        "hide_desc": "※Dùng khung trò chuyện Heo Đất Không Gian, gửi thật nhiều nội dung văn bản",
         "hide": false
     },
     "4082702": {
@@ -6139,7 +10563,7 @@
         "id": "4083002",
         "series_id": "8",
         "title": "Chênh Lệch Tầm Nhìn",
-        "desc": "Trong #1 phút tương tác với thiết bị Đôi Mắt Xây Mộng #2 lần trở lên",
+        "desc": "Trong 2 phút tương tác với thiết bị Đôi Mắt Xây Mộng 5 lần trở lên",
         "hide_desc": "",
         "hide": true
     },
@@ -6147,7 +10571,7 @@
         "id": "4083003",
         "series_id": "8",
         "title": "Sao Chim Lại Biết Bay?",
-        "desc": "Trong #1 phút, tương tác với thiết bị hình chim của mô đun điều khiển xây mộng #2 lần trở lên",
+        "desc": "Trong 1 phút, tương tác với thiết bị hình chim của mô đun điều khiển xây mộng 5 lần trở lên",
         "hide_desc": "",
         "hide": true
     },
@@ -6179,7 +10603,7 @@
         "id": "4083008",
         "series_id": "8",
         "title": "Mọi Chân Lý Đều Phải Lưu Thông Như Tiền Tệ",
-        "desc": "Trong chi viện dùng Dr. Ratio tham gia #1 trận đấu",
+        "desc": "Trong chi viện dùng Dr. Ratio tham gia 1 trận đấu",
         "hide_desc": "",
         "hide": true
     },
@@ -6187,7 +10611,7 @@
         "id": "4083009",
         "series_id": "7",
         "title": "Thiên Trảm Vô Trảm",
-        "desc": "Trong khi thám hiểm, dùng Bí Kỹ \"Tứ Tướng Đoạn Ngã\" của Acheron liên tục tiêu diệt #1 kẻ địch",
+        "desc": "Trong khi thám hiểm, dùng Bí Kỹ \"Tứ Tướng Đoạn Ngã\" của Acheron liên tục tiêu diệt 5 kẻ địch",
         "hide_desc": "",
         "hide": true
     },
@@ -6219,9 +10643,81 @@
         "id": "4083301",
         "series_id": "8",
         "title": "Khách Sao Chủ Vậy",
-        "desc": "Sau khi nhận được quyền sở hữu {TEXTJOIN#87}, nghịch nước trong hồ bơi",
+        "desc": "Sau khi nhận được quyền sở hữu Tàu Radiant Feldspar, nghịch nước trong hồ bơi",
         "hide_desc": "",
         "hide": true
+    },
+    "4083501": {
+        "id": "4083501",
+        "series_id": "8",
+        "title": "Giúp Tôi Với, Đại Sư Huynh!",
+        "desc": "Sau khi March 7th - Săn Bắn khiến một nhân vật nào đó trở thành \"sư phụ\", sư phụ bị Cánh Tay Robot của Svarog khống chế",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4084001": {
+        "id": "4084001",
+        "series_id": "8",
+        "title": "Trở Lại Tương L-L-L-Lai",
+        "desc": "Trong thời gian ngắn, liên tục dùng Sách Kỳ Tích đổi thời không 5 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4084002": {
+        "id": "4084002",
+        "series_id": "8",
+        "title": "Hãng Xe Thần Thánh",
+        "desc": "Liên tiếp mở Ngọc Kỳ Tích 5 lần",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4084003": {
+        "id": "4084003",
+        "series_id": "8",
+        "title": "Cột Ngã Rồi~",
+        "desc": "Cảm nhận sức nặng của \"chân lý\"",
+        "hide_desc": "※Trong quá trình khám phá Amphoreus, bị trụ còn chứa ký ức đập trúng",
+        "hide": false
+    },
+    "4084004": {
+        "id": "4084004",
+        "series_id": "8",
+        "title": "Thục Nữ Xinh Đẹp",
+        "desc": "Cầu sập rồi? May mà bạn không ở trên cầu... hả, bạn ở dưới cầu?",
+        "hide_desc": "※Trong quá trình khám phá Amphoreus, bị một chiếc cầu không vững đập trúng",
+        "hide": false
+    },
+    "4084005": {
+        "id": "4084005",
+        "series_id": "8",
+        "title": "Người Vô Tội Có Thể Nhặt Đá Trước",
+        "desc": "Chơi bowling nào, tôi sẽ làm cái chai",
+        "hide_desc": "※Trong quá trình khám phá Amphoreus, bị quả cầu đá đập trúng",
+        "hide": false
+    },
+    "4084007": {
+        "id": "4084007",
+        "series_id": "8",
+        "title": "Di chuyển đi, tại sao không di chuyển?",
+        "desc": "Đền thờ? Đền thờ gì chứ?",
+        "hide_desc": "※Trong quá trình khám phá Amphoreus, khi quay ngược vật còn sót lại ký ức nào đó, vì vượt quá giới hạn năng lực mà thất bại 5 lần",
+        "hide": false
+    },
+    "4084102": {
+        "id": "4084102",
+        "series_id": "8",
+        "title": "Okhema Không Tin Vào Nước Mắt",
+        "desc": "Nó sẽ không tấn công, nhưng lại có thể dùng cách khác gây sát thương cho bạn...",
+        "hide_desc": "※Trong quá trình thám hiểm Amphoreus, bị bức tượng đập trúng",
+        "hide": true
+    },
+    "4084301": {
+        "id": "4084301",
+        "series_id": "8",
+        "title": "Don Quixote Đích Thực",
+        "desc": "Thời tiết thật đẹp, phá hỏng quạt gió thôi nào!",
+        "hide_desc": "※Thay đổi trạng thái của cùng một Thiết Bị Gió 10 lần trong thời gian ngắn",
+        "hide": false
     },
     "4090201": {
         "id": "4090201",
@@ -7332,6 +11828,118 @@
         "series_id": "9",
         "title": "Mệnh Lệnh Xóa Sổ",
         "desc": "Thi triển Tuyệt Kỹ liên tục 10 lần trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093601": {
+        "id": "4093601",
+        "series_id": "9",
+        "title": "Không Có Ác Ý",
+        "desc": "Đi theo Herta, khám phá sự thật đằng sau hệ thống Quyền Trượng",
+        "hide_desc": "※Chứng kiến sự ra đời của nan đề thuật toán sóng đơn độc",
+        "hide": false
+    },
+    "4093602": {
+        "id": "4093602",
+        "series_id": "9",
+        "title": "Bươm Bướm Trên Gợn Sóng",
+        "desc": "Hỗ trợ các thiên tài xóa bỏ Vùng Không Biết trong Vũ Trụ Mô Phỏng",
+        "hide_desc": "※Phá vỡ Vùng Đất Tri Thức của Polka Kakamond",
+        "hide": false
+    },
+    "4093603": {
+        "id": "4093603",
+        "series_id": "9",
+        "title": "Trầm Tư Cuối Cùng",
+        "desc": "Nhận \"giải pháp duy nhất\" về tương lai của vũ trụ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093604": {
+        "id": "4093604",
+        "series_id": "9",
+        "title": "Bản Thân Các Vị Thần",
+        "desc": "Nghe một cuộc đối thoại chưa từng tồn tại",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093605": {
+        "id": "4093605",
+        "series_id": "9",
+        "title": "Học Giả Không Hoàn Hảo",
+        "desc": "Vượt tất cả ải Hội Tầm Thường trong Vũ Trụ Mô Phỏng: Vùng Không Biết",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093608": {
+        "id": "4093608",
+        "series_id": "9",
+        "title": "Tham Gia Vào Tiến Hóa Vinh Quang",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vùng Không Biết, Quyền Trượng hoàn thành 5 lần cải tiến trở lên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093609": {
+        "id": "4093609",
+        "series_id": "9",
+        "title": "Bình Minh Sắt Thép",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vùng Không Biết, có 20 Linh Kiện trở lên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093610": {
+        "id": "4093610",
+        "series_id": "9",
+        "title": "Học Cách Trở Thành \"Tôi\"",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vùng Không Biết, hoàn thành 30 lần ghi đè Linh Kiện trở lên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093611": {
+        "id": "4093611",
+        "series_id": "9",
+        "title": "Nhà Giả Kim Đế Quốc",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vùng Không Biết, trong Bàn Điều Chỉnh Tạo Vật, hoàn thành ghép Linh Kiện 4 lần trở lên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093615": {
+        "id": "4093615",
+        "series_id": "9",
+        "title": "Thoát khỏi Vũng Lầy Xác Suất",
+        "desc": "Vượt ải Vũ Trụ Mô Phỏng: Vùng Không Biết khi Cấp Nan Đề là 6",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093616": {
+        "id": "4093616",
+        "series_id": "9",
+        "title": "Kardashev-III",
+        "desc": "Nhận Linh Kiện 3 sao trong Vũ Trụ Mô Phỏng: Vùng Không Biết",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093617": {
+        "id": "4093617",
+        "series_id": "9",
+        "title": "Nhận Thức Siêu Việt",
+        "desc": "Nhận Quyền Trượng 3 sao trong Vũ Trụ Mô Phỏng: Vùng Không Biết",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093618": {
+        "id": "4093618",
+        "series_id": "9",
+        "title": "Sự Giãn Nở Thời Gian",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vùng Không Biết, lần đầu trừ số vòng thêm",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4093621": {
+        "id": "4093621",
+        "series_id": "9",
+        "title": "1:4:9",
+        "desc": "Tìm thấy dấu vết Lãnh Chúa Tĩnh Lặng để lại",
         "hide_desc": "",
         "hide": true
     }

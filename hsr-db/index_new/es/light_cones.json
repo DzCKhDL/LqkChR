@@ -209,6 +209,26 @@
         "preview": "image/light_cone_preview/20020.png",
         "portrait": "image/light_cone_portrait/20020.png"
     },
+    "20021": {
+        "id": "20021",
+        "name": "Imágenes quemadas",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "Un extraño poder condensado a partir del tiempo. Verdaderamente, son todos los momentos insignificantes los que tejen un destino maravilloso.\n\"Siempre intentamos olvidar los malos recuerdos. Esa es la esencia de la memoria\".",
+        "icon": "icon/light_cone/20021.png",
+        "preview": "image/light_cone_preview/20021.png",
+        "portrait": "image/light_cone_portrait/20021.png"
+    },
+    "20022": {
+        "id": "20022",
+        "name": "Retrospección",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "Un extraño poder condensado a partir del tiempo. Verdaderamente, son todos los momentos insignificantes los que tejen un destino maravilloso.\n\"En un breve y dulce sueño, el alma envejecida parece retornar al hermoso y colorido mar de la infancia\".",
+        "icon": "icon/light_cone/20022.png",
+        "preview": "image/light_cone_preview/20022.png",
+        "portrait": "image/light_cone_portrait/20022.png"
+    },
     "21000": {
         "id": "21000",
         "name": "Conversación en el postoperatorio",
@@ -679,6 +699,146 @@
         "preview": "image/light_cone_preview/21046.png",
         "portrait": "image/light_cone_portrait/21046.png"
     },
+    "21047": {
+        "id": "21047",
+        "name": "La sombra de la noche",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "\"Huellas\".\n\"Cicatrices\".\n\"Olores\".\nUna vez que todo está listo, toma una pluma de cuervo y sube con gracia hasta el tejado.\nEn la vasta ciudad, una oscura sombra recorre los rincones ocultos.\n\"Debo esconderme entre las sombras para protegerlos\".",
+        "icon": "icon/light_cone/21047.png",
+        "preview": "image/light_cone_preview/21047.png",
+        "portrait": "image/light_cone_portrait/21047.png"
+    },
+    "21048": {
+        "id": "21048",
+        "name": "Montaje de sueños",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"La ciudad de los sueños, el criadero del pecado o la tierra prometida...\".\nAl extraer los recuerdos de muchos, examina los momentos espectaculares y los interrumpe, los reorganiza y los une.\n\"Los recuerdos de la mayoría de las personas no son más que una colección de fragmentos triviales y monótonos, donde solo un puñado de momentos preciosos se destacan, mientras que la existencia del resto es completamente innecesaria\".\nCuadro a cuadro, las imágenes fluyen entre sus manos, entrelazándose con el tiempo hasta convertirse en un tapiz de genialidad.\n\"No transportamos recuerdos. Solo creamos el pasado\".",
+        "icon": "icon/light_cone/21048.png",
+        "preview": "image/light_cone_preview/21048.png",
+        "portrait": "image/light_cone_portrait/21048.png"
+    },
+    "21050": {
+        "id": "21050",
+        "name": "Victoria disputada",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Los poderosos rugidos de batalla de los titandeudos arrasan el campo de batalla. Dos figuras rápidas como el rayo van formando un camino sangriento.\n\"Podría deshacerme de ellos yo solo\".\nCada golpe del guerrero manda lanzas de sangre que atraviesan los cuerpos enemigos.\n\"¡Eso no es más que fuerza bruta! ¡Mira mi espada!\".\nLa espada plateada traza un arco hermoso y los monstruos caen como hojas en otoño.\n\"¡Veamos quién es más rápido!\".\nAmbos atacan hacia delante al mismo tiempo.\nUnos alaridos resuenan cuando el monstruo que acechaba detrás cae abatido.\nDos voces gritan a la vez:\n\"¡Yo le di el golpe de gracia!\".",
+        "icon": "icon/light_cone/21050.png",
+        "preview": "image/light_cone_preview/21050.png",
+        "portrait": "image/light_cone_portrait/21050.png"
+    },
+    "21051": {
+        "id": "21051",
+        "name": "Saludo entre genios",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "\"¡Felicidades! Otro experimento fallido, ¿no?\".\n\"...\".\n\"Ya te lo dije, tu método contiene errores\".\n\"...\".\n\"Déjame decirte que he hecho un gran avance recientemente\".\nLa mujer distante alza la vista del libro.\n\"Disculpa, ¿qué dijiste?\".\nElla mueve la mano.\n\"No puedo describir lo impresionante que es. ¡Podría afectar a medio cosmos!\".\nLa mujer cierra el libro.\n\"¿Por qué no me lo cuentas?\".\n\"¡Hum! Las sabias palabras de una genio como yo no son algo que se pueda escuchar a la ligera...\".\n\"Entendido. Hice unos pasteles, ¿por qué no hablamos mientras comemos?\".",
+        "icon": "icon/light_cone/21051.png",
+        "preview": "image/light_cone_preview/21051.png",
+        "portrait": "image/light_cone_portrait/21051.png"
+    },
+    "21052": {
+        "id": "21052",
+        "name": "Más sudor y menos lágrimas",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Los impactos sordos resuenan en la sala de entrenamiento, seguidos de una patada atronadora, y el saco de arena casi se parte en dos.\n\"Este entrenamiento es demasiado duro, ¿no, general?\", pregunta el soldado que está a su lado.\nElla se ríe y niega con la cabeza. Luego cuelga otro saco de arena.\n\"¡Esto no es nada!\".\nLas gotas de sudor reflejan la luz de la luna y se deslizan como perlas cristalinas. La advertencia del general fallecido se le viene de repente a la cabeza: \"Suda más en el entrenamiento para derramar menos lágrimas en la batalla\".",
+        "icon": "icon/light_cone/21052.png",
+        "preview": "image/light_cone_preview/21052.png",
+        "portrait": "image/light_cone_portrait/21052.png"
+    },
+    "21053": {
+        "id": "21053",
+        "name": "Que tu viaje sea siempre pacífico",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "El niño corre bajo las relucientes gotas y se regocija por la lluvia que llega al fin tras una larga sequía.\nLa lluvia dura mucho, mucho tiempo, y el carro se detiene en un campo verde.\n\"Mamá, hermana, ¡no volveremos a pasar hambre ni frío!\".\nLa hoguera del campamento de los avgin calienta la larga noche, y el niño escucha las historias que cuenta su hermana mientras espera el amanecer.\n\"Kakavasha, tú también seguirás adelante con la bendición de la diosa y lograrás lo que nosotros no pudimos lograr. Que tu viaje sea siempre pacífico y que nunca se descubran tus planes\".\nLa luz dorada del sol se refleja desde su sueño hasta su hogar en la realidad, y las transacciones y los números vuelven a aparecer ante sus ojos.\nAbre la mano que tenía cerrada con fuerza...\nParece que no hubiera logrado asir nada, pero aún nota los restos de un pulso cálido.",
+        "icon": "icon/light_cone/21053.png",
+        "preview": "image/light_cone_preview/21053.png",
+        "portrait": "image/light_cone_portrait/21053.png"
+    },
+    "21054": {
+        "id": "21054",
+        "name": "La siguiente página de la historia",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "La brisa sopla sobre los campos de trigo mientras la muchacha pasea entre las olas doradas con un diario en blanco entre las manos.\nMás allá de Elisios, en una polis desconocida, pero a la vez familiar, todo tipo de compañeros se cruzarán en su camino. El viaje que es como una canción, como un sueño, está a punto de comenzar...\n\"Esta vez, conmigo\".\nAl final del campo, la muchacha que ha esperado tanto tiempo cierra su libro y extiende una mano hacia el futuro.\n♪ \"Escribamos un nuevo capítulo de la historia\". ♪",
+        "icon": "icon/light_cone/21054.png",
+        "preview": "image/light_cone_preview/21054.png",
+        "portrait": "image/light_cone_portrait/21054.png"
+    },
+    "21055": {
+        "id": "21055",
+        "name": "Hasta pasado mañana",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"Hasta mañana, Trispios...\". \nCuando su madre se iba a algún lugar lejano, la niña se secaba las lágrimas de las mejillas.\nEsperó un mañana tras otro, hasta que creció y se convirtió en alguien como su madre.\nSe detiene ante la puerta y sostiene la Yesca con fuerza mientras recuerda las palabras de su madre.\n\"En ese lugar no hay viento, frío ni lluvia...\".\n\"Pero si no nos vemos mañana...\".\nElla cae hacia la tierra, y deja tras de sí su figura infantil, como una estrella fugaz que atraviesa el cielo.\n\"¡Entonces nos veremos pasado mañana!\".",
+        "icon": "icon/light_cone/21055.png",
+        "preview": "image/light_cone_preview/21055.png",
+        "portrait": "image/light_cone_portrait/21055.png"
+    },
+    "21056": {
+        "id": "21056",
+        "name": "Al perseguir el viento",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "\"Je. Esta puede ser para esa niña con mala suerte. Hará que sus padres deudores cierren la boca y le peguen menos\".\n\"Y esta puede ser para ayudar a la abuelita que vende caramelos de pepinillo. Tiene enfermedades y dolores que necesita tratar. No quiero que llegue el día en que ya no pueda comprar esos caramelos tan deliciosos...\".\nInclinada sobre la bolsa, la niña cuenta con cuidado las joyas en su interior cuando de repente estornuda.\n\"¿Quién está hablando de mí?\".\n\"Ciferia, ahí estás\".\nLos hilos se enroscan en su espalda, como si no supieran por dónde empezar.\n\"A partir de ahora, cuando persigas el viento...\".\nEl frío hilo dorado envuelve sus muñecas y la deja inmóvil.\n\"No olvides cuidar de ti misma\".\nElla corre hacia lo lejos, solo para voltearse y darse cuenta de que la esquina de su capa que se había roto ahora está como nueva.",
+        "icon": "icon/light_cone/21056.png",
+        "preview": "image/light_cone_preview/21056.png",
+        "portrait": "image/light_cone_portrait/21056.png"
+    },
+    "21057": {
+        "id": "21057",
+        "name": "Las flores nunca olvidan",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "En primavera, sembraban las semillas.\nEn verano, regaban los campos de flores.\nEn otoño, recogían los frutos.\nEn invierno, cantaban mientras caminaban por la nieve.\n...\nLa tierra que al principio era estéril ahora florece. Una mariposa se siente atraída por la risa y se posa en la punta de sus dedos.\n\"¡Hermana! Siempre estaremos juntas. ¡Convertiremos este lugar en un enorme mar de flores!\".\n\"Mira, nuestra promesa...\".\nLa mariposa vuela hacia la otra orilla. La joven taciturna acaricia suavemente los cálidos pétalos de las flores, como si su hermana pequeña siguiera allí con ella.\n\"Ni yo ni las flores que cuidábamos la hemos olvidado\".",
+        "icon": "icon/light_cone/21057.png",
+        "preview": "image/light_cone_preview/21057.png",
+        "portrait": "image/light_cone_portrait/21057.png"
+    },
+    "21058": {
+        "id": "21058",
+        "name": "Sangre del pasado",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "A lo lejos se está formando una tormenta. Unos tentáculos emergen desde el fondo del mar Estigio, como si quisieran jugar con el ser frágil e inocente que flota ahí.\nLas extremidades rotas de la bestia marina producen salpicaduras gigantes que se elevan hacia el cielo y se hunden en el fondo del océano tras desperdigarse.\nSe dice que el estruendo de la batalla duró diez días y diez noches, y fue incluso más fuerte que los truenos y relámpagos.\nSe dice también que, aunque un hombre tuviera diez mil vidas, no bastarían para resistir la erosión del mar Estigio.\nHasta que el coraje arrasó con la inmadurez y el orgullo templó la debilidad.\nAquella delgada figura se tambalea hasta la orilla. El primer rayo del sol brilla sobre las aguas del mar y las tiñe de rojo, como la sangre del pasado.",
+        "icon": "icon/light_cone/21058.png",
+        "preview": "image/light_cone_preview/21058.png",
+        "portrait": "image/light_cone_portrait/21058.png"
+    },
+    "21060": {
+        "id": "21060",
+        "name": "Sueños de trigo fragante",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "La suave brisa acaricia la punta de los dedos del joven y lleva la carta, con la tinta aún húmeda, a un lugar lejano.\n\"¿Cómo será mi futuro?...\".\nLos sueños inundan su mente y vuelan hacia el cielo.\nEl trigo danza en el viento y forma ondas, como si respondiera a su deseo inocente y sincero.\n\"¡Aunque solo tenga una espada en la mano, quiero proteger este lugar cueste lo que cueste!\".\nEl joven hace un juramento en silencio...\nUn juramento tan profundo como una marca grabada a fuego en su corazón.",
+        "icon": "icon/light_cone/21060.png",
+        "preview": "image/light_cone_preview/21060.png",
+        "portrait": "image/light_cone_portrait/21060.png"
+    },
+    "21061": {
+        "id": "21061",
+        "name": "Vacaciones en las termas",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "\"Ciny, ¡vamos a probar las nuevas termas que han abierto hace poco!\".\nTras terminar su atención médica en Oqueima, la joven sigue a la curiosa niña hasta el conjunto de termas.\n\"¿Quieres probar el masaje con jugo de frutas?\".\nAl ver las manos manchadas de rojo, la joven agarra a Ica, que se muestra impaciente por probarlo, y da un paso atrás...\n\"Prefiero algo para beber...\".\n\"¡Masajes de espalda realizados por un droma! ¡Oferta especial por tiempo limitado!\".\nEl curioso animal de carga baja la cabeza y sopla suavemente en el cabello de la chica.\n\"¡M-mejor otro día!\".\n\"¡Baños medicinales para volverse más fuertes! ¿Cuántas personas son?\".\nAl oler el fragante aroma de las hierbas medicinales, la chica se adentra con cautela en el agua.\n\"Esto debe ser saludable...\".\n\"¡Prr, prr!\".\nEl pequeño Ica disfruta nadando en el agua.\n\"Creo que tú también necesitabas descansar\".\nDurante estas raras vacaciones, la joven bebe jugo de uvas y conversa de todo con la niña pelirroja, desde los sueños que tienen hasta cómo preparar aperitivos.\n\"¡Oh, no! ¡Ica!\".\nEl grito de la niña interrumpe el silencio de los baños.\n\"Prr...\".\n\"¡Resiste, Ica!\".",
+        "icon": "icon/light_cone/21061.png",
+        "preview": "image/light_cone_preview/21061.png",
+        "portrait": "image/light_cone_portrait/21061.png"
+    },
+    "21062": {
+        "id": "21062",
+        "name": "Nos vemos al final",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "Lágrimas involuntarias se deslizan por sus mejillas. En el centro del destrozado arreglo ritual no solo queda la sombra de la muerte, sino también un abismo de silencio y vacío...\nEntonces, un suspiro se escucha en la oscuridad, un temblor procedente de lo más profundo del alma.\n\"Hermana... ¿eres tú?\".\nEl joven levanta la mano y un destello de luz brilla en sus ojos. La silueta de su ser querido no dura más que un instante, pero siente como si hubiera permanecido en su corazón por miles de años.\n\"Ya veo... Gracias por venir a despedirte de mí por última vez\".\nSe levanta lentamente. Los primeros rayos del alba se reflejan en su rostro obstinado, aún mojado por las lágrimas.\n\"El camino de la búsqueda es largo y solitario... Espero que volvamos a vernos al final del viaje\".",
+        "icon": "icon/light_cone/21062.png",
+        "preview": "image/light_cone_preview/21062.png",
+        "portrait": "image/light_cone_portrait/21062.png"
+    },
     "22000": {
         "id": "22000",
         "name": "Antes de que comience la misión del tutorial",
@@ -694,7 +854,7 @@
         "name": "Ey, estoy aquí",
         "rarity": 4,
         "path": "Priest",
-        "desc": "Tres jóvenes caminan en la oscuridad de la noche. El paisaje que las rodea tiene una atmósfera espeluznante.\n\"¡Huohuo, date prisa! ¡No vamos a esperarte!\".\nLa joven avanza a grandes pasos con el teléfono en alto. Al parecer no le afecta dicha atmósfera sobrenatural.\n\"¡Estoy aquí!\", responde una voz tímida desde más adelante.\n\"¿Eh? Si estás delante, entonces ¿quién viene detrás de mí y de Shangshang?\".\nEl final perfecto para esta escena sería el grito de una joven.",
+        "desc": "Tres jóvenes caminan en la oscuridad de la noche. El paisaje que las rodea tiene una atmósfera espeluznante.\n\"¡Huohuo, date prisa! ¡No vamos a esperarte!\".\nLa joven avanza a grandes pasos con el teléfono en alto. Al parecer no le afecta dicha atmósfera sobrenatural.\n\"¡Estoy aquí!\", responde una voz tímida desde más adelante.\n\"¿Eh? Si estás delante, entonces, ¿quién viene detrás de mí y de Shangshang?\".\nEl final perfecto para esta escena sería el grito de una joven.",
         "icon": "icon/light_cone/22001.png",
         "preview": "image/light_cone_preview/22001.png",
         "portrait": "image/light_cone_portrait/22001.png"
@@ -708,6 +868,36 @@
         "icon": "icon/light_cone/22002.png",
         "preview": "image/light_cone_preview/22002.png",
         "portrait": "image/light_cone_portrait/22002.png"
+    },
+    "22003": {
+        "id": "22003",
+        "name": "Grabación ninja: Cacería del Sonido",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "Reino del ninjutsu cósmico, gracia siempre cambiante.\n¡Escucha el rugido de mi Cacería del Sonido dominante!\nSiente el ritmo, la llamada de mi compás.\nEl rasgueo de la guitarra, las atmósferas cautivará.\nNotas graves con un tono tierno,\nla electroacústica se enciende de nuevo.\nEl testamento del sudor, la verdad no contada,\ncada giro y vuelta, las melodías desplegadas.\nMi sonido asciende y llega alto,\na través de moretones y batallas, nunca huyo de los malos.\n¡Deslumbrante! ¡Deslumbrante! Un cántico tan audaz.\n¡Deslumbrante! ¡Deslumbrante! En historias no contadas.\n¡Deslumbrante! ¡Deslumbrante! ¡Una epopeya anunciada!\nOye. Oye. En este mundo salvaje. Que los corazones se enciendan en llamas.\nCanta en voz alta, canta con tu alma, ¡y la más absurda locura proclama!",
+        "icon": "icon/light_cone/22003.png",
+        "preview": "image/light_cone_preview/22003.png",
+        "portrait": "image/light_cone_portrait/22003.png"
+    },
+    "22004": {
+        "id": "22004",
+        "name": "El gran negocio cósmico",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "Los representantes intercambian opiniones en medio de una feria virtual compuesta de datos.\nDos figuras se mueven entre los puestos, proporcionando todo lo que necesita cada uno.\n\"¿Eh? ¿Tú no eres...?\".\n\"¡Te he visto en la tele!\".\nHablan de juegos, comida, sus respectivos físicos y todo lo que es hermoso en el universo.\nAunque sus encuentros son esporádicos, son como dos viejos amigos.\n\"Por cierto, ¿considerarías mi propuesta?\".\n\"¡El Expreso no está a la venta!\".",
+        "icon": "icon/light_cone/22004.png",
+        "preview": "image/light_cone_preview/22004.png",
+        "portrait": "image/light_cone_portrait/22004.png"
+    },
+    "22005": {
+        "id": "22005",
+        "name": "Viandas sin fin",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "¡BRUMMM!\nFuera de la Floresta, la lluvia y el viento no cesan.\n¡Blub, blub!\nEl fuego del caldero mágico de las hadas no se apaga nunca.\n\"Ahora espolvoreamos las especias secretas\"...\n\"¡Echa esos vegetales frescos!\".\n\"¡Esta vez, seguro que lo lograremos!\".\nEl caldero vuelve a hacer blub, blub mientras las hadas observan expectantes.\n\"¡Ya viene, ya viene!\".\nUna intensa luz sale desde el fondo del caldero.\nMira, ¡todos se han reunido alrededor!\n...\nEn ese banquete lleno de aromas deliciosos, los invitados alzan sus copas para brindar por estos tiempos maravillosos.\n¡Que esta tierra de ensueño siempre esté llena de calidez y alegría!",
+        "icon": "icon/light_cone/22005.png",
+        "preview": "image/light_cone_preview/22005.png",
+        "portrait": "image/light_cone_portrait/22005.png"
     },
     "23000": {
         "id": "23000",
@@ -904,7 +1094,7 @@
         "name": "Mi pasado en el espejo",
         "rarity": 5,
         "path": "Shaman",
-        "desc": "Antes le encantaba capturar el momento en que las flores del ciruelo estaban a punto de marchitarse y mantenerlo vívido con ella.\nHan pasado muchos años desde entonces. Muchas formas de vida (revoltosas, dulces y de todas las maneras) han florecido en sus manos, pero las flores del ciruelo siguen marchitándose en ese instante predeterminado.\nHan pasado muchos años desde entonces, pero el rostro en el espejo todavía luce idéntico. Sin embargo, en la escala de todo el cosmos, ¿ella mantendría su frescura solo por un momento fugaz?\n\"Si todo está condenado a fenecer, ¿cuál sería el propósito de la creación?\".\nDespués de un silencio que parece extenderse hasta la eternidad, el viento arrastra las flores al suelo, y la respuesta de la persona en el espejo es la misma de siempre.\n\"Para el día en que ya no conservemos la flor del ciruelo.\"\nAcaricia la superficie helada del espejo. Soliloquios de esta índole habían ocurrido demasiadas veces como para poder contarlos.",
+        "desc": "Antes le encantaba capturar el momento en que las flores del ciruelo estaban a punto de marchitarse y mantenerlo vívido con ella.\nHan pasado muchos años desde entonces. Muchas formas de vida (revoltosas, dulces y de todas las maneras) han florecido en sus manos, pero las flores del ciruelo siguen marchitándose en ese instante predeterminado.\nHan pasado muchos años desde entonces, pero el rostro en el espejo todavía luce idéntico. Sin embargo, en la escala de todo el cosmos, ¿ella mantendría su frescura solo por un momento fugaz?\n\"Si todo está condenado a fenecer, ¿cuál sería el propósito de la creación?\".\nDespués de un silencio que parece extenderse hasta la eternidad, el viento arrastra las flores al suelo, y la respuesta de la persona en el espejo es la misma de siempre.\n\"Para el día en que ya no conservemos la flor del ciruelo\".\nAcaricia la superficie helada del espejo. Soliloquios de esta índole habían ocurrido demasiadas veces como para poder contarlos.",
         "icon": "icon/light_cone/23019.png",
         "preview": "image/light_cone_preview/23019.png",
         "portrait": "image/light_cone_portrait/23019.png"
@@ -914,7 +1104,7 @@
         "name": "El bautismo del pensamiento puro",
         "rarity": 5,
         "path": "Rogue",
-        "desc": "La luz del sol tras el mediodía brilla en su justa medida, y la fragancia de las flores embriaga el aire.\nAunque él intenta mantener sus pensamientos puros, el agotamiento inevitablemente trae partículas de confusión como motas de polvo.\n\"Sanar los pensamientos es tan importante como el mantenimiento de la salud del cuerpo.\"\nEl clamor de los tontos se desvanece junto con la fatiga y él se hunde en el agua, dejando que todos los pensamientos floten a la deriva, dejando que su mente se vuelva clara y ordenada.\n\"La verdad alejará a los inmundos, y solo los verdaderamente puros podrán acercarse\".",
+        "desc": "La luz del sol tras el mediodía brilla en su justa medida, y la fragancia de las flores embriaga el aire.\nAunque él intenta mantener sus pensamientos puros, el agotamiento inevitablemente trae partículas de confusión como motas de polvo.\n\"Sanar los pensamientos es tan importante como el mantenimiento de la salud del cuerpo\".\nEl clamor de los tontos se desvanece junto con la fatiga y él se hunde en el agua, dejando que todos los pensamientos floten a la deriva, dejando que su mente se vuelva clara y ordenada.\n\"La verdad alejará a los inmundos, y solo los verdaderamente puros podrán acercarse\".",
         "icon": "icon/light_cone/23020.png",
         "preview": "image/light_cone_preview/23020.png",
         "portrait": "image/light_cone_portrait/23020.png"
@@ -1019,6 +1209,206 @@
         "preview": "image/light_cone_preview/23030.png",
         "portrait": "image/light_cone_portrait/23030.png"
     },
+    "23031": {
+        "id": "23031",
+        "name": "Me voy de caza",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "\"Esclavos patéticos, ridículos...\".\nEl ejército de los Moradores de la Abundancia se abalanza sobre la frontera, la lupitoxina se acerca a los Caballeros del Verdor como una inundación, tratando de despertar el miedo oculto en lo profundo de los corazones de los soldados, evocando visiones de terror, golpeando las voluntades de los guerreros, obligándolos a soltar sus armas y dejarse llevar por la duda.\nPero el frente se mantiene firme como el Muro de Bronce, imperturbable ante las despectivas palabras de los borisin. De entre los soldados, una figura se asoma.\nMueve su cuerpo lentamente, las banderas tras ella ondean bajo el invisible impulso asesino.\n\"La general... Es la general...\".\n\"General Feixiao\".\n\"¡La Garra Celestial!\".\nLos murmullos se unen y se convierten en un grito de batalla.\n\"¡Siempre volando alto! ¡Siempre victoriosa!\".\nElla permanece ahí, sola. Una figura solitaria con el poder de todo un ejército.",
+        "icon": "icon/light_cone/23031.png",
+        "preview": "image/light_cone_preview/23031.png",
+        "portrait": "image/light_cone_portrait/23031.png"
+    },
+    "23032": {
+        "id": "23032",
+        "name": "Solo la fragancia perdura",
+        "rarity": 5,
+        "path": "Priest",
+        "desc": "\"Primero, reorganizar los hábitos de trabajo del departamento\".\n\"Luego, aplicar recompensas y sanciones estrictas\".\n\"Por supuesto, lo más importante es averiguar cuanto antes los intereses personales de todos...\".\nAunque disfrutaba del paisaje, su mente volvía al trabajo y al estrés y la irritación que este conllevaba.\nRápidamente, encendió el incienso que siempre llevaba consigo.\n\"El mundo es tan maravilloso y yo me la paso renegando... ¡Será mejor que no piense en eso mientras estoy de vacaciones!\".",
+        "icon": "icon/light_cone/23032.png",
+        "preview": "image/light_cone_preview/23032.png",
+        "portrait": "image/light_cone_portrait/23032.png"
+    },
+    "23033": {
+        "id": "23033",
+        "name": "Pergamino ninja: Azote deslumbrante del mal",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "En algún lugar del reino ninja, un velo gris lúgubre cubre la ciudad.\n\"¡Iaaaa!\".\nUna joven se lanza entre los monstruos. Su silueta vibrante corta la oscuridad como un trazo de pintura contra una tierra sin luna.\nEn medio del humo, los ninjas malvados se estremecen de agonía e incredulidad.\n\"¿Quién... eres tú?...\".\n\"¡Soy la ninja Rappa! Un dechado de determinación que erradica el mal y defiende la justicia\".\nLos ninjas malvados intercambian miradas vacilantes con los ojos muy abiertos mientras intentan huir.\n\"¿Están listos para decir sus poemas de muerte, villanos?\".\nSu shuriken baila por el aire como una ráfaga de luz y acero que abruma a sus adversarios con su velocidad cegadora.\n\"Técnica secreta: ¡Matriz de aniquilación deslumbrante!\".\nLa explosión a sus espaldas destroza la noche y revela las heridas de la ciudad.\nInspirando profundamente, se lanza a la distancia iluminada por luces de neón vibrantes que gritan como un coro de metal.\n\"Qué espíritus malignos tan repugnantes. La cacería magnífica de la Ninja Deslumbrante continuará...\".",
+        "icon": "icon/light_cone/23033.png",
+        "preview": "image/light_cone_preview/23033.png",
+        "portrait": "image/light_cone_portrait/23033.png"
+    },
+    "23034": {
+        "id": "23034",
+        "name": "De vuelta a la tierra",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "Esos delirios y falacias se han roto. Quería ser el sol del mundo, pero se precipitó desde el cielo.\n\"¿Ahora ya sabes lo que es el dolor?\".\nEso dijo la otra voz en su corazón.\n\"Sí. Y esto es lo que me merezco\".\nSe hundió en el polvo y se respondió a sí mismo con sus pasos pesados.\nCaminó por la tierra y volvió a contemplar la agonía que cubre el mundo mortal como un manantial que no cesa.\nCruzó las espinas que cortaban el paso y escuchó los gritos de la humanidad. Sufrió y encontró la paz.\n\"Así que 'caer' no es más que otra forma de decir 'volar'\".\nY al octavo día, se concedió a sí mismo su partida.",
+        "icon": "icon/light_cone/23034.png",
+        "preview": "image/light_cone_preview/23034.png",
+        "portrait": "image/light_cone_portrait/23034.png"
+    },
+    "23035": {
+        "id": "23035",
+        "name": "El largo camino a casa",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "\"Esa... ¿quién es?\". La joven acaricia a esa desconocida que es ella misma.\nRecuerda cómo el fuego de ese día se la tragó entera, y cómo su abanico engastado se convirtió en cenizas.\nAntes caminaba por una senda interminable y buscaba la luz que había más adelante.\nLos sonidos del exterior la llamaban y la guiaban hacia adelante, ayudándola a atravesar las capas de oscuridad.\nLos sonidos del interior le recordaban que las promesas incumplidas, los planes sin ejecutar y los deseos que aún no se habían hecho realidad seguían esperándola.\nNo habían perecido en el fuego, sino que brillaban más fuerte entre las llamas.\n\"Esa soy yo...\".\nParada al final del camino, ya no mira hacia atrás.\n\"Es mi yo original... y también mi nuevo yo\".",
+        "icon": "icon/light_cone/23035.png",
+        "preview": "image/light_cone_preview/23035.png",
+        "portrait": "image/light_cone_portrait/23035.png"
+    },
+    "23036": {
+        "id": "23036",
+        "name": "Tiempo urdido en oro",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "\"Esta hebra es el sacrificio de un guerrero\".\n\"Esta hebra es el desarrollo de un héroe\".\n\"Esta hebra es la prosperidad de la polis\".\n...\nEl Sastre tira de los hilos que sostiene entre los dedos.\n\"La trayectoria de algunos héroes ya se ha roto...\".\nTira de otro manojo de hilos dorados y sigue zurciendo.\n\"El destino de algunos héroes debe seguir extendiéndose hacia adelante...\".\nEl telar al que se ha otorgado la divinidad sigue trabajando y los Sastres danzan con gracia. Por el telar ya han pasado miles de años, y ella está acostumbrada a esperar.\nA esperar esa inspiración del tiempo urdido en oro.",
+        "icon": "icon/light_cone/23036.png",
+        "preview": "image/light_cone_preview/23036.png",
+        "portrait": "image/light_cone_portrait/23036.png"
+    },
+    "23037": {
+        "id": "23037",
+        "name": "Hacia lo inescrutable",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "\"Las cartas de la Sociedad del Conocimiento ya se han procesado\".\n\"El Universo Simulado funciona correctamente\".\n\"Se han reeditado las antologías de sus escritos\".\n\"¡Shhh! ¡Hablen más bajo! ¡No molesten a la señora Herta!\".\nEn una torre que se yergue en los confines del cosmos, las marionetas se ocupan metódicamente de toda clase de asuntos mientras esperan su llegada.\nPasa el tiempo. Innumerables personas cruzan la noche de la historia como meteoros: brillan por un instante y vuelven al silencio.\n\"La señora Herta no ha aparecido en mucho tiempo...\".\n\"¿Seguirá pensando?\".\n\"¡Hum! ¿Pensaban que esto terminaría tras descubrir unos cuantos axiomas?\".\nSe despereza y levanta la vista de sus cálculos. Otro pensamiento le viene a la mente.\n\"¡No hay nada de lo que no se pueda dudar! ¡Yo haré todas las preguntas!\".",
+        "icon": "icon/light_cone/23037.png",
+        "preview": "image/light_cone_preview/23037.png",
+        "portrait": "image/light_cone_portrait/23037.png"
+    },
+    "23038": {
+        "id": "23038",
+        "name": "Si el tiempo fuera una flor",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "\"¡Mamá, quiero que me cuentes otra historia!\".\n\"¿Qué te parece si te cuento una historia sobre el tiempo, cariño?\".\n\"¿Qué es el tiempo?\".\n\"El tiempo es como una flor\".\n\"¿Es una de esas flores de diente de león que crecen en los campos?\".\n\"Sí, igual que las flores de diente de león, el tiempo crece, florece y madura. A sus pétalos los llamamos 'momentos'\".\n\"¿Y qué pasa después?\".\n\"Después, se marchita y se convierte en miles de semillas que vuelan a todas partes...\".\n\"¿Mamá, eso no es lo que se llama 'futuro'?\".\n\"Adivina en qué se convierte después de eso\".\n\"Se convertirá en un mar de flores coloridas, ¿verdad?\".\nAntes de que su madre pueda responder, los rayos del sol acarician el rostro de la niña a través de la ventana, y la dulce figura de su madre desaparece una vez más en el sueño.\nLa niña abre los ojos.\n\"Si el tiempo fuera una flor...\", murmura.\n\"Seguro que se convertiría en un mar de flores\", responde la niña tranquila.\n\"¡Por supuesto!\", dice la niña traviesa, celebrando su obra maestra.",
+        "icon": "icon/light_cone/23038.png",
+        "preview": "image/light_cone_preview/23038.png",
+        "portrait": "image/light_cone_portrait/23038.png"
+    },
+    "23039": {
+        "id": "23039",
+        "name": "Sangre y fuego, abran camino",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "El rocío helado se condensa en la hoja de la espada, dejando un rastro carmesí.\nUn olor a óxido cubre el paraje desolado, donde aún quedan rescoldos de las llamas que rugieron en la batalla.\n\"Mideimos, ¡peleaste como los dioses!\",\ngrita con emoción un guerrero con el torso desnudo mientras limpia su arma.\n\"¡Algún día seré un guerrero invencible, como tú!\",\ndice apenas un niño mirándolo con veneración, con una espada rota en la mano.\n\"Príncipe, es hora de regresar a Castrum Kremnos\",\nun anciano curtido sonríe mientras alza su copa en un brindis.\nÉl asiente con la cabeza y anda hasta llegar al final del campamento.\nEl dolor de la vuelta a la vida sigue recorriendo su piel. Mañana liderará al destacamento de Kremnos hacia una tierra extranjera.\nNo sabe a dónde irá, pero lo único de lo que está seguro es que cargará con la responsabilidad de un rey hasta que la sangre y el fuego lo consuman.\nLa noche se alarga mientras bebe a solas el licor sanguino. Un rapsoda de paso toca las cuerdas, y una melodía errabunda resuena en el aire.\n\"El hogar está en los sueños, y no es un lugar al que se pueda llegar\".",
+        "icon": "icon/light_cone/23039.png",
+        "preview": "image/light_cone_preview/23039.png",
+        "portrait": "image/light_cone_portrait/23039.png"
+    },
+    "23040": {
+        "id": "23040",
+        "name": "Despedidas más bellas",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Era otra ceremonia de despedida.\nUna joven, caminando sobre luz de luna fragmentada, teje una guirnalda de despedida en la ribera.\nUna antigua elegía se congela en el aire helado, mientras el río silencioso fluye hacia la lejana tierra de las flores.\nPergaminos manchados de sangre, espadas oxidadas, pañuelos bordados con versos... Ella acepta estas pertenencias, junto a las historias vitales de sus antiguos dueños.\n\"Mis ojos son como lentes, siempre anhelando las estrellas\".\nEra una inscripción en la lápida de un erudito fallecido.\n\"En la vida y en la muerte, un caballero solo lanza una mirada fría\".\nEse fue el lema que un guerrero sin nombre mantuvo toda su vida.\n\"La vida no es más que muerte que brilla momentáneamente\".\nEse era el último verso de un poeta que buscaba la eternidad.\n... \n\"Cada flor se abrió orgullosa una vez...\".\nAcompañada por el murmullo del río, ofrece poemas, guirnaldas y recuerdos a los difuntos.\n\"Si el marchitamiento es inevitable, que nuestras despedidas al menos sean... algo más bellas\".",
+        "icon": "icon/light_cone/23040.png",
+        "preview": "image/light_cone_preview/23040.png",
+        "portrait": "image/light_cone_portrait/23040.png"
+    },
+    "23041": {
+        "id": "23041",
+        "name": "La vida en llamas",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Durante ese experimento secreto, todo tipo de ilusiones aparecían, intentando estorbar su avance.\nSuaves susurros le instaban a abandonar ese tema de investigación tan peligroso, ¿por qué arriesgar la vida?\nUna fría voz amenazante le advertía que quienes caminan por la delgada línea entre la vida y la muerte acaban muriendo entre llamas.\nY otras voces indignadas lo acusaban de sacrílego y pedían a gritos arrojarlo al cadalso como un criminal.\n\"El telón también ha de acabar cayendo para el espectáculo que es la vida\".\nÉl cierra los ojos, aferra la Yesca divina y deja que el dolor ahogue su alma moribunda.\nPrimero, su mirada decidida. Luego, su corazón palpitante. Y, finalmente, toda su alma... Él mismo se arroja a las llamas de forja más puras e intensas.\nLas voces entran en ebullición y luego caen en un silencio absoluto.\nEn medio de la oscuridad, la verdad brillante empieza a tomar forma en sus manos.",
+        "icon": "icon/light_cone/23041.png",
+        "preview": "image/light_cone_preview/23041.png",
+        "portrait": "image/light_cone_portrait/23041.png"
+    },
+    "23042": {
+        "id": "23042",
+        "name": "Que el arcoíris siempre esté en el cielo",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "\"Las emociones son como nubes, y nosotros somos el cielo que las lleva. Si el cielo está nublado, nuestro estado de ánimo oscilará entre la luz y la sombra\".\nLa sanadora escucha atentamente las penas del paciente, y le ofrece suaves palabras de consuelo.\n\"Cierra los ojos y respira lentamente... Imagina que estás en un lugar cálido y acogedor...\".\nSus palabras parecen tener magia, y bajo las alas de la bestia alada se derrama un resplandor irisado de siete colores.\n\"Una brisa suave recorre el campo, trayendo el aroma de las flores silvestres. Nubes húmedas pasan, cargadas de sol...\".\nEl paciente se sumerge gradualmente en un sueño agradable, y responde solo con una respiración uniforme y queda.\nDespués de atender al último paciente, la sanadora cierra suavemente la puerta de la sala.\nLa noche eterna sigue agitándose en la distancia, y las ruinas se asemejan a cicatrices en la tierra.\n\"En la próxima vida, que el amanecer ilumine a todos...\".\nAntes de partir, ella cierra los ojos y pide un deseo...\n\"Que el arcoíris siempre esté en el cielo\".",
+        "icon": "icon/light_cone/23042.png",
+        "preview": "image/light_cone_preview/23042.png",
+        "portrait": "image/light_cone_portrait/23042.png"
+    },
+    "23043": {
+        "id": "23043",
+        "name": "Mentiras que vuelan en el viento",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "La chica con orejas de gato se estira sobre el tejado y se desliza hacia la noche.\nLa joven se mueve ágilmente por la bóveda silente durante milenios, toma los tesoros en sus brazos y escapa sin dejar rastro.\n\"¡Destino tonto, no me alcanzarás!\".\nEl viento en las ruinas, cargado del olor del campo, mueve la capucha de la chica.\nApoyada en las frías piedras, traga un bocado de sus ásperas raciones mientras juguetea con una moneda de oro entre los dedos.\nUn sonido lejano llega a sus oídos. En la ciudad sagrada iluminada por el alba, la multitud bulliciosa sigue inmersa en sus celebraciones mientras disfruta de la calidez.\n\"¿Cuánto tiempo más?... ¿Será un año, o diez mil años?\".\nElla se estira y bosteza, y echa a un lado sus inquietudes.\n\"¡Ja, Ciferia siempre reirá la última!\".\nUn relámpago dorado surca el cielo, mientras la proclama de la joven aún resuena en el viento...\nIgual que hace mil años.",
+        "icon": "icon/light_cone/23043.png",
+        "preview": "image/light_cone_preview/23043.png",
+        "portrait": "image/light_cone_portrait/23043.png"
+    },
+    "23044": {
+        "id": "23044",
+        "name": "Que arda el alba",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Una vez más, al final del viaje, la silueta del hombre fue devorada por el abrasador sol dorado.\n\"Entonces, esa sangre dorada, esa esperanza de salvación, era en realidad...\".\nSus lágrimas no alcanzaron a caer y se desvanecieron en vapor.\n\"¡Hasta mañana, Fai!\".\n\"¡Salvador, recuerda vivir hasta el final!\".\n\"Ve y conviértete en el amanecer de Amphoreus...\".\n\nLos deseos de la gente resonaron en el vacío. El héroe sin nombre se hizo pedazos, dejando al descubierto una muerte feroz y trágica.\n\"Si la furia no puede reducir este destino retorcido a cenizas...\".\nSubió hacia la cima una y otra vez, solo para caer y romperse, una y otra vez.\n\"¡Entonces, que me consuma junto a él!\".",
+        "icon": "icon/light_cone/23044.png",
+        "preview": "image/light_cone_preview/23044.png",
+        "portrait": "image/light_cone_portrait/23044.png"
+    },
+    "23045": {
+        "id": "23045",
+        "name": "Coronación sin agradecimiento",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Los oídos de la joven resonaban en la ilusión con las palabras que se habían dicho aquel día.\n\"Merlín, esta espada no fue difícil de sacar en absoluto\".\n\"Así es. Convertirte en el rey que todos desean tampoco será difícil para ti. Después de todo, tienes mi guía. Sin embargo, Altria... lo realmente difícil es que no podrás cumplir siempre con las expectativas de todos\".\n\"Cuando eso pase, pueden elegir a un rey más adecuado. Yo no me opondré\".\n\"¿Y si esa persona nunca llega a existir?\".\n\"... Entonces, me esforzaré por cumplir con las expectativas de todos\".\nAhora, la joven comprendía bien lo que supondría esa tragedia. ¿Habría elegido rendirse si pudiera regresar a ese instante donde todo comenzó?\nEl rey no responde, solo aprieta con fuerza la empuñadura de la espada.\nUna vez más, la roca retumba con estruendo mientras la espada sale de ella.",
+        "icon": "icon/light_cone/23045.png",
+        "preview": "image/light_cone_preview/23045.png",
+        "portrait": "image/light_cone_portrait/23045.png"
+    },
+    "23046": {
+        "id": "23046",
+        "name": "Infierno donde arden los ideales",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "Las llamas del karma arden sobre las llanuras. Los ideales de unos se reducen a cenizas, mientras los de otros arden con pasión.\nEl guardián atraviesa el campo entre balas y flechas.\nAquí no hay nadie a quien pueda salvar. Aquí están todos aquellos a quienes desearía poder salvar.\nMatar a uno para salvar a otro. Matar a diez mil para salvar a diez mil. El destino de pisotear al prójimo también es parte del ciclo de la humanidad.\nEl guardián ya se había acostumbrado a todo esto, y sus pasos nunca vacilaron.\nLa determinación que envuelve sus piernas es como el viento. La determinación que cubre sus brazos es como el fuego.\nAún sigue buscando el milagro capaz de traer la salvación.",
+        "icon": "icon/light_cone/23046.png",
+        "preview": "image/light_cone_preview/23046.png",
+        "portrait": "image/light_cone_portrait/23046.png"
+    },
+    "23047": {
+        "id": "23047",
+        "name": "Por qué canta el océano",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Las olas se agitan y su rugido resuena en el horizonte.\nLos peces nadan en ese mar vacío, la antigua espuma se arremolina, y parece que aún se oye el eco de aquella melodía.\n\"¡Noble princesa, únete a nuestro festín!\".\nPara responder a este llamado de las profundidades, ella bailó con la marea oscura hasta quedarse sola en el grandioso escenario.\n\"Maestra de la espada del océano, ¿por qué guardas silencio, por qué cantas?\".\nA cada paso sobre la tierra, soportaba el dolor y cantaba en raras ocasiones. Solo su hoja carmesí entonaba el lamento de la vida.\n\"Dux Gladiorum, ¡ven conmigo a conquistar el mar de estrellas!\".\nCuando encontró esa luz ardiente, tomó al fin el arco de su violín, creyendo que ese sería el comienzo de la celebración.\n...\n\"Hysirenia... Hysirenia... Cuando termine tu canción, ¿hacia dónde nadarás?\".\nCuando las esperanzas vanas se hacen añicos, ella siempre responde a las preguntas de la gente con una melodía solitaria, y acaba hechizando a todos los que la escuchan.\nO quizás... ya sea en el mundo humano o en las profundidades del mar, la única que verdaderamente escucha es la intérprete.",
+        "icon": "icon/light_cone/23047.png",
+        "preview": "image/light_cone_preview/23047.png",
+        "portrait": "image/light_cone_portrait/23047.png"
+    },
+    "23048": {
+        "id": "23048",
+        "name": "Era grabada en sangre dorada",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "\"Dentro de mil años, ¿cómo recordará la historia a Céridra?\".\nEso le preguntaron una vez.\nPara algunos, ella era la famosa e impresionante emperatriz.\nLa tirana fría y cruel, la ambiciosa Portadora de la corona ardiente, la reina que quemó el viejo mundo con sangre y fuego...\nOtros argumentaban que solo era un triste peón.\nEsa soberana, abandonada por todos, no era más que una prisionera de la ambición, destinada a perderlo todo en aquella partida de ajedrez contra los dioses.\nY otros decían que, en lo más profundo de su corazón, más oscuro que el océano, era simplemente una mortal llamada Céridra.\nAlguien que también lloraba por sus camaradas caídos, que dudaba y temía ante el peso de su misión, que se sentía incapaz de avanzar...\n\"Je, la historia no necesita recordarme\".\nSe tragó la amargura de su corazón y continuó por el camino buscallamas pavimentado con sacrificios.\n\"¡Será nuestra ardiente sangre dorada quien la inscriba!\".",
+        "icon": "icon/light_cone/23048.png",
+        "preview": "image/light_cone_preview/23048.png",
+        "portrait": "image/light_cone_portrait/23048.png"
+    },
+    "23049": {
+        "id": "23049",
+        "name": "A la estrella de la larga noche",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "En los resquicios del tiempo solo resuena el latido de su corazón.\nIgual que tantas noches anteriores, observa la escena nocturna mientras descansa en ella.\nAtesora los recuerdos que le fueron confiados.\nDesde un punto de partida en blanco, la joven pinta con vívidos colores cada lugar donde se ha detenido. El acogedor tren, los compañeros de distintas personalidades, los planetas resplandecientes y hermosos... Es como un sueño hermoso del que no se quiere despertar.\n\"¡Mi verdadero viaje va a comenzar ahora!\".\nOye la declaración de la chica como si la tuviera al lado.\nMira hacia el lejano cielo estrellado, por donde se acerca un rayo de luz.\nEs el faro del tren, como si fuera una estrella fugaz.\n♭ \"Buenas noches, Marzo... El día que despiertes, continúa tu viaje trazando caminos\". ♭\nMientras sube la marea de recuerdos, ella guarda su deseo en lo más profundo de su corazón. Esos susurros y esa luz...\nNunca los ha olvidado.",
+        "icon": "icon/light_cone/23049.png",
+        "preview": "image/light_cone_preview/23049.png",
+        "portrait": "image/light_cone_portrait/23049.png"
+    },
+    "23051": {
+        "id": "23051",
+        "name": "A través de montañas y ríos",
+        "rarity": 5,
+        "path": "Knight",
+        "desc": "En las tierras inmemoriales sin fronteras, un joven camina solo en su búsqueda.\nParece haber regresado a aquellos días de vagabundeo, atravesando las olas, soportando las inclemencias del tiempo, luchando contra bestias gigantes y batallando contra las mareas furiosas.\nPero en ese momento de respiro, no está solo.\nA través de montañas y ríos, aún puede ver la luz que brilla adelante...\nEs la luz de la esperanza de todos los seres vivos.\nLa tierra destrozada ya no puede ser portadora de nueva vida y se reúnen alrededor de él, buscando consuelo y refugio.\nEsas son las palabras que sus compañeros dejaron en su corazón, como un trayecto interminable que los mantiene firmemente unidos.\nEl pasado que lo perturbaba voló con el viento, pero el camino que ha recorrido terminará convirtiéndose en la fuerza para su metamorfosis.\n\"Protegeré la senda trazacaminos\".\nEl joven salta hacia delante agarrando su lanza y avanza hacia la luz.\n\"¡Y defenderé toda esperanza que esté a punto de desvanecerse!\".",
+        "icon": "icon/light_cone/23051.png",
+        "preview": "image/light_cone_preview/23051.png",
+        "portrait": "image/light_cone_portrait/23051.png"
+    },
     "24000": {
         "id": "24000",
         "name": "Sobre la caída de un Eón",
@@ -1068,5 +1458,15 @@
         "icon": "icon/light_cone/24004.png",
         "preview": "image/light_cone_preview/24004.png",
         "portrait": "image/light_cone_portrait/24004.png"
+    },
+    "24005": {
+        "id": "24005",
+        "name": "Sobre los recuerdos nunca cae el telón",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Desde los más prósperos hasta los más desolados, desde los más fugaces hasta los más duraderos... cada planeta y cada momento están llenos de innumerables eventos.\nEsa historia condensada se derrite al tocarla y se convierte en lágrimas que fluyen desde los ojos del mundo.\nAlgunos se preguntan cuán pesadas serán, y dicen que todo ese tiempo reunido debería bastar para descolorar la eternidad.\nOtros se preguntan cuán maravillosas son las historias que cuentan, de tristeza tan límpida y una alegría tan serena, sin una pizca de hipocresía.\nEl cosmos fluye en silencio y el Eón observa en silencio.\nContempla y espera a que esas historias se conviertan en recuerdos.",
+        "icon": "icon/light_cone/24005.png",
+        "preview": "image/light_cone_preview/24005.png",
+        "portrait": "image/light_cone_portrait/24005.png"
     }
 }

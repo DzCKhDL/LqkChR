@@ -98,20 +98,26 @@
     "17": {
         "id": "17",
         "name": "Nous",
-        "type": "The Erudition",
+        "type": "Erudition",
         "image": "image/simulated_event/HoshinoKami_012.png"
     },
     "18": {
         "id": "18",
         "name": "HooH",
-        "type": "The Equilibrium",
+        "type": "Equilibrium",
         "image": "image/simulated_event/HoshinoKami_014.png"
     },
     "19": {
         "id": "19",
         "name": "Mythus",
-        "type": "The Enigmata",
+        "type": "Enigmata",
         "image": "image/simulated_event/HoshinoKami_013.png"
+    },
+    "20": {
+        "id": "20",
+        "name": "Polka Kakamond",
+        "type": "Genius Society #4",
+        "image": "image/simulated_event/HoshinoKami_Herta6.png"
     },
     "139": {
         "id": "139",
@@ -340,6 +346,522 @@
         "name": "Useless Scholar",
         "type": "Equation",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "177": {
+        "id": "177",
+        "name": "Phantom Thief",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "178": {
+        "id": "178",
+        "name": "Mausoleum of Scars",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "179": {
+        "id": "179",
+        "name": "Aggregator",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "180": {
+        "id": "180",
+        "name": "Bionic Messiah",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "181": {
+        "id": "181",
+        "name": "Annihilation Scholar",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "182": {
+        "id": "182",
+        "name": "Resleeved (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "183": {
+        "id": "183",
+        "name": "Resleeved (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "184": {
+        "id": "184",
+        "name": "Resleeved (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "185": {
+        "id": "185",
+        "name": "Those Remembered (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "186": {
+        "id": "186",
+        "name": "Those Remembered (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "187": {
+        "id": "187",
+        "name": "Those Remembered (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "188": {
+        "id": "188",
+        "name": "Windup World (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "189": {
+        "id": "189",
+        "name": "Windup World (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "190": {
+        "id": "190",
+        "name": "Windup World (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "191": {
+        "id": "191",
+        "name": "Printed Truths (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "192": {
+        "id": "192",
+        "name": "Printed Truths (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "193": {
+        "id": "193",
+        "name": "Printed Truths (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "194": {
+        "id": "194",
+        "name": "The Great Lie (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "195": {
+        "id": "195",
+        "name": "The Great Lie (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "196": {
+        "id": "196",
+        "name": "The Great Lie (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "197": {
+        "id": "197",
+        "name": "Dousing Flames (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "198": {
+        "id": "198",
+        "name": "Dousing Flames (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "199": {
+        "id": "199",
+        "name": "Dousing Flames (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "200": {
+        "id": "200",
+        "name": "Genius & Prophecy (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "201": {
+        "id": "201",
+        "name": "Genius & Prophecy (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "202": {
+        "id": "202",
+        "name": "Futurological Congress (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "203": {
+        "id": "203",
+        "name": "Futurological Congress (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "204": {
+        "id": "204",
+        "name": "Futurological Congress (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "205": {
+        "id": "205",
+        "name": "Omnipotent Bankruptcy (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "206": {
+        "id": "206",
+        "name": "Omnipotent Bankruptcy (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "207": {
+        "id": "207",
+        "name": "Omnipotent Bankruptcy (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "208": {
+        "id": "208",
+        "name": "Anti-Organic Virus (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "209": {
+        "id": "209",
+        "name": "Anti-Organic Virus (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "210": {
+        "id": "210",
+        "name": "Anti-Organic Virus (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "211": {
+        "id": "211",
+        "name": "Izmael Protest (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "212": {
+        "id": "212",
+        "name": "Izmael Protest (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "213": {
+        "id": "213",
+        "name": "Izmael Protest (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "214": {
+        "id": "214",
+        "name": "Collapsed Cognition (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "215": {
+        "id": "215",
+        "name": "Collapsed Cognition (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "216": {
+        "id": "216",
+        "name": "Collapsed Cognition (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "217": {
+        "id": "217",
+        "name": "Spying on Heaven (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "218": {
+        "id": "218",
+        "name": "Spying on Heaven (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "219": {
+        "id": "219",
+        "name": "Spying on Heaven (III)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "220": {
+        "id": "220",
+        "name": "Expectation of Aeons",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "221": {
+        "id": "221",
+        "name": "Unknowable Domain (I)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "222": {
+        "id": "222",
+        "name": "Unknowable Domain (II)",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "Relative Tracer",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "224": {
+        "id": "224",
+        "name": "Star-Molding Worm",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "225": {
+        "id": "225",
+        "name": "Heartless Giant",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "226": {
+        "id": "226",
+        "name": "Herb Plucker",
+        "type": "Equation",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "227": {
+        "id": "227",
+        "name": "Butterfly Perched On A Branch",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "228": {
+        "id": "228",
+        "name": "Butterfly Flitted Past Window",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "229": {
+        "id": "229",
+        "name": "Butterfly Quietly Departed",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "230": {
+        "id": "230",
+        "name": "When Fate's Fruit Fell",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "231": {
+        "id": "231",
+        "name": "When Fate's Steps Stalled",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "When Fate Revealed Guidance",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "233": {
+        "id": "233",
+        "name": "Carnival of Heaven and Earth",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "234": {
+        "id": "234",
+        "name": "Delight of Rain and Snow",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "235": {
+        "id": "235",
+        "name": "Waltz of Ocean and Winds",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "236": {
+        "id": "236",
+        "name": "The God Who Fooled Gods",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "The God Who Teased Mortals",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "The God of Displacement & Chaos",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "239": {
+        "id": "239",
+        "name": "War That Never Ceased",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "240": {
+        "id": "240",
+        "name": "War That Continues to Thrive",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "241": {
+        "id": "241",
+        "name": "War That Lost Its Glory",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "242": {
+        "id": "242",
+        "name": "Lullaby For Children to Sleep",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "Lullaby to Warn the World",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "244": {
+        "id": "244",
+        "name": "Lullaby to Return Home",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "245": {
+        "id": "245",
+        "name": "Giant Bird That Covers the Land",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "246": {
+        "id": "246",
+        "name": "Wisdom That Crosses the Ocean",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "247": {
+        "id": "247",
+        "name": "Kin That Praises Perfection",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "248": {
+        "id": "248",
+        "name": "Praise Their Wisdom",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "249": {
+        "id": "249",
+        "name": "Lament Their Indifference",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "250": {
+        "id": "250",
+        "name": "Sigh at Their Blessings",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "251": {
+        "id": "251",
+        "name": "Giant's March",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "252": {
+        "id": "252",
+        "name": "Giant's Mission",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "253": {
+        "id": "253",
+        "name": "Giant's Nemesis",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "254": {
+        "id": "254",
+        "name": "Golden Prophecy",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "255": {
+        "id": "255",
+        "name": "Platinum Prophecy",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "256": {
+        "id": "256",
+        "name": "Lead and Steel Prophecy",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "257": {
+        "id": "257",
+        "name": "Law That Binds All Things",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "258": {
+        "id": "258",
+        "name": "Law That Binds Human Morals",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "259": {
+        "id": "259",
+        "name": "Law That Binds Divine Gods",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "260": {
+        "id": "260",
+        "name": "Most Weighty Thing",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "261": {
+        "id": "261",
+        "name": "Most Stubborn Thing",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "262": {
+        "id": "262",
+        "name": "Most Gentle Thing",
+        "type": "Secret",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
     },
     "398": {
         "id": "398",
@@ -658,6 +1180,12 @@
         "name": "Screwllum's Store",
         "type": "Transaction",
         "image": "image/simulated_event/HoshinoKami_Herta3.png"
+    },
+    "110007": {
+        "id": "110007",
+        "name": "Ruan Mei's Equation Store",
+        "type": "Transaction",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
     },
     "110101": {
         "id": "110101",
@@ -1481,12 +2009,6 @@
         "type": "Occurrence",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
-    "390101": {
-        "id": "390101",
-        "name": "",
-        "type": "",
-        "image": "image/simulated_event/PicRogueEvent_Normal.png"
-    },
     "410101": {
         "id": "410101",
         "name": "Nomadic Miners",
@@ -1670,6 +2192,12 @@
     "412801": {
         "id": "412801",
         "name": "The Double Lottery Experience",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "412802": {
+        "id": "412802",
+        "name": "The Super Lottery Experience",
         "type": "Occurrence",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
     },
@@ -1985,10 +2513,370 @@
         "type": "Occurrence",
         "image": "image/simulated_event/PicRogueEvent_17.png"
     },
-    "490701": {
-        "id": "490701",
-        "name": "Test",
-        "type": "",
+    "421801": {
+        "id": "421801",
+        "name": "Semantic Mismatch",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Battle.png"
+    },
+    "421901": {
+        "id": "421901",
+        "name": "Pineapple Bread",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_19.png"
+    },
+    "422001": {
+        "id": "422001",
+        "name": "Apes Such As You",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_21.png"
+    },
+    "422101": {
+        "id": "422101",
+        "name": "Trash Symphony",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_20.png"
+    },
+    "422201": {
+        "id": "422201",
+        "name": "Fishing Ceremony",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "422301": {
+        "id": "422301",
+        "name": "Lava",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422401": {
+        "id": "422401",
+        "name": "Special Discount",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422501": {
+        "id": "422501",
+        "name": "Metal Life",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "422601": {
+        "id": "422601",
+        "name": "A Dash of Color",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_profiteer.png"
+    },
+    "422701": {
+        "id": "422701",
+        "name": "Creation Unit",
+        "type": "Occurrence",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "422801": {
+        "id": "422801",
+        "name": "Time Bank (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "422811": {
+        "id": "422811",
+        "name": "Time Bank (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "423001": {
+        "id": "423001",
+        "name": "Red Temptation",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "423101": {
+        "id": "423101",
+        "name": "Selection Difficulties (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423102": {
+        "id": "423102",
+        "name": "Selection Difficulties (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423501": {
+        "id": "423501",
+        "name": "Flea Market",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "423601": {
+        "id": "423601",
+        "name": "Collab Product",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Toy.png"
+    },
+    "424201": {
+        "id": "424201",
+        "name": "Blue Ocean Strategy",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "424301": {
+        "id": "424301",
+        "name": "Majority Report",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "424401": {
+        "id": "424401",
+        "name": "Inspiration Strikes",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424501": {
+        "id": "424501",
+        "name": "Temple of Reticence",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "424601": {
+        "id": "424601",
+        "name": "False Future",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_11.png"
+    },
+    "424701": {
+        "id": "424701",
+        "name": "Hackers and Sailors",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_28.png"
+    },
+    "424801": {
+        "id": "424801",
+        "name": "First Battle of the Shopping Street",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424901": {
+        "id": "424901",
+        "name": "Life is Like a Vegetable (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424902": {
+        "id": "424902",
+        "name": "Life is Like a Vegetable (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424903": {
+        "id": "424903",
+        "name": "Life is Like a Vegetable (III)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "510004": {
+        "id": "510004",
+        "name": "Stephen",
+        "type": "Occurrence",
+        "image": "image/simulated_event/HoshinoKami_Herta4.png"
+    },
+    "510005": {
+        "id": "510005",
+        "name": "Ruan Mei",
+        "type": "Occurrence",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
+    "519401": {
+        "id": "519401",
+        "name": "Pixel World: Hidden Stage",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Pixel.png"
+    },
+    "523801": {
+        "id": "523801",
+        "name": "Fast & Engines",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_25.png"
+    },
+    "523901": {
+        "id": "523901",
+        "name": "Incubator",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_23.png"
+    },
+    "524001": {
+        "id": "524001",
+        "name": "Repairman (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524002": {
+        "id": "524002",
+        "name": "Repairman (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524101": {
+        "id": "524101",
+        "name": "Ship of Fools",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_26.png"
+    },
+    "625001": {
+        "id": "625001",
+        "name": "Mutterer",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625101": {
+        "id": "625101",
+        "name": "Faux-Kin",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625201": {
+        "id": "625201",
+        "name": "Stargazing Apparatus",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625301": {
+        "id": "625301",
+        "name": "Dolos Dice",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625401": {
+        "id": "625401",
+        "name": "Mirror Escaper",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625501": {
+        "id": "625501",
+        "name": "Ideal Success Ratio",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "625601": {
+        "id": "625601",
+        "name": "Corrupt Deal",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625701": {
+        "id": "625701",
+        "name": "Voice of the Sea",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625801": {
+        "id": "625801",
+        "name": "Prayer-Line Occupied",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625901": {
+        "id": "625901",
+        "name": "Birth of a Hero (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625902": {
+        "id": "625902",
+        "name": "Birth of a Hero (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625903": {
+        "id": "625903",
+        "name": "Birth of a Hero (III)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626001": {
+        "id": "626001",
+        "name": "Life Divergence (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626002": {
+        "id": "626002",
+        "name": "Life Divergence (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626101": {
+        "id": "626101",
+        "name": "Boardtop Theater",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "626201": {
+        "id": "626201",
+        "name": "Moment of Opportunity",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626301": {
+        "id": "626301",
+        "name": "The Lion's Arena",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_35.png"
+    },
+    "626401": {
+        "id": "626401",
+        "name": "Xenomorphic Containment",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "626501": {
+        "id": "626501",
+        "name": "Wishful Scale",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626601": {
+        "id": "626601",
+        "name": "The Marshmallow",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_38.png"
+    },
+    "626701": {
+        "id": "626701",
+        "name": "Path of the Sage (I)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626702": {
+        "id": "626702",
+        "name": "Path of the Sage (II)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626703": {
+        "id": "626703",
+        "name": "Path of the Sage (III)",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626801": {
+        "id": "626801",
+        "name": "Escort Mission",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626901": {
+        "id": "626901",
+        "name": "Twin Gates of the Maze",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_37.png"
+    },
+    "627001": {
+        "id": "627001",
+        "name": "Cyrene",
+        "type": "Occurrence",
+        "image": "image/simulated_event/PicRogueEvent_39.png"
     }
 }

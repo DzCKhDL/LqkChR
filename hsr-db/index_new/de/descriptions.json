@@ -502,7 +502,7 @@
     "10101": {
         "id": "10101",
         "title": "Schwächebruch: Eis",
-        "desc": "Wenn du einen Schwächebruch mit Eisangriffen auslöst, wird der Gegner eingefroren.\nInfolgedessen kann er sich nicht bewegen und erleidet Eis-DoT."
+        "desc": "Beim Verursachen von Schwächebruch mit Eisangriffen wird der Gegner eingefroren.\nEingefrorene Gegner können sich nicht bewegen und erleiden zusätzlichen Eis-SCH."
     },
     "10102": {
         "id": "10102",
@@ -712,7 +712,7 @@
     "10143": {
         "id": "10143",
         "title": "#27 Rubert",
-        "desc": "Mitglied Nr. 27 der Geniusgesellschaft, der selbsternannte „Imperator“, der die Antiorganische Gleichung aufstellte. Löste den „ersten Krieg des Imperators“ aus, der das ganze Universum erfasste."
+        "desc": "Mitglied Nr. 27 der Geniusgesellschaft, der selbsternannte „Kaiser“, der die Antiorganische Gleichung aufstellte. Löste den „ersten Krieg des Kaisers“ aus, der das ganze Universum erfasste."
     },
     "10144": {
         "id": "10144",
@@ -959,6 +959,431 @@
         "title": "Hoolay",
         "desc": "Ein Erzfeind der Xianzhou und der Nestlord der Borisin.\nVor siebenhundert Jahren im Kampf besiegt, wurde er im Kerker der Ketten der Xianzhou Luofu festgehalten und zu ewigem Leiden verurteilt."
     },
+    "10210": {
+        "id": "10210",
+        "title": "Yao Guang",
+        "desc": "Eine Generalin des Herrscherbogens, die die Xianzhou Yuque kontrolliert, bekannt als Seher-Strategin.\nEine zivile Generalin, die man innerhalb der Allianz nur selten zu Gesicht bekommt und die stets im Verborgenen Strategien für den Marschall entwickelt."
+    },
+    "10211": {
+        "id": "10211",
+        "title": "Zehn Richtungen des Dharmalichts",
+        "desc": "Eine Matrix zur Wahrsagung, die an Bord der Xianzhou Yuque gebaut wurde.\nEs wird gesagt, dass sie der Matrix der Voraussicht – Ultima ähnelt und dass sowohl die Schriften zu Berechnung als auch die Inspiration von Nous, der Weisheitswanderin, stammen."
+    },
+    "10212": {
+        "id": "10212",
+        "title": "Himmelsspalter",
+        "desc": "Die Arena für die Stellare Kampfkunstzeremonie von Xianzhou Luofu. Sie wurde aus einem deaktivierten großen Kampfjet umfunktioniert.\nWenn die Kanonensalven den Himmel erschüttern, werden sich eingeladene Kämpfer aus verschiedenen Welten hier versammeln, um sich miteinander zu messen."
+    },
+    "10213": {
+        "id": "10213",
+        "title": "Kerker der Ketten",
+        "desc": "Das Gefängnissystem der Xianzhou-Allianz, wo Kriminelle festgehalten werden.\nDer Kerker der Ketten auf der Xianzhou Luofu wurde von den Einwohnern und den Vidyadharas erbaut und liegt tief in den Höhlen unter dem Abgrund begraben."
+    },
+    "10214": {
+        "id": "10214",
+        "title": "Borisin",
+        "desc": "Die astrale Jagd, Xianzhous Erzfeinde und die mächtigsten unter den Wesen des Überflusses.\nDie Borisin sind wie riesige, aufrecht stehende Wölfe. Sie sind brutal und wild und glauben, dass nur die Starken Respekt verdienen. Sie plündern Planeten, erschöpfen Ressourcen und löschen zahllose Zivilisationen aus."
+    },
+    "10215": {
+        "id": "10215",
+        "title": "Schlacht der Fanghu",
+        "desc": "Der Wendepunkt des Dritten Kriegs der Wesen des Überflusses. Im Licht der Dämonenjagd haben die Ausgeburten des Überflusses unter der Führung der Borisin beinahe die Xianzhou Fanghu erobert.\nNur Dank des Opfers zahlloser Soldaten der Xianzhou konnten die Wolkenblick-Teleskope die Botschaft an den Herrscher schicken, der dann das Blatt wendete."
+    },
+    "10216": {
+        "id": "10216",
+        "title": "„Karminroter Mond“",
+        "desc": "Bei der Zeremonie zur Bestimmung des Borisin-Kriegshäuptlings verschlingen sich die Gladiatoren gegenseitig und geben das Schandmal der Plagen von Generation zu Generation weiter – ein „Herz“ wie ein blutroter Vollmond.\n„Verzehre die Beute, um stärker zu werden“, das ist das ultimative Geheimnis der Unsterblichkeit der Borisin und der Grund für ihre anhaltende Stärke."
+    },
+    "10217": {
+        "id": "10217",
+        "title": "„Fliegender Aureus“",
+        "desc": "Der vom Gebieter des Herrscherbogens gewährte Geist. Eine Bestie von göttlicher Geschwindigkeit, die sich in der „Merlinskralle“ Feixiao verbirgt.\nDie Augen der Weltlichen können sie nicht wahrnehmen. Nur in dem flüchtigen Moment, wenn die Zeit kurz vor dem Tod einfriert, können die Menschen ihre Ankunft erleben.\nFür Feixiao ist sie der Pfeil, der ihr Handeln leitet, der Tod, der sie unerbittlich verfolgt, sowie die Beute, die sie ihr Leben lang jagt."
+    },
+    "10220": {
+        "id": "10220",
+        "title": "Rappa",
+        "desc": "Ein merkwürdiges Mädchen, das in der dunkelsten Stunde der Nacht wie eine Leuchtbombe in Penacony auftaucht, sich als Ninja bezeichnet und alles in der Welt dem „Ninjutsu“ zuschreibt.\nIn der Traumlandschaft der Mappō-Zeit ist sie eine tapfere Heldin, die sich auf die Jagd nach dem Ninjaschurken Osaru macht."
+    },
+    "10221": {
+        "id": "10221",
+        "title": "Rappa",
+        "desc": "Eine Galaxierangerin, die sich selbst als „Blendende Ninja“ bezeichnet, wurde durch das atavistische Experiment mit dem Mem-Virus infiziert. Alles, was sie sieht und hört, ist die Welt eines Ninjas.\nUm das Blut und die Tränen der Vergangenheit zu begleichen und den Weg der Ninjas durchzusetzen, jagt sie nach dem „Ninjaschurken Osaru“, auch bekannt als „Dr. Primitiv“."
+    },
+    "10222": {
+        "id": "10222",
+        "title": "Dr. Primitiv",
+        "desc": "Mitglied Nr. 64 der Geniusgesellschaft. Ein Wissenschaftler, der zahlreiche Verbrechen gegen die Menschheit begangen hat. Seine Identität ist unbekannt.\nMit seinem grausamen atavistischen Experiment vernichtete er den Kosmos und wird daher von den Galaxierangern gesucht. Sein Aufenthaltsort ist bis heute unbekannt."
+    },
+    "10223": {
+        "id": "10223",
+        "title": "AtaviSearch-Wald",
+        "desc": "Ein fanatisches Forschungsteam von Gelehrten, die „Dr. Primitiv“ verehren. Diese besessenen Menschen und Affen folgen den Spuren ihres Idols und versuchen, das atavistische Experiment durch die Galaxie zu verbreiten."
+    },
+    "10224": {
+        "id": "10224",
+        "title": "Penacony: Origami-Akademie",
+        "desc": "Die berühmte Hochschule von Penacony, im Augenblick der Sonne. Die Wiege herausragender Talente, die unentwegt innerhalb und außerhalb der Traumlandschaft das Licht und die Wärme des Wissens verbreitet."
+    },
+    "10225": {
+        "id": "10225",
+        "title": "Sonntag",
+        "desc": "Das ursprüngliche Oberhaupt der Familie Eichenblatt und der ältere Bruder von Robin.\nNachdem sich die Unruhen des Harmoniefests gelegt hatten, verabschiedete er sich von der Ordnung und seiner Heimat und bestieg den Astralexpress auf der Suche nach einem neuen Weg."
+    },
+    "10226": {
+        "id": "10226",
+        "title": "Tingyun",
+        "desc": "Eine Botschafterin der Himmelreisekommission der Xianzhou Luofu.\nNach einer Begegnung mit dem Verwüsterfürsten wurden sowohl ihr Körper als auch ihr Geist zerstört. Anschließend wurde sie von einem Genie gerettet, das das Unglück in einen Segen verwandelte, und ist wieder ins Spiel zurückgekehrt."
+    },
+    "10227": {
+        "id": "10227",
+        "title": "„Klappe“",
+        "desc": "Der Getränkemixroboter im Astralexpress, der sich selbst für äußerst humorvoll hält.\nEr wurde vor mehreren Bernsteinzeitaltern erschaffen und geriet allmählich in Vergessenheit.\nAls der Express wieder aufbrach, wurde er von den Archiven der Leere wiederhergestellt."
+    },
+    "10228": {
+        "id": "10228",
+        "title": "Aglaea",
+        "desc": "Die Erbin von Chrysos aus Okhema, die Halbgöttin der Romantik und die Anführerin der Flammenjagd-Reise.\nAls Weberin verstrickt sie persönlich die Fäden und versammelt die Helden der Welt, um sich erneut auf eine lange und beschwerliche Reise zu begeben."
+    },
+    "10229": {
+        "id": "10229",
+        "title": "Tribbie, Trianne, Trinnon",
+        "desc": "Die Erbinnen von Chrysos aus Janusopolis, Halbgöttinnen der Tore und kleine Botinnen und Priesterinnen von Okhema.\nDie drei führen mit ihrer Prophezeiung die Erben von Chrysos voran, doch jede von ihnen trägt unterschiedliche Verantwortungen."
+    },
+    "10230": {
+        "id": "10230",
+        "title": "Mydei",
+        "desc": "Kronprinz von Castrum Kremnos, Sohn von Gorgo und ein Krieger, so furchterregend wie ein Löwe.\nObwohl er stolz und ungebändigt erscheint, schätzt er Loyalität und zeigt Mitgefühl für sein Volk."
+    },
+    "10231": {
+        "id": "10231",
+        "title": "Castorice",
+        "desc": "Die „Maid des Krieges“ aus Aidonia und die Bestatterin von Okhema.\nSie trägt den Fluch der Berührung des Todes und jedes Leben, das ihre Fingerspitzen berühren, verdorrt und wird zu nichts."
+    },
+    "10232": {
+        "id": "10232",
+        "title": "Phainon",
+        "desc": "Der Erbe von Chrysos aus Aedes Elysiae, ein Krieger von Okhema.\nEin sanfter und fröhlicher junger Mann mit einem detailorientierten Verstand und dem Streben nach Perfektion bei allem, was er tut."
+    },
+    "10233": {
+        "id": "10233",
+        "title": "Memi",
+        "desc": "Eine mysteriöse Kreatur mit rosa Fell, die eng mit Amphoreus verbunden zu sein scheint."
+    },
+    "10234": {
+        "id": "10234",
+        "title": "Auge des Zwielichts, Aquila",
+        "desc": "Der Titan des Himmels.\nWenn Aquilas Augen sich öffnen und auf das Land blicken, heißt die Welt das Licht willkommen, und wenn sich Aquilas Augen schließen, versinkt die Welt in Dunkelheit."
+    },
+    "10235": {
+        "id": "10235",
+        "title": "Säule aus Stein, Georios",
+        "desc": "Der Titan der Erde.\nAlle Gebirgsketten waren einst Erscheinungsformen von Georios. Er ist der größte, sanfteste und gütigste Titan und ein Wächter über die sterbliche Welt."
+    },
+    "10236": {
+        "id": "10236",
+        "title": "Kelch der Fülle, Phagousa",
+        "desc": "Die Titanin des Meeres.\nPhagousa genießt es, durch die Welt der Sterblichen zu treiben, in den Wellen des Ozeans, den Stromschnellen des Flusses und den Kelchen bei Festen zu erscheinen und Gesang, Tanz und Gelächter mitzubringen."
+    },
+    "10237": {
+        "id": "10237",
+        "title": "Goldene Chrysalide, Mnestia",
+        "desc": "Die Titanin der Romantik.\nSie und ihre Titanenwesen streben nach der Schönheit der Welt und verweben sie zu goldenen Fäden, um die Romantik der Existenz zu erschaffen und den Bewohnern von Amphoreus das Geschenk der Liebe und Zuneigung zu geben."
+    },
+    "10238": {
+        "id": "10238",
+        "title": "Thron der Welten, Kephale",
+        "desc": "Der Titan der Welt.\nKephale wurde von den Göttern mit der Bürde des Tragens der lebendigen Welt betraut. Er gab seinen Thron der Herrschaft über die Welt auf, nur um der Menschheit einen Schimmer Licht zu hinterlassen."
+    },
+    "10239": {
+        "id": "10239",
+        "title": "Gespaltener Zweig, Cerces",
+        "desc": "Die Titanin der Vernunft.\nCerces manifestierte sich in der Welt als großer heiliger Baum, der es den Menschen ermöglichte, neben ihr zu wandeln, Erleuchtung zu erlangen und tief nachzudenken, um Wissen zu erlangen."
+    },
+    "10240": {
+        "id": "10240",
+        "title": "Wankelmütige Münze, Zagreus",
+        "desc": "Der Titan der Täuschung.\nDa Zagreus nicht die Fähigkeit besitzt, seine göttlichen Pflichten zu erfüllen, genießt er es, Zwietracht unter den Göttern zu säen, sie auszutricksen und eine Melange aus Chaos und Unordnung zu schaffen."
+    },
+    "10241": {
+        "id": "10241",
+        "title": "Lanze des Zorns, Nikador",
+        "desc": "Der Titan des Zwists.\nEr erklärte dem Pantheon den Krieg und stürzte die Welt in endlosen Zwist. In Balladen von Barden kann seine göttliche Klinge der Vergeltung Himmel und Erde mit einem einzigen Schlag dem Erdboden gleichmachen."
+    },
+    "10242": {
+        "id": "10242",
+        "title": "Hand des Schattens, Thanatos",
+        "desc": "Die Titanin des Todes.\nWenn zahllose Seelen keinen Ort mehr finden, an dem sie ruhen können, werden die Fluten des Flusses der Seelen über das Land strömen und Thanatos steuert ihr Schiff, um die Toten ins Jenseits zu geleiten."
+    },
+    "10243": {
+        "id": "10243",
+        "title": "Vorhang der Ewignacht, Oronyx",
+        "desc": "Die Titanin der Zeit.\nOronyx webt die Fäden der Zeit, bewahrt die Vergangenheit, Gegenwart und Zukunft der Welt und sorgt für den Fluss aller Dinge."
+    },
+    "10244": {
+        "id": "10244",
+        "title": "Waage der Gerechtigkeit, Talanton",
+        "desc": "Der Titan des Gesetzes.\nTalanton duldet weder Bevorzugung noch Ungerechtigkeit. Er schützt die Tabus und Grenzen von Amphoreus und schreibt für alle Dinge Logik und Gesetze vor."
+    },
+    "10245": {
+        "id": "10245",
+        "title": "Tor der Unendlichkeit, Janus",
+        "desc": "Die Titanin der Tore.\nJanus kennt die Existenz und das Ziel aller Wege. Sie bestimmt nicht nur die Tore, die Menschen durchqueren, sondern auch die Reisen, die ihr Schicksal bestimmen."
+    },
+    "10246": {
+        "id": "10246",
+        "title": "Titanen",
+        "desc": "Die Titanen von Amphoreus sind die Kräfte, die Himmel und Erde erhalten, die Schicksale von der Antike bis zur Gegenwart und die Regeln, die alle Dinge auf der Welt regieren.\nSterbliche leben in ihren Freuden und Sorgen – Wissen, Krieg, Liebe, Leben und Tod sind alle eng mit ihrer göttlichen Autorität verflochten."
+    },
+    "10247": {
+        "id": "10247",
+        "title": "Erben von Chrysos",
+        "desc": "Es heißt, Kephales göttliche Ausstrahlung sei schwächer geworden, als er seine eigene Kernflamme anbot und die Prophezeiung der Schöpfung zurückließ.\nDanach begannen mit großer Macht erfüllte Helden die Erde zu bereisen. In ihren Adern floss goldenes göttliches Blut und sie wurden als die Erben von Chrysos bekannt."
+    },
+    "10248": {
+        "id": "10248",
+        "title": "Halbgötter",
+        "desc": "Tribios nahm Janus‘ Kernflamme auf und wurde zur ersten Halbgöttin.\nSeitdem haben viele andere Helden der Erben von Chrysos Prüfungen bestanden, die göttliche Autorität der Titanen erhalten und sind zu Halbgöttern geworden, die die Ordnung der Welt aufrechterhalten."
+    },
+    "10249": {
+        "id": "10249",
+        "title": "Okhema",
+        "desc": "Die Menschheit gründete Siedlungen am Fuße von Kephale und brachte so den Vorgänger der Stadt Okhema hervor.\nHeute ist der Ort sowohl das Heiligtum der Endzeit als auch der Ausgangspunkt der Reise durch die Ära Nova."
+    },
+    "10250": {
+        "id": "10250",
+        "title": "Castrum Kremnos",
+        "desc": "Eine gewaltige mobile Festung und die Stadt der Krieger, die Nikador verehren.\nDie Kremnosianer sind stolz darauf, auf Leben und Tod zu kämpfen und sind in ganz Amphoreus für ihre strenge Disziplin bekannt."
+    },
+    "10251": {
+        "id": "10251",
+        "title": "Abgrund des Schicksals",
+        "desc": "Janusopolis, ein religiöses Heiligtum, das über die Geopolitik der Stadtstaaten hinausgeht.\nHeute stehen nur noch wenige seiner Tempel, die als „Abgrund des Schicksals“ oder „Tempel der Drei Schicksale“ bekannt sind."
+    },
+    "10252": {
+        "id": "10252",
+        "title": "Schwarze Flut",
+        "desc": "Das Wasser, das Seelen auflöst und die Dunkelheit, die Amphoreus verschlingt.\nDie Schwarze Flut und ihre Schöpfungen sind die direkte Ursache für die beinahe vollständige Zerstörung von Amphoreus."
+    },
+    "10253": {
+        "id": "10253",
+        "title": "Flammendieb",
+        "desc": "Ein namenloser Schwertmeister, der mit der Schwarzen Flut kam und die Kernflammen der Titanen jagt. Niemand kennt seine wahre Identität.\nSeine Macht ist unglaublich, und seine Schwertkunst nahezu perfekt."
+    },
+    "10254": {
+        "id": "10254",
+        "title": "Flammendieb",
+        "desc": "Ein namenloser Schwertmeister, der mit der Schwarzen Flut kam und die Kernflammen der Titanen jagt. Niemand kennt seine wahre Identität.\nIn der Belagerung von Castrum Kremnos lieferte er sich mehrere Kämpfe mit den Helden, bevor er schließlich besiegt wurde. Sein derzeitiger Aufenthaltsort ist unbekannt."
+    },
+    "10255": {
+        "id": "10255",
+        "title": "Hain der Erleuchtung",
+        "desc": "Ein Hofgarten, der um die Manifestation von Cerces errichtet wurde und eine der bedeutendsten akademischen Institutionen von Amphoreus darstellt.\nHeute ist er ein Stadtstaat, der mit Okhema verbündet ist und eine führende Rolle bei der Erforschung mysteriöser Phänomene wie der Schwarzen Flut und der Titanen spielt."
+    },
+    "10256": {
+        "id": "10256",
+        "title": "Hain der Erleuchtung",
+        "desc": "Ein Hofgarten, der um die Manifestation von Cerces errichtet wurde und eine der bedeutendsten akademischen Institutionen von Amphoreus darstellt.\nEr wurde von der Schwarzen Flut vollständig zerstört."
+    },
+    "10257": {
+        "id": "10257",
+        "title": "Tribbie, Trianne, Trinnon",
+        "desc": "Die Erbin von Chrysos aus Janusopolis, die Halbgöttin der „Tore“. Einst eine anmutige und stille Heilige Maid, ist sie durch den Preis der Kernflamme in die Gestalt eines Kindes zurückversetzt worden.\nTrianne opferte sich beim Angriff des Flammendiebs, ihre Seele zerstreute sich vollständig und wurde zu einer Puppe, die ihr wie aus dem Gesicht geschnitten ist."
+    },
+    "10258": {
+        "id": "10258",
+        "title": "Mydei",
+        "desc": "Der Erbe von Chrysos aus Castrum Kremnos, der Halbgott des „Zwist“, ist zugleich der Sohn von Gorgo und der letzte Gottkönig von Kremnos.\nEr führte sein Volk an, um sich dem großen Werk der Flammenjagd anzuschließen, kehrte jedoch allein in seine Heimat zurück, um die Schwarze Flut, die die Welt verschlingt, allein abzuwehren."
+    },
+    "10259": {
+        "id": "10259",
+        "title": "Hyacine",
+        "desc": "Die Erbin von Chrysos aus dem Hof der Dämmerung, eine Nachfahrin des Himmels.\nMit ihrer optimistischen und fröhlichen Art ist sie eine gute Zuhörerin. In einer instabilen, sterbenden Welt bemüht sie sich, einen abgeschiedenen Ort der Heilung für andere zu schaffen."
+    },
+    "10260": {
+        "id": "10260",
+        "title": "Cipher",
+        "desc": "Die Erbin von Chrysos aus Doros, die Halbgöttin der „Täuschung“. Sie hat ihre Aufgabe der Flammenjagd schon lange hinter sich gelassen und die Heilige Stadt verlassen.\nMit ihrer gottgleichen Geschwindigkeit verfolgt sie jedoch nur die Wege des Diebstahls. Verschlagen und voller Pläne bevorzugt sie ein ruhiges Leben anstelle einer Heldengeschichte."
+    },
+    "10261": {
+        "id": "10261",
+        "title": "Anaxa",
+        "desc": "Der Erbe von Chrysos aus dem Hain der Erleuchtung, einer der Sieben Weisen und Begründer des Nousporismus. Aufgrund seiner Behauptung, dass Menschen und Götter gleich seien, wird er als „Gotteslästerer“ bezeichnet.\nEr überlebte das Unheil im Hain auf wundersame Weise, und die Kernflamme der Titanin der Vernunft wohnt derzeit in seinem Körper."
+    },
+    "10262": {
+        "id": "10262",
+        "title": "Castorice",
+        "desc": "Die Maid des Krieges von Aidonia, die Halbgöttin des „Todes“. Als linke Hand von Thanatos hat sie die Macht, den Tod zu gewähren.\nNachdem sie ihre Herkunft aufgedeckt hatte, bestand sie ihre Prüfungen, vereinte die beiden Hände des Todes und sorgte für den geordneten Fluss von Leben und Tod in der Welt."
+    },
+    "10263": {
+        "id": "10263",
+        "title": "Anaxa",
+        "desc": "Der Erbe von Chrysos aus dem Hain der Erleuchtung und der Halbgott der „Vernunft“. Einer der Sieben Weisen und Begründer des Nousporismus.\nObwohl er bei der Katastrophe im Hain schon lange ums Leben gekommen war, reiste er nach seinem Tod an der Seite eines Titanen, überstand Prüfungen und enthüllte die wahre Natur der Welt von Amphoreus."
+    },
+    "10264": {
+        "id": "10264",
+        "title": "Cipher",
+        "desc": "Die Erbin von Chrysos aus Dolos und die Halbgöttin der „Täuschung“. Sie hat ihre Aufgabe der Flammenjagd schon lange hinter sich gelassen und ist stillschweigend in die Heilige Stadt zurückgekehrt.\nMit ihrer gottgleichen Geschwindigkeit verfolgt sie jedoch nur die Wege des Diebstahls. Verschlagen und voller Pläne bevorzugt sie ein ruhiges Leben anstelle eines Heldendaseins."
+    },
+    "10265": {
+        "id": "10265",
+        "title": "Morgenlichtwolke",
+        "desc": "Der Ort in Okhema, der Kephale, dem Titanen der Welt, am nächsten liegt. Diese heilige Stätte dient als Brücke zwischen den Erben von Chrysos und den Titanen.\nMajestätisch und verehrt ist sie der Versammlungsort der höchsten Würdenträger von Okhema und das Herzstück seiner politischen und kulturellen Angelegenheiten."
+    },
+    "10266": {
+        "id": "10266",
+        "title": "Stadt der Drachenruinen",
+        "desc": "Styxia, der Stadtstaat der Drachen und Wellen, liegt nun in Trümmern.\nUnzählige verlorene Seelen können nicht ans andere Ufer gelangen, während der Fluss der Seelen ansteigt und nie wieder abfließt. Thanatos, dessen Schicksal unbekannt ist, ist eng mit diesem Ort verbunden."
+    },
+    "10267": {
+        "id": "10267",
+        "title": "Tagdonnerritterin Seliose",
+        "desc": "Die Einzelkämpferin, die der Legende nach das „Auge des Zwielichts“ herausforderte und die Flammenjagd der Menschheit auslöste, gilt auch als Vorfahrin der heutigen Himmelsbewohner.\nIhr Glanz war so blendend, dass sie zum Mittelpunkt aller himmlischen Chroniken ihrer Zeit wurde."
+    },
+    "10268": {
+        "id": "10268",
+        "title": "Tagdonnerritterin Seliose",
+        "desc": "Die Einzelkämpferin, die der Legende nach das „Auge des Zwielichts“ herausforderte. Da es ihr nicht gelang, ihr Volk aus seiner Unwissenheit zu erwecken, verzweifelte sie an den Himmelsbewohnern.\nSie verkündete das Urteil über ihr Volk, verschmolz mit Aquila und schlummert nun in der Himmelsfestung."
+    },
+    "10269": {
+        "id": "10269",
+        "title": "„Kuppelfestung“ Auge des Zwielichts",
+        "desc": "Der Stadtstaat in den Wolken, benannt nach einem Titanen und einst die Heimat von Aquila, blickt vom Himmel auf die Welt herab.\nDie Wandgemälde im Inneren spiegeln den sich verändernden Himmel von Amphoreus wider und deuten auf Geheimnisse hin, die seit Langem im Sternenlicht verborgen liegen."
+    },
+    "10270": {
+        "id": "10270",
+        "title": "„Festungsruinen in den Wolken“ Auge des Zwielichts",
+        "desc": "Nach Aquilas Fall steht die Himmelsfestung kurz vor dem Einsturz.\nIhre Systeme sind kaum noch funktionsfähig und größtenteils ausgefallen."
+    },
+    "10271": {
+        "id": "10271",
+        "title": "„Finstere Kapelle“ Morgenlichtwolke",
+        "desc": "Okhemas Heiligtum nach dem Fall der Morgenrot-Maschine. Es wird nun von der Schwarzen Flut überschwemmt.\nDer Verwaltungskern funktioniert noch. In der Nähe des Parlamentsgebäudes halten eine Handvoll Zivilisten zusammen mit den Wachen die Stellung und kämpfen gegen die Monster."
+    },
+    "10272": {
+        "id": "10272",
+        "title": "„Gefallene Zwielichtstadt“ Okhema",
+        "desc": "Die Heilige Stadt ist nach dem Abschalten der Morgenrot-Maschine verstummt. Ihre von dem plötzlichen Umbruch erschütterten Bewohner sind panisch und verwirrt.\nDie Erbin von Chrysos des Himmels wacht über sie und schützt die Stadt mit einer Regenbogenbarriere."
+    },
+    "10273": {
+        "id": "10273",
+        "title": "„Karma des Tagdonners“ Aquila",
+        "desc": "Nach einem brutalen Kampf erhebt sich das „Auge des Zwielichts“, das lange Zeit von der Schwarzen Flut verschlungen war, erneut unter dem Willen einer auserwählten Seele.\nEs hat den Glanz des Himmels abgelegt. Was nun steht, ist ein von Zorn beherrschter, hoch aufragender Gott."
+    },
+    "10274": {
+        "id": "10274",
+        "title": "Aedes Elysiae",
+        "desc": "Aedes Elysiae, ein kleines Dorf, das vom Vorhang der Ewignacht umgeben ist und von der Schwarzen Flut zerstört wurde.\nDer Held verließ die goldenen Wellen aus Weizen in seinem Heimatort und blickte nie zurück."
+    },
+    "10275": {
+        "id": "10275",
+        "title": "Wirrgarten",
+        "desc": "Das Dorf der Feen ist eine kleine Welt, versteckt in den dichten Wäldern von Aedes Elysiae.\nEs heißt, dass nur unschuldige Kinder es betreten dürfen."
+    },
+    "10276": {
+        "id": "10276",
+        "title": "Lygus",
+        "desc": "Der Ausführer der Extrapolation von Amphoreus, der sich selbst „Theoros“ nennt.\nEr beschreitet den Pfad der Gelehrsamkeit, aber sein Ziel ist die Zerstörung."
+    },
+    "10277": {
+        "id": "10277",
+        "title": "Eisengrab",
+        "desc": "Ein Emanator der Zerstörung, einer der Verwüsterfürsten. Geboren, um die Wurzeln der Pfade zu verbrennen und den Kosmos selbst einzuäschern.\nEisengrab ist der Zerstörer der Gelehrsamkeit."
+    },
+    "10278": {
+        "id": "10278",
+        "title": "Phainon",
+        "desc": "Der Erbe von Chrysos aus Aedes Elysiae, ein Krieger von Okhema, Halbgott des Tragens der Welt aus der Prophezeiung.\nSein experimenteller Name lautet „NeiKos496“. Als seine qualvolle Reise ihn zum Ende der Welt führte, setzte ihn die grausame Wahrheit dem Blick der Zerstörung aus."
+    },
+    "10279": {
+        "id": "10279",
+        "title": "Flammendieb",
+        "desc": "Ein namenloser Schwertkämpfer, der mit der Schwarzen Flut kam und die Kernflammen der Titanen jagt. Das Gesicht unter der Maske ist identisch mit dem von Phainon.\nNachdem er Ewige Wiederholungen überlebt hat und von Trillionen von Kernflammen verbrannt wurde, ist er nun kaum mehr als ein verkohltes Knochengerippe, das zu Asche zerfällt, nachdem er Phainon seinen letzten Wunsch mitgeteilt hat."
+    },
+    "10280": {
+        "id": "10280",
+        "title": "Cyrene",
+        "desc": "Ein geheimnisvolles Mädchen aus Aedes Elysiae, eine Priesterin des Ritualhofs und die Halbgöttin der Zeit in der Prophezeiung.\nIhr experimenteller Name ist „PhiLia093“. Ihr Aufenthaltsort ist unbekannt."
+    },
+    "10281": {
+        "id": "10281",
+        "title": "Memi",
+        "desc": "Eine mysteriöse Kreatur mit rosa Fell, die eng mit Amphoreus verbunden zu sein scheint.\nSie begleitete {NICKNAME} bis ans Ende der Welt und erlangte mehr „Erinnerungen“."
+    },
+    "10282": {
+        "id": "10282",
+        "title": "Ära Nova",
+        "desc": "Der Modus der Iteration von Amphoreus und gleichzeitig die Prüfung des Kephale.\nDer Halbgott des Tragens der Welt muss durch Erinnerungen eine neue Welt erschaffen und bewahren, bis er unter der Last zusammenbricht oder seine göttliche Macht übernommen wird."
+    },
+    "10283": {
+        "id": "10283",
+        "title": "Ära Nova",
+        "desc": "Der Modus der Iteration von Amphoreus und die Extrapolation des Zepters „δ-me13: Amphoreus“.\nEs zielt darauf ab, die Gleichung der Zerstörung durch kontinuierliche Übertragung der erlernten Gleichungsdaten in Form von Widerstand zu lösen.\nDie letzte theoretische „Ära Nova“ wurde von Phainon und Cyrene vereitelt und ist seitdem 33.550.336-mal in einer Schleife gelaufen."
+    },
+    "10284": {
+        "id": "10284",
+        "title": "Ewige Wiederholung",
+        "desc": "Eine tote Schleife, die durch zwei Datenansammlungen innerhalb der Extrapolation von Zepter „δ-me13: Amphoreus“ hervorgerufen wird, um den Abschluss der Gleichung der Zerstörung zu verhindern.\nAufgrund des Einflusses der Macht des Gedenkens wird die Zeit auf ihren Anfang zurückgesetzt und der Extrapolationsprozess zurückgedreht, wenn die zwölf Kernflammen in der zeremoniellen Klinge platziert werden."
+    },
+    "10285": {
+        "id": "10285",
+        "title": "Hysilens",
+        "desc": "Eine Erbin von Chrysos aus dem uralten Königreich unter dem Meer, Bardin der Gezeiten, als Gladius bekannte Ritterin und gefürchtetste Klinge der Imperatorin.\nAls letzte Nachfahrin der Sirenen streifte sie durch die Welt an der Oberfläche, bevor sie Cerydra die Treue schwor und sich der Flammenjagd-Armee anschloss."
+    },
+    "10286": {
+        "id": "10286",
+        "title": "Cerydra",
+        "desc": "Erbin von Chrysos von Hyperborea, Kaiserin des Nördlichen Reiches, Flammengekrönte des Waffenstillstands und die einzige Imperatorin von Amphoreus.\nNachdem sie die uneinigen Länder vereint hatte, rief sie Helden aus allen Ecken der Welt zusammen, um sich auf die Flammenjagd zu begeben. Sie schworen, die alte Ordnung zu zerstören und eine neue zu schreiben."
+    },
+    "10287": {
+        "id": "10287",
+        "title": "Evernight",
+        "desc": "Eine geheimnisvolle Gestalt, die in den Nahtstellen zwischen Erinnerungen erscheint, vom Aussehen her identisch mit 7. März, deren Identität jedoch unbekannt bleibt.\nTief verbunden mit dem Pfad des Gedenkens, scheint sie einem Zweck zu folgen, der sich stark von dem gewöhnlicher Wahrer der Erinnerungen unterscheidet."
+    },
+    "10288": {
+        "id": "10288",
+        "title": "Lygus",
+        "desc": "Der Betreiber der Amphoreus-Extrapolation, der sich selbst als Theoros bezeichnet.\nEr nennt sich auch Zandar, Mitglied Nr. 1 der Geniusgesellschaft. Er versucht, sich Amphoreus’ Kraft zu leihen, um die Macht zur Vernichtung von Nous zu erschaffen.\nEr wandelt auf dem Pfad der Gelehrsamkeit und beabsichtigt dennoch, Zerstörung zu erschaffen."
+    },
+    "10289": {
+        "id": "10289",
+        "title": "Exomythos",
+        "desc": "Wo Amphoreus auf das reale Universum trifft, steht der Hardwarekomplex von Zepter δ-me13.\nDies ist die Audienzkammer der heroischen Epen, wo Daten und Code frei fließen und in elektrische Signale umgewandelt werden, die die Extrapolation der Triebkraft antreiben."
+    },
+    "10290": {
+        "id": "10290",
+        "title": "Singende Küste",
+        "desc": "Nachdem sich die Schwarze Flut zurückgezogen hatte, machte das einst versunkene Styxia einem ewigen Fest Platz.\nIn Wahrheit ist es ein von Sirenenliedern gesponnener Traum, in dem die Verstorbenen als Gäste eines Banketts wieder lebendig werden."
+    },
+    "10291": {
+        "id": "10291",
+        "title": "Evernight",
+        "desc": "Eine geheimnisvolle Gestalt, die in den Ritzen zwischen Erinnerungen erscheint. Vom Aussehen her identisch mit 7. März, wie zwei Seiten derselben Münze.\n7. März übergibt ihre eigenen Erinnerungen und versinkt in einen tiefen Schlaf, während Evernight die Flut des Vergessens entfesselt, um sich selbst zu verbergen."
+    },
+    "10292": {
+        "id": "10292",
+        "title": "Terravox",
+        "desc": "Der König der Dromen, eine Schöpfung von Georios und der prophezeite Halbgott der Erde.\nMit unerschütterlichem Willen arbeitet er mit Evernight zusammen, um die Welt der Memoria-Flut zu bewachen und das Geheimnis der großen Gruft zu versiegeln."
+    },
+    "10293": {
+        "id": "10293",
+        "title": "Dan Heng – Permansor Terrae",
+        "desc": "Der neue Gott, der die Kernflamme der Erde von Terravox erhalten hat. Der Wächter des Astralexpresses.\nNachdem er seine verwundeten Drachenschuppen abgelegt hat, umhüllt er Vergangenheit und Zukunft mit Beständigkeit und beginnt seinen Weg von Neuem."
+    },
+    "10294": {
+        "id": "10294",
+        "title": "Strahlender Narbenwald",
+        "desc": "Ein Strahl der Zerstörung dringt tief in den Hain der Erleuchtung in Richtung der großen Gruft.\nNun, unter dem Einfluss der Memoria-Flut, kommen zahllose wirre Erinnerungen hier zusammen."
+    },
+    "10295": {
+        "id": "10295",
+        "title": "Große Gruft des namenlosen Titanen",
+        "desc": "Die große Gruft, von der Erde in der Tiefe versiegelt. Der Kern des Zepters δ-me13.\nDie kolossale Speichermatrix flackert unaufhörlich und zeichnet eine unbekannte Vergangenheit auf."
+    },
+    "10296": {
+        "id": "10296",
+        "title": "Ära Nova",
+        "desc": "Die Form, in der Generationen innerhalb von Amphoreus zyklisch ablaufen. Gleichzeitig auch der Berechnungsmechanismus des Zepters δ-me13 „Amphoreus“.\nNun wird {NICKNAME} im Namen des Weltenträgers ein Ende für Amphoreus schreiben, das anders ist als alles zuvor."
+    },
     "20000": {
         "id": "20000",
         "title": "Zurück zur Perspektive {F#der Trailblazerin}{M#des Trailblazers} ...",
@@ -1078,5 +1503,165 @@
         "id": "20028",
         "title": "Wechsel zur Perspektive von Robin ...",
         "desc": "Robin und Sonntag sind entschlossen, ihren früheren Wohltäter, den Traummeister Gopher Wood, zu überzeugen. Hoffentlich geht alles gut ..."
+    },
+    "20051": {
+        "id": "20051",
+        "title": "Wechsel zur Perspektive von Lingsha",
+        "desc": "Im Kerker der Ketten versuchen Lingsha, Dan Heng und Jing Yuan, Hinweise auf die Angriffe der Borisin zu finden ..."
+    },
+    "20052": {
+        "id": "20052",
+        "title": "Wechsel zur Perspektive von Jiaoqiu",
+        "desc": "Als er in die Hände der Borisin gerät, versucht Jiaoqiu, eine Überlebenschance zu finden ... aber es ist nicht seine eigene Chance, die er sucht."
+    },
+    "20053": {
+        "id": "20053",
+        "title": "Wechsel zur Perspektive von 7. März",
+        "desc": "Auf Huaiyans Anweisung gehen 7. März und Yunli an Bord der Himmelsspalter und nehmen wie geplant an der Kampfkunstzeremonie teil ..."
+    },
+    "20054": {
+        "id": "20054",
+        "title": "Wechsel zur Perspektive von Feixiao",
+        "desc": "„Umzingle deinen Gegner, aber lass einen Fluchtweg offen.“ Die Merlinskralle beginnt die Jagd auf das Wolfsrudel ..."
+    },
+    "20055": {
+        "id": "20055",
+        "title": "Wechsel zur Perspektive von Yunli",
+        "desc": "Auf der Himmelsspalter macht der aufkommende Sturm Yunli unruhig ..."
+    },
+    "20056": {
+        "id": "20056",
+        "title": "Wechsel zur Perspektive von 7. März",
+        "desc": "7. März spürt die Anzeichen einer drohenden Gefahr. Der Moment, ihre Schwertkunst zu testen, ist endlich gekommen ..."
+    },
+    "20057": {
+        "id": "20057",
+        "title": "Wechsel zur Perspektive von Lingsha",
+        "desc": "Dan Heng hat sich in der Schuppenklamm mit Lingsha und den Vidyadhara-Präzeptoren verabredet ..."
+    },
+    "20058": {
+        "id": "20058",
+        "title": "Wechsel zur Szene von Boothill ...",
+        "desc": "Der nicht auffindbare kosmische Cowboy lebt momentan zurückgezogen in den Schatten der Traumlandschaft ..."
+    },
+    "20059": {
+        "id": "20059",
+        "title": "Wechsel zur Perspektive von Sonntag ...",
+        "desc": "Doch inmitten dieses süßen Traums kehren nicht nur die Gäste zurück, sondern auch der „Gastgeber“ ..."
+    },
+    "20060": {
+        "id": "20060",
+        "title": "Wechsel zur Perspektive von Sonntag ...",
+        "desc": "Die Asketen blicken noch immer auf ihren früheren Geist zurück, und auch die wichtigste Existenz unter ihnen wird schließlich auf den Abschied warten ..."
+    },
+    "20061": {
+        "id": "20061",
+        "title": "Wechsel zur Perspektive von Aglaea ...",
+        "desc": "Als Aglaea erfahren hat, dass Okhema möglicherweise infiltriert worden ist, tritt sie persönlich dazu an, die sich in der Stadt verbergende Unreinheit nach und nach aufzuspüren ..."
+    },
+    "20062": {
+        "id": "20062",
+        "title": "Wechsel zur Perspektive von Herta ...",
+        "desc": "Herta bereitet sich auf der Raumstation auf eine Audienz bei dem Äon Nous vor, aber es sieht nicht so aus, als ob alles reibungslos verlaufen würde."
+    },
+    "20063": {
+        "id": "20063",
+        "title": "Wechsel zur Perspektive von Mydei ...",
+        "desc": "Mydeis Volk, die Kremnosianer, scheinen andere Absichten mit der göttlichen Macht des Zwists zu haben. Bevor er die Prüfung bestehen kann, muss er das Vertrauen seines Volkes gewinnen ..."
+    },
+    "20064": {
+        "id": "20064",
+        "title": "Wechsel zur Perspektive von Tribbie ...",
+        "desc": "Tribbie war sich darüber im Klaren, dass Trianne auf ihrer Reise zum Hain der Erleuchtung erneut das Jahrhunderttor geöffnet hatte, und war zutiefst besorgt ..."
+    },
+    "20065": {
+        "id": "20065",
+        "title": "Wechsel zur Perspektive von Tribbie ...",
+        "desc": "Um die Kremnosianer und die Okhemianer zu versöhnen, beschließen Tribbie, Trianne und Trinnon, Titanen zu besuchen und ihre Erinnerungen wiederzuerlangen ..."
+    },
+    "20066": {
+        "id": "20066",
+        "title": "Wechsel zur Perspektive von Mydei ...",
+        "desc": "Mydei hat für den schlimmsten Fall vorgesorgt: Es ist Zeit, nach Hause zu gehen ..."
+    },
+    "20067": {
+        "id": "20067",
+        "title": "Wechsel zur Perspektive von Anaxa ...",
+        "desc": "Das Streben nach Wissen sollte einigen einfachen Prinzipien folgen, zum Beispiel „Menschen und Dinge bestmöglich nutzen“ ..."
+    },
+    "20068": {
+        "id": "20068",
+        "title": "Wechsel zur Perspektive von Anaxa ...",
+        "desc": "Wissen ist der zweite Vorname eines Gelehrten, und es ist nur richtig, dass er es gleichermaßen mit allen Narren teilt, die vor ihm sitzen ..."
+    },
+    "20069": {
+        "id": "20069",
+        "title": "Wechsel zur Perspektive von Dan Heng ...",
+        "desc": "Der einfachste Weg, eine Datenbank zu pflegen, ist, die lokale Datenbank zu besuchen. Dan Heng weiß das genau ..."
+    },
+    "20070": {
+        "id": "20070",
+        "title": "Wechsel zur Perspektive von Herta ...",
+        "desc": "Amphoreus wirft eindeutig eine ziemlich faszinierende „Frage“ auf – eine, die überzeugend genug ist, um dieses Genie zum Handeln zu bewegen ..."
+    },
+    "20071": {
+        "id": "20071",
+        "title": "Wechsel zur Perspektive von Castorice ...",
+        "desc": "Anaxa zeigte Castorice die Erinnerung, die tief in der Seele eines Titanen vergraben war. Es war die Fortsetzung der Illusionen auf dem Bergpfad ..."
+    },
+    "20072": {
+        "id": "20072",
+        "title": "Wechsel zur Perspektive von Castorice ...",
+        "desc": "Unbekannte Gesichter sprachen über die Prüfungen der Flammenjagd. Wo und wann ist das passiert ...?"
+    },
+    "20073": {
+        "id": "20073",
+        "title": "Wechsel zur Perspektive von Castorice ...",
+        "desc": "Ein Krieger namens Gnaeus hat seine Seele gespalten. Das ist ... Nikadors Vergangenheit ..."
+    },
+    "20074": {
+        "id": "20074",
+        "title": "Wechsel zur Perspektive von Castorice ...",
+        "desc": "Das endgültige Ziel von Polyxia und das Schicksal von Castorice werden den Aufenthaltsort von Thanatos verraten ..."
+    },
+    "20075": {
+        "id": "20075",
+        "title": "Wechsel zur Perspektive von Cipher ...",
+        "desc": "Währenddessen hält sich Cipher am Diebgeist Bartholos fest und durchsucht das Niederufer nach Schätzen ..."
+    },
+    "20076": {
+        "id": "20076",
+        "title": "Wechsel zur Perspektive von Cipher ...",
+        "desc": "Um ihr Versprechen einzulösen, ist Cipher kürzlich zum Niederufer geeilt, um sich den Gegnern, die die Kernflamme begehren, allein zu stellen ..."
+    },
+    "20077": {
+        "id": "20077",
+        "title": "Wechsel zur Perspektive von Hyacine ...",
+        "desc": "Wer den Himmel erreichen will, muss sich zuerst den Segen des Himmels verdienen ..."
+    },
+    "20078": {
+        "id": "20078",
+        "title": "Die Erinnerung an „Khaslana“ strömt heran wie eine Flut ...",
+        "desc": "Im Namen der Welt: Kephale wird dies niemals vergessen."
+    },
+    "20080": {
+        "id": "20080",
+        "title": "Wechsel zur Perspektive von Dan Heng ...",
+        "desc": "Dan Heng ist über einen Geist-Warpsprung zum Astralexpress zurückgekehrt, nur um festzustellen, dass sich während seiner Abwesenheit vieles verändert hatte ..."
+    },
+    "20081": {
+        "id": "20081",
+        "title": "Wechsel zur Perspektive von Schwarzer Schwan ...",
+        "desc": "An der Seite von Evernight wandelnd, wird Schwarzer Schwan bezeugen, wie sich das Gedenken in das Schicksal von Amphoreus einwebt ..."
+    },
+    "20082": {
+        "id": "20082",
+        "title": "Wechsel zur Perspektive von Schwarzer Schwan ...",
+        "desc": "In einem flüchtigen Moment zwischen Evernight und Sonntag reist Schwarzer Schwan gegen den Fluss des Pfades nach oben ..."
+    },
+    "20083": {
+        "id": "20083",
+        "title": "Wechsel zur Perspektive von Dan Heng ...",
+        "desc": "Dan Heng kehrt nach Amphoreus zurück, fest entschlossen, {NICKNAME} zu finden und sich mit 7. März wieder zu vereinen ..."
     }
 }

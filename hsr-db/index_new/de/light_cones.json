@@ -209,6 +209,26 @@
         "preview": "image/light_cone_preview/20020.png",
         "portrait": "image/light_cone_portrait/20020.png"
     },
+    "20021": {
+        "id": "20021",
+        "name": "Brennender Schatten",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "Eine seltene, aus der Zeit destillierte Macht. All die vermeintlich unbedeutenden Momente bilden zusammen den überwältigenden Chor des Schicksals.\n„Die Menschen versuchen immer, das Unangenehme der Vergangenheit auszulöschen. Das liegt in der Natur der Erinnerung.“",
+        "icon": "icon/light_cone/20021.png",
+        "preview": "image/light_cone_preview/20021.png",
+        "portrait": "image/light_cone_portrait/20021.png"
+    },
+    "20022": {
+        "id": "20022",
+        "name": "Rückblick",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "Eine seltene, aus der Zeit destillierte Macht. All die vermeintlich unbedeutenden Momente bilden zusammen den überwältigenden Chor des Schicksals.\n„In dem kurzen, schönen Traum war es, als ob die alte Seele in das bunte Meer der Kindheit zurückkehrte.“",
+        "icon": "icon/light_cone/20022.png",
+        "preview": "image/light_cone_preview/20022.png",
+        "portrait": "image/light_cone_portrait/20022.png"
+    },
     "21000": {
         "id": "21000",
         "name": "Ein Gespräch nach der OP",
@@ -324,7 +344,7 @@
         "name": "Planetarisches Rendezvous",
         "rarity": 4,
         "path": "Shaman",
-        "desc": "Sie hatte keine Ahnung, was auf sie zukommen würde, als sie diese Reise antrat.\nSie wusste nur eines: Sie könnte endlich die wertenden Blicke und Streitereien in ihrer Familie hinter sich lassen.\nEs fühlte sich an, als hätte sie verstanden, was der Dichter zu sagen versuchte.\n„Eines Tages wuchsen uns Flügel und wir vergaßen, wie es ist zu laufen.“\nIhre Augen begannen zu leuchten wie funkelnden Sterne.",
+        "desc": "Sie hatte keine Ahnung, was auf sie zukommen würde, als sie diese Reise antrat.\nSie wusste nur eines: Sie könnte endlich die wertenden Blicke und Streitereien in ihrer Familie hinter sich lassen.\nEs fühlte sich an, als hätte sie verstanden, was der Dichter zu sagen versuchte.\n„Eines Tages wuchsen uns Flügel und wir vergaßen, wie es ist zu laufen.“\nIhre Augen begannen zu leuchten wie die funkelnden Sterne.",
         "icon": "icon/light_cone/21011.png",
         "preview": "image/light_cone_preview/21011.png",
         "portrait": "image/light_cone_portrait/21011.png"
@@ -679,6 +699,146 @@
         "preview": "image/light_cone_preview/21046.png",
         "portrait": "image/light_cone_portrait/21046.png"
     },
+    "21047": {
+        "id": "21047",
+        "name": "Die Nacht der langen Schatten",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "„Fußabdrücke.“\n„Kratzspuren.“\n„Gerüche.“\nNachdem alles ordnungsgemäß erledigt worden war, hob er eine Krähenfeder auf und sprang leichtfüßig auf das Dach.\nIn der riesigen Stadt huschte die schwarze Gestalt in Winkeln, die niemand beachtete.\n„Ich werde mich im Schatten auflösen und für euch Wache halten.“",
+        "icon": "icon/light_cone/21047.png",
+        "preview": "image/light_cone_preview/21047.png",
+        "portrait": "image/light_cone_portrait/21047.png"
+    },
+    "21048": {
+        "id": "21048",
+        "name": "Traummontage",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "„Die Stadt der Träume, die Brutstätte der Sünde oder das Verheißene Land ...“\nEr entzieht vielen ihre Erinnerungen. Er untersucht die eindrucksvollen Momente, zertrennt sie, ordnet sie neu an und schneidet sie neu zusammen.\n„Die Erinnerungen der meisten Leute sind nichts als eine Sammlung unbedeutender und monotoner Fragmente, zwischen denen nur eine Handvoll wertvoller Momente herausstechen. Der Rest von ihnen ist völlig unnötig.“\nBild für Bild gleitet durch seine Hand und wird allmählich zu einem glänzenden Meisterwerk.\n„Wir transportieren keine Erinnerungen. Wir erschaffen bloß die Vergangenheit.“",
+        "icon": "icon/light_cone/21048.png",
+        "preview": "image/light_cone_preview/21048.png",
+        "portrait": "image/light_cone_portrait/21048.png"
+    },
+    "21050": {
+        "id": "21050",
+        "name": "Sieg im Handumdrehen",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Die mächtigen Kriegsschreie der Titanenwesen hallten über das Schlachtfeld. Zwei blitzschnelle Gestalten schlugen sich einen blutigen Pfad über das Schlachtfeld.\n„Ich werde alleine mit ihnen fertig!“\nJeder Schlag des Kriegers durchbohrte die Körper der mit blutigen Wunden.\n„Das ist bloß rohe Gewalt. Sieh dir mein Schwert an!“\nDie silberne Klinge wirbelte in einer schönen Kurve durch die Luft und die Monster fielen wie Blätter vom Baum.\n„Ein Wettbewerb?“\nDie beiden stürzten sich gleichzeitig aufeinander ...\nSchmerzensschreie ertönten, als die heranpirschende Bestie hinter ihnen mit einem Schlag niedergestreckt wurde.\nDie beiden Stimmen riefen im Chor ...\n„Ich habe ihm den Todesstoß gegeben!“",
+        "icon": "icon/light_cone/21050.png",
+        "preview": "image/light_cone_preview/21050.png",
+        "portrait": "image/light_cone_portrait/21050.png"
+    },
+    "21051": {
+        "id": "21051",
+        "name": "Der Gruß der Genies",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "„Herzlichen Glückwunsch! Dein Experiment ist wieder schiefgegangen, stimmt’s?“\n„...“\n„Ich habe dir doch gesagt, dass deine Methode fehlerhaft ist.“\n„...“\n„Ich sage dir, ich habe kürzlich einen großen Durchbruch erzielt!“\nDie unnahbare Frau blickte vom Buch auf.\n„Tut mir leid, was hast du gesagt?“\nSie winkte mit der Hand.\n„Nun ja, ich kann nicht sagen, wie groß dieser Durchbruch ist. Er betrifft vielleicht nur die Hälfte des Kosmos.“\nDie Frau schloss das Buch.\n„Nun, dann lass hören.“\n„Pff, meine Weisheit ist nicht etwas, was man einfach so hören kann ...“\n„Ich verstehe. Ich habe ein paar neue Desserts gebacken. Warum essen wir nicht, während wir reden?“",
+        "icon": "icon/light_cone/21051.png",
+        "preview": "image/light_cone_preview/21051.png",
+        "portrait": "image/light_cone_portrait/21051.png"
+    },
+    "21052": {
+        "id": "21052",
+        "name": "Mehr Schwitzen, weniger Weinen",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Dröhnende Schläge hallten durch den Trainingsraum, gefolgt von einem donnernden Tritt, der den Sandsack fast in zwei Teile faltete.\n„Generalin ... ist diese Art von Training nicht ein bisschen übertrieben?“, fragte der Soldat neben ihr.\nSie schüttelte lächelnd den Kopf und hing einen neuen Sandsack auf.\n„Das war erst der Anfang!“\nDer Schweiß reflektierte das Mondlicht, als er an ihr herabrann wie kristallklare Perlen. Eine Erinnerung an einen längst gefallenen General tauchte in ihrem Kopf auf ... „Je mehr du beim Training schwitzt, desto weniger wirst du im Kampf weinen.“",
+        "icon": "icon/light_cone/21052.png",
+        "preview": "image/light_cone_preview/21052.png",
+        "portrait": "image/light_cone_portrait/21052.png"
+    },
+    "21053": {
+        "id": "21053",
+        "name": "Mögen Reisen für immer friedlich sein",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "Der Junge rannte zwischen den sternähnlichen Wassertropfen umher und freute sich über den ersehnten Regen, der nach einer langen Dürre gekommen war.\nDer Regen fiel lange Zeit, und der Planwagen hielt auf dem mit Grün bedeckten Land an.\n„Mama, Schwesterchen, wir werden nicht mehr hungern oder frieren!“\nDas Lagerfeuer der Avginier wärmte die lange Nacht, während der Junge den Geschichten seiner großen Schwester lauschte und auf die Morgendämmerung wartete.\n„Kakavasha ... Auch du wirst mit deinem Glück, das von der Muttergöttin gesegnet ist, weiterziehen und erreichen, was wir nicht erreichen konnten ... Möge deine Reise für immer friedlich sein und deine Pläne ewig verborgen bleiben ...“\nGoldenes Sonnenlicht reflektierte aus seinen Träumen in sein reales Zuhause, und in seinen Augen spiegelten sich erneut Transaktionen und Zahlen.\nEr lockerte seine zur Faust geballte Hand ...\nEs war, als ob er vergeblich versucht hätte, irgendetwas festzuhalten ... und doch war da noch eine pulsierende, anhaltende Wärme.",
+        "icon": "icon/light_cone/21053.png",
+        "preview": "image/light_cone_preview/21053.png",
+        "portrait": "image/light_cone_portrait/21053.png"
+    },
+    "21054": {
+        "id": "21054",
+        "name": "Die nächste Seite der Geschichte",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Die Brise ließ die Weizenfelder wogen, während das Mädchen, das ein leeres Tagebuch in der Hand hielt, durch die goldenen Wellen schlenderte.\nJenseits von Aedes Elysiae, in einer Stadt, die sowohl unbekannt als auch unheimlich vertraut schien, kreuzten sich die Wege von Gefährten aller Art, und eine Reise wie ein Lied, wie ein Traum, stand bevor ...\n„Dieses Mal, komm bitte mit mir ...“\nAm Rande des Feldes klappte das Mädchen, das so lange gewartet hatte, ihr Buch zu und streckte die Hand in Richtung „Zukunft“ aus ...\n„Schreiben wir ein neues Kapitel der Geschichte! ♪“",
+        "icon": "icon/light_cone/21054.png",
+        "preview": "image/light_cone_preview/21054.png",
+        "portrait": "image/light_cone_portrait/21054.png"
+    },
+    "21055": {
+        "id": "21055",
+        "name": "Bis zum Übermorgen",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "„Wir sehen uns morgen, Tribios ...“\nDas Mädchen wischte sich die Tränen von den Wangen, als ihre Mutter weit, weit weg ging.\nSie wartete ein Morgen nach dem anderen ab, bis sie zu einer Person wie ihre Mutter heranwuchs.\nSie stand vor dem Tor und hielt die Kernflamme fest umklammert, als die Worte ihrer Mutter in ihren Ohren erklangen.\n„Dort gibt es keine Schneestürme, keine Kälte und keinen Regen ...“\n„Aber wenn wir dich morgen nicht sehen können, dann ...“\nSie fällt auf die Erde und lässt ihre junge Gestalt zurück, wie eine Sternschnuppe am Himmel.\n„Dann sehen wir uns übermorgen!“",
+        "icon": "icon/light_cone/21055.png",
+        "preview": "image/light_cone_preview/21055.png",
+        "portrait": "image/light_cone_portrait/21055.png"
+    },
+    "21056": {
+        "id": "21056",
+        "name": "Bei der Jagd nach dem Wind",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "„Ha. Das hier kann dieser kleine Pechvogel bekommen. Das wird ihre verschuldeten Eltern zum Schweigen bringen, und vielleicht schlagen sie sie dann weniger.\nDas kann diese Oma haben, die in ihrer Not Gurkenbonbons verkauft. Sie muss wirklich einen Arzt aufsuchen für all ihre Schmerzen. Ich möchte nicht den Tag erleben, an dem ich so leckere Bonbons nicht mehr kaufen kann ...“\nÜber den Rucksack gebeugt zählte das Mädchen akribisch die Juwelen darin. Plötzlich musste es niesen.\n„Wer wohl gerade an mich denkt?“\n„Da bist du ja, Cifera.“\nDie Fäden wickelten sich um ihren Rücken, als wüssten sie nicht, wo sie anfangen sollten.\n„Von nun an, wenn du dem Wind nachjagst ...“\nDie eisigen Goldfäden umschlangen ihre Handgelenke und hielten sie fest.\n„... solltest du nicht vergessen, auch auf dich selbst aufzupassen.“\nSie rannte los und floh weit weg. Erst als sie sich umdrehte, entdeckte sie, dass der Zipfel ihres Umhangs, der auszufransen begonnen hatte, wieder aussah wie neu.",
+        "icon": "icon/light_cone/21056.png",
+        "preview": "image/light_cone_preview/21056.png",
+        "portrait": "image/light_cone_portrait/21056.png"
+    },
+    "21057": {
+        "id": "21057",
+        "name": "Die Blumen werden nicht vergessen",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Im Frühjahr säten sie Samen aus.\nIm Sommer bewässerten sie die Felder.\nIm Herbst ernteten sie die Früchte.\nIm Winter wanderten sie durch den Schnee und sangen.\n...\nDas einst karge Land erblüht nun. Schmetterlinge werden vom Lachen angelockt und landen auf den Fingerspitzen der Mädchen.\n„Schwesterherz! Wir werden diesen Ort weiter gemeinsam in ein riesiges Meer von Blumen verwandeln!“\n„Sieh nur, unser Versprechen ...“\nDer Schmetterling fliegt ans andere Ufer. Das schweigsame Mädchen streichelt sanft die warmen Blütenblätter, als wäre ihre kleine Schwester noch bei ihr.\n„Weder ich noch die Blumen, die wir einst besuchten, haben es vergessen.“",
+        "icon": "icon/light_cone/21057.png",
+        "preview": "image/light_cone_preview/21057.png",
+        "portrait": "image/light_cone_portrait/21057.png"
+    },
+    "21058": {
+        "id": "21058",
+        "name": "Blutzeichen aus der Vergangenheit",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "In der Ferne braute sich ein Sturm zusammen. Tentakel streckten sich aus dem Meer der Seelen empor, als wollten sie mit dem schwimmenden, zerbrechlichen Leben spielen.\nDie gebrochenen Gliedmaßen des Seeungeheuers schlugen Gischt hoch in den Himmel und zerbrachen wie Trümmer, woraufhin sie tief in den Meeresabgrund sanken.\nMan sagt, dass das Tosen des Kampfes zehn Tage und Nächte lang anhielt und sogar Blitz und Donner übertönte.\nMan sagt, selbst wenn ein Mensch zehntausend Leben hätte, könnte er nicht der Erosion des Meeres der Seelen widerstehen.\nLetztendlich wäscht der Mut die Unreife und die von kaltem Stolz geprägte Schwäche hinfort ...\nDiese dünne Gestalt stolperte an das Ufer. Der erste Strahl der Morgensonne schien auf das Wasser des Meeres und färbte es rot wie das Blut der Vergangenheit.",
+        "icon": "icon/light_cone/21058.png",
+        "preview": "image/light_cone_preview/21058.png",
+        "portrait": "image/light_cone_portrait/21058.png"
+    },
+    "21060": {
+        "id": "21060",
+        "name": "Träume von duftendem Weizen",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "Der Wind wehte an den Fingerspitzen des Jungen vorbei und schickte den Brief, auf dem die Tinte noch nicht getrocknet war, ins ferne Jenseits.\n„Wie meine Zukunft wohl aussehen wird ...?“\nTräumen wuchsen in seinem Kopf Flügel, und sie flogen hoch gen Himmel.\nWeizenähren tanzten im Wind und kräuselten sich, wie eine Antwort auf seinen jungenhaften, aufrichtigen Wunsch.\n„Egal, was passiert, auch wenn ich nur ein Schwert in der Hand habe, will ich diesen Ort um jeden Preis beschützen!“\nDer Junge legte in Gedanken dieses stille Gelübde ab ...\nEin Gelübde, das wie ein Brandmal für immer tief in sein Herz eingebrannt war.",
+        "icon": "icon/light_cone/21060.png",
+        "preview": "image/light_cone_preview/21060.png",
+        "portrait": "image/light_cone_portrait/21060.png"
+    },
+    "21061": {
+        "id": "21061",
+        "name": "Abenteuer der Urlaubsbäder",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "„Cinny, lass uns das neue Spezial-Badehaus ausprobieren, das kürzlich eröffnet wurde!“\nNachdem das Mädchen seinen medizinischen Dienst in Okhema beendet hatte, folgte es neugierig dem Kind zu den vielfältigen Becken.\n„Wie wäre es mit einer Tomatensaft-Massage?“\nAls das Mädchen die mit rot beschmierten Hände des Aufsehers sah, packte es den begierigen Kleinen Ika und wich zurück.\n„Ich bevorzuge das ... als Getränk ...“\n„Droma-Rückenstampfmassage, zeitlich begrenztes Angebot!“\nEin neugieriges Droma senkte seinen Kopf und sein heißer Atem zerzauste das Haar des Mädchens.\n„B... Beim nächsten Mal dann!“\n„Kräuterbad, stärkt Körper und Geist! Wie viele seid ihr?“\nAngelockt vom Kräuterduft tauchte sie zaghaft einen Fuß in das Becken.\n„Das ist bestimmt gesund ...“\n„Tuut, tuut tuut!“\nDer Kleine Ika paddelte fröhlich rücklings durch das Wasser.\n„Auch er hat sich in letzter Zeit total verausgabt ...“\nWährend dieser seltenen Auszeit trank das Mädchen Traubensaft und plauderte mit dem rothaarigen Kind über alles Mögliche, von Tipps für ruhigen Schlaf bis hin zu Gebäckrezepten.\n„Oh nein! K... Kleiner Ika!“\nDer Schrei des Kindes brach die Ruhe im Badehaus.\n„Tuut ...“\n„Kleiner Ika, halt durch!“",
+        "icon": "icon/light_cone/21061.png",
+        "preview": "image/light_cone_preview/21061.png",
+        "portrait": "image/light_cone_portrait/21061.png"
+    },
+    "21062": {
+        "id": "21062",
+        "name": "Wiedersehen an der Ziellinie",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "Ihm liefen unwillkürliche Tränen über die Wangen. Im Herzen der zertrümmerten Ritualaufstellung wartete nicht nur der Schatten des Todes, sondern auch ein Abgrund aus Stille und Leere.\nAuf einmal ertönte aus der Dunkelheit ein Seufzer; ein Beben aus den Tiefen der Seele.\n„Bist du es ... Schwester?“\nDer Junge hob die Hand und ein schwaches Licht flackerte in seinen Augen. Die Silhouette der geliebten Person verweilte nur für einen Moment, doch ihr Abdruck brannte sich ein Jahrtausend in sein Herz ein.\n„Ich verstehe ... Danke ... für dieses letzte Lebewohl.“\nEr erhob sich langsam. Die ersten Strahlen der Morgendämmerung fielen auf sein entschlossenes Gesicht, auf dem die Tränen noch nicht getrocknet waren.\n„Der Weg der Suche ist einsam ... Lass uns am Ende der Reise wieder zusammenkommen ...“",
+        "icon": "icon/light_cone/21062.png",
+        "preview": "image/light_cone_preview/21062.png",
+        "portrait": "image/light_cone_portrait/21062.png"
+    },
     "22000": {
         "id": "22000",
         "name": "Bevor das Tutorial beginnt",
@@ -708,6 +868,36 @@
         "icon": "icon/light_cone/22002.png",
         "preview": "image/light_cone_preview/22002.png",
         "portrait": "image/light_cone_portrait/22002.png"
+    },
+    "22003": {
+        "id": "22003",
+        "name": "Ninja-Aufzeichnung: Klangjagd",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "Das Kosmische Ninjutsu wandelt sich immer wieder,\nHör wie das Echo meiner Klangjagd geht hernieder!\nFühl den Rhythmus, den Ruf des Takts,\nDie Gitarr’ erklingt, die Stimmung packt.\nIn sanften Bassnoten,\nElektroakustik wird dargeboten.\nMit Fleiß und Schweiß, ja, das ist wahr,\nUnd jeder Drehung das Lied erklingt so wunderbar.\nMein Klang steigt auf, höher und immer weiter,\nTrotz Kampf und blauen Flecken, ich mache weiter.\nDie Blendenden! Die Blendenden! Ein so kühner Gesang.\nDie Blendenden! Die Blendenden! In Geschichten noch nie erklang,\nDie Blendenden! Die Blendenden! Von epischem Belang!\nHey. Hey. In dieser wilden Welt. Lass uns die Herzen in Brand setzen.\nDie Seele aus dem Leib schreien, während wir dem Wahnsinn entgegen hetzen!",
+        "icon": "icon/light_cone/22003.png",
+        "preview": "image/light_cone_preview/22003.png",
+        "portrait": "image/light_cone_portrait/22003.png"
+    },
+    "22004": {
+        "id": "22004",
+        "name": "Das große kosmische Geschäft",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "In einer virtuellen Ausstellungshalle, die aus Daten geformt wurde, tauschten die Vertreter der Ausstellung ihre Meinungen aus.\nZwei Gestalten bewegten sich zwischen den Ständen und lieferten die benötigten Waren.\n„Hmm, bist du nicht ...“\n„Ich habe dich schon mal im Fernsehen gesehen, Pom.“\nSie unterhielten sich über Spiele, Essen, den Körperbau des jeweils anderen und all die schönen Dinge im Universum.\nObwohl sie sich nur selten sahen, standen sie sich so nahe wie alte Freunde ...\n„Übrigens, möchtest du nicht noch einmal meinen Vorschlag überdenken ...“\n„Der Express ist unverkäuflich!“",
+        "icon": "icon/light_cone/22004.png",
+        "preview": "image/light_cone_preview/22004.png",
+        "portrait": "image/light_cone_portrait/22004.png"
+    },
+    "22005": {
+        "id": "22005",
+        "name": "Wirrgarten-Restaurant für immer",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "*groll* ...\nAußerhalb des Wirrgartens tobt unaufhörlich der Sturm.\n*gurgel* ...\nDer magische Kessel der Feen brodelt über nie erlöschendem Feuer.\n„Eine Prise spezieller Gewürze ...“\n„Etwas frisches Gemüse!“\n„Diesmal wird uns der Durchbruch gelingen!“\nDer große Kessel beginnt erneut zu brodeln, während die Feen gespannt zusehen.\n„Da, da!“\nEin greller Lichtstrahl schießt vom Boden des Kessels empor ...\nSeht nur, alle versammeln sich!\n...\nBei diesem duftenden Festmahl erheben die Gäste ihre Gläser auf diese wunderbaren Zeiten ...\nMöge dieses traumhafte Paradies für immer warm und voller Freude bleiben!",
+        "icon": "icon/light_cone/22005.png",
+        "preview": "image/light_cone_preview/22005.png",
+        "portrait": "image/light_cone_portrait/22005.png"
     },
     "23000": {
         "id": "23000",
@@ -1014,10 +1204,210 @@
         "name": "Tanz im Sonnenuntergang",
         "rarity": 5,
         "path": "Warrior",
-        "desc": "Eine Gestalt rennt schnell in der leuchtenden Dämmerung über die Dächer.\n„Coco, Gugu – mal sehen, wer es zuerst bis zum Ende schafft!“\nWie ein flinkes kleines Tier klettert das Mädchen die Dachrinne hinauf, weicht den Wachen aus und schwingt sich im Wind, während sie dem letzten Rest Tageslicht hinterherjagt.\nDie leicht erwärmte Abendbrise streicht über das Gesicht des Mädchens und das abklingende Licht des Tages färbt die Katzen in bunte Farben.\n„Ihr habt gewonnen!“\nSie wischt sich den Schweiß von der Stirn und nimmt die Katzen in die Arme.\nDie Sterne tauchen am Himmel auf, und ihr unschuldiges, offenes Lächeln blüht zwischen ihnen auf, wie die Schichten der strahlenden Abendwolken, die am Horizont entlang schweben.",
+        "desc": "Eine Gestalt rennt in der leuchtenden Dämmerung über die Dächer.\n„Lili, Guoguo – mal sehen, wer es zuerst bis zum Ende schafft!“\nWie ein flinkes kleines Tier klettert das Mädchen die Dachrinne hinauf, weicht den Wachen aus und schwingt sich im Wind, während sie dem letzten Rest Tageslicht hinterherjagt.\nDie warme Abendbrise streicht über das Gesicht des Mädchens und das abklingende Licht des Tages färbt die Katzen in bunte Farben.\n„Ihr habt gewonnen!“\nSie wischt sich den Schweiß von der Stirn und nimmt die Katzen in die Arme.\nDie Sterne tauchen am Himmel auf, und ihr unschuldiges, offenes Lächeln blüht zwischen ihnen auf, wie die Schichten der strahlenden Abendwolken, die am Horizont entlang schweben.",
         "icon": "icon/light_cone/23030.png",
         "preview": "image/light_cone_preview/23030.png",
         "portrait": "image/light_cone_portrait/23030.png"
+    },
+    "23031": {
+        "id": "23031",
+        "name": "Ich wage die Jagd",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "„Erbärmliche, lächerliche Sklaven ...“\nDie mächtige Armee der Wesen des Überflusses drängte über die Grenze und Lupitoxin strömte auf die Verdantia-Armee zu wie eine Flutwelle, um die in den Herzen der Soldaten vergrabene Angst zu wecken. Schreckliche Illusionen erschienen, die die Soldaten veranlassten, ihre Waffen fallenzulassen und zu zögern.\nDoch die Verteidigungslinie war unzerstörbar wie eine bronzene Wand, unbewegt von den verächtlichen Worten der Borisin. Eine einzelne Gestalt trat zwischen den Kriegern hervor.\nSie bewegte sich langsam, und die Fahnen hinter ihr rascheln unter der unsichtbaren Tötungsabsicht.\n„Generalin! Es ist die Generalin!“\n„Generalin Feixiao ...!“\n„Die Merlinskralle!“\nDiese leisen Ausrufe kamen zu einem donnernden Schlachtruf zusammen.\n„Immer im Höhenflug, ewig siegreich!“\nSie stand allein da; eine einzige Person, die einer ganzen Armee glich.",
+        "icon": "icon/light_cone/23031.png",
+        "preview": "image/light_cone_preview/23031.png",
+        "portrait": "image/light_cone_portrait/23031.png"
+    },
+    "23032": {
+        "id": "23032",
+        "name": "Nur ein Duft bleibt zurück",
+        "rarity": 5,
+        "path": "Priest",
+        "desc": "„Erstens: Regelmäßige Arbeitsgewohnheiten neu organisieren.“\n„Zweitens: Streng Belohnungen und Bestrafungen einführen.“\n„Das Wichtigste ist natürlich, so schnell wie möglich das Geflecht der persönlichen Interessen aller Beteiligten zu durchschauen ...“\nObwohl sie eigentlich hier war, um die Landschaft zu bewundern, machte sie sich unbewusst Gedanken über die Arbeit, was wiederum Stress und Frustration mit sich brachte.\nSie zündete schnell den beruhigenden Weihrauch an, den sie immer bei sich trug.\n„Die Welt ist so schön, und doch bin ich so reizbar ... Am besten denke ich nicht an diese nervigen Dinge, solange ich im Urlaub bin ...“",
+        "icon": "icon/light_cone/23032.png",
+        "preview": "image/light_cone_preview/23032.png",
+        "portrait": "image/light_cone_portrait/23032.png"
+    },
+    "23033": {
+        "id": "23033",
+        "name": "Ninja-Kodex: Blendender Schattenbrecher",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Irgendwo in der Welt der Ninja hüllt ein düsterer, grauer Schleier die Stadt ein.\n„Hiyaaa!“\nEine junge Frau stürmt durch die Monster, ihre leuchtende Silhouette zerschneidet die Dunkelheit einer mondlosen Erde wie ein farbiger Strich.\nInmitten des Rauchs winden sich die Ninjaschurken vor Schmerz und Unglauben.\n„Wer ... bist du?“\n„Ich bin Ninja Rappa! Ein Herz ohne Furcht, welches das Böse auslöscht und für Gerechtigkeit sorgt.“\nDie Ninjaschurken sehen sich mit weit aufgerissenen Augen an und versuchen zu fliehen.\n„Seid ihr bereit, eure Todesgedichte zu sprechen, ihr Schurken?“\nIhre Shuriken tanzen durch die Luft, ein Feuerwerk aus Licht und Stahl, das ihre Gegner mit seiner blendenden Schnelligkeit überfordert.\n„Geheime Technik: Blendende Vernichtung!“\nDie Explosion hinter ihr erhellt die Nacht und offenbart die Wunden der Stadt.\nMit einem tiefen Atemzug stürzt sie sich in die neonbeleuchtete Welt, in der die bunten Lichter wie ein Heavy-Metal-Chor schreien.\n„Solch widerliche böse Geister. Die Große Jagd der Blendenden Ninja geht weiter ...“",
+        "icon": "icon/light_cone/23033.png",
+        "preview": "image/light_cone_preview/23033.png",
+        "portrait": "image/light_cone_portrait/23033.png"
+    },
+    "23034": {
+        "id": "23034",
+        "name": "Flug zurück zur Erde",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "Die Illusion war zerbrochen. Er hatte die Sonne aller Dinge sein wollen, doch er war vom Himmel gefallen.\n„Fühlst du, was Schmerz ist?“\nSo sprach eine andere Stimme in seinem Herzen.\n„Es ist genau das, was ich fühlen sollte.“\nEr antwortete mit schweren Schritten, als er in den Staub fiel.\nEr wanderte auf der Erde und sah erneut das Elend, das die Welt der Menschen überschwemmte wie eine immerwährende Wasserquelle.\nEr durchquerte die Dornen, die ihm den Weg versperrten, er hörte die Schreie der Sterblichen, er durchlebte bittere Enttäuschung und fand schließlich Gelassenheit.\n„Fallen ist ursprünglich nur ein anderes Wort für Fliegen.“\nAn diesem achten Tag gewährte er sich selbst die „Abreise“.",
+        "icon": "icon/light_cone/23034.png",
+        "preview": "image/light_cone_preview/23034.png",
+        "portrait": "image/light_cone_portrait/23034.png"
+    },
+    "23035": {
+        "id": "23035",
+        "name": "Rückkehr auf langem Wege",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "„Wer ... ist das?“ Das Mädchen tastete vorsichtig die eigene ungewohnte Gestalt ab.\nSie erinnerte sich daran, wie das Feuer sie an jenem Tag verzehrt hatte, wie der juwelenbesetzte Fächer zu Asche zerfallen war.\nSie hatte auf der Suche nach dem Licht einen langen Weg zurückgelegt.\nDie Stimmen dort draußen riefen sie, führten sie weiter, trugen sie durch die dichte Dunkelheit.\nEine innere Stimme erinnerte sie an die unerfüllten Gelübde, die ausstehenden Vereinbarungen, die unerfüllten Träume, die noch auf sie warteten ...\nSie war im Feuer nicht ausgelöscht worden, sondern hatte immer heller geleuchtet.\n„Das bin ich ...“\nSie stand am Endpunkt und blickte nicht mehr zurück ...\n„Das alte Ich ist auch das neue Ich.“",
+        "icon": "icon/light_cone/23035.png",
+        "preview": "image/light_cone_preview/23035.png",
+        "portrait": "image/light_cone_portrait/23035.png"
+    },
+    "23036": {
+        "id": "23036",
+        "name": "In Gold gewebte Zeit",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "„Dieser Faden ist das Opfer eines Kriegers.“\n„Dieser Faden ist das Wachstum eines Helden.“\n„Dieser Faden ist der Wohlstand einer Stadt.“\n...\nDie Kleidermacherin zog mit einer Nadel an den Fäden, die sie zwischen den Fingern hielt.\n„Das Schicksal einiger Helden wurde bereits durchtrennt ...“\nSie nahm noch ein paar Goldfäden und setzte ihre Reparaturarbeiten fort.\n„Das Schicksal einiger Helden muss weitergehen ...“\nDer von Göttlichkeit erfüllte Webstuhl arbeitete von selbst, während die Kleidermacherinnen mit lebhafter Anmut tanzten. Jahrtausende waren im Webstuhl vergangen, aber sie war solches Warten längst gewohnt ...\nWarten auf die Inspiration dieser in Gold gewebten Zeit.",
+        "icon": "icon/light_cone/23036.png",
+        "preview": "image/light_cone_preview/23036.png",
+        "portrait": "image/light_cone_portrait/23036.png"
+    },
+    "23037": {
+        "id": "23037",
+        "name": "Auf zu unerklärlichen Orten",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "„Die Briefe der Intelligenzia-Gilde wurden bearbeitet.“\n„Die Universum-Simulation läuft normal ...“\n„Literarische Sammlungen wurden nachgedruckt.“\n„Psst, leise. Störe Frau Herta nicht ...“\n... In einem hohen Turm an der Grenze der Galaxie erledigten die Marionetten methodisch alle möglichen Arbeiten und warteten auf ihre Ankunft.\nDie Zeit verging wie im Flug. Zahllose Gestalten zogen am Nachthimmel der Geschichte vorbei wie Sternschnuppen, die für einen kurzen Moment erstrahlten, bevor sie wieder in Stille versanken.\n„Frau Herta ist schon eine ganze Weile nicht mehr aufgetaucht ...“\n„Ob sie wohl immer noch nachdenkt ...?“\n„Hmpf, glaubst du, man kann einfach so ein paar Grundsätze entdecken und dann ist alles erledigt?“\nSie streckte sich träge und hob den Kopf aus ihren Berechnungen, als wäre ihr eine weitere Idee gekommen ...\n„Nichts ist unanfechtbar. Ich werde diesen Fragen bis zum Ende nachgehen!“",
+        "icon": "icon/light_cone/23037.png",
+        "preview": "image/light_cone_preview/23037.png",
+        "portrait": "image/light_cone_portrait/23037.png"
+    },
+    "23038": {
+        "id": "23038",
+        "name": "Wenn Zeit eine Blume wäre",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "„Mama, ich möchte noch eine Geschichte hören!“\n„Mein süßes Mädchen, wie wär’s, wenn wir heute über die Zeit reden?“\n„Zeit ... was ist das?“\n„Zeit, meine Liebe, ist wie eine Blume.“\n„Wie der Löwenzahn, der auf den Feldern blüht?“\n„Ja, genau wie Löwenzahn. Die Zeit wächst, blüht und trägt Früchte. Wir nennen ihre Blütenblätter ‚Momente‘.“\n„Und was passiert dann?“\n„Dann verwelkt sie in tausend Stücke und hinterlässt Samen, die überall herumfliegen ...“\n„Mama, bedeutet das, dass sie die ‚Zukunft‘ wird?“\n„Rate mal, was danach daraus wird?“\n„Sie verwandelt sich in so viele Blumen, die zu einem leuchtenden Blütenmeer erblühen, richtig?“\nDie Mutter hatte keine Zeit zu antworten, als das Sonnenlicht durch das Fenster das Gesicht des Mädchens wärmte. Die sanfte Gestalt verschwand erneut in ihrem Traum.\nSie öffnete die Augen.\n„Wenn Zeit eine Blume wäre ...“, murmelte sie.\n„Sie würde ganz sicher zu einem Meer aus Blumen werden“, sagte das ruhige Mädchen.\n„Natürlich würde sie das!“, rief das verspielte Mädchen und freute sich über ihr Meisterwerk.",
+        "icon": "icon/light_cone/23038.png",
+        "preview": "image/light_cone_preview/23038.png",
+        "portrait": "image/light_cone_portrait/23038.png"
+    },
+    "23039": {
+        "id": "23039",
+        "name": "Flamme des Blutes, entzünde meinen Pfad",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Eisiger Tau gefror auf der Klinge und lief in blutroten Streifen herab.\nIn der rostbefleckten Wildnis flackerte noch immer die Glut der Schlacht und Flammen loderten auf der Asche.\n„Mydeimos, das war ein gottgleicher Kampf!“,\nrief ein Krieger mit nacktem Oberkörper begeistert, während er seine Waffe sauberwischte.\n„Mydei, eines Tages werde ich so unbesiegbar sein wie du!“\nEin Kind sah ihn ehrfürchtig an und hielt ein zerbrochenes Schwert in seinen kleinen Händen.\n„Kronprinz, unsere Rückkehr nach Castrum Kremnos ist in Sicht.“\nEin alter Mann lächelte und hob seine Tasse, um auf ihn anzustoßen.\nEr nickte stumm und ging zum Rand des Lagers.\nDer Schmerz der Wiedergeburt lief noch immer über seine Haut. Am nächsten Morgen wird er die Kremnosianische Einheit erneut in fremde Länder führen.\nWo diese Wanderung enden würde, wusste er nicht. Die einzige Gewissheit war, dass er die Pflicht eines Königs erfüllen würde, bis ihn Blut und Flammen verzehrten.\nAls die Nacht hereinbrach, trank er allein den Blutwein. Ein vorbeiziehender Barde zupfte an seinen Saiten, eine wandernde Melodie trieb durch die Luft: \n„Heimat ist das Land der Träume, kein Ort, den man jemals erreichen kann.“",
+        "icon": "icon/light_cone/23039.png",
+        "preview": "image/light_cone_preview/23039.png",
+        "portrait": "image/light_cone_portrait/23039.png"
+    },
+    "23040": {
+        "id": "23040",
+        "name": "Ein noch schönerer Abschied",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Eine weitere Abschiedszeremonie war im Gange.\nEin junges Mädchen, das durch das gebrochene Mondlicht schritt, flocht am Flussufer einen Abschiedskranz.\nAlte Klagelieder kristallisierten sich in der kalten Luft, während der ruhige Fluss in ein fernes Land voller Blüten floss.\nBlutbefleckte Schriftrollen, verrostete Langschwerter, mit Gedichten bestickte Taschentücher ... Sie nahm ihre Erinnerungsstücke zusammen mit ihren Lebensgeschichten entgegen.\n„Meine Augen sind wie Linsen, die sich immer nach dem Sternenhimmel sehnen.“\n– Ein Epitaph, das dem verstorbenen Gelehrten gewidmet ist.\n„Der Ritter schenkt dem Leben wie dem Tod nur einen kalten Blick.“\n– Der Grundsatz, an den sich der namenlose Krieger sein Leben lang gehalten hatte.\n„Das Leben ist nichts als der Tod, der in schimmerndem Licht erstrahlt.“\n– Die letzte Strophe, die der ewig suchende Dichter mit seinem Leben schrieb.\n...\n„Jede Blume blühte einst voller Stolz ...“\nBegleitet vom sanften Wehklagen des Flusses bot sie den Verstorbenen Gedichte, Blütenkränze und Andenken an ...\n„Wenn das Verwelken schon unvermeidlich ist, dann soll unser Abschied wenigstens ... ein bisschen schöner sein.“",
+        "icon": "icon/light_cone/23040.png",
+        "preview": "image/light_cone_preview/23040.png",
+        "portrait": "image/light_cone_portrait/23040.png"
+    },
+    "23041": {
+        "id": "23041",
+        "name": "Das Leben sollte in Flammen aufgehen",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "In diesem verborgenen Experiment drängten verschiedene Illusionen ständig nach vorne und beschwerten seine Schritte.\nDas Geflüster der Versuchung sagte ihm: „Gib dieses gefährliche Thema auf. Warum solltest du dein Leben aufs Spiel setzen?“\nEine eisige Stimme sagte ihm bedrohlich: „Diejenigen, die am Rande von Leben und Tod wandeln, werden ihr Leben schließlich in Brand setzen.“\nDann waren da noch die wütenden Anschuldigungen, die danach schrien, dass der Sünder, der die Götter verachtet hatte, zu einer grausamen Hinrichtungsstätte gebracht werden sollte.\n„Auch im Theater des Lebens muss irgendwann der Vorhang fallen.“\nEr schloss die Augen, umklammerte die göttliche Kernflamme und ließ den Schmerz seine schwindende Seele ertränken.\nZuerst sein entschlossener Blick; dann sein schlagendes Herz; dann die ganze Seele ... Er stürzte sich bereitwillig in diese reinste und intensivste Flamme in der Schmelze ...\nDie vielen Stimmen kochten über und lösten sich dann in Stille auf.\nIn der Dunkelheit nahm die strahlende Wahrheit in seinen Händen Gestalt an.",
+        "icon": "icon/light_cone/23041.png",
+        "preview": "image/light_cone_preview/23041.png",
+        "portrait": "image/light_cone_portrait/23041.png"
+    },
+    "23042": {
+        "id": "23042",
+        "name": "Mögen Regenbögen am Himmel bleiben",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "„Emotionen sind wie Wolken, und wir sind der Himmel, der sie trägt. Wenn der Himmel bewölkt ist, schwanken unsere Herzen zwischen Licht und Schatten.“\nDie Ärztin hört sich die Sorgen des Besuchers aufmerksam an und schenkt ihm sanfte Worte des Trostes.\n„Schließe deine Augen, atme langsam ... Stell dir vor, du wärst an einem warmen und weichen Ort ...“\nWie von Magie durchdrungen, strömt ein siebenfarbiges Leuchten unter den Schwingen der geflügelten Bestie hervor.\n„Eine Brise weht über das Land und trägt den Duft von Wildblumen mit sich. Feuchte Wolken ziehen vorbei, voller Sonnenschein ...“\nDer Besucher versinkt allmählich in einen friedlichen Traum und reagiert nur mit dem ruhigen Rhythmus gleichmäßiger Atemzüge.\nNachdem sie den letzten Patienten untersucht hat, schließt die Ärztin vorsichtig die Tür der Station.\nIn der Ferne wogt noch immer die grenzenlose Nacht, deren Ruinen wie Narben auf der Erde durchziehen.\n„Möge die Morgendämmerung im nächsten Leben auf alle scheinen ...“\nBevor sie geht, spricht sie ihren Wunsch zum Himmel ...\n„Möge das Licht der Regenbögen für immer am Himmel bleiben.“",
+        "icon": "icon/light_cone/23042.png",
+        "preview": "image/light_cone_preview/23042.png",
+        "portrait": "image/light_cone_portrait/23042.png"
+    },
+    "23043": {
+        "id": "23043",
+        "name": "Vom Winde verwehte Lügen",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Das Mädchen mit den Katzenohren streckt ihre Glieder auf dem Dach aus und schleicht sich in die Nacht.\nIn der Schatzkammer, die tausend Jahre lang geschlummert hat, gleitet sie mühelos umher und sammelt kostbare Schätze in ihren Armen, nur um dann wieder lautlos zu verschwinden.\n„Das törichte Schicksal kann mich nie einholen!“\nDer Wind trägt den Duft der Wildnis durch die Ruinen und bewegt ihre Kapuze.\nSie lehnt ihren Kopf an den kalten Stein und schluckt einen Bissen ihrer trockenen Ration, während ihre Finger müßig mit einer Goldmünze spielen.\nEin leises Geräusch aus der Ferne erreicht ihre Ohren. In der Heiligen Stadt, die in das Licht der Morgendämmerung getaucht ist, schwelgen die Menschen noch immer in Wärme und Festlichkeit.\n„Wie lange noch ... ein Jahr oder zehntausend?“\nSie streckt sich träge und schiebt ihre unruhigen Gedanken beiseite.\n„Ha, Cifera wird immer zuletzt lachen!“\nEin goldener Blitz durchfährt den Himmel, und die Verkündung des Mädchens verweht im Wind ...\nGenau wie vor tausend Jahren.",
+        "icon": "icon/light_cone/23043.png",
+        "preview": "image/light_cone_preview/23043.png",
+        "portrait": "image/light_cone_portrait/23043.png"
+    },
+    "23044": {
+        "id": "23044",
+        "name": "Wie die Morgendämmerung brennt",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Noch einmal, am Ende der Reise, verschlang die sengende goldene Sonne die Silhouette jenes Mannes.\n„Also, dieses goldene Blut, die letzte Hoffnung auf Erlösung, war wirklich ...“\nSeine Tränen hatten keine Chance zu fallen und verflüchtigten sich im Dampf.\n„Weißschopf, wir sehen uns morgen!“\n„Erlöser, denk daran, bis zum letzten Akt zu überleben!“\n„Geh und sei die Morgendämmerung von Amphoreus ...“\n...\nDie Wünsche der Menschen verhallten im Nichts. Der Namenlose Held zerbrach – sein heftiger, tragischer Tod offenbarte sich.\n„Wenn Wut dieses verdrehte Schicksal nicht zu Asche verbrennen kann ...“\nEr erklomm immer wieder den Gipfel, nur um zu fallen und zu zerbrechen, immer und immer wieder ...\n„Dann lass mich mit ihm gemeinsam in Flammen aufgehen!“",
+        "icon": "icon/light_cone/23044.png",
+        "preview": "image/light_cone_preview/23044.png",
+        "portrait": "image/light_cone_portrait/23044.png"
+    },
+    "23045": {
+        "id": "23045",
+        "name": "Eine Krönung ohne Dank",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Das Mädchen hörte in der Fantasie das Nachhallen der Worte von jenem Tag.\n„Dieses Schwert ließ sich gar nicht schwer ziehen, Merlin.“\n„In der Tat. König zu werden, den sich alle wünschen, wird für dich überhaupt nicht schwer sein, solange ich dich leite. Doch Altria ... das Schwierige ist, dass du nicht immer allen Erwartungen gerecht werden kannst.“\n„Dann können sie bis dahin einen passenderen König wählen. Dagegen habe ich nichts einzuwenden.“\n„Aber was, wenn so jemand niemals existiert?“\n„... Dann werde ich mein Bestes geben, um den Erwartungen aller gerecht zu werden.“\nDas Mädchen war sich längst bewusst geworden, wie tiefgreifend diese Tragödie sein würde. Hätte sie sich entschieden, aufzugeben, wenn sie in den Moment zurückkehren könnte, in dem alles begann?\nDer König schweigt und greift fest nach dem Schwert.\nDer Stein lässt erneut ein donnerndes Dröhnen ertönen, als das Schwert herausgezogen wird.",
+        "icon": "icon/light_cone/23045.png",
+        "preview": "image/light_cone_preview/23045.png",
+        "portrait": "image/light_cone_portrait/23045.png"
+    },
+    "23046": {
+        "id": "23046",
+        "name": "Hölle der brennenden Ideale",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "Die Flammen des Karmas setzen die Ebenen in Brand. Die Ideale der Unbekannten verwandeln sich in Asche, während jene der Anderen leidenschaftlich brennen.\nDer Wächter durchquert Kugelhagel und Pfeilsalven.\nEr kann hier niemanden retten. Er kann hier alle retten.\nTöte einen, um einen zu retten. Töte Zehntausende, um Zehntausende zu retten. Über unsere Mitmenschen hinwegzutrampeln – dieses Schicksal ist Teil des Fortbestehens der Menschheit.\nDer Wächter war längst daran gewöhnt, und seine Schritte zögerten nie.\nDer Entschluss, der seine Beine trägt, ist wie der Wind. Der Entschluss, der seine Arme bewegt, ist wie das Feuer.\nEr sucht noch immer nach einem Wunder, das die Rettung bringen kann.",
+        "icon": "icon/light_cone/23046.png",
+        "preview": "image/light_cone_preview/23046.png",
+        "portrait": "image/light_cone_portrait/23046.png"
+    },
+    "23047": {
+        "id": "23047",
+        "name": "Warum singt der Ozean",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Die Wellen tosten, das Rauschen der Brandung erfüllte den Himmel.\nDie Fische wanderten durch das leere Meer, wo der Schaum vergangener Tage aufgewühlt wurde und jene Melodie noch immer nachzuhallen schien.\n„Edle Prinzessin, feiere mit uns das große Fest!“\nUm diesem Ruf der Tiefsee zu folgen, tanzte sie mit der Schwarzen Flut, bis sie allein auf der prächtigen Bühne zurückblieb.\n„Schwertmeisterin des Ozeans, warum schweigst du, wofür singst du?“\nBei jedem ihrer Schritte auf Erden ertrug sie Schmerzen. Sie sang nur selten; einzig ihre blutrote Klinge stimmte das Klagelied des Lebens an.\n„Dux Gladiorum, komm mit mir. Erobern wir das Sternenmeer!“\nAls sie dieses glühende Licht fand, ergriff sie endlich ihren Bogen, in dem Glauben, dies sei der Beginn des Festes.\n ...\n„Helektra ... Helektra ... wohin wirst du nach diesem letzten Lied schwimmen?“\nWenn trügerische Hoffnungen zerbrachen, antwortete sie stets mit einer einsamen Melodie auf die Fragen der Menschen und verzauberte dabei alle, die sie hörten ...\nOder vielleicht ... ob in der Menschenwelt oder in der Tiefsee, kann nur die Musikerin selbst sich wirklich hören.",
+        "icon": "icon/light_cone/23047.png",
+        "preview": "image/light_cone_preview/23047.png",
+        "portrait": "image/light_cone_portrait/23047.png"
+    },
+    "23048": {
+        "id": "23048",
+        "name": "Zeitalter des goldenen Blutes",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "„Wie wird die Geschichte sich in tausend Jahren an Cerydra erinnern?“\nSo wurde sie einst gefragt.\nFür manche war sie die berüchtigte Imperatorin.\nDie kalte, grausame Tyrannin, die ehrgeizige Flammengekrönte, die Kaiserin, die die alte Ära mit Blut und Feuer niederbrannte ...\nAndere widersprachen, sie sei nur eine bemitleidenswerte Spielfigur.\nDiese von allen verlassene Herrscherin war nichts weiter als eine Gefangene des Ehrgeizes, die in jenem Schachspiel gegen die Götter dazu verdammt war, alles zu verlieren.\nUnd wieder andere sagten, tief in ihrem Herzen, dunkler als die Tiefen des Meeres, war sie nur eine Sterbliche namens Cerydra ...\nAuch sie trauerte um gefallene Gefährten, auch sie zögerte und fürchtete sich vor ihrer schweren Bestimmung, unfähig, vorwärtszugehen ...\n„Ha, die Geschichte muss sich nicht an mich erinnern ...“\nSie schluckte die Bitterkeit in ihrem Herzen hinunter und setzte ihren Weg auf jenem von Opfern gepflasterten Pfad der Flammenjagd ...\n„Es ist unser brennendes goldenes Blut, das sie eingraviert!“",
+        "icon": "icon/light_cone/23048.png",
+        "preview": "image/light_cone_preview/23048.png",
+        "portrait": "image/light_cone_portrait/23048.png"
+    },
+    "23049": {
+        "id": "23049",
+        "name": "Auf das Sternenlicht der langen Nacht",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "In den Ritzen der Zeit hallt nur ihr Herzschlag wider.\nWie in jenen zahllosen Tagen und Nächten von einst – wachen im Dunkel und ruhen in der Nacht.\nSie hütet die Erinnerungen, die ihr anvertraut wurden.\nVon einem leeren Ausgangspunkt aus bemalt das Mädchen mit leuchtenden Farben all die Orte, an denen sie verweilte: der heimelig eingerichtete Express, die Gefährten mit ihren Eigenheiten, die strahlend schönen Planeten ... Alles wie ein Traum, der so hinreißend ist, dass man nie erwachen möchte.\n„Die wahre Reise von 7. März beginnt erst jetzt!“\nDas Bekenntnis des Mädchens klingt, als würde es ihr ins Ohr geflüstert.\nSie blickt in den fernen Sternenhimmel. Ein Lichtstrahl naht ...\nDas Licht des Expresses, hell wie eine Sternschnuppe.\n„Gute Nacht, März ... Wenn du eines Tages erwachst, soll dein Trailblaze weitergehen. ♭“\nDie Memoria-Flut steigt auf, und sie verbirgt ihren Wunsch tief in ihrem Herzen. Jene leise Stimme, jenes Leuchten ...\nNichts davon hat sie je vergessen.",
+        "icon": "icon/light_cone/23049.png",
+        "preview": "image/light_cone_preview/23049.png",
+        "portrait": "image/light_cone_portrait/23049.png"
+    },
+    "23051": {
+        "id": "23051",
+        "name": "Selbst über endlose Lande",
+        "rarity": 5,
+        "path": "Knight",
+        "desc": "In den endlosen, uralten Landen ist ein junger Mann auf einer einsamen Suche.\nEs ist, als kehrte er zurück in die Tage des Umherirrens: Er durchwatet tosende Wogen, trotzt Sturm und Frost, kämpft gegen gewaltige Bestien und ringt mit den unbändigen Fluten.\nDoch in den Augenblicken des Atemholens ist er nicht allein.\nSelbst über endlose Lande kann er das Licht vor sich sehen ...\nEs ist die Hoffnung aller Lebewesen.\nDie zerbrochene Erde kann kein neues Leben mehr bewahren. Sie versammeln sich an seiner Seite, Trost und Schutz suchend.\nEs sind die Worte der Gefährten, die in seinem Herzen zurückgeblieben sind, wie eine nie endende Seeroute, die sie untrennbar verbindet.\nAuch wenn sich die Sorgen seiner Vergangenheit zuweilen mit dem Wind erheben, wird der Weg, den er gekommen ist, für ihn schließlich zu der Kraft werden, die seine Verwandlung ermöglicht.\n„Ich werde den Pfad des Trailblaze beschützen.“\nMit erhobenem Speer springt der junge Mann empor, dem Licht entgegen ...\n„Und ich werde jede Hoffnung verteidigen, die zu verschwinden droht!“",
+        "icon": "icon/light_cone/23051.png",
+        "preview": "image/light_cone_preview/23051.png",
+        "portrait": "image/light_cone_portrait/23051.png"
     },
     "24000": {
         "id": "24000",
@@ -1068,5 +1458,15 @@
         "icon": "icon/light_cone/24004.png",
         "preview": "image/light_cone_preview/24004.png",
         "portrait": "image/light_cone_portrait/24004.png"
+    },
+    "24005": {
+        "id": "24005",
+        "name": "Der Vorhang der Erinnerung fällt nie",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Ob geschäftig, trostlos, flüchtig oder beständig ... jeder Planet und jeder Augenblick ist voll von zahllosen Ereignissen.\nDiese komprimierte Geschichte schmilzt bei einer einzigen Berührung und fließt wie Tränen aus den Augen der Welt.\nManche sagen: „Wie schwer müssen diese Tränen sein! Die angehäuften Jahre können die Ewigkeit verblassen lassen.“\nManche sagen: „Wie wundersam sind die Geschichten, die sie erzählen, so klarer Kummer, so heitere Freude, ungetrübt durch auch nur einen Hauch von Falschheit.“\nDer Kosmos fließt in stiller Ruhe und sie sprechen nicht, sondern beobachten nur.\nSie beobachten und warten darauf, dass die Dinge zu „Erinnerungen“ werden.",
+        "icon": "icon/light_cone/24005.png",
+        "preview": "image/light_cone_preview/24005.png",
+        "portrait": "image/light_cone_portrait/24005.png"
     }
 }

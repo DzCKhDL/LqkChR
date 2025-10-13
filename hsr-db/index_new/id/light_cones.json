@@ -209,6 +209,26 @@
         "preview": "image/light_cone_preview/20020.png",
         "portrait": "image/light_cone_portrait/20020.png"
     },
+    "20021": {
+        "id": "20021",
+        "name": "Shadowburn",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "Kekuatan langka yang terkondensasi dari waktu. Momen kecil tersebut menjalin takdir yang luar biasa.\n\"Orang-orang akan selalu berusaha menghapus beberapa masa lalu yang tidak menyenangkan. Inilah sifat alami dari memori.\"",
+        "icon": "icon/light_cone/20021.png",
+        "preview": "image/light_cone_preview/20021.png",
+        "portrait": "image/light_cone_portrait/20021.png"
+    },
+    "20022": {
+        "id": "20022",
+        "name": "Reminiscence",
+        "rarity": 3,
+        "path": "Memory",
+        "desc": "Kekuatan langka yang terkondensasi dari waktu. Momen kecil tersebut menjalin takdir yang luar biasa.\n\"Dalam mimpi indah yang singkat, jiwa yang menua seolah-olah kembali ke lautan warna-warni masa kanak-kanak.\"",
+        "icon": "icon/light_cone/20022.png",
+        "preview": "image/light_cone_preview/20022.png",
+        "portrait": "image/light_cone_portrait/20022.png"
+    },
     "21000": {
         "id": "21000",
         "name": "Post-Op Conversation",
@@ -679,6 +699,146 @@
         "preview": "image/light_cone_preview/21046.png",
         "portrait": "image/light_cone_portrait/21046.png"
     },
+    "21047": {
+        "id": "21047",
+        "name": "Shadowed by Night",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "\"Jejak kaki.\"\n\"Goresan.\"\n\"Aroma.\"\nSetelah semuanya selesai ditangani, dia mengambil sehelai bulu gagak dan melompat dengan ringan ke atas gedung.\nDi tengah kota yang luas, bayangan hitam melintasi sudut-sudut yang tak terlihat.\n\"Aku akan melebur dalam bayang-bayang dan menjaga kalian.\"",
+        "icon": "icon/light_cone/21047.png",
+        "preview": "image/light_cone_preview/21047.png",
+        "portrait": "image/light_cone_portrait/21047.png"
+    },
+    "21048": {
+        "id": "21048",
+        "name": "Dream's Montage",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"Kota mimpi indah, sarang kejahatan, atau tanah yang dijanjikan ....\"\nDengan mengambil memori orang-orang, dia mengintip kisah-kisah yang menggugah itu, kemudian mengacaukan, menyusun ulang, dan menyatukannya bersama-sama.\n\"Kebanyakan orang punya memori yang membosankan. Seumur hidupnya cuma ada beberapa momen yang berharga, yang lainnya sama sekali tidak penting.\"\nGambar demi gambar melintas di tangannya dan berubah menjadi adegan yang menakjubkan ...\n\"Kami tidak memindahkan memori, kami hanya menciptakan masa lalu.\"",
+        "icon": "icon/light_cone/21048.png",
+        "preview": "image/light_cone_preview/21048.png",
+        "portrait": "image/light_cone_portrait/21048.png"
+    },
+    "21050": {
+        "id": "21050",
+        "name": "Victory In a Blink",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Raungan kerabat Titan yang dahsyat mengguncang seluruh medan perang. Dua sosok menerjang bagaikan kilat, membuka jalan bermandikan darah di tengah kekacauan.\n\"Aku bisa menyingkirkan mereka semua sendiri.\"\nSetiap tinju dari prajurit itu menghasilkan duri darah yang menembus tubuh musuh.\n\"Cuma mengandalkan kekuatan kasar? Lihatlah pedangku!\"\nSebilah pedang perak mengayun membuat lengkungan yang indah dan para monster jatuh seperti daun-daun berguguran.\n\"Mau adu kecepatan?\"\nKeduanya maju serentak melawan musuh-musuh di depan.\nRaungan derita menggema saat monster yang mencoba menyerang dari belakang dibantai seketika.\nDua suara langsung terdengar secara bersamaan.\n\"Aku yang memberikan serangan terakhir padanya!\"",
+        "icon": "icon/light_cone/21050.png",
+        "preview": "image/light_cone_preview/21050.png",
+        "portrait": "image/light_cone_portrait/21050.png"
+    },
+    "21051": {
+        "id": "21051",
+        "name": "Geniuses' Greetings",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "\"Selamat, eksperimennya gagal lagi kan?\"\n\"....\"\n\"Sudah kubilang sebelumnya, ada kesalahan dalam metodemu.\"\n\"....\"\n\"Aku kasih tahu kamu deh, aku mencapai terobosan besar loh baru-baru ini~\"\nWanita yang dingin itu mengangkat kepalanya dari bukunya ....\n\"Maaf, kamu bilang apa ya?\"\nDia mengibaskan tangannya.\n\"Yah, tidak bisa dibilang menakjubkan sih. Paling juga memengaruhi sebagian besar alam semesta.\"\nWanita itu menutup bukunya.\n\"Kalau begitu, coba aku dengar.\"\n\"Hmph, kebijaksanaan seorang jenius sekaliber aku ini ... bukanlah sesuatu yang bisa kamu asal dengar begitu saja ....\"\n\"Baiklah, aku akan buatkan beberapa kue. Bagaimana kalau kita mengobrol sambil makan?\"",
+        "icon": "icon/light_cone/21051.png",
+        "preview": "image/light_cone_preview/21051.png",
+        "portrait": "image/light_cone_portrait/21051.png"
+    },
+    "21052": {
+        "id": "21052",
+        "name": "Sweat Now, Cry Less",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Suara pukulan yang keras menggema di setiap sudut ruang latihan, diikuti dengan tendangan yang menggelegar. Karung pasir hampir terbelah dua.\n\"Jenderal, apa kamu tidak merasa latihan seperti ini terlalu berlebihan?\" Tanya seorang tentara di sampingnya.\nDia tersenyum sambil menggelengkan kepalanya, lalu menggantung karung pasir yang baru.\n\"Ini? Terlalu berlebihan? Tidak. Justru kurang!\"\nTetesan keringatnya memantulkan cahaya bulan, menetes di permukaan tubuhnya bagaikan mutiara-mutiara yang berkilauan. Nasihat seorang jenderal yang sudah tiada tiba-tiba terlintas di benaknya — \"Banyaklah berkeringat selama latihan agar tidak perlu meneteskan banyak air mata dalam pertempuran.\"",
+        "icon": "icon/light_cone/21052.png",
+        "preview": "image/light_cone_preview/21052.png",
+        "portrait": "image/light_cone_portrait/21052.png"
+    },
+    "21053": {
+        "id": "21053",
+        "name": "Journey, Forever Peaceful",
+        "rarity": 4,
+        "path": "Knight",
+        "desc": "Di tengah hujan yang jatuh bagaikan bintang, seorang anak laki-laki berlari, bersorak menyambut hujan berkah setelah kemarau yang panjang.\nHujan itu turun tanpa henti. Karavan pun berhenti di ladang yang kini diselimuti warna hijau.\n\"Ibu, kakak, kita tidak akan kelaparan dan kedinginan lagi!\"\nApi unggun orang Avgin menghangatkan malam yang panjang, dan anak laki-laki itu mendengarkan cerita sang kakak sambil menanti cahaya fajar.\n\"Kakavasha, kamu juga akan membawa keberuntungan yang dianugerahi Dewi Ibu, dan melakukan hal-hal yang tidak mampu kami capai ... Semoga perjalananmu selalu lancar, dan tipu muslihatmu tidak pernah ketahuan ....\"\nSinar mentari keemasan dalam mimpi terpantul ke tempat tinggalnya di dunia nyata, angka-angka dan transaksi kembali terbayang di pelupuk mata.\nDia melepaskan kepalan tangannya —\nSeolah tidak berhasil menggenggam apa pun, tapi kehangatan seolah masih berdenyut di telapak tangannya.",
+        "icon": "icon/light_cone/21053.png",
+        "preview": "image/light_cone_preview/21053.png",
+        "portrait": "image/light_cone_portrait/21053.png"
+    },
+    "21054": {
+        "id": "21054",
+        "name": "The Story's Next Page",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Ladang gandum bergoyang diterpa angin sepoi. Seorang gadis berjalan santai di antara bulir-bulir keemasan sambil memeluk buku catatan kosong.\nDi luar Aedes Elysiae, di kota asing yang juga terasa familier, beragam rekan akan bertemu satu sama lain dan sebuah perjalanan bak nyanyian dan mimpi akan segera dimulai ....\n\"Kali ini, bersama denganku ....\"\nDi ujung ladang gandum, gadis yang sudah lama menunggu menutup lembaran buku dan mengulurkan tangannya ke \"masa depan\" —\n\"Mari kita tulis bab baru untuk kisah ini ♪\"",
+        "icon": "icon/light_cone/21054.png",
+        "preview": "image/light_cone_preview/21054.png",
+        "portrait": "image/light_cone_portrait/21054.png"
+    },
+    "21055": {
+        "id": "21055",
+        "name": "Unto Tomorrow's Morrow",
+        "rarity": 4,
+        "path": "Priest",
+        "desc": "\"Sampai jumpa besok, Tribios ....\"\nSaat sang ibu pergi jauh, gadis kecil itu menyeka air mata dari wajahnya.\nDia menunggu hari demi hari, sampai akhirnya dia tumbuh menjadi sosok seperti sang ibu.\nDia berdiri di ambang pintu sambil menggenggam benih api dengan erat, dan suara ibunya terngiang di telinganya.\n\"Di sana tidak ada badai salju, dingin yang menggigit, ataupun hujan deras ....\"\n\"Tapi, jika esok kita tak bertemu ....\"\nDia terjatuh ke tanah, meninggalkan sosok mungilnya seperti bintang jatuh yang melintas di langit.\n\"Maka sampai jumpa di hari setelah esok!\"",
+        "icon": "icon/light_cone/21055.png",
+        "preview": "image/light_cone_preview/21055.png",
+        "portrait": "image/light_cone_portrait/21055.png"
+    },
+    "21056": {
+        "id": "21056",
+        "name": "In Pursuit of the Wind",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "\"Heh, yang ini buat anak malang itu. Harusnya sih cukup buat bungkam mulut orang tuanya yang suka utang itu. Bisa-bisa dipukul lebih sedikit juga.\"\n\"Yang ini buat nenek penjual permen acar, biar dia bisa pergi berobat. Aku tidak mau sampai kehilangan rasa permen seenak itu ....\"\nGadis itu membungkuk dan menghitung setiap perhiasan di dalam kantong kain dengan cermat, lalu tiba-tiba bersin.\n\"Siapa nih yang kangen aku?\"\n\"Cifera, rupanya kamu di sini.\"\nBenang-benang halus menjulur di belakangnya, seolah tengah ragu harus mulai menjahit dari mana.\n\"Ke depannya, saat kamu kembali mengejar angin ....\"\nBenang emas yang dingin melilit pergelangan tangannya, membatasi pergerakannya.\n\"Jangan lupa untuk menjaga dirimu sendiri.\"\nDia berlari menuju kejauhan. Saat dia menoleh ke belakang, dia baru menyadari kalau ujung jubah yang dulunya robek kini telah dijahit kembali, utuh seperti semula.",
+        "icon": "icon/light_cone/21056.png",
+        "preview": "image/light_cone_preview/21056.png",
+        "portrait": "image/light_cone_portrait/21056.png"
+    },
+    "21057": {
+        "id": "21057",
+        "name": "The Flower Remembers",
+        "rarity": 4,
+        "path": "Memory",
+        "desc": "Di musim semi, mereka menabur benih.\nDi musim panas, mereka menyirami ladang bunga.\nDi senja musim gugur, mereka memetik buah yang ranum.\nDi malam musim dingin, mereka bernyanyi riang menapaki salju.\n....\nTanah yang dulunya tandus kini dipenuhi bunga bermekaran. Tawa mereka yang bening bak lonceng perak menarik datang kupu-kupu, yang hinggap lembut di ujung jari.\n\"Kakak, nanti kita juga sama-sama buat tempat ini menjadi lautan bunga yang luas ya!\"\n\"Lihat, janji kita ....\"\nKupu-kupu terbang ke seberang. Gadis yang sedikit pendiam itu dengan lembut membelai kelopak bunga yang hangat, seolah-olah adiknya masih ada di sisinya.\n\"Aku, dan bunga-bunga yang kita rawat ... tidak akan pernah lupa.\"",
+        "icon": "icon/light_cone/21057.png",
+        "preview": "image/light_cone_preview/21057.png",
+        "portrait": "image/light_cone_portrait/21057.png"
+    },
+    "21058": {
+        "id": "21058",
+        "name": "A Trail of Bygone Blood",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "Badai mulai bergejolak di kejauhan. Tentakel-tentakel menjulur dari Lautan Jiwa, seolah hendak mempermainkan para makhluk hidup yang terapung, rapuh dan tak berdaya.\nSisa-sisa tubuh monster laut menghantam air, menciptakan gelombang setinggi langit, lalu hancur berkeping-keping dan tenggelam ke palung lautan seperti bebatuan.\nKatanya, deru pertempuran itu berlangsung selama sepuluh hari sepuluh malam, dan bahkan bisa meredam gemuruh guntur.\nKatanya, bahkan sepuluh ribu nyawa pun tidak akan cukup untuk melawan kikisan Lautan Jiwa.\nSampai akhirnya keberanian menghapus keraguan, dan keteguhan membasuh kelemahan ....\nSosok yang kurus itu terhuyung-huyung di pantai, tepat saat cahaya mentari pertama menyinari air laut yang tampak seperti darah masa lalu.",
+        "icon": "icon/light_cone/21058.png",
+        "preview": "image/light_cone_preview/21058.png",
+        "portrait": "image/light_cone_portrait/21058.png"
+    },
+    "21060": {
+        "id": "21060",
+        "name": "A Dream Scented in Wheat",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "Angin sepoi-sepoi menyapu ujung jari sang pemuda, membawa surat yang tintanya belum mengering menuju tempat yang jauh.\n\"Akan seperti apa masa depanku ....\"\nImpian bermunculan di benaknya dan melayang tinggi ke langit.\nGandum menari mengikuti embusan angin dan membentuk riak demi riak, seolah-olah menanggapi suara hati yang polos tetapi tulus itu.\n\"Apa pun yang terjadi, sekalipun aku hanya memiliki sebilah pedang di tanganku, aku tetap ingin melindungi dunia ini!\"\nPemuda itu diam-diam bersumpah di dalam hatinya ....\nSumpah ibarat tanda yang selamanya terpatri dalam hatinya.",
+        "icon": "icon/light_cone/21060.png",
+        "preview": "image/light_cone_preview/21060.png",
+        "portrait": "image/light_cone_portrait/21060.png"
+    },
+    "21061": {
+        "id": "21061",
+        "name": "Holiday Thermae Escapade",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "\"Cinny, coba pemandian unik yang baru buka itu yuk!\"\nSetelah selesai melakukan diagnosis di Okhema, sang gadis melangkah masuk dengan penasaran ke pemandian yang berwarna-warni bersama anak berambut merah itu.\n\"Mau coba Pijat Jus Buah?\"\nMelihat sepasang tangan yang kemerahan itu, sang gadis langsung memeluk erat Little Ica yang semangat ingin mencoba, lalu mundur perlahan.\n\"Aku lebih suka ... minum jusnya saja ....\"\n\"Pijat injak ala dromas, promo untuk waktu terbatas!\"\nHewan tunggang yang penasaran pun menundukkan kepalanya, napasnya meniup rambut sang gadis.\n\"La-lain kali deh!\"\n\"Rendaman herbal untuk tubuh bugar. Tertarik, nona-nona?\"\nMenghirup aroma harum dari ramuan herbal, sang gadis perlahan mencoba masuk ke air hangat.\n\"Ini ... harusnya bagus buat kesehatan kan ....\"\n\"*Tut-tut-tut*!\"\nLittle Ica berenang telentang dengan riang.\n\"Kamu juga lelah ya akhir-akhir ini ....\"\nDi hari libur yang langka ini, sang gadis menyeruput jus anggur sambil mengobrol dengan anak berambut merah itu ... mulai dari rahasia tidur nyenyak sampai resep camilan.\n\"Gawat ... Li-Little Ica!\"\nTeriakan terkejut anak itu memecah keheningan pemandian.\n\"*Tut* ....\"\n\"Little Ica, bertahanlah!\"",
+        "icon": "icon/light_cone/21061.png",
+        "preview": "image/light_cone_preview/21061.png",
+        "portrait": "image/light_cone_portrait/21061.png"
+    },
+    "21062": {
+        "id": "21062",
+        "name": "See You at the End",
+        "rarity": 4,
+        "path": "Rogue",
+        "desc": "Air mata ketidakrelaan mengalir membasahi pipinya. Di tengah lingkaran mantra yang telah hancur, yang tersisa hanyalah bayang-bayang kematian beserta kesunyian dan kehampaan yang tak berujung.\nTiba-tiba terdengar suara helaan napas dari kegelapan — getaran \"jiwa\".\n\"Apa itu kamu ... Kakak ...?\"\nAnak laki-laki itu mengangkat tangannya, secercah cahaya melintas di matanya. Sosok orang terkasih itu hanya hadir sekejap, tapi seolah-olah telah berdiam di dalam hatinya selama seribu tahun.\n\"Aku mengerti ... Terima kasih sudah datang untuk mengucapkan selamat tinggal yang terakhir padaku.\"\nDia berdiri perlahan, cahaya fajar pertama menyinari wajahnya yang penuh tekad dan jejak air mata yang belum mengering.\n\"Mencari jawaban memang jalan panjang yang sepi. Sampai jumpa di ujung perjalanan ....\"",
+        "icon": "icon/light_cone/21062.png",
+        "preview": "image/light_cone_preview/21062.png",
+        "portrait": "image/light_cone_portrait/21062.png"
+    },
     "22000": {
         "id": "22000",
         "name": "Before the Tutorial Mission Starts",
@@ -704,10 +864,40 @@
         "name": "For Tomorrow's Journey",
         "rarity": 4,
         "path": "Shaman",
-        "desc": "Jarum kompas terus berputar, dan akhirnya menunjuk ke momen mimpi.\nDi luar jendela kereta, galaksi Asdana yang penuh dengan Memoria bersinar dengan cahaya yang lembut, penjara perbatasan di dalamnya dikelilingi bara api peperangan.\n\"Menurut kalian, dunia di dalam mimpi itu akan seperti apa? Aku harus menggambar peta yang lengkap dengan teliti!\" \nGadis itu menyimpan alat survei pemetaan dan menatap dunia baru yang tampak begitu dekat dengan penuh harapan.\n\"Tempat itu sangat kacau. Nanti kalau sudah sampai, kalian berdua jangan pergi sembarangan. Kalau kalian sampai diculik lagi seperti dulu, aku ....\"\nSeorang pria yang berpenampilan seperti koboi mengusap senjatanya, membawa segelas minuman dan berjalan ke sofa, lalu menggelengkan kepalanya dengan pasrah.\n\"Negeri Mimpi adalah tempat dengan kemungkinan yang tak terbatas. Kita pasti bisa melakukan sesuatu yang hebat ... Kondektur, kalau kami jatuh cinta dengan tempat ini dan tidak kembali lagi, apa kamu akan merindukan kami?\"\nThe Nameless yang berpenampilan elegan itu mengedipkan matanya ke arah Pom-Pom dan tersenyum.\n\"'Jangan bercanda seperti itu dengan kondektur ya, pom!' Kondektur, itu yang mau kamu katakan kan?\" Gadis itu tersenyum jahil.\n\"Dasar kalian! Tega sekali!\"\nGelembung dalam minuman menari sembari tawa gembira yang mengisi kereta.\n....\nPunggung The Nameless muda perlahan-lahan ditelan oleh Memoria.\n\"Hati-hati di jalan, pom ....\"\nSaat kondektur menoleh ke belakang, kereta sudah kosong.\nDia terdiam ... seakan-akan sudah pernah mengalami hal serupa berulang kali.",
+        "desc": "Jarum kompas terus berputar, dan akhirnya menunjuk ke momen mimpi.\nDi luar jendela kereta, sistem bintang Asdana yang penuh dengan Memoria bersinar dengan cahaya yang lembut, penjara perbatasan di dalamnya dikelilingi bara api peperangan.\n\"Menurut kalian, dunia di dalam mimpi itu akan seperti apa? Aku harus menggambar peta yang lengkap dengan teliti!\" \nGadis itu menyimpan alat survei pemetaan dan menatap dunia baru yang tampak begitu dekat dengan penuh harapan.\n\"Tempat itu sangat kacau. Nanti kalau sudah sampai, kalian berdua jangan pergi sembarangan. Kalau kalian sampai diculik lagi seperti dulu, aku ....\"\nSeorang pria yang berpenampilan seperti koboi mengusap senjatanya, membawa segelas minuman dan berjalan ke sofa, lalu menggelengkan kepalanya dengan pasrah.\n\"Negeri Mimpi adalah tempat dengan kemungkinan yang tak terbatas. Kita pasti bisa melakukan sesuatu yang hebat ... Kondektur, kalau kami jatuh cinta dengan tempat ini dan tidak kembali lagi, apa kamu akan merindukan kami?\"\nThe Nameless yang berpenampilan elegan itu mengedipkan matanya ke arah Pom-Pom dan tersenyum.\n\"'Jangan bercanda seperti itu dengan kondektur ya, pom!' Kondektur, itu yang mau kamu katakan kan?\" Gadis itu tersenyum jahil.\n\"Dasar kalian! Tega sekali!\"\nGelembung dalam minuman menari sembari tawa gembira yang mengisi kereta.\n....\nPunggung The Nameless muda perlahan-lahan ditelan oleh Memoria.\n\"Hati-hati di jalan, pom ....\"\nSaat kondektur menoleh ke belakang, kereta sudah kosong.\nDia terdiam ... seakan-akan sudah pernah mengalami hal serupa berulang kali.",
         "icon": "icon/light_cone/22002.png",
         "preview": "image/light_cone_preview/22002.png",
         "portrait": "image/light_cone_portrait/22002.png"
+    },
+    "22003": {
+        "id": "22003",
+        "name": "Ninja Record: Sound Hunt",
+        "rarity": 4,
+        "path": "Warrior",
+        "desc": "Teknik Ninja Semesta selalu berubah, dengarkanlah Perburuan Nada ini ....\nPetikan senar gitar berkumandang, suara gitar bas membuat jantung berdegup kencang, tarian musik elektronik pun membuat semua orang senang!\nKeringat tidak pernah berbohong, setiap liku perjalanan akan dicatat dan menjelma menjadi nada-nada keyboard yang bergema.\nMenyanyilah dengan semangat membara, tanpa ada keraguan yang terasa, meski tubuh ini penuh luka.\n\"Dazzling!\" \"Dazzling!\" \"Dazzling!\"\nDunia ini memang sudah penuh dengan kekonyolan, apa salahnya bernyanyi dengan penuh kebebasan?",
+        "icon": "icon/light_cone/22003.png",
+        "preview": "image/light_cone_preview/22003.png",
+        "portrait": "image/light_cone_portrait/22003.png"
+    },
+    "22004": {
+        "id": "22004",
+        "name": "The Great Cosmic Enterprise",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "Di aula virtual yang terbentuk dari data, para perwakilan pameran sedang bertukar pendapat.\nDua sosok berjalan melintasi stan-stan pameran, mengantarkan kebutuhan yang diperlukan masing-masing pihak.\n\"Eh, bukannya kamu ....\"\n\"Aku pernah lihat kamu di TV, pom.\"\nMereka berbincang tentang game, makanan enak, fisik masing-masing, dan segala hal indah di alam semesta.\nMeski jarang bertemu, mereka akrab layaknya sepasang sahabat lama ....\n\"Oh iya, bagaimana kalau kamu pertimbangkan tawaranku lagi ...?\"\n\"Express tidak dijual, pom!\"",
+        "icon": "icon/light_cone/22004.png",
+        "preview": "image/light_cone_preview/22004.png",
+        "portrait": "image/light_cone_portrait/22004.png"
+    },
+    "22005": {
+        "id": "22005",
+        "name": "The Forever Victual",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "*Duarrr* ....\nDi luar labirin, hujan angin turun tanpa henti.\n*Blub-blub* ....\nApi di bawah panci ajaib raksasa milik para peri menyala tanpa padam.\n\"Taburkan rempah rahasia ....\"\n\"Dan masukkan sayuran segar!\"\n\"Kali ini pasti akan berhasil!\"\nPanci raksasa itu kembali bergolak, dan para peri menatap dengan penuh harap.\n\"Ini dia! Sebentar lagi!\"\nSecercah cahaya terang menyembur dari dasar panci ....\nLihat, semua orang berkumpul!\n....\nDi perjamuan yang harum itu, tamu-tamu bersulang dan memanjatkan harapan untuk masa-masa yang luar biasa ....\nSemoga surga di dalam mimpi ini selalu hangat dan penuh tawa!",
+        "icon": "icon/light_cone/22005.png",
+        "preview": "image/light_cone_preview/22005.png",
+        "portrait": "image/light_cone_portrait/22005.png"
     },
     "23000": {
         "id": "23000",
@@ -1004,7 +1194,7 @@
         "name": "Those Many Springs",
         "rarity": 5,
         "path": "Warlock",
-        "desc": "Setelah beberapa kali hujan lebat, musim semi datang dan rerumputan hijau tumbuh lebat.\n\"Ini sudah musim semi ke berapa?\"\nDia teringat dengan prajurit muda yang pertama kali pergi ke medan perang. Tahun berganti, waktu berjalan, berbeda orang, tapi semangatnya tetap sama, penuh semangat dan harapan.\nDahan-dahan pohon dedalu patah karena menanti kembalinya seseorang. Pada akhirnya, yang mereka bawa pulang ... sering kali adalah embun beku yang sudah tidak bisa mencair lagi.\nBurung-burung berkicau dengan santai, lalu memejamkan mata dan membiarkan sinar matahari menyinari wajahnya melalui celah dedaunan.\n—\"Jadi, orang yang tersisa adalah orang yang paling kesepian.\"",
+        "desc": "Setelah beberapa kali hujan lebat, musim semi datang dan rerumputan hijau tumbuh lebat.\n\"Ini sudah musim semi ke berapa?\"\nDia teringat dengan prajurit muda yang pertama kali pergi ke medan perang. Tahun berganti, waktu berjalan, berbeda orang, tapi semangatnya tetap sama, penuh semangat dan harapan.\nDahan-dahan pohon dedalu patah karena menanti kembalinya seseorang. Pada akhirnya, yang mereka bawa pulang ... sering kali adalah embun beku yang sudah tidak bisa mencair lagi.\nBurung-burung berkicau dengan santai. Dia lalu memejamkan mata dan membiarkan sinar matahari menyinari wajahnya melalui celah dedaunan.\n—\"Jadi, orang yang tersisa adalah orang yang paling kesepian.\"",
         "icon": "icon/light_cone/23029.png",
         "preview": "image/light_cone_preview/23029.png",
         "portrait": "image/light_cone_portrait/23029.png"
@@ -1014,10 +1204,210 @@
         "name": "Dance at Sunset",
         "rarity": 5,
         "path": "Warrior",
-        "desc": "Di sebuah senja yang cerah, sesosok tubuh yang gesit berlari di atas atap.\n\"Lili, Guoguo, kita lihat siapa yang akan pertama sampai garis finis!\"\nMemanjat atap, menghindari penjaga, dan bergerak mengikuti angin ... gadis itu seperti hewan kecil yang lincah, yang mengejar sinar matahari terakhir.\nAngin malam yang hangat meniup wajah gadis itu, dan sisa-sisa sinar matahari membuat kucing itu terlihat berwarna-warni.\n\"Kalian menang!\"\nDia menyeka keringat di dahinya, lalu menggendong kucing itu dalam pelukannya.\nBintang-bintang bertebaran di langit. Senyuman polos muncul setelah dia melepaskan benteng hatinya, bagai lapisan matahari terbenam yang melayang di cakrawala.",
+        "desc": "Di sebuah senja yang cerah, sesosok tubuh yang gesit berlari di atas atap.\n\"Lili, Guoguo, kita lihat siapa yang akan pertama sampai garis finis!\"\nMemanjat atap, menghindari penjaga, dan bergerak mengikuti angin ... gadis itu seperti hewan kecil yang lincah, yang mengejar sinar matahari terakhir.\nAngin malam yang hangat meniup wajah gadis itu, dan sisa-sisa sinar matahari membuat kucing itu terlihat berwarna-warni.\n\"Kalian menang!\"\nDia menyeka keringat di dahinya, lalu menggendong kucing itu ke dalam pelukannya.\nBintang-bintang bertebaran di langit. Senyuman polos muncul setelah dia melepaskan benteng hatinya, bagai lapisan matahari terbenam yang melayang di cakrawala.",
         "icon": "icon/light_cone/23030.png",
         "preview": "image/light_cone_preview/23030.png",
         "portrait": "image/light_cone_portrait/23030.png"
+    },
+    "23031": {
+        "id": "23031",
+        "name": "I Venture Forth to Hunt",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "\"Para budak yang menyedihkan dan konyol ....\"\nPasukan besar Denizens of Abundance datang menyerang perbatasan. Lupitoxin menerjang Verdant Knight bagai banjir bandang, mencoba untuk membangkitkan rasa takut yang terpendam jauh di dalam hati para prajurit, mengubahnya menjadi berbagai ilusi yang mengerikan, sehingga membuat para prajurit menurunkan senjata dan ragu untuk bergerak maju.\nNamun garis depan tetap kokoh bagaikan tembok besi, tidak tergoyahkan oleh hinaan sinis para Borisin. Dari antara para prajurit, satu sosok maju langkah demi langkah.\nDia menggerakkan tubuhnya perlahan, kibaran bendera bergemuruh di bawah dorongan aura ganas yang tak kasat mata.\n\"Jenderal ... Jenderal sudah datang ....\"\n\"Jenderal Feixiao ....\"\n\"Merlin's Claw!\"\nSuara-suara yang lembut mulai bersahutan, lalu berubah menjadi seruan perang yang menggetarkan langit.\n\"Selalu terbang, selamanya menang!\"\nDia berdiri di sana seorang diri, seperti sebuah pasukan.",
+        "icon": "icon/light_cone/23031.png",
+        "preview": "image/light_cone_preview/23031.png",
+        "portrait": "image/light_cone_portrait/23031.png"
+    },
+    "23032": {
+        "id": "23032",
+        "name": "Scent Alone Stays True",
+        "rarity": 5,
+        "path": "Priest",
+        "desc": "\"Pertama, memperbaiki kebiasaan kerja.\"\n\"Kedua, menegakkan peraturan penghargaan dan hukuman dengan ketat.\"\n\"Tentu saja, yang terpenting tetaplah menyelidiki hubungan kepentingan yang rumit itu sesegera mungkin ....\"\nSembari menikmati pemandangan, pikirannya tanpa sadar beralih kembali ke pekerjaan, diikuti oleh gelombang tekanan dan kegelisahan.\nDia segera menyalakan sebatang dupa aromaterapi penenang yang selalu dibawanya.\n\"Dunia ini begitu indah, tapi aku malah resah begini ... Di hari libur, lebih baik aku tidak memikirkan hal-hal menyebalkan itu deh ....\"",
+        "icon": "icon/light_cone/23032.png",
+        "preview": "image/light_cone_preview/23032.png",
+        "portrait": "image/light_cone_portrait/23032.png"
+    },
+    "23033": {
+        "id": "23033",
+        "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Di suatu tempat di dunia ninja, kabut suram menyelimuti seluruh kota.\"Hiaat —!\"\nGadis itu berlari melintasi monster-monster. Bayangannya bagaikan warna-warna cerah yang menggantikan cahaya rembulan.\nDi tengah asap dan debu, para Ninja Jahat merintih kesakitan dan merasa kebingungan.\n\"Kamu ... siapa ...?\"\n\"Nama ninja diriku 'Rappa', yang akan memberantas kejahatan.\"\nPara Ninja Jahat saling bertatapan dengan wajah kebingungan. Mereka semua ingin melarikan diri.\n\"Apa kalian sudah siap untuk ucapkan pesan terakhir kalian ...?\"\nSyuriken pun berputar dan mengembuskan aroma maut.\n\"Jurus pamungkas Pemusnah Kejahatan!\"\nLedakan di belakangnya pun menerangi gelapnya malam.\nDia menghela napas panjang, lalu melompat ke dalam lampu neon yang sebising musik metal.\n\"Kejahatan seperti ini harus diberantas. Keagungan Perburuan Ninja Dazzling masih akan terus berlanjut ....\"",
+        "icon": "icon/light_cone/23033.png",
+        "preview": "image/light_cone_preview/23033.png",
+        "portrait": "image/light_cone_portrait/23033.png"
+    },
+    "23034": {
+        "id": "23034",
+        "name": "A Grounded Ascent",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "Ilusi dan delusi telah hancur, dia ingin menjadi matahari dari segala makhluk, tapi malah terjatuh dari langit.\n\"Apa kamu merasakan yang namanya rasa sakit?\"\nAda suara lain di dalam hatinya yang berkata.\n\"Ya, dan itulah yang seharusnya aku rasakan.\"\nDia jatuh ke dalam debu dan menjawab dengan langkah kakinya yang berat.\nDia berjalan di atas tanah, melihat kembali penderitaan yang menyelimuti dunia, seperti mata air yang tiada habisnya.\nDia menyeberangi semak berduri yang menghalangi jalan, dia mendengar teriakan manusia, dia merasakan penderitaan, dan mendapatkan ketenangan.\n\"Jatuh, adalah nama lain dari terbang.\"\nPada hari kedelapan, dia memberikan dirinya sendiri \"keberangkatan\".",
+        "icon": "icon/light_cone/23034.png",
+        "preview": "image/light_cone_preview/23034.png",
+        "portrait": "image/light_cone_portrait/23034.png"
+    },
+    "23035": {
+        "id": "23035",
+        "name": "Long Road Leads Home",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "\"Dia ... siapa?\" Gadis itu membelai dirinya yang asing.\nDia teringat bagaimana api itu menelan dirinya di hari itu, dan bagaimana kipas yang berharga baginya berubah menjadi abu.\nDia pernah berjalan di sebuah jalan yang panjang, mencari cahaya di depan.\nSuara-suara dari luar memanggilnya, membuatnya melangkah maju dan menembus kegelapan yang pekat.\nSuara-suara dari dalam hatinya mengingatkannya akan sumpah yang belum terpenuhi, janji yang belum tercapai, dan mimpi yang belum terwujud, semuanya masih menunggunya ....\nMereka tidak pernah hilang dalam api, tapi malah semakin bersinar.\n\"Itu aku ....\"\nDia berdiri di titik akhir, tanpa menoleh ke belakang ....\n\"Aku yang dulu, dan juga aku yang baru.\"",
+        "icon": "icon/light_cone/23035.png",
+        "preview": "image/light_cone_preview/23035.png",
+        "portrait": "image/light_cone_portrait/23035.png"
+    },
+    "23036": {
+        "id": "23036",
+        "name": "Time Woven Into Gold",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "\"Benang ini adalah pengorbanan seorang tentara.\"\n\"Benang ini adalah pertumbuhan seorang pahlawan.\"\n\"Benang ini adalah kemakmuran sebuah kota.\"\n....\nSang pembuat pakaian menarik benang dan mengumpulkannya di ujung jarinya.\n\"Beberapa jejak pahlawan telah terputus ....\"\nDia menggulung beberapa benang emas lainnya, terus menyambung dan menambal.\n\"Takdir beberapa pahlawan masih harus terus berlanjut ....\"\nAlat tenun yang diberikan kekuatan ilahi terus berputar, sementara para pembuat pakaian menari dengan anggun. Waktu ribuan tahun mengalir di atas alat tenun, dan dia sudah lama terbiasa dengan penantian seperti itu ....\nDemi \"inspirasi\" untuk menenun waktu menjadi emas.",
+        "icon": "icon/light_cone/23036.png",
+        "preview": "image/light_cone_preview/23036.png",
+        "portrait": "image/light_cone_portrait/23036.png"
+    },
+    "23037": {
+        "id": "23037",
+        "name": "Into the Unreachable Veil",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "\"Surat-surat dari Intelligentsia Guild sudah ditangani.\"\n\"Simulated Universe beroperasi secara normal ....\"\n\"Koleksi karya sudah dicetak ulang.\"\n\"*Sstt* Kecilkan suaramu. Jangan ganggu Nyonya Herta ....\"\nDi dalam menara tinggi di tepi alam semesta, para puppet menangani berbagai tugas dengan tertib sambil menanti kedatangannya.\nWaktu terus berlalu, dan sosok yang tak terhitung jumlahnya melintasi kanvas waktu seperti bintang jatuh melintasi langit malam, bersinar untuk sesaat, sebelum akhirnya kembali redup.\n\"Nyonya Herta sudah lama tidak menunjukkan wajahnya ....\"\n\"Apa dia masih berpikir ...?\"\n\"Hmph, kalian pikir ini semua akan berakhir setelah menemukan beberapa aksioma?\"\nDia meregangkan tubuh dan mengangkat kepalanya dari kalkulasi-kalkulasinya. Sepertinya sebuah pemikiran baru muncul di benaknya ....\n\"Tidak ada yang tidak dapat dipertanyakan. Aku harus terus selidiki sampai akhir!\"",
+        "icon": "icon/light_cone/23037.png",
+        "preview": "image/light_cone_preview/23037.png",
+        "portrait": "image/light_cone_portrait/23037.png"
+    },
+    "23038": {
+        "id": "23038",
+        "name": "If Time Were a Flower",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "\"Ibu, aku masih mau dengar satu cerita lagi!\"\n\"Anakku sayang, bagaimana kalau hari ini kita bercerita tentang waktu?\"\n\"Waktu ... itu apa?\"\n\"Waktu itu seperti sekuntum bunga.\"\n\"Seperti bunga dandelion yang mekar di padang luas?\"\n\"Ya. Seperti dandelion, waktu akan tumbuh, mekar, dan berbuah. Kita menyebut kelopaknya sebagai 'momen'\".\n\"Lalu setelah itu?\"\n\"Setelah itu, waktu akan layu dan berhamburan menjadi ribuan kelopak, meninggalkan benih yang beterbangan ke segala penjuru.\"\n\"Ibu, itu yang disebut sebagai 'masa depan' ya?\"\n\"Coba tebak, apa yang akan terjadi pada benih-benih itu setelahnya?\"\n\"Apa benih itu akan berubah jadi banyak sekali bunga, jadi lautan bunga yang indah?\"\nSang ibu belum sempat menjawab ketika sinar matahari jatuh di wajah gadis kecil itu. Sosok lembut kembali memudar di dalam mimpinya.\nDia membuka matanya ....\n\"Kalau waktu adalah sekuntum bunga ....\" gumamnya.\n\"Ia pasti akan berubah jadi lautan bunga,\" ucap gadis pendiam itu.\n\"Sudah pasti dong!\" sahut gadis ceria itu. Dia sudah menyelesaikan mahakaryanya.",
+        "icon": "icon/light_cone/23038.png",
+        "preview": "image/light_cone_preview/23038.png",
+        "portrait": "image/light_cone_portrait/23038.png"
+    },
+    "23039": {
+        "id": "23039",
+        "name": "Flame of Blood, Blaze My Path",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Embun dingin mengembun di bilah pedangnya, mengalir turun di bekas noda darah.\nDi padang tandus beraroma karat besi, bara api pertempuran masih menari di atas abu yang tersisa.\n\"Mydeimos, pertempuran tadi sungguh luar biasa!\"\nSeorang petarung yang bertelanjang dada menyeka senjatanya dan berseru dengan penuh semangat.\n\"Mydei, suatu hari nanti, aku ingin menjadi seperti kamu — tak terkalahkan di medan perang!\"\nSeorang anak memandangnya dengan penuh kagum, sambil memegang sebilah pedang patah di tangan.\n\"Putra Mahkota, kita akan segera pulang ke Castrum Kremnos.\"\nSeorang lelaki tua berparas letih tersenyum dan mengangkat cawan anggurnya untuk memberi hormat.\nDia mengangguk tanpa banyak bicara, lalu berjalan sendirian ke tepi perkemahan.\nRasa sakit karena kebangkitan kembali masih berdenyut di kulitnya. Esok hari, dia akan memimpin pasukan tunggal Kremnos kembali berangkat menuju negeri asing.\nDi mana pengembaraan itu akan berakhir, dia tidak tahu. Satu-satunya hal yang pasti adalah ... dia akan memikul tanggung jawab sebagai raja sampai darah dan bara apinya terbakar habis.\nMalam kian larut. Dia meneguk anggur darah dalam kesunyian, sementara seorang penyair pengelana yang kebetulan lewat memetik senar harpanya. Lagu sumbang terdengar di udara ....\n\"Kampung halaman hanyalah tempat dalam mimpi, bukan tempat yang bisa diraih.\"",
+        "icon": "icon/light_cone/23039.png",
+        "preview": "image/light_cone_preview/23039.png",
+        "portrait": "image/light_cone_portrait/23039.png"
+    },
+    "23040": {
+        "id": "23040",
+        "name": "Make Farewells More Beautiful",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Lagi-lagi, sebuah upacara perpisahan.\nGadis itu melangkah di atas cahaya bulan yang retak, merangkai karangan bunga perpisahan di tepian sungai.\nNyanyian duka kuno membeku di udara dingin, sementara sungai yang sunyi mengalir menuju negeri bunga yang jauh.\nGulungan yang berlumuran darah, pedang panjang yang berkarat, saputangan bersulam puisi ... Dia menerima peninggalan mereka bersama kisah hidup mereka.\n\"Mataku bagai lensa, selamanya merindukan bintang-bintang.\"\nDemikian epitaf yang dipersembahkan untuk sarjana yang meninggal muda.\n\"Bagi kehidupan dan kematian, seorang kesatria hanya memberikan pandangan dingin.\"\nDemikian prinsip yang dipegang teguh oleh seorang prajurit tanpa nama sepanjang hidupnya.\n\"Hidup hanyalah kematian yang bersinar.\"\nDemikian baris terakhir yang ditulis oleh seorang penyair yang mengejar keabadian.\n....\n\"Setiap bunga pernah mekar dengan bangga.\"\nDiiringi isak sungai yang mengalir, dia mempersembahkan puisi, karangan bunga, dan kenang-kenangan bagi mereka yang telah tiada.\n\"Kalau layu tidak dapat dihindari, setidaknya biarlah perpisahan kita ... menjadi lebih indah.\"",
+        "icon": "icon/light_cone/23040.png",
+        "preview": "image/light_cone_preview/23040.png",
+        "portrait": "image/light_cone_portrait/23040.png"
+    },
+    "23041": {
+        "id": "23041",
+        "name": "Life Should Be Cast to Flames",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Dalam eksperimen rahasia itu, berbagai ilusi terus bermunculan, berusaha menyeret langkahnya.\nBisikan penuh godaan membujuknya untuk melepaskan topik berbahaya itu, untuk alasan apa dirinya harus mempertaruhkan nyawa?\nAncaman yang dingin berkata bahwa mereka yang berjalan di batasan hidup dan mati, pada akhirnya akan terbakar habis.\nDan suara kecaman yang murka berteriak agar penista yang menghina para dewa itu diseret ke lapangan eksekusi yang kejam.\n\"Pertunjukan hidup kini telah mencapai babak akhirnya.\"\nDia menutup matanya, menggenggam benih api dewa, dan membiarkan rasa sakit menelan jiwanya yang sekarat.\nSepasang mata yang penuh tekad, lalu jantung yang masih berdetak, dan akhirnya, jiwa yang utuh ... Dengan tangannya sendiri, dia menyerahkan dirinya ke dalam peleburan yang paling murni dan paling membara ....\nSuara-suara itu meraung, lalu menjadi sunyi.\nDalam kegelapan, kebenaran yang bersinar terbentuk di tangannya.",
+        "icon": "icon/light_cone/23041.png",
+        "preview": "image/light_cone_preview/23041.png",
+        "portrait": "image/light_cone_portrait/23041.png"
+    },
+    "23042": {
+        "id": "23042",
+        "name": "Long May Rainbows Adorn the Sky",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "\"Emosi itu seperti awan, sementara kita adalah langit yang menampungnya. Kalau langit dipenuhi awan gelap, maka hati pun akan berayun antara cerah dan kelam.\"\nSang penyembuh mendengarkan keluh kesah pengunjungnya dengan penuh perhatian, menenangkan dengan bisikan lembut.\n\"Tutup matamu, tarik napas perlahan ... Bayangkan dirimu berada di tempat yang hangat dan lembut ....\"\nSeolah ada sihir dalam kata-katanya, cahaya pelangi berpendar di bawah sayap makhluk bersayap.\n\"Angin sepoi-sepoi bertiup melintasi padang luas, membawa harum bunga liar. Awan-awan lembap melayang lewat, dipenuhi dengan cahaya matahari ....\"\nPengunjung itu pun perlahan tenggelam dalam mimpi indah, hanya menjawab dengan suara napas yang lembut dan teratur.\nSesudah menangani pasien terakhir, sang penyembuh menutup pintu ruang pengobatan dengan pelan.\nMalam abadi yang tidak berujung masih bergelora di kejauhan, dan reruntuhan berserakan laksana luka menganga di permukaan bumi.\n\"Di kehidupan mendatang, semoga fajar menyinari semua orang ....\"\nSebelum berangkat, dia membuat permohonan kepada langit —\n\"Semoga langit selalu dihiasi cahaya pelangi.\"",
+        "icon": "icon/light_cone/23042.png",
+        "preview": "image/light_cone_preview/23042.png",
+        "portrait": "image/light_cone_portrait/23042.png"
+    },
+    "23043": {
+        "id": "23043",
+        "name": "Lies Dance on the Breeze",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Gadis bertelinga kucing meregangkan tubuhnya di atas atap, lalu meluncur ke dalam kegelapan malam.\nDi gudang harta yang telah sunyi selama ribuan tahun, gadis itu bergerak dengan lincah, meraup harta karun ke dalam pelukannya, lalu kabur tanpa suara.\n\"Takdir bodoh tidak akan pernah bisa mengejarku!\"\nAngin yang berembus di antara reruntuhan membawa aroma alam liar dan menggerakkan tudung gadis itu.\nBersandar pada batu yang dingin, dia menelan bekal kering yang kasar, sementara jemarinya bermain-main dengan koin emas.\nSebuah suara samar-samar dari kejauhan terdengar di telinganya — di Kota Suci yang bermandikan cahaya fajar, orang-orang masih menikmati pesta dan kehangatan.\n\"Sisa berapa lama lagi ... Satu tahun, atau sepuluh ribu tahun?\"\nDia meregangkan tubuhnya dan membuang jauh kegelisahannya.\n\"Heh, Cifera akan selalu tertawa paling akhir!\"\nKilat keemasan membelah langit, dan pernyataan sang gadis masih menari di tengah angin —\nSama seperti seribu tahun yang lalu.",
+        "icon": "icon/light_cone/23043.png",
+        "preview": "image/light_cone_preview/23043.png",
+        "portrait": "image/light_cone_portrait/23043.png"
+    },
+    "23044": {
+        "id": "23044",
+        "name": "Thus Burns the Dawn",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Sekali lagi, dia berdiri di ujung perjalanan. Sosok sang pria ditelan oleh terik matahari keemasan.\n\"Darah emas itu, harapan untuk penyelamatan dunia, ternyata ....\"\nAir matanya yang belum sempat jatuh, sudah lenyap menjadi uap.\n\"Phai, sampai jumpa besok!\"\n\"Penyelamat, ingatlah untuk tetap bertahan hidup sampai akhir.\"\n\"Jadilah fajar bagi Amphoreus ....\"\n....\nHarapan orang-orang bergema dalam kehampaan. Sang pahlawan tanpa nama hancur berkeping-keping, menguak kematian yang tragis membara.\n\"Jika api amarah belum cukup untuk membakar habis takdir sesat ini ....\"\nDia mendaki puncak gunung itu berulang kali, dan berulang kali pula terhempas dan remuk.\n\"Maka biarlah aku terbakar bersamanya!\"",
+        "icon": "icon/light_cone/23044.png",
+        "preview": "image/light_cone_preview/23044.png",
+        "portrait": "image/light_cone_portrait/23044.png"
+    },
+    "23045": {
+        "id": "23045",
+        "name": "A Thankless Coronation",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Di dalam ilusi, percakapan hari itu bergema di telinga sang gadis.\n\"Pedang ini sama sekali tidak sulit untuk dicabut, Merlin.\"\n\"Memang. Bagimu, menjadi raja yang diharapkan semua orang tidaklah sulit. Bagaimanapun juga, aku akan membimbing kamu. Tapi, Altria ... yang benar-benar sulit adalah, kamu tidak mungkin bisa memenuhi harapan semua orang selamanya.\"\n\"Ketika itu terjadi, mereka bisa memilih raja yang lebih cocok. Aku tidak akan keberatan.\"\n\"Bagaimana kalau orang seperti itu tidak pernah ada?\"\n\"Kalau begitu, aku akan berusaha sebisa mungkin untuk memenuhi harapan semua orang.\"\nKini, sang gadis sudah memahami betapa tragisnya semua itu. Andai dia kembali ke awal mula segalanya, akankah dia memilih untuk menyerah?\nSang raja terdiam. Dia hanya memegang erat pedang itu.\nSaat pedang dicabut, batu kembali menggemakan suara gemuruh.",
+        "icon": "icon/light_cone/23045.png",
+        "preview": "image/light_cone_preview/23045.png",
+        "portrait": "image/light_cone_portrait/23045.png"
+    },
+    "23046": {
+        "id": "23046",
+        "name": "The Hell Where Ideals Burn",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "Api karma membakar dataran luas. Entah cita-cita siapa yang telah menjadi abu. Entah harapan siapa yang kini menyala membara.\nSang Pelindung melesat di antara peluru dan anak panah.\nTidak ada yang bisa dia selamatkan di sini, tapi tempat ini penuh dengan orang-orang yang ingin dia selamatkan.\nMenyelamatkan satu orang, berarti membunuh satu orang. Menyelamatkan sepuluh ribu orang, berarti membunuh sepuluh ribu orang. Takdir yang saling menindih dan menghancurkan diri sendiri — itulah bagian dari keberlanjutan umat manusia.\nTelah lama terbiasa dengan segalanya, langkah sang Pelindung tak pernah goyah.\nKehendak yang menyelimuti kedua kakinya bagaikan angin. Kehendak yang menyelimuti kedua lengannya menyala bagaikan api.\nDia masih mencari — sebuah keajaiban yang benar-benar bisa menyelamatkan.",
+        "icon": "icon/light_cone/23046.png",
+        "preview": "image/light_cone_preview/23046.png",
+        "portrait": "image/light_cone_portrait/23046.png"
+    },
+    "23047": {
+        "id": "23047",
+        "name": "Why Does the Ocean Sing",
+        "rarity": 5,
+        "path": "Warlock",
+        "desc": "Ombak bergemuruh, deru gelombang bergema di cakrawala.\nIkan-ikan bermigrasi di samudra yang hampa dan buih masa lampau kembali bergolak, seolah lagu itu masih mengalun di udara.\n\"Tuan Putri yang terhormat, ayo berpesta sama kami!\"\nMenanggapi panggilan dari laut dalam, dia menari bersama gelombang hitam, hingga di panggung megah hanya tersisa dirinya seorang.\n\"Wahai pendekar pedang samudra, mengapa kamu membisu? Apa yang membuatmu bernyanyi?\"\nSetiap langkah di atas bumi adalah penderitaan yang ditanggungnya. Dia nyaris tak bersuara — hanya bilah berlumur darah itu yang menggubah jerit pilu kehidupan.\n\"Dux Gladiorum, ayo taklukkan lautan bintang bersamaku!\"\nKetika menemukan cahaya yang membara ini, dia pun akhirnya mengangkat penggesek, mengira bahwa itulah awal dari sebuah perjamuan meriah.\n....\n\"Helektra ... Helektra ... Setelah lagu ini usai, ke mana lagi kamu akan berenang?\"\nKetika harapan semu hancur berkeping-keping, dia selalu menjawab tanya dunia dengan sebuah melodi kesepian, tetapi alunan itu justru membuat para pendengarnya terpesona ....\nAtau mungkin ... Baik di dunia manusia maupun di laut dalam, yang benar-benar bisa mendengar hanyalah sang pemusik itu sendiri.",
+        "icon": "icon/light_cone/23047.png",
+        "preview": "image/light_cone_preview/23047.png",
+        "portrait": "image/light_cone_portrait/23047.png"
+    },
+    "23048": {
+        "id": "23048",
+        "name": "Epoch Etched in Golden Blood",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "\"Seribu tahun dari sekarang, bagaimana sejarah akan mengenang Cerydra?\"\nPernah ada yang menanyakan padanya.\nBagi sebagian orang, dia adalah \"Kaisar\" yang termasyhur.\nSeorang tiran yang dingin dan kejam, \"Pemangku Mahkota Api\" yang ambisius, ratu yang membakar habis era lama dengan darah dan api ....\nAda yang membantah, mengatakan bahwa dia hanyalah \"bidak\" yang malang.\nPenguasa yang dikhianati semua ini tidak lain hanyalah tawanan dari ambisinya sendiri. Dalam permainan catur melawan para dewa, dia ditakdirkan untuk kalah telak.\nAda pula yang berkata, jauh di lubuk hatinya yang lebih kelam dari samudra, dia hanyalah seorang manusia biasa bernama \"Cerydra\" ....\nDia juga meratapi kematian rekan-rekannya, dia juga pernah ragu dan gentar menghadapi misi berat yang diembannya, hingga langkahnya terhenti ....\n\"Heh, sejarah tidak perlu mengingatku ....\"\nDia menelan kepedihan di hatinya, dan terus melangkah di jalan Pengejaran Api yang terbentang oleh pengorbanan ....\n\"Darah emas kami yang membara telah mengukirnya!\"",
+        "icon": "icon/light_cone/23048.png",
+        "preview": "image/light_cone_preview/23048.png",
+        "portrait": "image/light_cone_portrait/23048.png"
+    },
+    "23049": {
+        "id": "23049",
+        "name": "To Evernight's Stars",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Di celah-celah waktu, hanya detak jantungnya yang bergema.\nSeperti malam-malam sebelumnya — menjaga dalam gelap, terlelap dalam senyap.\nDia menyimpan memori yang dipercayakan padanya dengan hati-hati.\nSang gadis memulai perjalanannya dari nol, mewarnai setiap tempat yang pernah disinggahinya dengan warna-warna cerah. Astral Express yang nyaman, rekan-rekan yang berkepribadian unik, planet-planet memesona yang berkilauan ... semuanya bagai mimpi indah yang enggan diakhiri.\n\"Perjalananku yang sebenarnya dimulai sekarang!\"\nPernyataan sang gadis seolah terdengar di telinga.\nDia menatap langit berbintang di kejauhan, seberkas cahaya tengah mendekat.\nCahaya yang berasal dari Astral Express itu menyerupai bintang jatuh.\n\"Selamat malam, March ... Saat kamu terbangun nanti, ekspedisi perintisan akan berlanjut ♭\"\nGelombang memoria menggulung, dan dia menyimpan harapan itu dalam-dalam di lubuk hatinya. Bisikan kecil dan cahaya mungil itu ....\nTak pernah dia lupakan.",
+        "icon": "icon/light_cone/23049.png",
+        "preview": "image/light_cone_preview/23049.png",
+        "portrait": "image/light_cone_portrait/23049.png"
+    },
+    "23051": {
+        "id": "23051",
+        "name": "Though Worlds Apart",
+        "rarity": 5,
+        "path": "Knight",
+        "desc": "Di tanah kuno yang tak berujung, sang pemuda melangkah seorang diri dalam perjalanan pencariannya.\nSeolah kembali ke masa-masa pengembaraannya, dia menyusuri ombak, menghadapi badai, bertarung dengan raksasa, dan bergulat melawan arus jahat.\nNamun di sela-sela napas yang terengah, dia tak lagi kesepian.\nMeski ribuan mil gunung dan sungai membentang, dia masih bisa melihat cahaya di depannya ....\nYakni harapan dari segala makhluk hidup.\nTanah yang hancur tidak lagi mampu menopang kehidupan baru, sehingga mereka pun berkumpul di sekelilingnya, mencari penghiburan dan perlindungan.\nYakni kata-kata yang ditanam rekan-rekannya dalam hatinya, laksana jalur pelayaran yang tiada henti, menghubungkan satu sama lain dengan erat.\nMasa lalu yang pernah membelenggunya terkadang muncul terbawa angin, tetapi jalan yang telah dia tempuh, pada akhirnya menjadi kekuatan untuk menumbuhkan sisik barunya.\n\"Aku akan melindungi jalur Trailblaze.\"\nPemuda itu mengangkat tombaknya dan melompat ke udara, menuju cahaya yang menanti di kejauhan.\n\"Dan mempertahankan semua harapan yang hendak memudar!\"",
+        "icon": "icon/light_cone/23051.png",
+        "preview": "image/light_cone_preview/23051.png",
+        "portrait": "image/light_cone_portrait/23051.png"
     },
     "24000": {
         "id": "24000",
@@ -1068,5 +1458,15 @@
         "icon": "icon/light_cone/24004.png",
         "preview": "image/light_cone_preview/24004.png",
         "portrait": "image/light_cone_portrait/24004.png"
+    },
+    "24005": {
+        "id": "24005",
+        "name": "Memory's Curtain Never Falls",
+        "rarity": 5,
+        "path": "Memory",
+        "desc": "Baik yang megah maupun sunyi, yang singkat maupun yang abadi ... setiap planet dan setiap momen senantiasa menyaksikan peristiwa yang tak terhitung jumlahnya.\nSejarah yang membeku akan mencair seketika dalam satu sentuhan, mengalir menjadi air mata dari mata dunia —\nAda yang mengatakan, betapa beratnya air mata itu ... Tahun-tahun yang terkandung di dalamnya cukup untuk memudarkan keabadian.\nAda yang mengatakan, betapa indahnya kisah-kisah itu ... Jernih dalam kesedihan, terang dalam kebahagiaan, tanpa sedikit pun kepalsuan.\nAlam semesta mengalir dalam keheningan. \"Dia\" tidak bersuara, dan hanya menatap ....\nMenatap dan menunggu, hingga semuanya menjadi \"memori\".",
+        "icon": "icon/light_cone/24005.png",
+        "preview": "image/light_cone_preview/24005.png",
+        "portrait": "image/light_cone_portrait/24005.png"
     }
 }

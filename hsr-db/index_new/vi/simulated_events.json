@@ -113,6 +113,12 @@
         "type": "Thần Bí",
         "image": "image/simulated_event/HoshinoKami_013.png"
     },
+    "20": {
+        "id": "20",
+        "name": "Polka Kakamond",
+        "type": "Câu Lạc Bộ Thiên Tài #4",
+        "image": "image/simulated_event/HoshinoKami_Herta6.png"
+    },
     "139": {
         "id": "139",
         "name": "Khởi Đầu - Công Ty Hành Tinh Hòa Bình",
@@ -340,6 +346,522 @@
         "name": "Học Giả Vô Dụng",
         "type": "Phương Trình",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "177": {
+        "id": "177",
+        "name": "Đạo Chích Ảo Ảnh",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "178": {
+        "id": "178",
+        "name": "Mộ Phần Của Vết Sẹo",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "179": {
+        "id": "179",
+        "name": "Người Tụ Họp",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "180": {
+        "id": "180",
+        "name": "Đấng Cứu Thế Sinh Học",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "181": {
+        "id": "181",
+        "name": "Học Giả Tuyệt Diệt",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "182": {
+        "id": "182",
+        "name": "Chuyển Dời Vỏ Bọc (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "183": {
+        "id": "183",
+        "name": "Chuyển Dời Vỏ Bọc (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "184": {
+        "id": "184",
+        "name": "Chuyển Dời Vỏ Bọc (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "185": {
+        "id": "185",
+        "name": "Những Người Được Ghi Nhớ (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "186": {
+        "id": "186",
+        "name": "Những Người Được Ghi Nhớ (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "187": {
+        "id": "187",
+        "name": "Những Người Được Ghi Nhớ (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "188": {
+        "id": "188",
+        "name": "Thế Giới Dây Cót (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "189": {
+        "id": "189",
+        "name": "Thế Giới Dây Cót (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "190": {
+        "id": "190",
+        "name": "Thế Giới Dây Cót (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "191": {
+        "id": "191",
+        "name": "Sự Thật Được In (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "192": {
+        "id": "192",
+        "name": "Sự Thật Được In (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "193": {
+        "id": "193",
+        "name": "Sự Thật Được In (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "194": {
+        "id": "194",
+        "name": "Lời Nói Dối Vĩ Đại (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "195": {
+        "id": "195",
+        "name": "Lời Nói Dối Vĩ Đại (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "196": {
+        "id": "196",
+        "name": "Lời Nói Dối Vĩ Đại (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "197": {
+        "id": "197",
+        "name": "Dập Tắt Ngọn Lửa (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "198": {
+        "id": "198",
+        "name": "Dập Tắt Ngọn Lửa (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "199": {
+        "id": "199",
+        "name": "Dập Tắt Ngọn Lửa (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_10.png"
+    },
+    "200": {
+        "id": "200",
+        "name": "Thiên Tài Và Tiên Tri (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "201": {
+        "id": "201",
+        "name": "Thiên Tài Và Tiên Tri (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "202": {
+        "id": "202",
+        "name": "Đại Hội Tương Lai Học (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "203": {
+        "id": "203",
+        "name": "Đại Hội Tương Lai Học (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "204": {
+        "id": "204",
+        "name": "Đại Hội Tương Lai Học (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "205": {
+        "id": "205",
+        "name": "Phá Sản Toàn Năng (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "206": {
+        "id": "206",
+        "name": "Phá Sản Toàn Năng (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "207": {
+        "id": "207",
+        "name": "Phá Sản Toàn Năng (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "208": {
+        "id": "208",
+        "name": "Virus Phản Hữu Cơ (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "209": {
+        "id": "209",
+        "name": "Virus Phản Hữu Cơ (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "210": {
+        "id": "210",
+        "name": "Virus Phản Hữu Cơ (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "211": {
+        "id": "211",
+        "name": "Du Hành Izmael (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "212": {
+        "id": "212",
+        "name": "Du Hành Izmael (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "213": {
+        "id": "213",
+        "name": "Du Hành Izmael (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "214": {
+        "id": "214",
+        "name": "Nhận Thức Sụp Đổ (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "215": {
+        "id": "215",
+        "name": "Nhận Thức Sụp Đổ (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "216": {
+        "id": "216",
+        "name": "Nhận Thức Sụp Đổ (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "217": {
+        "id": "217",
+        "name": "Người Quan Sát Trời Cao (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "218": {
+        "id": "218",
+        "name": "Người Quan Sát Trời Cao (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "219": {
+        "id": "219",
+        "name": "Người Quan Sát Trời Cao (III)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "220": {
+        "id": "220",
+        "name": "Sự Kỳ Vọng Của Thần",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "221": {
+        "id": "221",
+        "name": "Vùng Không Biết (I)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "222": {
+        "id": "222",
+        "name": "Vùng Không Biết (II)",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventDLC_13.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "Người Mô Phỏng Tương Đối",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "224": {
+        "id": "224",
+        "name": "Giun Sao Xoắn",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "225": {
+        "id": "225",
+        "name": "Người Khổng Lồ Vô Tâm",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "226": {
+        "id": "226",
+        "name": "Người Hái Thuốc",
+        "type": "Phương Trình",
+        "image": "image/simulated_event/RoguePicEventTourn_01.png"
+    },
+    "227": {
+        "id": "227",
+        "name": "Con Bướm Đậu Trên Cành Cây",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "228": {
+        "id": "228",
+        "name": "Con Bướm Lướt Qua Khung Cửa",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "229": {
+        "id": "229",
+        "name": "Con Bướm Đã Rời Đi",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "230": {
+        "id": "230",
+        "name": "Khi Quả Định Mệnh Rơi Xuống Đất",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "231": {
+        "id": "231",
+        "name": "Khi Định Mệnh Dừng Bước",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "Khi Định Mệnh Hé Lộ Chỉ Dẫn",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "233": {
+        "id": "233",
+        "name": "Bài Ca Hân Hoan Của Đất Trời",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "234": {
+        "id": "234",
+        "name": "Bài Ca Hứng Khởi Của Mưa Và Tuyết",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "235": {
+        "id": "235",
+        "name": "Bài Ca Vũ Điệu Của Biển Và Gió",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "236": {
+        "id": "236",
+        "name": "Vị Thần Lừa Gạt Chúng Thần",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "Vị Thần Trêu Đùa Nhân Gian",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "Vị Thần Ly Tán Loạn Lạc",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "239": {
+        "id": "239",
+        "name": "Cuộc Chiến Chưa Hạ Màn",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "240": {
+        "id": "240",
+        "name": "Cuộc Chiến Không Ngừng Nghỉ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "241": {
+        "id": "241",
+        "name": "Cuộc Chiến Mất Đi Vinh Quang",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "242": {
+        "id": "242",
+        "name": "Câu Chuyện Ru Ngủ Cho Bé Con",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "Câu Chuyện Cảnh Tỉnh Trước Khi Ngủ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "244": {
+        "id": "244",
+        "name": "Câu Chuyện Về Việc Hồi Hương",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "245": {
+        "id": "245",
+        "name": "Con Chim Che Phủ Mặt Đất",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "246": {
+        "id": "246",
+        "name": "Trí Tuệ Vượt Biển",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "247": {
+        "id": "247",
+        "name": "Khoe Khoang Thân Quyến Hoàn Mỹ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "248": {
+        "id": "248",
+        "name": "Ca Ngợi Trí Tuệ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "249": {
+        "id": "249",
+        "name": "Than Thở Cho Sự Lạnh Nhạt",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "250": {
+        "id": "250",
+        "name": "Cảm Ơn Ân Phúc",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "251": {
+        "id": "251",
+        "name": "Chuyến Đi Của Người Khổng Lồ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "252": {
+        "id": "252",
+        "name": "Sứ Mệnh Của Người Khổng Lồ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "253": {
+        "id": "253",
+        "name": "Kẻ Thù Của Người Khổng Lồ",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "254": {
+        "id": "254",
+        "name": "Lời Tiên Tri Của Hoàng Kim",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "255": {
+        "id": "255",
+        "name": "Lời Tiên Tri Của Bạch Kim",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "256": {
+        "id": "256",
+        "name": "Lời Tiên Tri Của Chì Sắt",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "257": {
+        "id": "257",
+        "name": "Luật Ràng Buộc Vạn Vật",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "258": {
+        "id": "258",
+        "name": "Luật Ràng Buộc Nhân Đức",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "259": {
+        "id": "259",
+        "name": "Luật Ràng Buộc Thần Minh",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "260": {
+        "id": "260",
+        "name": "Vật Nặng Nhất",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "261": {
+        "id": "261",
+        "name": "Vật Kiên Cố Nhất",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
+    },
+    "262": {
+        "id": "262",
+        "name": "Vật Mềm Mại Nhất",
+        "type": "Bí Mật",
+        "image": "image/simulated_event/RoguePicEventTourn_02.png"
     },
     "398": {
         "id": "398",
@@ -659,6 +1181,12 @@
         "type": "Giao Dịch",
         "image": "image/simulated_event/HoshinoKami_Herta3.png"
     },
+    "110007": {
+        "id": "110007",
+        "name": "Cửa Hàng Phương Trình Ruan Mei",
+        "type": "Giao Dịch",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
     "110101": {
         "id": "110101",
         "name": "Thợ Mỏ Du Mục",
@@ -847,7 +1375,7 @@
     },
     "112801": {
         "id": "112801",
-        "name": "Trải Nghiệm Xổ Số Kép",
+        "name": "Trải Nghiệm Quay Thưởng Kép",
         "type": "Sự Kiện",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
     },
@@ -1481,12 +2009,6 @@
         "type": "Sự Kiện",
         "image": "image/simulated_event/PicRogueEvent_Normal.png"
     },
-    "390101": {
-        "id": "390101",
-        "name": "",
-        "type": "",
-        "image": "image/simulated_event/PicRogueEvent_Normal.png"
-    },
     "410101": {
         "id": "410101",
         "name": "Thợ Mỏ Du Mục",
@@ -1669,7 +2191,13 @@
     },
     "412801": {
         "id": "412801",
-        "name": "Trải Nghiệm Xổ Số Kép",
+        "name": "Trải Nghiệm Quay Thưởng Kép",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "412802": {
+        "id": "412802",
+        "name": "Trải Nghiệm Siêu Quay Thưởng",
         "type": "Sự Kiện",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
     },
@@ -1985,10 +2513,370 @@
         "type": "Sự Kiện",
         "image": "image/simulated_event/PicRogueEvent_17.png"
     },
-    "490701": {
-        "id": "490701",
-        "name": "Test",
-        "type": "",
+    "421801": {
+        "id": "421801",
+        "name": "Ngữ Nghĩa Không Thích Hợp",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Battle.png"
+    },
+    "421901": {
+        "id": "421901",
+        "name": "Bánh Mì Dứa",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_19.png"
+    },
+    "422001": {
+        "id": "422001",
+        "name": "Linh Trưởng Như Bạn",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_21.png"
+    },
+    "422101": {
+        "id": "422101",
+        "name": "Bản Giao Hưởng Rác",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_20.png"
+    },
+    "422201": {
+        "id": "422201",
+        "name": "Nghi Thức Câu Cá",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "422301": {
+        "id": "422301",
+        "name": "Dung Nham",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422401": {
+        "id": "422401",
+        "name": "Ưu Đãi Đặc Biệt",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "422501": {
+        "id": "422501",
+        "name": "Cuộc Sống Kim Loại",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "422601": {
+        "id": "422601",
+        "name": "Vệt Màu",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_profiteer.png"
+    },
+    "422701": {
+        "id": "422701",
+        "name": "Đơn Vị Tạo Vật",
+        "type": "Sự Kiện",
         "image": "image/simulated_event/PicRogueEvent_Bond.png"
+    },
+    "422801": {
+        "id": "422801",
+        "name": "Ngân Hàng Thời Gian (I)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "422811": {
+        "id": "422811",
+        "name": "Ngân Hàng Thời Gian (II)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Trade.png"
+    },
+    "423001": {
+        "id": "423001",
+        "name": "Sự Cám Dỗ Màu Đỏ",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "423101": {
+        "id": "423101",
+        "name": "Khó Lựa Chọn (I)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423102": {
+        "id": "423102",
+        "name": "Khó Lựa Chọn (II)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "423501": {
+        "id": "423501",
+        "name": "Chợ Phiên",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_22.png"
+    },
+    "423601": {
+        "id": "423601",
+        "name": "Sản Phẩm Hợp Tác",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Toy.png"
+    },
+    "424201": {
+        "id": "424201",
+        "name": "Bán Đại Dương Xanh",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_18.png"
+    },
+    "424301": {
+        "id": "424301",
+        "name": "Báo Cáo Số Đông",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Twin.png"
+    },
+    "424401": {
+        "id": "424401",
+        "name": "Ngòi Bút Sinh Hoa",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424501": {
+        "id": "424501",
+        "name": "Ngôi Đền Lặng Im",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "424601": {
+        "id": "424601",
+        "name": "Tương Lai Giả",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_11.png"
+    },
+    "424701": {
+        "id": "424701",
+        "name": "Hacker Và Thủy Thủ",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_28.png"
+    },
+    "424801": {
+        "id": "424801",
+        "name": "Cuộc Chiến Đầu Tiên Của Phố Thương Mại",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_29.png"
+    },
+    "424901": {
+        "id": "424901",
+        "name": "Nhân Sinh Như Rau Cải (I)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424902": {
+        "id": "424902",
+        "name": "Nhân Sinh Như Rau Cải (II)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "424903": {
+        "id": "424903",
+        "name": "Nhân Sinh Như Rau Cải (III)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_30.png"
+    },
+    "510004": {
+        "id": "510004",
+        "name": "Stephen",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/HoshinoKami_Herta4.png"
+    },
+    "510005": {
+        "id": "510005",
+        "name": "Ruan Mei",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/HoshinoKami_Herta2.png"
+    },
+    "519401": {
+        "id": "519401",
+        "name": "Thế Giới Pixel: Ải Ẩn",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Pixel.png"
+    },
+    "523801": {
+        "id": "523801",
+        "name": "Tốc Độ Và Động Cơ",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_25.png"
+    },
+    "523901": {
+        "id": "523901",
+        "name": "Lồng Ấp",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_23.png"
+    },
+    "524001": {
+        "id": "524001",
+        "name": "Thợ Sửa Chữa (I)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524002": {
+        "id": "524002",
+        "name": "Thợ Sửa Chữa (II)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_24.png"
+    },
+    "524101": {
+        "id": "524101",
+        "name": "Thuyền Kẻ Ngốc",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_26.png"
+    },
+    "625001": {
+        "id": "625001",
+        "name": "Kẻ Thầm Thì",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625101": {
+        "id": "625101",
+        "name": "Thân Quyến Giả Mạo",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625201": {
+        "id": "625201",
+        "name": "Máy Ngắm Sao",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625301": {
+        "id": "625301",
+        "name": "Xúc Xắc Dolos",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "625401": {
+        "id": "625401",
+        "name": "Trốn Thoát Trong Gương",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625501": {
+        "id": "625501",
+        "name": "Tiêu Chuẩn Của Sự Thành Công",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "625601": {
+        "id": "625601",
+        "name": "Giao Dịch Thối Nát",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625701": {
+        "id": "625701",
+        "name": "Âm Thanh Của Biển",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_33.png"
+    },
+    "625801": {
+        "id": "625801",
+        "name": "Cầu Nguyện Vội Vàng",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "625901": {
+        "id": "625901",
+        "name": "Sự Ra Đời Của Anh Hùng (I)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625902": {
+        "id": "625902",
+        "name": "Sự Ra Đời Của Anh Hùng (II)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "625903": {
+        "id": "625903",
+        "name": "Sự Ra Đời Của Anh Hùng (III)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626001": {
+        "id": "626001",
+        "name": "Ngã Rẽ Cuộc Đời (I)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626002": {
+        "id": "626002",
+        "name": "Ngã Rẽ Cuộc Đời (II)",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626101": {
+        "id": "626101",
+        "name": "Vở Kịch Trong Ván Cờ",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_31.png"
+    },
+    "626201": {
+        "id": "626201",
+        "name": "Thời Cơ Ra Tay",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626301": {
+        "id": "626301",
+        "name": "Đấu Trường Sư Tử",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_35.png"
+    },
+    "626401": {
+        "id": "626401",
+        "name": "Thu Dung Dị Chủng",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_Normal.png"
+    },
+    "626501": {
+        "id": "626501",
+        "name": "Cán Cân Nguyện Vọng",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_32.png"
+    },
+    "626601": {
+        "id": "626601",
+        "name": "Kẹo Bông",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_38.png"
+    },
+    "626701": {
+        "id": "626701",
+        "name": "Con Đường Hiền Giả 1",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626702": {
+        "id": "626702",
+        "name": "Con Đường Hiền Giả 2",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626703": {
+        "id": "626703",
+        "name": "Con Đường Hiền Giả 3",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_36.png"
+    },
+    "626801": {
+        "id": "626801",
+        "name": "Nhiệm Vụ Vận Chuyển",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_34.png"
+    },
+    "626901": {
+        "id": "626901",
+        "name": "Cửa Đôi Mê Cung",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_37.png"
+    },
+    "627001": {
+        "id": "627001",
+        "name": "Cyrene",
+        "type": "Sự Kiện",
+        "image": "image/simulated_event/PicRogueEvent_39.png"
     }
 }

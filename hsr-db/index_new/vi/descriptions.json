@@ -452,7 +452,7 @@
     "10091": {
         "id": "10091",
         "title": "Tấn Công Thường",
-        "desc": "Thi triển Tấn Công Thường của nhân vật có thể tấn công kẻ địch và hồi điểm Chiến Kỹ."
+        "desc": "Thi triển Tấn Công Thường của nhân vật có thể tấn công mục tiêu phe địch và hồi điểm Chiến Kỹ."
     },
     "10092": {
         "id": "10092",
@@ -502,7 +502,7 @@
     "10101": {
         "id": "10101",
         "title": "Phá Vỡ Điểm Yếu - Băng",
-        "desc": "Khi sử dụng thuộc tính Băng gây \"Phá Vỡ Điểm Yếu\", sẽ thi triển trạng thái \"Đóng Băng\"\n\"Đóng Băng\" khiến địch không thể hành động, gây Sát Thương Băng liên tục."
+        "desc": "Khi sử dụng thuộc tính Băng gây \"Phá Vỡ Điểm Yếu\", sẽ thi triển trạng thái \"Đóng Băng\"\n\"Đóng Băng\" khiến địch không thể hành động, gây Sát Thương Băng Kèm Theo."
     },
     "10102": {
         "id": "10102",
@@ -959,6 +959,431 @@
         "title": "Hoolay",
         "desc": "Đối thủ đáng gờm của Người Xianzhou, cha đẻ của Người Boris.\nBảy trăm năm trước vì chiến bại nên bị giam trong Nhà Giam Xiềng Xích ở Xianzhou Luofu, chịu án đày ải suốt đời."
     },
+    "10210": {
+        "id": "10210",
+        "title": "Yaoguang",
+        "desc": "Đế Cung Thiên Tướng cai quản Xianzhou Yuque, được gọi là Tướng Quân Chiến Lược.\nMột vị tướng quân hiếm khi có người trong liên minh nhìn thấy dung mạo thực sự, lúc nào cũng ẩn mình đằng sau, tính toán chiến lược cho nguyên soái."
+    },
+    "10211": {
+        "id": "10211",
+        "title": "Thập Phương Quang Ánh Pháp Giới",
+        "desc": "Trận pháp bói toán do Xianzhou Yuque xây dựng.\nNghe nói nguyên lý của nó tương tự như Ma Trận Tiên Tri Tối Thượng, sách bói toán và cảm hứng đều được lấy từ Thiên Quân Trí Tuệ Nous."
+    },
+    "10212": {
+        "id": "10212",
+        "title": "Tàu Phá Thiên",
+        "desc": "Hội trường của Lễ Diễn Võ Trời Sao Xianzhou Luofu, được cải tạo từ chiến hạm cỡ lớn đã giải ngũ.\nKhi tiếng pháo rung trời, các chiến sĩ được mời từ nhiều thế giới khác nhau sẽ tập trung tại đây so tài cao thấp."
+    },
+    "10213": {
+        "id": "10213",
+        "title": "Nhà Giam Xiềng Xích",
+        "desc": "Hệ thống nhà giam dùng để giam giữ tội phạm của Liên Minh Xianzhou.\nNhà Giam Xiềng Xích của Xianzhou Luofu do người Xianzhou và Vidyadhara cùng xây dựng, chôn sâu trong Động Tiên, sâu bên dưới vực sâu."
+    },
+    "10214": {
+        "id": "10214",
+        "title": "Người Boris",
+        "desc": "Những thợ săn điên cuồng giữa vũ trụ, kẻ thù không đội trời chung của Xianzhou, và là nhánh hùng mạnh nhất trong số Dân Trù Phú.\nNgười Boris trông như một con sói khổng lồ đứng sừng sững, tàn bạo hung hãn, tôn sùng sức mạnh tuyệt đối. Chúng tấn công các hành tinh, làm cạn kiệt tài nguyên và phá hủy nhiều nền văn minh."
+    },
+    "10215": {
+        "id": "10215",
+        "title": "Trận Chiến Fanghu",
+        "desc": "Bước ngoặt của cuộc chiến dân Trù Phú lần thứ ba. Dưới ánh sáng của hành tinh ma quỷ, liên quân Tà Vật Trù Phú do Người Boris thống lĩnh gần như đã đánh bại Xianzhou Fanghu.\nNhờ vô số tướng sĩ Xianzhou hy sinh bản thân, mới khiến cho Thiên Vân Kính có thể thuận lợi truyền đạt thông tin, triệu hồi Đế Cung, xoay chuyển tình thế chiến đấu."
+    },
+    "10216": {
+        "id": "10216",
+        "title": "Trăng Máu",
+        "desc": "Trong nghi thức chọn ra Chiến Thủ Boris, các đấu sĩ nuốt chửng nhau, và kế thừa Dấu Hiệu Thọ Ôn được truyền lại từ đời này qua đời khác, một trái tim như vầng trăng đỏ.\nNuốt chửng con mồi để mạnh lên, đây là cực hạn bí thuật bất tử của Người Boris, nguyên nhân căn bản để trường tồn bất hủ."
+    },
+    "10217": {
+        "id": "10217",
+        "title": "Phi Hoàng",
+        "desc": "Uy linh được Tư Mệnh Đế Cung ban tặng, thú thần tốc ẩn nấp trong cơ thể của Tướng Quân Thiên Kích Feixiao.\nCon mắt trần tục không thể nhìn thấy, chỉ khi vạn vật ngưng đọng trong khoảnh khắc chết chóc, con người mới có thể chứng kiến sự xuất hiện của nó.\nĐối với Feixiao, nó là mũi tên dẫn dắt hành động của cô, là cái chết nuốt chửng sinh mạng của cô, cũng là con mồi mà cả đời cô săn đuổi không ngừng nghỉ."
+    },
+    "10220": {
+        "id": "10220",
+        "title": "Rappa",
+        "desc": "Giống như một quả lựu đạn gây choáng xuất hiện vào lúc 3 giờ sáng ở Penacony, một cô gái kỳ lạ tự xưng là Ninja, quy kết tất cả mọi thứ trên đời thành \"Nhẫn Pháp\".\nHành hiệp trượng nghĩa trong xứ mộng ở thời kỳ Mạt Pháp, một lòng săn đuổi kẻ ác độc mang tên Tà Nhẫn-Osaru."
+    },
+    "10221": {
+        "id": "10221",
+        "title": "Rappa",
+        "desc": "Cảnh Binh Thiên Hà tự xưng là Nhẫn Hiệp-Dazzling, vì thí nghiệm lại giống mà nhiễm virus meme, những gì cô nhìn thấy và nghe thấy đều là thế giới của ninja.\nĐể thanh toán máu và nước mắt trong quá khứ, quán triệt Nhẫn Đạo của Dazzling, cô một lòng săn đuổi kẻ ác độc có tên là Tà Nhẫn-Osaru, hay còn được gọi là Dr. Primitive."
+    },
+    "10222": {
+        "id": "10222",
+        "title": "Dr. Primitive",
+        "desc": "Hội viên số #64 của Câu Lạc Bộ Thiên Tài, nhà khoa học đã phạm nhiều tội ác chống lại nhân loại, thân phận không rõ.\nDùng thí nghiệm lại giống để phá hoại vũ trụ, và vì vậy mà kết oán với Cảnh Binh Thiên Hà, đến nay hành tung không rõ."
+    },
+    "10223": {
+        "id": "10223",
+        "title": "Rừng Sâu Căn Nguyên",
+        "desc": "Nhóm nghiên cứu khoa học cuồng nhiệt do các học giả tôn sùng Dr. Primitive thành lập, nhóm người và khỉ cố chấp này đi theo bước chân của thần tượng, cố gắng lan tỏa \"thí nghiệm lại giống\" khắp ngân hà."
+    },
+    "10224": {
+        "id": "10224",
+        "title": "Khu Học Viện Gấp Giấy Penacony",
+        "desc": "Trường đại học nổi tiếng của Penacony, nằm ở \"Thời Khắc Mặt Trời\". Là chiếc nôi của những nhân tài kiệt xuất, không ngừng truyền ánh sáng và nhiệt độ tri thức đến trong và ngoài Cõi Mộng."
+    },
+    "10225": {
+        "id": "10225",
+        "title": "Sunday",
+        "desc": "Cựu gia chủ gia tộc Oak, anh trai của Robin.\nSau khi mớ hỗn loạn của Đại Nhạc Hội Hòa Hợp được dẹp yên, anh đã từ biệt \"Trật Tự\" cùng với quê hương của mình, bước lên Đội Tàu Astral, tìm kiếm con đường mới."
+    },
+    "10226": {
+        "id": "10226",
+        "title": "Tingyun",
+        "desc": "Tiếp Độ Sứ của Sở Thiên Bách Xianzhou Luofu.\nTừng bị Chúa Tể Diệt Chủng hủy hoại về thể xác và cả tinh thần, sau đó được một thiên tài cứu giúp, trong họa có phúc, một lần nữa quay lại với cuộc chơi."
+    },
+    "10227": {
+        "id": "10227",
+        "title": "\"Im Miệng\"",
+        "desc": "Robot pha chế thức uống trên Đội Tàu Astral, tự cho rằng mình rất hài hước.\nRa đời từ vài Hổ Phách Kỷ trước, sau đó dần bị lãng quên.\nSau khi đoàn tàu khởi hành lần nữa, đã được Hư Không Vạn Tàng sửa lại."
+    },
+    "10228": {
+        "id": "10228",
+        "title": "Aglaea",
+        "desc": "Hậu Duệ Chrysos của Okhema, Á Thần của Lãng Mạn, và cũng là người lãnh đạo của Hành Trình Săn Đuổi Lửa.\nCô là thợ dệt, tự mình xe chỉ luồn kim, triệu tập anh hùng thế gian, một lần nữa bước lên hành trình dài."
+    },
+    "10229": {
+        "id": "10229",
+        "title": "Tribbie, Trianne, Trinnon",
+        "desc": "Hậu Duệ Chrysos của Janusopolis, Á Thần của Cánh Cổng, tư tế và tín sứ nhỏ bé của Okhema.\nBa người dùng lời tiên tri để dẫn dắt Hậu Duệ Chrysos tiến về phía trước, mỗi người gánh vác một trách nhiệm khác nhau."
+    },
+    "10230": {
+        "id": "10230",
+        "title": "Mydei",
+        "desc": "Vương tử của Thành Kremnos, con của Gorgo, là một chiến binh sắc bén như sư tử.\nTrông có vẻ kiêu ngạo bất kham, nhưng thật ra rất coi trọng tình nghĩa, quan tâm đến con dân."
+    },
+    "10231": {
+        "id": "10231",
+        "title": "Castorice",
+        "desc": "Thánh nữ đốc chiến của Aidonia, Thầy Nhập Liệm của Okhema.\nMang lời nguyền có tên là \"Cái Chạm Tử Thần\", những sinh mệnh bị đầu ngón tay chạm vào đều sẽ biến mất về hư vô."
+    },
+    "10232": {
+        "id": "10232",
+        "title": "Phainon",
+        "desc": "Hậu Duệ Chrysos của Aedes Elysiae, chiến sĩ của Okhema.\nThanh niên hiền lành cởi mở, tinh tế, nỗ lực tìm kiếm sự hoàn hảo trong mọi việc."
+    },
+    "10233": {
+        "id": "10233",
+        "title": "Mem",
+        "desc": "Sinh vật thần bí có bộ lông màu hồng, dường như có mối liên hệ mật thiết với Amphoreus."
+    },
+    "10234": {
+        "id": "10234",
+        "title": "Con Mắt Ngày Và Đêm, Aquila",
+        "desc": "Titan Bầu Trời.\nKhi Aquila mở mắt nhìn mặt đất, thế giới chào đón ánh sáng; Khi Aquila nhắm mắt, thế giới chìm vào bóng tối."
+    },
+    "10235": {
+        "id": "10235",
+        "title": "Trụ Cột Của Đá, Georios",
+        "desc": "Titan Mặt Đất.\nTất cả những ngọn núi đều từng là hóa thân của Georios, ngài là Titan lớn nhất, ấm áp và tốt bụng nhất, và cũng là thần bảo vệ nhân gian."
+    },
+    "10236": {
+        "id": "10236",
+        "title": "Chiếc Cốc Tràn Đầy, Phagousa",
+        "desc": "Titan Biển Cả.\nPhagousa thích trôi dạt giữa nhân gian, xuất hiện trên sóng lớn của biển, dòng chảy của sông, trong ly rượu của bữa tiệc, mang đến bài ca điệu nhảy và tiếng cười."
+    },
+    "10237": {
+        "id": "10237",
+        "title": "Kén Vàng, Mnestia",
+        "desc": "Titan Lãng Mạn.\nNgài và thân quyến của ngài theo đuổi những điều tốt đẹp trên thế gian, dệt chúng vào sợi tơ vàng, dệt nên sự lãng mạn của thế gian, khiến người dân của Amphoreus có được tình yêu."
+    },
+    "10238": {
+        "id": "10238",
+        "title": "Ngôi Vương Của Thế Giới, Kephale",
+        "desc": "Titan Phụ Thế.\nKephale được chư thần ban cho trách nhiệm gánh vác sinh mệnh. Ngài từ bỏ ngai vàng thống trị cả thế giới, chỉ để lại cho nhân gian một tia sáng."
+    },
+    "10239": {
+        "id": "10239",
+        "title": "Nhánh Phân Chia, Cerces",
+        "desc": "Titan Lý Trí.\nCerces giáng thế với hình tượng Cây Thiêng khổng lồ, ngài cho phép con người đi dạo bên cạnh, tỉnh táo và suy ngẫm, nhận được tri thức."
+    },
+    "10240": {
+        "id": "10240",
+        "title": "Đồng Xu Sấp Ngửa, Zagreus",
+        "desc": "Titan Mưu Kế.\nZagreus chẳng thèm quan tâm đến việc thực hiện thần chức của mình, ngài thích gây chia rẽ trên con đường của các vị thần, trêu đùa các vị thần, tạo ra vô số hỗn loạn mất trật tự."
+    },
+    "10241": {
+        "id": "10241",
+        "title": "Ngọn Giáo Thần Phạt, Nikador",
+        "desc": "Titan Phân Tranh.\nNgài tuyên chiến với các vị thần, khiến thế gian rơi vào phân tranh vô tận. Trong những bài ca dao của nhà thơ, Lưỡi Kiếm Thần Phạt của ngài có thể san bằng trời đất chỉ với một đòn."
+    },
+    "10242": {
+        "id": "10242",
+        "title": "Bàn Tay Hắc Ám, Thanatos",
+        "desc": "Titan Tử Vong.\nKhi nhiều linh hồn không có nơi an nghỉ, Sông Styx sẽ tràn lên mặt đất, và Thanatos mang thuyền tới để dẫn đường cho người chết đến kiếp sau."
+    },
+    "10243": {
+        "id": "10243",
+        "title": "Màn Đêm Vĩnh Hằng, Oronyx",
+        "desc": "Titan Thời Gian.\nOronyx sắp xếp mạch thời gian, duy trì quá khứ, hiện tại và tương lai của thế gian, giúp vạn sự vạn vật lưu chuyển."
+    },
+    "10244": {
+        "id": "10244",
+        "title": "Cán Cân Công Lý, Talanton",
+        "desc": "Titan Luật Pháp.\nTalanton tuyệt đối không cho phép thiên vị và bất công, ngài bảo vệ những điều cấm kỵ và ranh giới của Amphoreus, thiết lập logic và quy tắc cho vạn vật."
+    },
+    "10245": {
+        "id": "10245",
+        "title": "Cánh Cổng Vạn Lối, Janus",
+        "desc": "Titan Cánh Cổng.\nJanus biết rõ sự tồn tại và điểm cuối của mọi con đường. Ngài không chỉ cai quản những con đường mà con người đi qua, mà còn cai quản những hành trình ràng buộc số phận của họ."
+    },
+    "10246": {
+        "id": "10246",
+        "title": "Titan",
+        "desc": "Titan của Amphoreus là sức mạnh duy trì trời đất, là định mệnh từ xưa đến nay, là quy tắc của vạn vật trên thế gian.\nNgười phàm sống trong hỷ nộ ái ố của các ngài. Học thức, chiến tranh, tình yêu và sống chết đều liên quan mật thiết đến thần quyền của các ngài."
+    },
+    "10247": {
+        "id": "10247",
+        "title": "Hậu Duệ Chrysos",
+        "desc": "Tương truyền, ánh sáng thần tính của Kephale ảm đạm, ngài dâng hiến Ngọn Lửa của mình và để lại Lời Sấm Sáng Thế.\nSau đó, những anh hùng có sức mạnh vĩ đại bắt đầu đi lại trên mặt đất, họ mang dòng máu vàng thần thánh và được gọi là Hậu Duệ Chrysos."
+    },
+    "10248": {
+        "id": "10248",
+        "title": "Á Thần",
+        "desc": "Tribios nhận Ngọn Lửa của Janus, trở thành Á Thần đầu tiên.\nSau đó nhiều anh hùng Hậu Duệ Chrysos vượt qua thí luyện, tiếp nhận thần quyền Titan, trở thành Á Thần, và duy trì trật tự của thế gian."
+    },
+    "10249": {
+        "id": "10249",
+        "title": "Okhema",
+        "desc": "Người phàm đã xây dựng nên thôn làng ngay dưới chân Kephale, từ đó tạo ra tiền thân của Okhema.\nNgày nay, nó vừa là nơi trú ẩn cho ngày tận thế, vừa là khởi đầu cho hành trình Tái Sáng Thế."
+    },
+    "10250": {
+        "id": "10250",
+        "title": "Thành Kremnos",
+        "desc": "Pháo đài di động khổng lồ, thành phố của các chiến sĩ mang tín ngưỡng Nikador.\nNgười Kremnos lấy chiến đấu đến chết làm vinh dự, nổi tiếng ở Amphoreus với kỷ luật nghiêm khắc."
+    },
+    "10251": {
+        "id": "10251",
+        "title": "Vực Thẳm Định Mệnh",
+        "desc": "Janusopolis, thánh địa tôn giáo nằm ngoài biên giới địa chính trị của thành bang.\nNgày nay chỉ còn lại vài thần điện sừng sững, mọi người gọi đó là Vực Thẳm Định Mệnh hoặc Điện Tam Thần Định Mệnh."
+    },
+    "10252": {
+        "id": "10252",
+        "title": "Thủy Triều Đen",
+        "desc": "Nước đã làm tan chảy linh hồn, nuốt chửng bóng tối của Amphoreus.\nThủy Triều Đen và tạo vật của Thủy Triều Đen là nguyên nhân trực tiếp khiến Amphoreus sắp bị hủy diệt."
+    },
+    "10253": {
+        "id": "10253",
+        "title": "Hành Giả Trộm Lửa",
+        "desc": "Kiếm sĩ vô danh đến cùng với Thủy Triều Đen, săn Ngọn Lửa Titan, không ai biết thân phận thật của hắn.\nMang trong mình sức mạnh phi thường, kiếm thuật gần như không thể bị đánh bại."
+    },
+    "10254": {
+        "id": "10254",
+        "title": "Hành Giả Trộm Lửa",
+        "desc": "Kiếm sĩ vô danh đến cùng với Thủy Triều Đen, săn Ngọn Lửa Titan, không ai biết thân phận thật của hắn.\nTrong cuộc vây bắt Thành Kremnos đã giao đấu sống còn với mọi người qua nhiều hiệp, cuối cùng thất bại, không rõ tung tích."
+    },
+    "10255": {
+        "id": "10255",
+        "title": "Điện Cây Giác Ngộ",
+        "desc": "Khu vườn được xây dựng xung quanh hóa thân của Cerces, một trong những thánh địa học thuật của Amphoreus.\nHiện là đồng minh của Okhema, cũng là trận địa tuyến đầu nghiên cứu những sự vật thần bí như Thủy Triều Đen, Titan."
+    },
+    "10256": {
+        "id": "10256",
+        "title": "Điện Cây Giác Ngộ",
+        "desc": "Khu vườn được xây dựng xung quanh hóa thân của Cerces, một trong những thánh địa học thuật của Amphoreus.\nĐã bị hủy diệt trong cuộc tấn công của Thủy Triều Đen."
+    },
+    "10257": {
+        "id": "10257",
+        "title": "Tribbie, Trianne, Trinnon",
+        "desc": "Hậu Duệ Chrysos của Janusopolis, Á Thần của \"Cánh Cổng\". Từng là Thánh Nữ xinh đẹp, cái giá phải trả cho việc gánh vác Ngọn Lửa là trở về hình dạng đứa trẻ.\nTrianne đã hy sinh trong cuộc tấn công của Hành Giả Trộm Lửa, linh hồn tiêu tan hoàn toàn, và biến thành một con búp bê có hình dạng giống hệt cô."
+    },
+    "10258": {
+        "id": "10258",
+        "title": "Mydei",
+        "desc": "Hậu Duệ Chrysos của Thành Kremnos, Á Thần của Phân Tranh, cũng là con của Gorgo, Thần Vương cuối cùng của Kremnos.\nDẫn dắt con dân dấn thân vào sự nghiệp Săn Đuổi Lửa, rồi một mình trở về quê hương, một mình chống lại Thủy Triều Đen bao trùm thế giới."
+    },
+    "10259": {
+        "id": "10259",
+        "title": "Hyacine",
+        "desc": "Hậu Duệ Chrysos của Đình Viện Hoàng Hôn, hậu duệ của Bầu Trời.\nTính cách lạc quan cởi mở, giỏi lắng nghe. Trong thời đại suy tàn, cô ấy đã cố gắng hết sức xây dựng một sảnh đường trị liệu cách ly với thế giới bên ngoài."
+    },
+    "10260": {
+        "id": "10260",
+        "title": "Cipher",
+        "desc": "Hậu Duệ Chrysos của Dolos, Á Thần của Mưu Kế. Từ lâu đã từ bỏ sứ mệnh Săn Đuổi Lửa, rời xa Thánh Thành.\nCó sức mạnh thần tốc, nhưng lại dùng nó để trộm cướp. Quỷ kế đa đoan, so với Hành Trình Anh Hùng thì thích cuộc sống của mình hơn."
+    },
+    "10261": {
+        "id": "10261",
+        "title": "Anaxa",
+        "desc": "Hậu Duệ Chrysos của Điện Cây Giác Ngộ, một trong bảy hiền giả, người sáng lập Học Phái Hạt Trí Tuệ. Vì cố chấp cho rằng con người và thần linh không khác biệt, nên bị gọi là \"kẻ báng bổ thần\".\nLà kỳ tích sống sót trong kiếp nạn của Điện Cây và Ngọn Lửa của Titan Lý Trí đang ký sinh trên người."
+    },
+    "10262": {
+        "id": "10262",
+        "title": "Castorice",
+        "desc": "Thánh nữ đốc chiến của Aidonia, Á Thần của \"Tử Vong\". Cũng là cánh tay phải của Thanatos, nắm giữ quyền trượng \"ban phát cái chết\".\nSau khi tìm hiểu được thân thế, đã chiến thắng thử thách, hợp nhất đôi bàn tay của Tử Vong, duy trì vòng luân chuyển sinh tử trên thế gian."
+    },
+    "10263": {
+        "id": "10263",
+        "title": "Anaxa",
+        "desc": "Hậu Duệ Chrysos của Điện Cây Giác Ngộ, Á Thần của \"Lý Trí\". Một trong bảy hiền giả, người sáng lập Học Phái Hạt Trí Tuệ.\nĐã mất từ lâu trong kiếp nạn của Điện Cây, nhưng sau khi chết vẫn đồng hành cùng Titan, chiến thắng thử thách, tiết lộ bản chất của thế giới Amphoreus."
+    },
+    "10264": {
+        "id": "10264",
+        "title": "Cipher",
+        "desc": "Hậu Duệ Chrysos của Dolos, Á Thần của \"Mưu Kế\". Dù đã từ bỏ sứ mệnh Săn Đuổi Lửa, nhưng âm thầm trở về Thánh Thành.\nCó sức mạnh thần tốc, nhưng lại dùng nó để trộm cướp. Quỷ kế đa đoan, so với Hành Trình Anh Hùng thì thích cuộc sống của mình hơn."
+    },
+    "10265": {
+        "id": "10265",
+        "title": "Vách Mây Bình Minh",
+        "desc": "Nơi gần nhất với \"Titan Phụ Thế\" Kephale của Okhema, thánh địa nơi Hậu Duệ Chrysos kết nối với Titan.\nNơi này trang nghiêm thần thánh, là nơi tụ tập của những người cao quý trong Thành Okhema, cũng là trung tâm văn hóa chính trị của Okhema."
+    },
+    "10266": {
+        "id": "10266",
+        "title": "Thành Cổ Xương Rồng",
+        "desc": "Styxia, thành bang của Rồng Khổng Lồ và sóng biển, nay chỉ còn lại một đống phế tích.\nQuá nhiều vong hồn không thể tới bờ bên kia, Sông Styx dâng lên không dứt, Thanatos không rõ tung tích có liên quan mật thiết tới nơi này."
+    },
+    "10267": {
+        "id": "10267",
+        "title": "\"Kỵ Sĩ Nắng Sấm\" Seliose",
+        "desc": "Người dũng sĩ từng một mình khiêu chiến \"Con Mắt Ngày Và Đêm\" trong truyền thuyết, mở ra Hành Trình Săn Đuổi Lửa cho nhân loại, cũng được xem là tổ tiên của tộc Bầu Trời ngày nay.\nCâu chuyện về cô rực rỡ đến mức, trong mọi ghi chép về bầu trời của thời đại ấy, cô luôn là nhân vật trung tâm."
+    },
+    "10268": {
+        "id": "10268",
+        "title": "\"Kỵ Sĩ Nắng Sấm\" Seliose",
+        "desc": "Người dũng sĩ từng một mình khiêu chiến \"Con Mắt Ngày Và Đêm\" trong truyền thuyết. Cô không thể khiến người dân trong tộc thay đổi, chính sự ngu muội của họ đã làm cô hoàn toàn tuyệt vọng với Con Dân Bầu Trời.\nSau khi tuyên án tử cho họ, cô hòa làm một với Aquila, ngủ vùi trong pháo đài trên không."
+    },
+    "10269": {
+        "id": "10269",
+        "title": "\"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm",
+        "desc": "Trung tâm thành bang trên mây được đặt theo tên của Titan, nơi Aquila cư ngụ và nhìn xuống mặt đất từ bầu trời.\nBức bích họa phản chiếu thiên tượng của Amphoreus, dường như đang che giấu một bí mật nào đó."
+    },
+    "10270": {
+        "id": "10270",
+        "title": "\"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm",
+        "desc": "Sau khi Aquila ngã xuống, pháo đài trên không dần dần sụp đổ.\nMặc dù kết cấu trong đó vẫn miễn cưỡng vận hành, nhưng đa số đều bị sự cố và hầu như đã không còn tác dụng."
+    },
+    "10271": {
+        "id": "10271",
+        "title": "\"Điện Cầu Nguyện U Tối\" Vách Mây Bình Minh",
+        "desc": "Thánh địa của Okhema sau khi Cỗ Máy Bình Minh bị dập tắt. Hầu hết các khu vực đã bị Thủy Triều Đen tràn vào xâm chiếm.\nLà trung tâm hành chính chưa mất đi năng lực vận hành. Một số dân chúng đã đến gần sảnh đường nghị hội để lánh nạn, cùng binh lính chống lại sự tấn công của bọn quái vật."
+    },
+    "10272": {
+        "id": "10272",
+        "title": "\"Thành Phố Chìm Vào Hoàng Hôn\" Okhema",
+        "desc": "Thánh Thành sau khi Cỗ Máy Bình Minh bị dập tắt. Người dân tận mắt chứng kiến biến cố giáng xuống, lo âu và hỗn loạn lan rộng khắp nơi.\nHậu Duệ Chrysos của Bầu Trời đang nhìn xuống nơi này, dùng kết giới cầu vồng để bảo vệ cư dân."
+    },
+    "10273": {
+        "id": "10273",
+        "title": "\"Nghiệp Quả Nắng Sấm\" Aquila",
+        "desc": "Sau những trận chiến kịch liệt, \"Con Mắt Ngày Và Đêm\" cuối cùng cũng bị Thủy Triều Đen nuốt chửng, nhưng dưới sự thúc đẩy của một ý chí được chọn, nó lại một lần nữa tung cánh bay lên.\nVinh quang của bầu trời đã bị lãng quên, thời khắc này chỉ còn một vị thần khổng lồ bị điều khiển bởi sát ý."
+    },
+    "10274": {
+        "id": "10274",
+        "title": "Aedes Elysiae",
+        "desc": "Aedes Elysiae, một thôn làng nhỏ bé được bao bọc bởi Màn Đêm Vĩnh Hằng, bị hủy diệt trong Thủy Triều Đen.\nNgười anh hùng bước ra từ những con sóng lúa mì của quê hương, không bao giờ ngoảnh lại."
+    },
+    "10275": {
+        "id": "10275",
+        "title": "Khu Rừng Lạc Lối",
+        "desc": "Một vùng trời nhỏ bé ẩn mình trong khu rừng rậm rạp của Aedes Elysiae, thôn làng của các yêu tinh.\nNghe nói, chỉ có những đứa trẻ ngây thơ mới được vào."
+    },
+    "10276": {
+        "id": "10276",
+        "title": "Lygus",
+        "desc": "Tự xưng là \"Khán Giả Thần Lễ\", kẻ đứng sau thao túng quá trình tính toán của Amphoreus.\nBước đi trên vận mệnh \"Tri Thức\", nhưng lại có ý đồ tạo ra \"Hủy Diệt\"."
+    },
+    "10277": {
+        "id": "10277",
+        "title": "Irontomb",
+        "desc": "Lệnh Sứ \"Hủy Diệt\", một trong những Chúa Tể Diệt Chủng. Họ sinh ra là để thiêu rụi gốc rễ của vận mệnh, từ đó tiến đến thiêu hủy vũ trụ.\nIrontomb là kẻ hủy diệt \"Tri Thức\"."
+    },
+    "10278": {
+        "id": "10278",
+        "title": "Phainon",
+        "desc": "Hậu Duệ Chrysos đến từ Aedes Elysiae, chiến sĩ của Okhema, vị Á Thần \"Phụ Thế\" trong lời tiên tri.\nTên thí nghiệm là \"NeiKos496\". Cuộc hành trình đau khổ dẫn anh đến tận cùng thế giới, sự thật tàn khốc khiến anh nhận được cái liếc nhìn của \"Hủy Diệt\"."
+    },
+    "10279": {
+        "id": "10279",
+        "title": "Hành Giả Trộm Lửa",
+        "desc": "Kiếm sĩ vô danh đến cùng với Thủy Triều Đen, săn đuổi Ngọn Lửa của Titan. Dung mạo đằng sau chiếc mặt nạ kia giống hệt Phainon.\nVượt qua vòng luân hồi vĩnh cửu để trở về, bị hàng trăm triệu Ngọn Lửa thiêu đốt, đã trở thành một đống xương cốt bị thiêu hủy tàn tạ. Sau khi giao lại nguyện vọng cho Phainon thì tan thành tro bụi."
+    },
+    "10280": {
+        "id": "10280",
+        "title": "Cyrene",
+        "desc": "Thiếu nữ thần bí của Aedes Elysiae, tư tế của Đình Viện Tế Lễ, Á Thần \"Thời Gian\" trong lời tiên tri.\nTên thí nghiệm là \"PhiLia093\". Hiện tại không rõ tung tích."
+    },
+    "10281": {
+        "id": "10281",
+        "title": "Mem",
+        "desc": "Sinh vật thần bí với bộ lông màu hồng, có mối liên hệ mật thiết với Amphoreus.\nĐồng hành cùng {NICKNAME} đến tận cùng thế giới, và đã lấy lại được nhiều \"Ký Ức\" hơn."
+    },
+    "10282": {
+        "id": "10282",
+        "title": "Tái Sáng Thế",
+        "desc": "Hình thức chuyển giao qua các thế hệ của Amphoreus, cũng là thí luyện của Kephale.\nÁ Thần \"Phụ Thế\" cần phải dùng ký ức, tạo ra và gánh vác thế giới mới, cho đến khi sụp đổ, hoặc đến khi có người đến tiếp nhận thần chức."
+    },
+    "10283": {
+        "id": "10283",
+        "title": "Tái Sáng Thế",
+        "desc": "Hình thức chuyển giao qua các thế hệ của Amphoreus, cũng là cơ chế tính toán của Quyền Trượng δ-me13 \"Amphoreus\".\nMục tiêu là giải phương trình \"Hủy Diệt\", tuần hoàn nhập mẫu đối kháng và học tập cho nó.\nLần \"Tái Sáng Thế\" cuối cùng về mặt lý thuyết đã bị Phainon và Cyrene ngăn chặn, rơi vào vòng lặp bất tận lần thứ 33,550,336."
+    },
+    "10284": {
+        "id": "10284",
+        "title": "Vòng Lặp Vĩnh Cửu",
+        "desc": "Vòng lặp chết do hai nhóm tín hiệu tạo ra trong quá trình tính toán của Quyền Trượng δ-me13 \"Amphoreus\", mục đích là ngăn cản phương trình \"Hủy Diệt\" hoàn thành.\nDưới ảnh hưởng của sức mạnh \"Ký Ức\", truyền 12 Ngọn Lửa vào trong Thanh Kiếm Nghi Thức, có thể khiến thời gian trở lại điểm khởi đầu, đảo ngược tiến trình tính toán."
+    },
+    "10285": {
+        "id": "10285",
+        "title": "Hysilens",
+        "desc": "Hậu Duệ Chrysos của cổ quốc nơi biển sâu, là nhạc sĩ đến từ đại dương, là kỵ sĩ với danh hiệu \"Kiếm Kỳ\", là lưỡi kiếm mạnh nhất bên cạnh Hoàng Đế.\nTừng là hậu duệ cuối cùng của Tộc Siren, cô lang thang ở thế giới loài người rồi quy phục dưới trướng Cerydra, trở thành một thành viên của Săn Đuổi Lửa."
+    },
+    "10286": {
+        "id": "10286",
+        "title": "Cerydra",
+        "desc": "Hậu Duệ Chrysos của Hyperion, chủ của Đế Quốc Phương Bắc, Người Đội Vương Miện Cháy chấm dứt chiến tranh, Hoàng Đế duy nhất của Amphoreus.\nSau khi thống nhất các thành bang đã triệu tập anh hùng khắp nơi, phát động Hành Trình Săn Đuổi Lửa, thề sẽ phá vỡ trật tự cũ và viết nên luật mới."
+    },
+    "10287": {
+        "id": "10287",
+        "title": "Evernight",
+        "desc": "Hiện thân là một vị khách thần bí trong kẽ hở ký ức, ngoại hình giống với March 7th nhưng danh tính vẫn chưa rõ.\nCó mối liên hệ sâu sắc với Vận Mệnh \"Ký Ức\", cô ấy dường như đang theo đuổi một mục đích khác biệt hoàn toàn so với những Người Lưu Giữ Ký Ức khác."
+    },
+    "10288": {
+        "id": "10288",
+        "title": "Lygus",
+        "desc": "Tự xưng là \"Khán Giả Thần Lễ\", người điều khiển phép diễn toán của Amphoreus.\nTự xưng là Câu Lạc Bộ Thiên Tài #1 Zandar, muốn mượn Amphoreus để tạo ra sức mạnh hủy diệt Nous.\nĐi theo Vận Mệnh \"Tri Thức\", nhưng lại nuôi tham vọng tạo ra \"Hủy Diệt\"."
+    },
+    "10289": {
+        "id": "10289",
+        "title": "Bên Ngoài Thần Thoại",
+        "desc": "Ranh giới giữa Amphoreus và vũ trụ thực tại, là thiết bị phần cứng của Quyền Trượng δ-me13.\nKhán đài của những câu chuyện anh hùng, nơi dữ liệu và ký tự tuôn chảy, hóa thành tín hiệu điện để tính toán \"Nguyên Động Lực\"."
+    },
+    "10290": {
+        "id": "10290",
+        "title": "Biển Cả Rền Vang",
+        "desc": "Sau khi Thủy Triều Đen rút đi, Styxia diễn ra một bữa tiệc vĩnh hằng.\nThực chất đó là ảo mộng được Siren dệt nên bằng tiếng hát, nơi những người đồng hành đã khuất đều là khách mời trên bàn tiệc."
+    },
+    "10291": {
+        "id": "10291",
+        "title": "Evernight",
+        "desc": "Vị khách thần bí xuất hiện trong khe hở ký ức có diện mạo giống hệt March 7th, như hai mặt của cùng một sự vật.\nMarch 7th đã giao lại ký ức của mình rồi chìm vào giấc ngủ, Evernight phóng thích sóng thủy triều \"Lãng Quên\" để che giấu bản thân."
+    },
+    "10292": {
+        "id": "10292",
+        "title": "Terravox",
+        "desc": "Vua của Thú Đại Địa, tạo vật của Georios, Á Thần của \"Mặt Đất\" trong lời tiên tri.\nTính cách kiên cường, đã hợp tác với nhiều sinh linh và Evernight để canh giữ thế giới thủy triều ký ức, phong ấn bí mật của Đại Lăng Mộ."
+    },
+    "10293": {
+        "id": "10293",
+        "title": "Dan Heng - Permansor Terrae",
+        "desc": "Vị tân thần nhận Ngọn Lửa \"Mặt Đất\" từ tay Terravox, người bảo vệ của Đội Tàu Astral.\nTrút bỏ lớp vảy rồng đầy thương tích, dùng \"Bất Diệt\" để bao dung quá khứ và tương lai, đón chờ thời khắc khởi hành một lần nữa."
+    },
+    "10294": {
+        "id": "10294",
+        "title": "Rừng Thiêng Vệt Sáng",
+        "desc": "Ánh sáng vàng kim của \"Hủy Diệt\" hướng về tận sâu Đại Lăng Mộ đã xuyên qua Điện Cây Giác Ngộ.\nGiờ đây, dưới ảnh hưởng của thủy triều ký ức, vô số ký ức hỗn loạn hội tụ tại đây."
+    },
+    "10295": {
+        "id": "10295",
+        "title": "Đại Lăng Mộ Titan Vô Danh",
+        "desc": "Đại Lăng Mộ bị \"Mặt Đất\" phong ấn tận sâu dưới lòng đất, lớp lõi của Quyền Trượng δ-me13.\nNhững mảng lưu trữ khổng lồ nhấp nháy không ngừng, ghi lại những quá khứ không ai biết đến."
+    },
+    "10296": {
+        "id": "10296",
+        "title": "Tái Sáng Thế",
+        "desc": "Hình thức thay đổi thế hệ của Amphoreus và cũng chính là cơ chế tính toán của Quyền Trượng δ-me13 \"Amphoreus\".\nVà giờ đây, {NICKNAME} sẽ dùng danh nghĩa \"Phụ Thế\" để mở ra một kết thúc chưa từng có cho Amphoreus."
+    },
     "20000": {
         "id": "20000",
         "title": "Đang trở về góc nhìn của Nhà Khai Phá...",
@@ -1078,5 +1503,165 @@
         "id": "20028",
         "title": "Đang chuyển sang góc nhìn của Robin...",
         "desc": "Robin và Sunday quyết định thuyết phục Chủ Nhân Cõi Mộng Gopher Wood - ân nhân trước đây của họ, hy vọng mọi việc thuận lợi..."
+    },
+    "20051": {
+        "id": "20051",
+        "title": "Đang chuyển sang góc nhìn của Lingsha",
+        "desc": "Trong Nhà Giam Xiềng Xích, Lingsha, Dan Heng và Jing Yuan đang cố gắng tìm ra manh mối từ cuộc tấn công của Người Boris..."
+    },
+    "20052": {
+        "id": "20052",
+        "title": "Đang chuyển sang góc nhìn của Jiaoqiu",
+        "desc": "Rơi vào tay của Người Boris, Jiaoqiu đang tìm kiếm một tia hy vọng sống sót... Nhưng không phải tia hy vọng sống sót của anh ấy."
+    },
+    "20053": {
+        "id": "20053",
+        "title": "Đang chuyển sang góc nhìn của March 7th",
+        "desc": "Nhận lệnh của Huaiyan, March 7th và Yunli bước lên Tàu Phá Thiên, tham gia Lễ Diễn Võ như đã hẹn..."
+    },
+    "20054": {
+        "id": "20054",
+        "title": "Đang chuyển sang góc nhìn của Feixiao",
+        "desc": "Vây ba thả một, Tướng Quân Thiên Kích bắt đầu cuộc săn đuổi bầy sói..."
+    },
+    "20055": {
+        "id": "20055",
+        "title": "Đang chuyển sang góc nhìn của Yunli",
+        "desc": "Trên Tàu Phá Thiên, bầu không khí mưa bão sắp đến khiến Yunli bồn chồn bất an..."
+    },
+    "20056": {
+        "id": "20056",
+        "title": "Đang chuyển sang góc nhìn của March 7th",
+        "desc": "March 7th cảm nhận được điềm báo của nguy cơ đang đến, thời khắc thí kiếm cuối cùng cũng đến..."
+    },
+    "20057": {
+        "id": "20057",
+        "title": "Đang chuyển sang góc nhìn của Lingsha",
+        "desc": "Trong Lân Uyên Cảnh, Dan Heng, Lingsha và Long Sư Vidyadhara gặp nhau một lúc..."
+    },
+    "20058": {
+        "id": "20058",
+        "title": "Đang chuyển sang bối cảnh của Boothill...",
+        "desc": "Không ai biết, cao bồi vũ trụ không thể liên lạc được, lúc này đang ẩn mình trong bóng tối của Cõi Mộng..."
+    },
+    "20059": {
+        "id": "20059",
+        "title": "Đang chuyển sang góc nhìn của Sunday...",
+        "desc": "Thế nhưng trong giấc mộng đẹp này, người đi rồi trở lại không chỉ có mỗi du khách, mà còn có cả \"chủ nhân\"..."
+    },
+    "20060": {
+        "id": "20060",
+        "title": "Đang chuyển sang góc nhìn của Sunday...",
+        "desc": "Người khổ hành vẫn đang nhìn lại tâm hồn của mình trong quá khứ, và sự tồn tại có ý nghĩa nhất trong đó cuối cùng cũng đến lúc phải chia tay..."
+    },
+    "20061": {
+        "id": "20061",
+        "title": "Đang chuyển sang góc nhìn của Aglaea...",
+        "desc": "Biết được Okhema có thể bị thâm nhập, Aglaea đích thân ra tay, lôi hết những thứ ô uế ẩn giấu trong thành ra..."
+    },
+    "20062": {
+        "id": "20062",
+        "title": "Đang chuyển sang góc nhìn của Herta...",
+        "desc": "Herta đang chuẩn bị yết kiến Aeon Nous ở Trạm Không Gian, nhưng dường như quá trình không thuận lợi cho lắm?"
+    },
+    "20063": {
+        "id": "20063",
+        "title": "Đang chuyển sang góc nhìn của Mydei...",
+        "desc": "Con dân của Mydei, người Kremnos, dường như có ý đồ khác với thần quyền \"Phân Tranh\". Trước khi chiến thắng thử thách, anh ta phải lấy được lòng tin của người trong tộc trước..."
+    },
+    "20064": {
+        "id": "20064",
+        "title": "Đang chuyển sang góc nhìn của Tribbie...",
+        "desc": "Tribbie phát hiện Trianne hiện đang ở Điện Cây Giác Ngộ đã mở \"Cánh Cổng Bách Giới\" một lần nữa, cô cảm thấy vô cùng lo lắng..."
+    },
+    "20065": {
+        "id": "20065",
+        "title": "Đang chuyển sang góc nhìn của Tribbie...",
+        "desc": "Để giúp người Kremnos và người Okhema hòa thuận lại với nhau, Tribbie, Trianne và Trinnon quyết định gặp Titan, tìm lại ký ức..."
+    },
+    "20066": {
+        "id": "20066",
+        "title": "Đang chuyển sang góc nhìn của Mydei...",
+        "desc": "Mydei đã sắp xếp mọi việc ổn thỏa: Đã đến lúc trở về quê hương rồi..."
+    },
+    "20067": {
+        "id": "20067",
+        "title": "Đang chuyển sang góc nhìn của Anaxa...",
+        "desc": "Con đường tìm tòi của học giả nên tuân thủ một số nguyên lý đơn giản, ví dụ như \"người dùng hết tài năng, vật dùng hết công năng\"..."
+    },
+    "20068": {
+        "id": "20068",
+        "title": "Đang chuyển sang góc nhìn của Anaxa...",
+        "desc": "Tri thức là mặt trời thứ hai của người có học vấn, và các học giả không ngần ngại rải ánh sáng đó cho tất cả những kẻ ngu ngốc đang ngồi kia..."
+    },
+    "20069": {
+        "id": "20069",
+        "title": "Đang chuyển sang góc nhìn của Dan Heng...",
+        "desc": "Cách trực tiếp nhất để duy trì Kho Lưu Trữ chính là truy cập Kho Lưu Trữ địa phương, Dan Heng rất am hiểu cách này..."
+    },
+    "20070": {
+        "id": "20070",
+        "title": "Đang chuyển sang góc nhìn của Herta...",
+        "desc": "Rõ ràng Amphoreus là một \"câu hỏi\" không tệ, có thể thúc đẩy vị thiên tài đó hành động..."
+    },
+    "20071": {
+        "id": "20071",
+        "title": "Đang chuyển sang góc nhìn của \"Castorice\"...",
+        "desc": "Khoảnh khắc Anaxa cho Castorice nhìn thấy ký ức ẩn sâu trong linh hồn Titan, đó là sự tiếp nối của ảo ảnh đường núi..."
+    },
+    "20072": {
+        "id": "20072",
+        "title": "Đang chuyển sang góc nhìn của \"Castorice\"...",
+        "desc": "Những gương mặt xa lạ nói về thử thách của Hành Trình Săn Đuổi Lửa, đó rốt cuộc là chuyện từ khi nào..."
+    },
+    "20073": {
+        "id": "20073",
+        "title": "Đang chuyển sang góc nhìn của \"Castorice\"...",
+        "desc": "Dũng sĩ tên là Gnaeus đã tách linh hồn của mình ra, đó là... quá khứ của Nikador..."
+    },
+    "20074": {
+        "id": "20074",
+        "title": "Đang chuyển sang góc nhìn của \"Castorice\"...",
+        "desc": "Điểm kết thúc vận mệnh của Polyxia và \"Castorice\" đó, sẽ tiết lộ tung tích của Thanatos..."
+    },
+    "20075": {
+        "id": "20075",
+        "title": "Đang chuyển sang góc nhìn của \"Cipher\"...",
+        "desc": "Cùng lúc đó, Cipher đang túm chặt \"Tinh Linh Trộm Cắp\" Bartholos, lùng sục kho báu trên bờ sông Minh Giới..."
+    },
+    "20076": {
+        "id": "20076",
+        "title": "Đang chuyển sang góc nhìn của \"Cipher\"...",
+        "desc": "Để bảo vệ lời hẹn ước, không lâu trước đây Cipher đã lên đường đến bờ sông Minh Giới, một mình đối đầu với những kẻ nhòm ngó Ngọn Lửa..."
+    },
+    "20077": {
+        "id": "20077",
+        "title": "Đang chuyển sang góc nhìn của Hyacine...",
+        "desc": "Muốn chạm đến thiên không, thì phải tìm được chúc phúc của bầu trời..."
+    },
+    "20078": {
+        "id": "20078",
+        "title": "Ký ức về \"Khaslana\" ùa về như thủy triều...",
+        "desc": "Nhân danh \"Phụ Thế\": Kephale vĩnh viễn không quên."
+    },
+    "20080": {
+        "id": "20080",
+        "title": "Đang chuyển sang góc nhìn của Dan Heng...",
+        "desc": "Dan Heng thông qua Nhảy Vọt Tinh Thần trở về Đội Tàu Astral, tuy nhiên trong khoảng thời gian đó đã có quá nhiều chuyện thay đổi..."
+    },
+    "20081": {
+        "id": "20081",
+        "title": "Đang chuyển sang góc nhìn của Black Swan...",
+        "desc": "Đồng hành cùng Evernight, Black Swan sẽ chứng kiến \"Ký Ức\" rốt cuộc đã tham gia vào sự nhiễu loạn vận mệnh của Amphoreus như thế nào..."
+    },
+    "20082": {
+        "id": "20082",
+        "title": "Đang chuyển sang góc nhìn của Black Swan...",
+        "desc": "Nhân lúc Evernight và Sunday có cuộc tiếp xúc ngắn ngủi, Black Swan đã đi ngược dòng sông vận mệnh..."
+    },
+    "20083": {
+        "id": "20083",
+        "title": "Đang chuyển sang góc nhìn của Dan Heng...",
+        "desc": "Dan Heng đã quay trở lại Amphoreus, anh quyết tâm tìm ra {NICKNAME} và đoàn tụ với March 7th..."
     }
 }

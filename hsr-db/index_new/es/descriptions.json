@@ -452,12 +452,12 @@
     "10091": {
         "id": "10091",
         "title": "Ataque básico",
-        "desc": "Usa el ataque básico del personaje para atacar al enemigo y recuperar puntos de habilidad básica."
+        "desc": "Lanza el ataque básico del personaje para atacar al enemigo y recuperar puntos de habilidad básica."
     },
     "10092": {
         "id": "10092",
         "title": "Puntos de habilidad básica",
-        "desc": "Los puntos de habilidad básica se comparten entre todo el equipo. Al usar una habilidad básica se consumen puntos, y al utilizar un ATQ básico se recuperan puntos.\n¡Distribuye tus recursos estratégicamente para obtener la victoria!"
+        "desc": "Los puntos de habilidad básica se comparten entre todo el equipo. Al lanzar una habilidad básica se consumen puntos, y al lanzar un ATQ básico se recuperan puntos.\n¡Distribuye tus recursos estratégicamente para obtener la victoria!"
     },
     "10093": {
         "id": "10093",
@@ -502,7 +502,7 @@
     "10101": {
         "id": "10101",
         "title": "Ruptura de Debilidad de Hielo",
-        "desc": "Cuando se causa Ruptura de Debilidad con el tipo Hielo, se aplica el estado de Congelación.\nLos enemigos afectados por Congelación no pueden actuar y reciben Daño de Hielo con el tiempo."
+        "desc": "Cuando se causa Ruptura de Debilidad con el tipo Hielo, se aplica el estado de Congelación.\nLos enemigos afectados por Congelación no pueden actuar y reciben Daño de Hielo adicional."
     },
     "10102": {
         "id": "10102",
@@ -959,6 +959,431 @@
         "title": "Hoolay",
         "desc": "Un formidable enemigo de Xianzhou y Alfa de los borisin.\nTras ser derrotado hace setecientos años, se le encerró en la Prisión de los encadenados del Luofu de Xianzhou, donde está condenado a un castigo eterno."
     },
+    "10210": {
+        "id": "10210",
+        "title": "Yao Guang",
+        "desc": "General celestial que controla el Yuque de Xianzhou, conocida como la Vidente Estratega.\nUna general no marcial que rara vez se la ve en persona dentro de la Alianza, mueve los hilos entre las sombras y hace predicciones para la mariscal."
+    },
+    "10211": {
+        "id": "10211",
+        "title": "Barrera Decarreflectora",
+        "desc": "Matriz de adivinación construida por el Yuque de Xianzhou.\nSe dice que su principio es similar al de la Gran Matriz del Presagio. Sus escrituras computacionales e inspiración se derivan de la Caminante de la Sabiduría, Nous."
+    },
+    "10212": {
+        "id": "10212",
+        "title": "Bifurcacielos",
+        "desc": "Lugar donde se celebra la ceremonia de Habilidades Estelares de Combate del Luofu de Xianzhou. Está hecho a partir de una versión mejorada de una nave de combate retirada.\nCuando se escuchan los cañones en el cielo, los guerreros invitados de diferentes mundos se reúnen aquí para competir."
+    },
+    "10213": {
+        "id": "10213",
+        "title": "Prisión de los encadenados",
+        "desc": "Sistema carcelario utilizado por la Alianza Xianzhou para encarcelar y someter a los criminales.\nLa Prisión de los encadenados del Luofu de Xianzhou fue construida por los nativos de Xianzhou y los vidyadhara. Está enterrada en las profundidades del dominio bajo las aguas abisales."
+    },
+    "10214": {
+        "id": "10214",
+        "title": "Borisin",
+        "desc": "Cazadores sin frenesí del cosmos, el enemigo mortal de la Alianza Xianzhou y la raza más poderosa y próspera de los Moradores de la Abundancia.\nLos borisin se asemejan a gigantescos lobos bípedos. Tienen un carácter cruel y temerario y solo respetan la fuerza. Han asaltado planetas, han agotado sus recursos y han destruido numerosas civilizaciones."
+    },
+    "10215": {
+        "id": "10215",
+        "title": "Batalla del Fanghu",
+        "desc": "Punto de inflexión de la tercera guerra contra los Moradores de la Abundancia. Bajo la luz del planeta maligno, las abominaciones de los Moradores de la Abundancia, lideradas por los borisin, estuvieron a punto de invadir el Fanghu de Xianzhou.\nGracias a innumerables soldados de Xianzhou que se sacrificaron en la primera línea de batalla, el telescopio Nebulamiras fue capaz de enviar un mensaje e invocar al Señor Arquero para dar un giro en la batalla."
+    },
+    "10216": {
+        "id": "10216",
+        "title": "\"Luna carmesí\"",
+        "desc": "Marca de la maldición, consumida y heredada por generaciones de gladiadores en la ceremonia para designar al Señor de la Guerra de los borisin; un \"corazón\" semejante a una luna carmesí.\n\"Devorar presas para volverse más fuerte\". Ese es el secreto de la inmortalidad de los borisin, la razón fundamental por la que prosperan para siempre."
+    },
+    "10217": {
+        "id": "10217",
+        "title": "Feihuang",
+        "desc": "Espíritu divino otorgado por el Señor Arquero del Destino. La Garra Celestial que se esconde en el cuerpo de la general Feixiao.\nLos ojos de los mortales no pueden percibirlo. Solo en el fugaz momento en el que los seres humanos están a las puertas de la muerte, pueden atisbar su descenso.\nPara Feixiao, es como una flecha que guía sus movimientos, una flecha que la persigue y le devora la vida, y la presa que lleva persiguiendo toda su existencia."
+    },
+    "10220": {
+        "id": "10220",
+        "title": "Rappa",
+        "desc": "Una misteriosa chica, autoproclamada ninja, que aparece en Colonipenal como un relámpago a medianoche y que atribuye todo al ninjutsu.\nDeambula por las tierras de ensueño del mundo Mappo para defender la justicia y está obsesionada con atrapar al villano conocido como ninja malvado Osaru."
+    },
+    "10221": {
+        "id": "10221",
+        "title": "Rappa",
+        "desc": "Una Vigilante de la Galaxia que se llama a sí misma Ninja Deslumbrante y que lo ve todo en términos de \"ninja\" debido a que fue infectada con un virus memético durante un experimento atávico.\nPara saldar cuentas con un pasado de sangre y lágrimas, y para seguir la vía del ninja deslumbrante, se dedica a perseguir al villano \"ninja malvado Osaru\", más conocido por el nombre de Dr. Primitivo."
+    },
+    "10222": {
+        "id": "10222",
+        "title": "Dr. Primitivo",
+        "desc": "Miembro n.º 64 del Círculo de Genios. Es un científico que ha cometido numerosos crímenes contra la humanidad y se desconoce su identidad.\nProvocó el caos universal con sus experimentos atávicos y desde entonces se ha convertido en enemigo de los Vigilantes de la Galaxia. Se desconoce su paradero actual."
+    },
+    "10223": {
+        "id": "10223",
+        "title": "Bosque Buscatávico",
+        "desc": "Un grupo de investigadores fanáticos formado por eruditos que adoran al Dr. Primitivo. Este grupo de humanos y simios obsesivos siguen los pasos de su ídolo y tratan de difundir los experimentos atávicos por todo el cosmos."
+    },
+    "10224": {
+        "id": "10224",
+        "title": "Campus de la Academia de Origami de Colonipenal",
+        "desc": "La famosa academia de Colonipenal situada en el Momento del Sol. La cuna de sobresalientes talentos que transmiten continuamente la luz y calor del conocimiento al paisaje onírico."
+    },
+    "10225": {
+        "id": "10225",
+        "title": "Sunday",
+        "desc": "Antiguo líder de la familia Roble y hermano mayor de Robin.\nTras los disturbios del Festival Carismonía, se despidió del Orden y de su hogar y embarcó en el Expreso Astral en busca de un nuevo camino."
+    },
+    "10226": {
+        "id": "10226",
+        "title": "Tingyun",
+        "desc": "Aeroembajadora de la Comisión del Transporte Celeste del Luofu de Xianzhou.\nSu cuerpo y su mente quedaron destrozados tras un encuentro con una Devastadora. Después fue rescatada por una genio y su mala suerte se convirtió en una bendición. Ahora vuelve al tablero de juego."
+    },
+    "10227": {
+        "id": "10227",
+        "title": "Chitón",
+        "desc": "Robot preparabebidas del Expreso Astral. Se cree muy gracioso.\nLo fabricaron hace varias Eras del Ámbar y después se olvidaron de él.\nArchivos del Vacío lo restauró cuando el Expreso volvió a ponerse en marcha."
+    },
+    "10228": {
+        "id": "10228",
+        "title": "Aglaea",
+        "desc": "Heredera de Crisos de Oqueima, semidiosa del Romance y líder del Viaje buscallamas.\nComo tejedora, ella misma ata los hilos para reunir héroes de todas partes del mundo y embarcarse de nuevo en un viaje interminable."
+    },
+    "10229": {
+        "id": "10229",
+        "title": "Tribbie, Trianne y Trinnon",
+        "desc": "Herederas de Crisos de Janópolis, semidiosas de la Senda, mensajeras y sacerdotisas de Oqueima.\nLas tres guían a los Herederos de Crisos con sus profecías, pero cada una tiene sus propias responsabilidades."
+    },
+    "10230": {
+        "id": "10230",
+        "title": "Midei",
+        "desc": "Príncipe heredero de Castrum Kremnos, hijo de Gorgo, guerrero tan valiente como un león.\nAunque parece arrogante y desafiante, en realidad valora profundamente la lealtad y muestra compasión por su pueblo."
+    },
+    "10231": {
+        "id": "10231",
+        "title": "Castorice",
+        "desc": "La Doncella de la Guerra de Aidonia, la enterradora de Oqueima.\nLleva la maldición conocida como el \"Toque de la muerte\", cualquier criatura que toque con sus dedos morirá."
+    },
+    "10232": {
+        "id": "10232",
+        "title": "Fainón",
+        "desc": "Heredero de Crisos de Elisios, guerrero de Oqueima.\nUn joven amable y alegre. Con una mente minuciosa, que busca la perfección en todo lo que hace."
+    },
+    "10233": {
+        "id": "10233",
+        "title": "Mem",
+        "desc": "Una misteriosa criatura con pelaje rosado. Parece tener una estrecha relación con Amphoreus."
+    },
+    "10234": {
+        "id": "10234",
+        "title": "Aquila, Ojo Circadiano",
+        "desc": "Titán del Cielo.\nCuando se abren los ojos de Aquila, que observan la tierra, el mundo se ilumina. Cuando sus párpados se cierran, el mundo se sumerge en la oscuridad."
+    },
+    "10235": {
+        "id": "10235",
+        "title": "Georios, Pilar de Piedra",
+        "desc": "Titán de la Tierra.\nTodas las montañas fueron manifestaciones de este Titán. Es el más grande, gentil y benévolo de todos, el guardián de la humanidad."
+    },
+    "10236": {
+        "id": "10236",
+        "title": "Fagusa, Crátera de la Profusión",
+        "desc": "Titán del Océano.\nA Fagusa le gusta vagar por el mundo de los humanos. De vez en cuando, aparece sobre las olas del mar, sobre las aguas de los ríos o en las copas de vino de los banquetes para traer canciones, danzas y risas."
+    },
+    "10237": {
+        "id": "10237",
+        "title": "Mnestia, Crisálida de Oro",
+        "desc": "El Titán del Romance.\nElla y sus deudos persiguen las maravillas del mundo, entretejiendo hilos dorados para crear el romance, concediendo así a los habitantes de Amphoreus el don del amor."
+    },
+    "10238": {
+        "id": "10238",
+        "title": "Kefale, Trono de los Mundos",
+        "desc": "Titán que Sostiene el Mundo.\nLos dioses confiaron a Kefale la responsabilidad de llevar la vida. Renunció al trono que dominaba el mundo a cambio de brindar un poco de luz a la humanidad."
+    },
+    "10239": {
+        "id": "10239",
+        "title": "Cerces, Rama de la Grieta",
+        "desc": "Titán de la Razón.\nCerces descendió a la tierra en forma de un árbol sagrado gigante. Permitió a los humanos caminar, abrir sus mentes y reflexionar para ganar conocimiento."
+    },
+    "10240": {
+        "id": "10240",
+        "title": "Zagreus, Moneda del Capricho",
+        "desc": "Titán del Engaño.\nZagreus no tiene ningún interés en cumplir con su deber divino. Se deleita sembrando la discordia entre los dioses y engañándolos para crear todo tipo de caos y desorden."
+    },
+    "10241": {
+        "id": "10241",
+        "title": "Nikador, Lanza de la Furia",
+        "desc": "Titán del Conflicto.\nDeclara la guerra a los dioses y sume al mundo en un conflicto interminable. Según las canciones de los rapsodas, su espada divina puede acabar con el mundo en un solo golpe."
+    },
+    "10242": {
+        "id": "10242",
+        "title": "Tánatos, Mano Sombría",
+        "desc": "Titán de la Muerte.\nCuando numerosas almas no encuentren un lugar donde descansar, y el río Estigia inunde la tierra, Tánatos dirigirá su nave para guiarlas al más allá."
+    },
+    "10243": {
+        "id": "10243",
+        "title": "Oronix, Velo de la Noche Eterna",
+        "desc": "Titán del Tiempo.\nOronix teje los hilos del tiempo, los cuales sostienen el pasado, el presente y el futuro del mundo, y permite que todo fluya."
+    },
+    "10244": {
+        "id": "10244",
+        "title": "Talanton, Balanza de la Justicia",
+        "desc": "El Titán de la Ley.\nTalanton no permite la injusticia ni la parcialidad. Protege los tabús y los límites de Amphoreus y establece la lógica y las leyes para todas las cosas."
+    },
+    "10245": {
+        "id": "10245",
+        "title": "Jano, Puerta del Infinito",
+        "desc": "Titán de las Sendas.\nJano conoce la existencia y el destino de todos los caminos. No solo controla las sendas por las que caminan las personas, sino también las travesías que conectan sus destinos."
+    },
+    "10246": {
+        "id": "10246",
+        "title": "Titán",
+        "desc": "Los Titanes de Amphoreus son la fuerza que sostiene el cielo y la tierra. Son el destino del pasado y del presente, las reglas que gobiernan todas las cosas del mundo.\nLos mortales viven en medio de sus alegrías y penas. El conocimiento, la guerra, el amor, la vida y la muerte... todos ellos están estrechamente entrelazados con su autoridad divina."
+    },
+    "10247": {
+        "id": "10247",
+        "title": "Herederos de Crisos",
+        "desc": "Se dice que la luz divina de Kefale se desvaneció cuando ofreció su Yesca y dejó tras de sí el Oráculo de la Creación.\nDesde entonces, poderosos héroes comenzaron a caminar por el mundo. Por sus venas corre sangre divina dorada y se les conoce como los \"Herederos de Crisos\"."
+    },
+    "10248": {
+        "id": "10248",
+        "title": "Semidiós",
+        "desc": "Trispios tomó la Yesca de Jano y se convirtió en la primera semidiosa.\nMuchos héroes Herederos de Crisos pasaron las pruebas para recibir el poder de los Titanes y se convirtieron también en semidioses, manteniendo el orden en el mundo."
+    },
+    "10249": {
+        "id": "10249",
+        "title": "Oqueima",
+        "desc": "Los mortales construyeron asentamientos bajo los pies de Kefale. Así surgió la predecesora de Oqueima.\nAhora es un santuario del fin de los tiempos y el punto de partida del viaje de la Era Nova."
+    },
+    "10250": {
+        "id": "10250",
+        "title": "Castrum Kremnos",
+        "desc": "Una fortaleza móvil gigante. La ciudad de los guerreros que adoran a Nikador.\nLos habitantes de Kremnos se enorgullecen de luchar hasta la muerte y son famosos en todo Amphoreus por su estricta disciplina."
+    },
+    "10251": {
+        "id": "10251",
+        "title": "Abismo del Destino",
+        "desc": "Janópolis, un lugar sagrado que trasciende la geopolítica de las polis.\nHoy en día, solo quedan algunos templos en pie. La gente lo llama \"Abismo del Destino\" o \"Templo de los Tres Destinos\"."
+    },
+    "10252": {
+        "id": "10252",
+        "title": "Marea oscura",
+        "desc": "El agua que disuelve las almas. La oscuridad que engulle Amphoreus.\nLa marea oscura y sus criaturas son la causa directa de la destrucción de Amphoreus."
+    },
+    "10253": {
+        "id": "10253",
+        "title": "Roballamas",
+        "desc": "Un espadachín sin nombre que llega con la marea oscura y busca incansablemente las Yescas de los Titanes. Nadie conoce su verdadera identidad.\nPosee un poder increíble y sus habilidades con la espada son prácticamente perfectas."
+    },
+    "10254": {
+        "id": "10254",
+        "title": "Roballamas",
+        "desc": "Un espadachín sin nombre que llega con la marea oscura y busca incansablemente las Yescas de los Titanes. Nadie conoce su verdadera identidad.\nLuchó a muerte varias veces contra los héroes en la trampa preparada en Castrum Kremnos, pero al final fue derrotado y no se volvió a saber de él."
+    },
+    "10255": {
+        "id": "10255",
+        "title": "Soto de las Musas",
+        "desc": "Un patio con jardines construido en torno a la manifestación de Cerces y una de las instituciones académicas de Amphoreus.\nEn la actualidad, es una polis aliada de Oqueima, y un lugar pionero para investigar la marea oscura, los Titanes y otras cosas misteriosas."
+    },
+    "10256": {
+        "id": "10256",
+        "title": "Soto de las Musas",
+        "desc": "Un patio con jardines construido en torno a la manifestación de Cerces y una de las instituciones académicas de Amphoreus.\nFue destruido durante la invasión de la marea oscura."
+    },
+    "10257": {
+        "id": "10257",
+        "title": "Tribbie, Trianne y Trinnon",
+        "desc": "Herederas de Crisos de Janópolis, semidiosas de la Senda. Antes eran una hermosa Doncella Sagrada, pero volvieron a su forma de niña. Tal fue el precio que pagaron por la Yesca.\nTrianne se sacrificó en el ataque del Roballamas, y su alma se disipó por completo. Su espíritu se convirtió en una muñeca que se parece a ella."
+    },
+    "10258": {
+        "id": "10258",
+        "title": "Midei",
+        "desc": "Uno de los Herederos de Crisos de Castrum Kremnos, semidiós del Conflicto y también hijo de Gorgo, último rey divino de Castrum Kremnos.\nLideró a su pueblo en el Viaje buscallamas y regresó solo a su hogar para enfrentarse a la marea oscura que consumía el mundo."
+    },
+    "10259": {
+        "id": "10259",
+        "title": "Hyacine",
+        "desc": "Heredera de Crisos del Patio Claroscuro y descendiente del cielo.\nEs optimista y amable, y tiene el don de la empatía. Hizo todo lo posible por construir un refugio para atender heridos en un mundo al borde del colapso."
+    },
+    "10260": {
+        "id": "10260",
+        "title": "Cífer",
+        "desc": "Heredera de Crisos de Doros, semidiosa del Engaño. Abandonó su deber buscallamas y huyó de la ciudad sagrada.\nPosee el poder de la velocidad divina, pero la usa para cometer fechorías. Es muy astuta y actúa con picardía. Prefiere ese tipo de vida a la de una heroína."
+    },
+    "10261": {
+        "id": "10261",
+        "title": "Anaxa",
+        "desc": "Heredero de Crisos del Soto de las Musas, uno de los siete sabios y fundador de la Escuela de la Semilla. Se le conoce como \"blasfemo\" por insistir en la diferencia entre humanos y dioses.\nSobrevivió por milagro a la catástrofe del Soto de las Musas y en su interior reside la Yesca del Titán de la Razón."
+    },
+    "10262": {
+        "id": "10262",
+        "title": "Castorice",
+        "desc": "La Doncella de la guerra de Aidonia y semidiosa de la muerte. También es la mano izquierda de Tánatos y tiene autoridad para otorgar la muerte.\nTras descubrir su pasado, superó la prueba y unió las dos manos de la muerte para mantener el orden de la vida y la muerte en el mundo."
+    },
+    "10263": {
+        "id": "10263",
+        "title": "Anaxa",
+        "desc": "Heredero de Crisos del Soto de las Musas y semidiós de la Razón. Uno de los siete sabios y fundador de la Escuela de la Semilla.\nAunque falleció durante la catástrofe del Soto de las Musas, viajó con un Titán tras su muerte, superó la prueba y reveló la verdadera naturaleza de Amphoreus."
+    },
+    "10264": {
+        "id": "10264",
+        "title": "Cífer",
+        "desc": "Heredera de Crisos de Doros, semidiosa del Engaño. Aunque abandonó su deber buscallamas, regresó en secreto a la ciudad sagrada.\nPosee el poder de la velocidad divina, pero la usa para cometer fechorías. Es muy astuta y actúa con picardía. Prefiere ese tipo de vida a la de una heroína."
+    },
+    "10265": {
+        "id": "10265",
+        "title": "Risco Nubealba",
+        "desc": "El lugar de Oqueima más cercano a Kefale, el Titán que Sostiene el Mundo. Es un lugar sagrado que sirve de vínculo entre los Herederos de Crisos y los Titanes.\nEste sitio es solemne y sagrado, y es donde se reúnen las autoridades de mayor rango de la ciudad de Oqueima. También es el centro cultural y político de la polis."
+    },
+    "10266": {
+        "id": "10266",
+        "title": "Ciudad Dragósea",
+        "desc": "Estisia, la polis de los dragones y las olas, está en ruinas.\nMuchas almas no han podido cruzar a la otra orilla, y el río Estigia no deja de subir. Tánatos, cuya ubicación se desconoce, parece estar estrechamente relacionada con este lugar."
+    },
+    "10267": {
+        "id": "10267",
+        "title": "Celione, Caballera del Trueno Solar",
+        "desc": "La guerrera que, según la leyenda, desafió al Ojo Circadiano y comenzó el Viaje buscallamas de la humanidad también se considera el ancestro de la gente del cielo actual.\nSu historia es tan magnífica que se convirtió en el centro de todas las leyendas de la gente del cielo de su época."
+    },
+    "10268": {
+        "id": "10268",
+        "title": "Celione, Caballera del Trueno Solar",
+        "desc": "Una guerrera que desafió sola al Ojo Circadiano en las leyendas. Incapaz de hacer cambiar a su pueblo y sacarlo de la ignorancia, perdió la esperanza en los hijos del Cielo.\nDespués de condenar a su pueblo, se fusionó con Aquila y ahora descansa en la fortaleza celestial."
+    },
+    "10269": {
+        "id": "10269",
+        "title": "Ojo Circadiano, Fortaleza de la Bóveda",
+        "desc": "La polis en las nubes, bautizada con el nombre de un Titán y guarida de Aquila, que observa al mundo desde el cielo.\nSus murales reflejan los fenómenos celestiales de Amphoreus y parecen esconder algún secreto."
+    },
+    "10270": {
+        "id": "10270",
+        "title": "Ojo Circadiano, Ruinas de la Fortaleza Surcanubes",
+        "desc": "Después de la caída de Aquila, la fortaleza celestial está al borde del colapso.\nSus sistemas apenas funcionan y la mayoría de sus instalaciones están dañadas y rotas."
+    },
+    "10271": {
+        "id": "10271",
+        "title": "Risco Nubealba, Capilla del Sol Oculto",
+        "desc": "El santuario de Oqueima, después de que el Dispositivo del Amanecer se apagara. La mayoría de las zonas han sido inundadas por la marea oscura.\nEl centro administrativo aún conserva su utilidad. Cerca del parlamento, algunos ciudadanos se mantienen junto a los guardias para luchar contra los monstruos."
+    },
+    "10272": {
+        "id": "10272",
+        "title": "Oqueima, Ciudad Sumida en el Crepúsculo",
+        "desc": "La ciudad sagrada después de que el Dispositivo del Amanecer se apagara. Los ciudadanos fueron testigos de grandes turbulencias, y el caos y la inestabilidad se extendieron por todas partes.\nLa Heredera de Crisos del Cielo vigila a los ciudadanos y los protege con una barrera arcoíris."
+    },
+    "10273": {
+        "id": "10273",
+        "title": "Aquila, Karma del Trueno Solar",
+        "desc": "Tras un brutal enfrentamiento, el Ojo Circadiano, devorado casi al completo por la marea oscura, vuelve a alzar sus alas bajo la voluntad humana.\nAhora ha olvidado la gloria de los cielos, no es más que un dios imponente gobernado por la ira."
+    },
+    "10274": {
+        "id": "10274",
+        "title": "Elisios",
+        "desc": "Elisios, una pequeña aldea rodeada por el Velo de la Noche Eterna y destruida por la marea oscura.\nEl héroe salió de las olas de trigo de su pueblo natal y nunca más miró atrás."
+    },
+    "10275": {
+        "id": "10275",
+        "title": "Floresta del Misterio",
+        "desc": "La aldea de las hadas es un pequeño mundo escondido en los densos bosques de Elisios.\nSe dice que solo los niños inocentes pueden entrar."
+    },
+    "10276": {
+        "id": "10276",
+        "title": "Ligus",
+        "desc": "El autoproclamado Teoros, que en realidad es quien está detrás de las extrapolaciones de Amphoreus.\nAunque sigue la Vía de la Erudición, en realidad busca la Destrucción."
+    },
+    "10277": {
+        "id": "10277",
+        "title": "Ferrotumba",
+        "desc": "Un Emanador de la Destrucción y uno de los Devastadores. Nacieron para quemar las raíces de las Vías y luego quemar el cosmos.\nFerrotumba es el destructor de la Erudición."
+    },
+    "10278": {
+        "id": "10278",
+        "title": "Fainón",
+        "desc": "Un Heredero de Crisos de Elisios, un guerrero de Oqueima, y el semidiós que sostiene el mundo en la profecía.\nSu nombre experimental es \"NeiKos496\". En su arduo viaje hasta el fin del mundo, la cruel verdad lo sometió a la mirada de la Destrucción."
+    },
+    "10279": {
+        "id": "10279",
+        "title": "Roballamas",
+        "desc": "Un espadachín sin nombre que surgió con la marea oscura para cazar las Yescas de los Titanes. Bajo la máscara se oculta un rostro idéntico al de Fainón.\nTras sobrevivir a las recurrencias eternas y ser quemado por millones de Yescas, no quedaron más que huesos calcinados que se convirtieron en polvo después de transmitir su último deseo a Fainón."
+    },
+    "10280": {
+        "id": "10280",
+        "title": "Cirene",
+        "desc": "Una chica misteriosa de Elisios, sacerdotisa del Patio ceremonial y semidiosa del Tiempo en la profecía.\nSu nombre experimental es \"PhiLia093\". Actualmente, se desconoce su paradero."
+    },
+    "10281": {
+        "id": "10281",
+        "title": "Mem",
+        "desc": "Una misteriosa criatura con pelaje rosado. Parece tener una estrecha relación con Amphoreus.\nHa viajado junto a {NICKNAME} hasta el fin del mundo para recuperar más \"recuerdos\"."
+    },
+    "10282": {
+        "id": "10282",
+        "title": "Era Nova",
+        "desc": "El modo en que Amphoreus ha cambiado de una generación a otra. También es la prueba de Kefale.\nEl semidiós que sostiene el mundo debe crear y soportar un nuevo mundo a través de los recuerdos, hasta que no pueda soportar su peso o alguien más pueda asumir su autoridad divina."
+    },
+    "10283": {
+        "id": "10283",
+        "title": "Era Nova",
+        "desc": "El modo en que Amphoreus ha cambiado de una generación a otra. También es el mecanismo de extrapolación del cetro δ-me13 \"Amphoreus\".\nSu objetivo es resolver la ecuación de la Destrucción alimentándola con datos de aprendizaje de resistencia.\nEn teoría, la última Era Nova fue frustrada por Fainón y Cirene, y desde entonces se ha repetido 33 550 336 veces."
+    },
+    "10284": {
+        "id": "10284",
+        "title": "Recurrencia eterna",
+        "desc": "Un bucle creado por dos grupos de datos dentro de la extrapolación del cetro δ-me13 \"Amphoreus\", el cual estaba destinado a impedir que se completara la ecuación de la Destrucción.\nDebido a la influencia del poder de la Reminiscencia, al inyectar las doce Yescas en la espada ceremonial, el tiempo volverá al inicio y el proceso de extrapolación se revertirá."
+    },
+    "10285": {
+        "id": "10285",
+        "title": "Hysilens",
+        "desc": "Heredera de Crisos del antiguo reino submarino. Una música venida del mar, una caballera conocida como Gladiorum y la hoja más poderosa de la emperatriz.\nAntes era la última descendiente de las sirenas. Tras comenzar a deambular por el mundo mortal, se unió a las filas de Céridra y se convirtió en una de los buscallamas."
+    },
+    "10286": {
+        "id": "10286",
+        "title": "Céridra",
+        "desc": "Heredera de Crisos de Hiperbórea, soberana del Imperio del Norte, Portadora de la corona ardiente y la única emperatriz de Amphoreus.\nTras unificar las distintas naciones, convocó a los héroes de todo el mundo para emprender el Viaje buscallamas, con la promesa de romper las viejas leyes y escribir unas nuevas."
+    },
+    "10287": {
+        "id": "10287",
+        "title": "Larganoche",
+        "desc": "Una misteriosa visitante que aparece en los rincones de la memoria, idéntica en apariencia a Siete de Marzo, pero de identidad desconocida.\nEstá estrechamente conectada con la Vía de la Reminiscencia, y parece tener objetivos diferentes a los de otros Guardamemorias."
+    },
+    "10288": {
+        "id": "10288",
+        "title": "Ligus",
+        "desc": "El operador del cálculo de Amphoreus que se autodenomina Teoros.\nTambién se llama a sí mismo Zandar, miembro n.º 1 del Círculo de Genios. Quiere tomar prestado Amphoreus para crear un poder que pueda destruir a Nous.\nSigue la Vía de la Erudición, pero pretende crear Destrucción."
+    },
+    "10289": {
+        "id": "10289",
+        "title": "Exomito",
+        "desc": "En la frontera entre Amphoreus y el universo real se encuentran las instalaciones de hardware del cetro δ-me13.\nDesde aquí se presencian las historias de los héroes, mientras los datos y caracteres fluyen con libertad, transformados en señales eléctricas que calculan el Primum Mobile."
+    },
+    "10290": {
+        "id": "10290",
+        "title": "Costa Melodiosa",
+        "desc": "Tras la retirada de la marea oscura, Estisia es escenario de un banquete sin fin.\nEs un sueño tejido por el canto de las sirenas, donde quienes ya han perecido son invitados de honor."
+    },
+    "10291": {
+        "id": "10291",
+        "title": "Larganoche",
+        "desc": "Una misteriosa visitante que apareció en el espacio angosto de la Reminiscencia y que es muy parecida a Siete de Marzo, como las dos caras de una misma moneda.\nMientras Siete de Marzo entrega sus recuerdos y cae en un profundo sueño, Larganoche libera olas de Olvido tras las que se oculta."
+    },
+    "10292": {
+        "id": "10292",
+        "title": "Terravox",
+        "desc": "El rey de los dromas, una creación de Georios, y el semidiós de la Tierra que cuenta la profecía.\nDe carácter perseverante, coopera con numerosas criaturas y con Larganoche para proteger el mundo de la marea de recuerdos y sellar los secretos de la gran tumba."
+    },
+    "10293": {
+        "id": "10293",
+        "title": "Dan Heng - Permansor Terrae",
+        "desc": "El nuevo dios surgido tras recibir la Yesca de la Tierra de parte de Terravox, y el guardia del Expreso Astral.\nDespojándose de su piel de dragón llena de cicatrices, abraza el pasado y el futuro con la Permanencia, y se apresta a emprender un nuevo viaje."
+    },
+    "10294": {
+        "id": "10294",
+        "title": "Cicatriz Radiante",
+        "desc": "El rayo dorado de la Destrucción dirigido a las profundidades de la gran tumba, que atravesó el Soto de las Musas.\nAhora, afectado por la marea de recuerdos, innumerables recuerdos distorsionados convergen aquí."
+    },
+    "10295": {
+        "id": "10295",
+        "title": "Gran Tumba del Titán Sin Nombre",
+        "desc": "La gran tumba sellada por la Tierra en las profundidades subterráneas, y la capa central del cetro δ-me13.\nLa gigantesca matriz de almacenamiento nunca deja de parpadear mientras registra un pasado desconocido para la humanidad."
+    },
+    "10296": {
+        "id": "10296",
+        "title": "Era Nova",
+        "desc": "La forma en que las eras de Amphoreus se suceden, y también el mecanismo de cálculo del cetro δ-me13 \"Amphoreus\".\nAhora, {NICKNAME} creará en nombre del Sostén del Mundo una conclusión nunca antes vista para Amphoreus."
+    },
     "20000": {
         "id": "20000",
         "title": "Volviendo a la perspectiva {F#de la}{M#del} Trazacaminos...",
@@ -1078,5 +1503,165 @@
         "id": "20028",
         "title": "Cambiando a la perspectiva de Robin...",
         "desc": "Robin y Sunday deciden convencer a Gopher Wood, el maestro de los sueños y su antiguo benefactor. Ojalá todo salga bien..."
+    },
+    "20051": {
+        "id": "20051",
+        "title": "Cambiando a la perspectiva de Lingsha...",
+        "desc": "En la Prisión de los encadenados, Lingsha, Dan Heng y Jing Yuan intentan descifrar pistas sobre los ataques de los borisin..."
+    },
+    "20052": {
+        "id": "20052",
+        "title": "Cambiando a la perspectiva de Jiaoqiu...",
+        "desc": "Tras caer en las garras de los borisin, Jiaoqiu busca una forma de sobrevivir... pero no es su propia salvación lo que anhela."
+    },
+    "20053": {
+        "id": "20053",
+        "title": "Cambiando a la perspectiva de Siete de Marzo...",
+        "desc": "A petición de Huaiyan, Siete de Marzo y Yunli suben a la Bifurcacielos para participar en la ceremonia de Habilidades Estelares de Combate..."
+    },
+    "20054": {
+        "id": "20054",
+        "title": "Cambiando a la perspectiva de Feixiao...",
+        "desc": "\"Rodea a tu enemigo, pero deja un lado libre\". La Garra Celestial comienza la caza de la manada de lobos..."
+    },
+    "20055": {
+        "id": "20055",
+        "title": "Cambiando a la perspectiva de Yunli...",
+        "desc": "En la Bifurcacielos, la atmósfera caótica que precede a una batalla inminente hace que Yunli se sienta inquieta..."
+    },
+    "20056": {
+        "id": "20056",
+        "title": "Cambiando a la perspectiva de Siete de Marzo...",
+        "desc": "Siete de Marzo detecta señales de un peligro inminente. Ha llegado el momento de poner a prueba su técnica con las espadas..."
+    },
+    "20057": {
+        "id": "20057",
+        "title": "Cambiando a la perspectiva de Lingsha...",
+        "desc": "En el Desfiladero de Escamas, Dan Heng y Lingsha se preparan para encontrarse con los Preceptores vidyadhara..."
+    },
+    "20058": {
+        "id": "20058",
+        "title": "Cambiando a la escena de Boothill...",
+        "desc": "A escondidas de todos, el vaquero cósmico, con el que es imposible contactar, acecha en las sombras del paisaje onírico..."
+    },
+    "20059": {
+        "id": "20059",
+        "title": "Cambiando a la perspectiva de Sunday...",
+        "desc": "En este dulce sueño, no solo hay invitados que regresan, sino también su \"dueño\"..."
+    },
+    "20060": {
+        "id": "20060",
+        "title": "Cambiando a la perspectiva de Sunday...",
+        "desc": "El asceta sigue contemplando quién fue una vez. Gran parte de esa identidad está destinada a separarse de él..."
+    },
+    "20061": {
+        "id": "20061",
+        "title": "Cambiando a la perspectiva de Aglaea...",
+        "desc": "Al enterarse de que puede haber una \"infiltración\" en Oqueima, Aglaea decide intervenir en persona para atrapar a la escoria que se oculta en la ciudad..."
+    },
+    "20062": {
+        "id": "20062",
+        "title": "Cambiando a la perspectiva de Herta...",
+        "desc": "En la Estación Espacial, Herta se está preparando para tener una audiencia con el Eón Nous, pero las cosas no están saliendo demasiado bien..."
+    },
+    "20063": {
+        "id": "20063",
+        "title": "Cambiando a la perspectiva de Midei...",
+        "desc": "El pueblo de Midei, los habitantes de Kremnos, parecen tener otras intenciones con el poder del Titán del Conflicto. Antes de poder ponerlo a prueba, debe ganarse la confianza de su tribu..."
+    },
+    "20064": {
+        "id": "20064",
+        "title": "Cambiando a la perspectiva de Tribbie...",
+        "desc": "Tribbie descubrió que Trianne, que había ido al Soto de las Musas, volvió a abrir la Puerta del Siglo. Ahora está muy preocupada..."
+    },
+    "20065": {
+        "id": "20065",
+        "title": "Cambiando a la perspectiva de Tribbie...",
+        "desc": "Para que la gente de Kremnos y Oqueima vuelvan a ser amigos, Tribbie, Trianne y Trinnon deciden tener una audiencia con el Titán y recuperar sus recuerdos..."
+    },
+    "20066": {
+        "id": "20066",
+        "title": "Cambiando a la perspectiva de Midei...",
+        "desc": "Midei ya ha hecho los preparativos para la muerte. Es hora de volver a casa..."
+    },
+    "20067": {
+        "id": "20067",
+        "title": "Cambiando a la perspectiva de Anaxa...",
+        "desc": "La búsqueda del conocimiento debe seguir algunos principios sencillos, como \"hacer buen uso de los talentos y recursos\"."
+    },
+    "20068": {
+        "id": "20068",
+        "title": "Cambiando a la perspectiva de Anaxa...",
+        "desc": "El conocimiento es el segundo sol de los eruditos, y por eso iluminan generosamente con su luz a todos los tontos que se sientan delante de ellos."
+    },
+    "20069": {
+        "id": "20069",
+        "title": "Cambiando a la perspectiva de Dan Heng...",
+        "desc": "La forma más directa de mantener los archivos es visitar los archivos locales. Dan Heng es un experto en eso..."
+    },
+    "20070": {
+        "id": "20070",
+        "title": "Cambiando a la perspectiva de Herta...",
+        "desc": "Es evidente que Amphoreus es una \"pregunta\" intrigante, una capaz de empujar a esa genio a la acción..."
+    },
+    "20071": {
+        "id": "20071",
+        "title": "Cambiando a la perspectiva de Castorice...",
+        "desc": "Anaxa le muestra a Castorice los recuerdos que se ocultan en lo más profundo de las almas de los Titanes. Es la continuación de las ilusiones en el camino de la montaña..."
+    },
+    "20072": {
+        "id": "20072",
+        "title": "Cambiando a la perspectiva de Castorice...",
+        "desc": "Unos desconocidos hablan de las pruebas del Viaje buscallamas. ¿Cuándo y dónde ocurrió eso?"
+    },
+    "20073": {
+        "id": "20073",
+        "title": "Cambiando a la perspectiva de Castorice...",
+        "desc": "Un guerrero llamado Gnaeus dividió su alma en dos. Es... el pasado de Nikador..."
+    },
+    "20074": {
+        "id": "20074",
+        "title": "Cambiando a la perspectiva de Castorice...",
+        "desc": "El destino final de Polixia y Castorice revelará el paradero de Tánatos..."
+    },
+    "20075": {
+        "id": "20075",
+        "title": "Cambiando a la perspectiva de Cífer...",
+        "desc": "Mientras tanto, Cífer se aferraba al espirizuelo Bartholos, buscando tesoros a lo largo de la orilla del más allá..."
+    },
+    "20076": {
+        "id": "20076",
+        "title": "Cambiando a la perspectiva de Cífer...",
+        "desc": "Para cumplir su promesa, Cífer se dirigió hace poco a la orilla del más allá y se enfrentó sola a los enemigos que codiciaban la Yesca..."
+    },
+    "20077": {
+        "id": "20077",
+        "title": "Cambiando a la perspectiva de Hyacine...",
+        "desc": "Para alcanzar el cielo, primero hay que ganarse la bendición del cielo..."
+    },
+    "20078": {
+        "id": "20078",
+        "title": "Los recuerdos de Khaslana se desbordan como una marea gigante...",
+        "desc": "En nombre de quien sostiene el mundo, que Kefale nunca olvide su deseo."
+    },
+    "20080": {
+        "id": "20080",
+        "title": "Cambiando a la perspectiva de Dan Heng...",
+        "desc": "Dan Heng regresó al Expreso Astral mediante un salto mental. Sin embargo, demasiadas cosas habían cambiado durante ese tiempo..."
+    },
+    "20081": {
+        "id": "20081",
+        "title": "Cambiando a la perspectiva de Cisne Negro...",
+        "desc": "Acompañando a Larganoche, Cisne Negro será testigo de cómo los recuerdos se entrelazan con el destino de Amphoreus..."
+    },
+    "20082": {
+        "id": "20082",
+        "title": "Cambiando a la perspectiva de Cisne Negro...",
+        "desc": "Aprovechando el breve encuentro entre Larganoche y Sunday, Cisne Negro remonta la Vía a contracorriente..."
+    },
+    "20083": {
+        "id": "20083",
+        "title": "Cambiando a la perspectiva de Dan Heng...",
+        "desc": "Dan Heng regresó a Amphoreus, determinado a encontrar a {NICKNAME} y a reunirse con Siete de Marzo..."
     }
 }
